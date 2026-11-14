@@ -1,0 +1,146 @@
+/* polls Bar Colors/Formats - Follow the format to add your own.
+	Then update the maxcolors setting for polls in
+	PollXT settings - Results
+*/
+
+.polls_color_1{ background-color: #8D1B1B; border: 2px ridge #B22222; background-image:url(/tm/a/af5a7c6569da1495.gif) ; background-repeat:repeat-x;height:9px ;  border:1px solid #9a1919; }
+
+.polls_color_2{ background-color: #6740E1; border: 2px ridge #4169E1; background-image:url(/tm/a/af5a7c6569da1495.gif) ; background-repeat:repeat-x;height:9px ;  border:1px solid #9a1919;  }
+
+.polls_color_3{ background-color: #8D8D8D; border: 2px ridge #D2D2D2; background-image:url(/tm/a/af5a7c6569da1495.gif) ; background-repeat:repeat-x;height:9px ;  border:1px solid #9a1919;  }
+
+.polls_color_4{ background-color: #CC8500; border: 2px ridge #FFA500; background-image:url(/tm/a/af5a7c6569da1495.gif) ; background-repeat:repeat-x;height:9px ;  border:1px solid #9a1919;  }
+
+.polls_color_5{ background-color: #5B781E; border: 2px ridge #6B8E23; background-image:url(/tm/a/af5a7c6569da1495.gif) ; background-repeat:repeat-x;height:9px ;  border:1px solid #9a1919;  }
+
+
+/* Uncomment the following line, delete the lines above and set maxcolor to 1 */
+/* .polls_color_1{ background-image: url(/tm/a/8879b7072b9c00eb.png); } */
+
+/* polls Outside Table Border */
+.ques{
+border-bottom:1px solid #df3b3b;}
+.Option{
+background-color:#f5f9fb;
+padding-top:5px;}
+.VtResult{
+font-family:tahoma;
+font-size:13px;
+}
+.VtResult td{
+padding:10px;
+padding-bottom:0px;
+}
+.button{
+float:left;
+}
+
+#pollxtButtons{
+height:40px;
+}
+.moduletable_text{
+border-top:4px solid #ABABAB;}
+.moduletable_text div{
+float:none !important;
+}
+.moduletable{
+margin:0px !important;}
+.pollstableborder {
+/*	border: 1px solid;
+	padding: 2px;
+*/	text-align:right;
+font-family:Arial, Helvetica, sans-serif;
+font-size:14px;
+font-weight:bold;
+color:#595959;
+
+}
+/* The separator */
+.pollseparator {
+    text-align:center;
+    border-bottom: solid 1px;
+    border-top: solid 1px;
+	 }
+/* the message window */
+div.xtmessage {
+	background: #FFCCCC;
+	border: 1px solid Red;
+	display: none;
+	color: Red;
+	padding: 2px 2px 2px 2px;
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+}
+/* button with individual styling */
+#pollxtButton {
+	height:20px;
+	width: 61px;
+	padding-top: 2px;
+	text-align: right;
+	float:right;
+	font-weight:bold;
+	cursor:pointer;
+	font: bold 12px 'Arial, Helvetica';
+	margin-top:10px;
+	margin-right:8px;
+}
+
+.pollxtVote {
+	color: white;
+	background: url('/tm/a/ae1024ce22c045f7.gif') no-repeat right top;
+	height:20px;
+	width: 61px;
+	padding-top: 2px;
+	text-align: right;
+	float:right;
+	font-weight:bold;
+	cursor:pointer;
+	font: bold 12px 'Arial, Helvetica';
+	margin-top:10px
+}
+
+.pollxtResult {
+	color: white;
+	background: url('/tm/a/4b3f584a83110191.gif') no-repeat right top;
+	height:20px;
+	width: 61px;
+	padding-top: 2px;
+	text-align: right;
+	float:right;
+	font-weight:bold;
+	cursor:pointer;
+	font: bold 12px 'Arial, Helvetica';
+	margin-top:10px
+}
+
+#pollxtTitle {
+	font-size:16px;
+}
+#pollxtTitle .componentheading a{
+	font-family:ArabicTransparent;
+	font-size:100%;
+	font-weight:bold;
+}
+#pollxtIntro {
+	
+}
+#pollxtImg {
+	
+}
+#pollxtImgCol {
+	float: right;
+	padding-right:10px;
+}
+#pollxtOptCol {
+	float: right;
+	padding-right:10px;	
+}
+#pollxtFreeCol {
+	float: right;
+}
+#pollxtLine {
+}
+#pollformxt9 .sectiontableheader{
+
+}

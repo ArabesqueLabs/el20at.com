@@ -1,0 +1,20 @@
+/* A stand-in for 20at.com's 2004 stylesheet (phpWebSite 0.8, themes/Default/style.css), which the Internet
+   Archive never saved. Redrawn in 2026 for the archive's time machine from what the pages themselves show:
+   the class names they use, the fonts they ask for (<font face="arial">) and the colours in their markup
+   (navy #1e3f87, #82a3eb, grey #b1b1b1, #F0F0F0, the five section colours). It is not the original. */
+body { margin: 0; background: #ffffff; color: #000000; font-family: Arial, sans-serif; font-size: 13px; }
+td { font-family: Arial, sans-serif; font-size: 13px; }
+a { color: #1e3f87; text-decoration: none; }
+a:hover { color: #c0392b; text-decoration: underline; }
+.type0, .type1, .type3, .type4 { vertical-align: top; }
+.type5 { background: #f7f9fe; padding: 6px; }
+.maintitle { background: #1e3f87; color: #ffffff; padding: 3px 6px; }
+.maintitle a { color: #ffffff; }
+.Title1 { font-size: 14px; font-weight: bold; }
+.Title1 a { color: #1e3f87; }
+.Title2White { padding: 2px 8px; }
+.n2 { color: #1e3f87; font-size: 13px; line-height: 1.6; }
+.boldtext { font-weight: bold; }
+.text10 { font-size: 11px; color: #333333; }
+.smalltextatbottom { font-size: 11px; color: #666666; }
+.TrBorder1Px { border: 1px solid #b1b1b1; }

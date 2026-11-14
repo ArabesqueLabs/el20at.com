@@ -163,7 +163,7 @@
       show();
       const tm = period.querySelector("[data-p-tm]");
       tm.hidden = isYear;
-      tm.href = arch.dataset.tm;
+      tm.href = `/tm/20at/?d=${y}${mm}15`;   // 20at.com's saved front page nearest the middle of the month
       cells.forEach((c) => c.classList.toggle("is-on", !isYear && c.dataset.month === `${y}-${m}`));
       period.hidden = false;
       if (!quiet) history.replaceState(null, "", isYear ? `#y-${y}` : `#m-${y}-${m}`);

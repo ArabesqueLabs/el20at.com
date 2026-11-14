@@ -1,0 +1,122 @@
+/* Ninja Simple Icons
+* By Richie Mortimer
+* http://www.ninjoomla.com 
+* Copyright (C) 2007 Richie Mortimer, www.ninjoomla.com - Code so sharp, it hurts.
+* email: ravenlife@raven-webdesign.com 
+* date: , 2007
+* Release: 1.0
+* PHP Code License : http://www.gnu.org/copyleft/gpl.html GNU/GPL 
+* CSS  : http://creativecommons.org/licenses/by-nc-sa/3.0/
+*
+* Changelog
+* 
+* 1.0 December, 07 : 
+*       horizontal or vertical
+*		css and xhtml valid
+*		up to 10 items
+* 
+//###################################################################
+// Ninja Simple Icons
+//Copyright (C) 2007 Richie Mortimer. Ninjoomla.com. All rights reserved.
+//
+//This program is free software; you can redistribute it and/or
+//modify it under the terms of the GNU General Public License
+//as published by the Free Software Foundation; either version 2
+//of the License, or (at your option) any later version.
+//
+//This program is distributed in the hope that it will be useful,
+//but WITHOUT ANY WARRANTY; without even the implied warranty of
+//MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+//GNU General Public License for more details.
+//
+//You should have received a copy of the GNU General Public License
+//along with this program; if not, write to the Free Software
+//Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
+###################################################################*/
+/* lets set up the horizontal and vertical css */
+#iconvert,
+#iconhoriz {
+	margin-top: 0px;
+}
+
+#iconvert .icons,
+#iconhoriz .icons{
+	padding:  0;
+}	
+#iconhoriz {
+	padding:0pt 15px 0pt 0pt;
+	background-position: 100% 100% !important;
+}	
+
+#iconvert {
+	padding:15px 0pt 0pt 0pt;
+	background-position: 0% 0% !important;
+}	
+
+/* link settings */
+#iconvert li,
+#iconhoriz li {
+	float: right;
+	margin:0;
+	/*padding-right: 20px;*/
+	padding-right: 0px;
+	margin-right: 0px;
+	padding-top: 10px;
+	list-style: none;
+	background: none;
+	position: relative;
+}
+
+/*icon settings*/
+#iconhoriz .icons {
+	cursor: pointer;
+	overflow: hidden;
+		padding:  0;
+		margin: 0px;
+}
+#iconvert .icons {
+	cursor: pointer;
+	overflow: hidden;
+		padding:  0;
+		margin: 0px;
+}
+
+/* And Now lets set up the caption box */
+#iconhoriz .sispan,
+#iconevert .sispan {
+	padding: 0px;
+	font-weight: bold;
+    text-decoration: none;
+}
+
+img{
+	border: none;
+}
+#iconhoriz a{
+	height: 100%;
+    text-decoration: none;
+}
+
+#iconvert a{
+	left:0;
+	bottom: 0;
+	width: 100%;
+	display: block;
+	background-position: 0 100%;
+        text-decoration: none;
+}
+
+/* insertations by Juergen Buchberger to center icons always
+and defining missing container*/
+#container {/*
+float:left;
+position: relative;
+left: 50%;
+text-align:left;*/
+}
+
+#iconhoriz ul{
+list-style: none;
+position: relative;
+left: -50%;
+}

@@ -1,0 +1,11 @@
+<!doctype html><html lang="ar" dir="rtl"><head><meta charset="utf-8"><title>آلة الزمن</title>
+<meta name="robots" content="noindex"><script>
+(function () {
+  var days = ["20060717", "20060831", "20061107", "20061117", "20061122", "20061126", "20061210", "20061214", "20061219", "20061225", "20070101", "20070106", "20070111", "20070116", "20070121", "20070127", "20070203", "20070223", "20070303", "20070311", "20070320", "20070322", "20070418", "20070520", "20070629", "20070801", "20070821", "20070913", "20070929", "20071003", "20071005", "20071006", "20071008", "20071010", "20071014", "20071114", "20071215", "20080724", "20090208", "20090429", "20090701", "20090729"], def = "20090729", q = (location.search.match(/[?&]d=(\d{8})/) || [])[1], best = def;
+  var t = function (d) { return Date.UTC(+d.slice(0, 4), +d.slice(4, 6) - 1, +d.slice(6, 8)); };
+  if (q) { best = days[0]; for (var i = 0; i < days.length; i++) {   // the nearest saved day, the earlier on a tie
+    var a = Math.abs(t(days[i]) - t(q)), b = Math.abs(t(best) - t(q));
+    if (a < b || (a === b && days[i] < best)) best = days[i]; } }
+  location.replace("/tm/harb/" + best + "/");
+})();
+</script></head><body><p><a href="/tm/harb/20090729/">الحرب الآن</a></p></body></html>

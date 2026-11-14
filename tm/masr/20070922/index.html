@@ -1,0 +1,1223 @@
+﻿<html>
+<head><meta name="robots" content="noindex, follow">
+<title>ولاد البلد</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+<meta name="Keywords" content="أخبار مصر, أخبار البلد, أم الدنيا, egypt, youth, Egyptian youth, Agypten, عشرينات, شباب, شباب النت, أخبار شبابية, موضوعات شبابية, video news, Egypt youth, Egypt news, arabic articles, سياسة, علمي, تكنولوجيا, فكر , تحليلات , رياضة ، كورة, كرة قدم, موضوعات مثيرة, مصر, سعودية, سعودي, أنا سعودي, بنات, أسرار, فتيات, الشباب المصري, Egyptian girls, طلاب, تلاميذ, دراسة, muslim, moslem, موضوعات خفيفة, قضايا شبابية, youth in Egypt, الشباب في مصر, voice, arts, culture, news, Middle East, arabic, studies, science, sport, Orient, Mashriq, Mashrek, shabab, Studies, مصر, religion, services, provider, free, حب, حبّ, علاقات, رومانسية, صوت الشباب المصري, موقع الشباب المصري, Freedom of expresion, headlines, Audio, music, Egypt songs, Video, audio,ولاد البلد, masr">
+
+
+<META NAME="AUTHOR" CONTENT="موقع عشرينات -ولاد البلد.. موقع الشباب المصري- www.20at.com">
+<META NAME="COPYRIGHT" CONTENT="Copyright (c) 2007 by 20at.com">
+<META NAME="DESCRIPTION" CONTENT="موقع شبابي شامل و متنوع يناقش كافة القضايا الشبابية بأسلوب جذاب و متعدد الوسائط
+A comprehensive variegated youth oriented website discussing all contemporary issues related to youth in an attractive way and through various medias">
+
+
+<link href="/tm/a/2405cc2025e15ef0.css" rel="stylesheet">
+<script language="javascript">
+
+function resetForm1()
+	{
+		document.getElementById('name').value='';
+		document.getElementById('title').value='';		
+		document.getElementById('comment').value='';
+	}
+</script>
+<script language="javascript">
+var Drag = {
+
+  obj : null,
+
+  init : function(o, oRoot, minX, maxX, minY, maxY, bSwapHorzRef, bSwapVertRef, fXMapper, fYMapper)
+  {
+    o.onmousedown  = Drag.start;
+
+    o.hmode      = bSwapHorzRef ? false : true ;
+    o.vmode      = bSwapVertRef ? false : true ;
+
+    o.root = oRoot && oRoot != null ? oRoot : o ;
+
+    if (o.hmode  && isNaN(parseInt(o.root.style.left  ))) o.root.style.left   = "0px";
+    if (o.vmode  && isNaN(parseInt(o.root.style.top   ))) o.root.style.top    = "0px";
+    if (!o.hmode && isNaN(parseInt(o.root.style.right ))) o.root.style.right  = "0px";
+    if (!o.vmode && isNaN(parseInt(o.root.style.bottom))) o.root.style.bottom = "0px";
+
+    o.minX  = typeof minX != 'undefined' ? minX : null;
+    o.minY  = typeof minY != 'undefined' ? minY : null;
+    o.maxX  = typeof maxX != 'undefined' ? maxX : null;
+    o.maxY  = typeof maxY != 'undefined' ? maxY : null;
+
+    o.xMapper = fXMapper ? fXMapper : null;
+    o.yMapper = fYMapper ? fYMapper : null;
+
+    o.root.onDragStart  = new Function();
+    o.root.onDragEnd  = new Function();
+    o.root.onDrag    = new Function();
+  },
+
+  start : function(e)
+  {
+    var o = Drag.obj = this;
+    e = Drag.fixE(e);
+    var y = parseInt(o.vmode ? o.root.style.top  : o.root.style.bottom);
+    var x = parseInt(o.hmode ? o.root.style.left : o.root.style.right );
+    o.root.onDragStart(x, y);
+
+    o.lastMouseX  = e.clientX;
+    o.lastMouseY  = e.clientY;
+
+    if (o.hmode) {
+      if (o.minX != null)  o.minMouseX  = e.clientX - x + o.minX;
+      if (o.maxX != null)  o.maxMouseX  = o.minMouseX + o.maxX - o.minX;
+    } else {
+      if (o.minX != null) o.maxMouseX = -o.minX + e.clientX + x;
+      if (o.maxX != null) o.minMouseX = -o.maxX + e.clientX + x;
+    }
+
+    if (o.vmode) {
+      if (o.minY != null)  o.minMouseY  = e.clientY - y + o.minY;
+      if (o.maxY != null)  o.maxMouseY  = o.minMouseY + o.maxY - o.minY;
+    } else {
+      if (o.minY != null) o.maxMouseY = -o.minY + e.clientY + y;
+      if (o.maxY != null) o.minMouseY = -o.maxY + e.clientY + y;
+    }
+
+    document.onmousemove  = Drag.drag;
+    document.onmouseup    = Drag.end;
+
+    return false;
+  },
+
+  drag : function(e)
+  {
+    e = Drag.fixE(e);
+    var o = Drag.obj;
+
+    var ey  = e.clientY;
+    var ex  = e.clientX;
+    var y = parseInt(o.vmode ? o.root.style.top  : o.root.style.bottom);
+    var x = parseInt(o.hmode ? o.root.style.left : o.root.style.right );
+    var nx, ny;
+
+    if (o.minX != null) ex = o.hmode ? Math.max(ex, o.minMouseX) : Math.min(ex, o.maxMouseX);
+    if (o.maxX != null) ex = o.hmode ? Math.min(ex, o.maxMouseX) : Math.max(ex, o.minMouseX);
+    if (o.minY != null) ey = o.vmode ? Math.max(ey, o.minMouseY) : Math.min(ey, o.maxMouseY);
+    if (o.maxY != null) ey = o.vmode ? Math.min(ey, o.maxMouseY) : Math.max(ey, o.minMouseY);
+
+    nx = x + ((ex - o.lastMouseX) * (o.hmode ? 1 : -1));
+    ny = y + ((ey - o.lastMouseY) * (o.vmode ? 1 : -1));
+
+    if (o.xMapper)    nx = o.xMapper(y)
+    else if (o.yMapper)  ny = o.yMapper(x)
+
+    Drag.obj.root.style[o.hmode ? "left" : "right"] = nx + "px";
+    Drag.obj.root.style[o.vmode ? "top" : "bottom"] = ny + "px";
+    Drag.obj.lastMouseX  = ex;
+    Drag.obj.lastMouseY  = ey;
+
+    Drag.obj.root.onDrag(nx, ny);
+    return false;
+  },
+
+  end : function()
+  {
+    document.onmousemove = null;
+    document.onmouseup   = null;
+    Drag.obj.root.onDragEnd(  parseInt(Drag.obj.root.style[Drag.obj.hmode ? "left" : "right"]), 
+                  parseInt(Drag.obj.root.style[Drag.obj.vmode ? "top" : "bottom"]));
+    Drag.obj = null;
+  },
+
+  fixE : function(e)
+  {
+    if (typeof e == 'undefined') e = window.event;
+    if (typeof e.layerX == 'undefined') e.layerX = e.offsetX;
+    if (typeof e.layerY == 'undefined') e.layerY = e.offsetY;
+    return e;
+  }
+};
+
+function baby2(URL, height, width){
+	lovechild = window.open(URL,"babywindow","height=" + height + ",width=" + width + ",left = 262,top = 234, toobar=0,location=0,directories=0,status=0,menubar=0,scrollbars=1,resizeable=0");
+	lovechild.focus();
+}
+
+hexinput=0  // Initial color value.
+var inc=-1 //increment variable
+
+function fadingtext(){	         	
+if(hexinput>0) {	
+hexinput-=11; // increase color value
+document.getElementById("fader").style.color="rgb("+hexinput+","+hexinput+","+hexinput+")"; // Set color value.
+setTimeout("fadingtext()",20);	
+}
+else
+hexinput=255 //reset hex value
+}
+
+function changetext(){
+if (!document.getElementById) return
+inc++
+
+
+if (inc==0)
+document.getElementById("fader").innerHTML=
+'<a href="https://web.archive.org/web/20070922174150/http://masr.20at.com/newArticle.php?sid=12132" style="text-decoration:none;">  أنغام وهالة وقضية خلع </a>'
+
+else if (inc==1)
+document.getElementById("fader").innerHTML=
+'<a href="https://web.archive.org/web/20070922174150/http://masr.20at.com/newArticle.php?sid=12118" style="text-decoration:none;">بتروجيت يعتلي قمة الدوري.. مؤقتا</a>'
+
+else if (inc==2)
+document.getElementById("fader").innerHTML=
+'<a href="/articles/masr-n12068/" style="text-decoration:none;">الصفاقسي يشكو الزمالك واتحاد الكرة للفيفا</a>' 
+
+else if (inc==3)
+document.getElementById("fader").innerHTML=
+'<a href="/articles/masr-n12016/" style="text-decoration:none;">الإسماعيلي يشكو حكم مباراته لاتحاد الكرة</a>'
+
+else if (inc==4)
+document.getElementById("fader").innerHTML=
+'<a href="/articles/masr-n12008/" style="text-decoration:none;">الإفراج عن &#1633;&#1634;&#1632; من معتقلي الإخوان</a>'
+
+else if (inc==5)
+document.getElementById("fader").innerHTML=
+'<a href="/articles/masr-n11946/" style="text-decoration:none;">  عمارة يعقوبيان من فيلم( صريح) لـمسلسل (اجتماعي) </a>' 
+
+
+else{
+document.getElementById("fader").innerHTML=
+ '<a href="/articles/masr-n11932/" style="text-decoration:none;">نائب يطالب إقالة المفتى بتهمة إهانة المعارضة </a>'
+
+
+inc=-1
+}
+fadingtext()
+setTimeout("changetext()",6000)
+}
+
+
+</script>
+
+<style type="text/css">
+  #root {
+    position:absolute;
+    height:150px;
+    width:350px;
+    background-color:#FFFFdd;
+	background-image:url(/tm/a/edef37cb9c7f7569.gif);
+	background-position:bottom;
+	background-repeat:repeat-x;
+    border:0px solid #333;
+    font-family:Tahoma , sans-serif;
+    font-size:11px;	
+	overflow:auto;
+	text-shadow:#333333;
+	}
+
+  #handle {
+    margin:2px;
+    padding:2px;
+    width:342px;
+    color:white;
+    background-color:#990000;
+    font-family:Tahoma , sans-serif;
+    font-size:11px;
+    }
+</style>
+
+
+<style type="text/css">
+<!--
+.style1 {color: #000000}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0"><script>window.urchinTracker=window.urchinTracker||function(){};</script><script src="/js/tm-bar.js" charset="utf-8" data-site="masr" data-day="20070922" data-ts="20070922174150" data-wb="https://web.archive.org/web/20070922174150/http://masr.20at.com:80/"></script>
+
+<div id="root1" style="left: 650px; top: 210px; display:none" dir="rtl">
+				  <div id="handle1" align="right">
+					<div id="closeBtn"><img src="/tm/a/2e15b0096006168b.gif" style="cursor:pointer" onClick="document.getElementById('root1').style.display='none';" alt="إغلاق"></div>
+				  </div>
+				  <div id="kelmaText"><table border="0" cellpadding="3" cellspacing="0" width="330">
+				  <tr>
+				  <td width="10" align="center"><img src="/tm/a/df5b7b2c5249f979.gif" width="1" height="120"/></td>
+				  <td style="font-size:12px" align="right" valign="top">
+				  الاسم:  محمد رجب<br>
+				العنوان: القاهرة<br>
+				<br>
+				
+لابد من ازالة المعوقات للتجديد
+				</td></tr></table></div>
+				</div>
+				
+				<script language="javascript">
+				  var theHandle1 = document.getElementById("handle1");
+				  var theRoot1   = document.getElementById("root1");
+				  Drag.init(theHandle1, theRoot1);
+				</script>
+				
+				
+<div id="root2" style="left: 650px; top: 210px; display:none" dir="rtl">
+				  <div id="handle2" align="right">
+					<div id="closeBtn"><img src="/tm/a/2e15b0096006168b.gif" style="cursor:pointer" onClick="document.getElementById('root2').style.display='none';" alt="إغلاق"></div>
+				  </div>
+				  <div id="kelmaText"><table border="0" cellpadding="3" cellspacing="0" width="330">
+				  <tr>
+				  <td width="10" align="center"><img src="/tm/a/df5b7b2c5249f979.gif" width="1" height="120"/></td>
+				  <td style="font-size:12px" align="right" valign="top">
+				  الاسم:  مروه<br>
+				العنوان: الجيزة<br>
+				<br>
+				
+ارجو ان يكون التجديد في كل شىء حتي يكون هناك تطوير حقيقي
+				</td></tr></table></div>
+				</div>
+				
+				<script language="javascript">
+				  var theHandle2 = document.getElementById("handle2");
+				  var theRoot2   = document.getElementById("root2");
+				  Drag.init(theHandle2, theRoot2);
+				</script>
+				
+				
+<div id="root3" style="left: 650px; top: 210px; display:none" dir="rtl">
+				  <div id="handle3" align="right">
+					<div id="closeBtn"><img src="/tm/a/2e15b0096006168b.gif" style="cursor:pointer" onClick="document.getElementById('root3').style.display='none';" alt="إغلاق"></div>
+				  </div>
+				  <div id="kelmaText"><table border="0" cellpadding="3" cellspacing="0" width="330">
+				  <tr>
+				  <td width="10" align="center"><img src="/tm/a/df5b7b2c5249f979.gif" width="1" height="120"/></td>
+				  <td style="font-size:12px" align="right" valign="top">
+				  الاسم:  مروة <br>
+				العنوان: الجيزة<br>
+				<br>
+				
+ارجو ان يكون التجديد فى كل شىء حتى يكون هناك تطوير حقيقى
+				</td></tr></table></div>
+				</div>
+				
+				<script language="javascript">
+				  var theHandle3 = document.getElementById("handle3");
+				  var theRoot3   = document.getElementById("root3");
+				  Drag.init(theHandle3, theRoot3);
+				</script>
+				
+				
+<div id="root4" style="left: 650px; top: 210px; display:none" dir="rtl">
+				  <div id="handle4" align="right">
+					<div id="closeBtn"><img src="/tm/a/2e15b0096006168b.gif" style="cursor:pointer" onClick="document.getElementById('root4').style.display='none';" alt="إغلاق"></div>
+				  </div>
+				  <div id="kelmaText"><table border="0" cellpadding="3" cellspacing="0" width="330">
+				  <tr>
+				  <td width="10" align="center"><img src="/tm/a/df5b7b2c5249f979.gif" width="1" height="120"/></td>
+				  <td style="font-size:12px" align="right" valign="top">
+				  الاسم:  alfarge_2005<br>
+				العنوان: التجديد قادم ياشباب مصر<br>
+				<br>
+				
+ربما ان الكل فقد الامل في الحل ولاكن مانحن فيه يذكرني بما كان عليه الحال قبل حرب اكتوبر بسنوات بل ايام لابل قل عندما وصلنا خبر العبور لم نصدق وجرينا علي الاذاعات الصادقه ايامها وهي اذاعة لندن وغيرها ولاكن الازمه السابقه كانت ازمة كرامه والعدو اجنبي اما الازمه الحاليه فهي ازمة فساد والشعب صابر لانه يخاف علي البلد والبديل ليس بالكفؤ ولكن للصبر حدود ولاكن انصح المفسدين ان يعدو حقائبهم فلم يبقي الا القليل جدا علي رحيلهم وشباب مصر بخير ولو جلست مع اي بطل من ابطال حرب اكتوبر لقال لك انهم يومها كانو في ظروف اصعب مما نحن فيه الان ورغم ذلك حققو النصر
+				</td></tr></table></div>
+				</div>
+				
+				<script language="javascript">
+				  var theHandle4 = document.getElementById("handle4");
+				  var theRoot4   = document.getElementById("root4");
+				  Drag.init(theHandle4, theRoot4);
+				</script>
+				
+				
+<div id="root5" style="left: 650px; top: 210px; display:none" dir="rtl">
+				  <div id="handle5" align="right">
+					<div id="closeBtn"><img src="/tm/a/2e15b0096006168b.gif" style="cursor:pointer" onClick="document.getElementById('root5').style.display='none';" alt="إغلاق"></div>
+				  </div>
+				  <div id="kelmaText"><table border="0" cellpadding="3" cellspacing="0" width="330">
+				  <tr>
+				  <td width="10" align="center"><img src="/tm/a/df5b7b2c5249f979.gif" width="1" height="120"/></td>
+				  <td style="font-size:12px" align="right" valign="top">
+				  الاسم:  وليد<br>
+				العنوان: القاهرة<br>
+				<br>
+				
+عاش المصرى فى الازمات
+				</td></tr></table></div>
+				</div>
+				
+				<script language="javascript">
+				  var theHandle5 = document.getElementById("handle5");
+				  var theRoot5   = document.getElementById("root5");
+				  Drag.init(theHandle5, theRoot5);
+				</script>
+				
+				
+<div id="root6" style="left: 650px; top: 210px; display:none" dir="rtl">
+				  <div id="handle6" align="right">
+					<div id="closeBtn"><img src="/tm/a/2e15b0096006168b.gif" style="cursor:pointer" onClick="document.getElementById('root6').style.display='none';" alt="إغلاق"></div>
+				  </div>
+				  <div id="kelmaText"><table border="0" cellpadding="3" cellspacing="0" width="330">
+				  <tr>
+				  <td width="10" align="center"><img src="/tm/a/df5b7b2c5249f979.gif" width="1" height="120"/></td>
+				  <td style="font-size:12px" align="right" valign="top">
+				  الاسم:  ميجو<br>
+				العنوان: مصر النهاردة<br>
+				<br>
+				
+طنطا هى أمى معاديتش مصر .. لأنى للأسف شربت من نيلها وطلع ملوث وكل أمراض الدنيا فيه وجربت أغنيلها لقيت نفسى عبيط بيردح بدون فايدة وجربت كمان فى عز حزنى أمشى فى شوارعها وأحكيلها لكنى كنت بازداد حزن وقهر وغم وضيق .. مشيت فى ضواحيها لقيتها كلها زبالة وقذارة وناس مش لاقية تاكل نايمة على رصيفها انو وجد هذا الرصيف .. كبرت فيها ويا ريتنى ما كبرت .. ليا صورة بل صور عن ذكريات أليمة ومحزنة وخجلة فيها .. باختصار هى دى مصر دلوقتى وحسبنا الله ونعم الوكيل
+				</td></tr></table></div>
+				</div>
+				
+				<script language="javascript">
+				  var theHandle6 = document.getElementById("handle6");
+				  var theRoot6   = document.getElementById("root6");
+				  Drag.init(theHandle6, theRoot6);
+				</script>
+				
+				
+<div id="root7" style="left: 650px; top: 210px; display:none" dir="rtl">
+				  <div id="handle7" align="right">
+					<div id="closeBtn"><img src="/tm/a/2e15b0096006168b.gif" style="cursor:pointer" onClick="document.getElementById('root7').style.display='none';" alt="إغلاق"></div>
+				  </div>
+				  <div id="kelmaText"><table border="0" cellpadding="3" cellspacing="0" width="330">
+				  <tr>
+				  <td width="10" align="center"><img src="/tm/a/df5b7b2c5249f979.gif" width="1" height="120"/></td>
+				  <td style="font-size:12px" align="right" valign="top">
+				  الاسم:  اكتب اسمك هنا<br>
+				العنوان: ضع عنوان التعليق<br>
+				<br>
+				
+&quot;واتقوا يوما ترجعون فية الي الله,ثم توفي كل نفس ما كسبت,وهم لايظلمون&quot;...اخر اية نزلت في القران...
+				</td></tr></table></div>
+				</div>
+				
+				<script language="javascript">
+				  var theHandle7 = document.getElementById("handle7");
+				  var theRoot7   = document.getElementById("root7");
+				  Drag.init(theHandle7, theRoot7);
+				</script>
+				
+				
+<div id="root8" style="left: 650px; top: 210px; display:none" dir="rtl">
+				  <div id="handle8" align="right">
+					<div id="closeBtn"><img src="/tm/a/2e15b0096006168b.gif" style="cursor:pointer" onClick="document.getElementById('root8').style.display='none';" alt="إغلاق"></div>
+				  </div>
+				  <div id="kelmaText"><table border="0" cellpadding="3" cellspacing="0" width="330">
+				  <tr>
+				  <td width="10" align="center"><img src="/tm/a/df5b7b2c5249f979.gif" width="1" height="120"/></td>
+				  <td style="font-size:12px" align="right" valign="top">
+				  الاسم:  علي<br>
+				العنوان: والله الناس مش عارفه تعمل ايه <br>
+				<br>
+				
+يااخوانا ايه الحل ف ان بلدنا ترجع بلدنا ؟ حد يدلني
+				</td></tr></table></div>
+				</div>
+				
+				<script language="javascript">
+				  var theHandle8 = document.getElementById("handle8");
+				  var theRoot8   = document.getElementById("root8");
+				  Drag.init(theHandle8, theRoot8);
+				</script>
+				
+				
+<div class="fieldInvisible" id="root" style="left: 650px; top: 210px; display:none" dir="rtl">
+  <div id="handle" align="right">
+    <div id="closeBtn"><img src="/tm/a/2e15b0096006168b.gif" style="cursor:pointer" onClick="document.getElementById('root').style.display='none';" alt="إغلاق"></div>
+  </div>
+  <div id="kelmaText"><table border="0" cellpadding="3" cellspacing="0" width="330">
+  <tr>
+  <td width="10" align="center"><img src="/tm/a/df5b7b2c5249f979.gif" width="1" height="120"/></td>
+  <td style="font-size:12px" align="right" valign="top">
+  الاسم:<br>
+العنوان:<br>
+<br>
+
+  اللهم ارحمه و اللهم عافه واعف عنه و اللهم ان كان محسنا فزد فى احسانه وان كان مسيئا فتجاوز عن سيئاته .
+اللهم اجعل قبره روضة من رياض الجنة ولا تجعلها حفرة من حفر النيران . امييين يارب العالمين
+وصلى اللهم وسلم على سيدنا محمد وعلى اله وصحبه اجمعين .
+الروابط مش كلها شغاله 
+</td></tr></table></div>
+</div>
+
+<script language="javascript">
+  var theHandle = document.getElementById("handle");
+  var theRoot   = document.getElementById("root");
+  Drag.init(theHandle, theRoot);
+</script>
+
+
+<table width="1004" height="1000" border="0" align="center" cellpadding="0" cellspacing="0" id="Table_01">
+	<tr>
+		<td width="1004" height="209" nowrap><table id="Table_01" width="1004" height="209" border="0" cellpadding="0" cellspacing="0">
+          <tr>
+            <td><table id="Table_04" width="1004" height="33" border="0" cellpadding="0" cellspacing="0">
+                <tr>
+                  <td width="200" height="33" nowrap><a href="#" class="saggel"></a></td>
+                  <td width="149">&nbsp;</td>
+                  <td valign="bottom"><a href="/tm/ramadan/?d=20070922"></a><a href="/tm/harb/?d=20070922"><img src="/tm/a/acd70797f21bac3e.jpg" alt="نغطيات سابقة" border="0"></a></td>
+                  <td><a href="/tm/20at/?d=20070922"><img src="/tm/a/aeaec6b427f3eede.jpg" alt="عشرينات" width="149" height="33" border="0"></a></td>
+                  <td><img src="/tm/a/64caa5018c93ed97.jpg" width="314" height="33" alt=""></td>
+                </tr>
+            </table></td>
+          </tr>
+          <tr>
+            <td><table id="Table_03" width="1004" height="131" border="0" cellpadding="0" cellspacing="0">
+                <tr>
+                  <td width="697" height="131" nowrap background="/tm/a/d43966517c182d03.gif"><table width="697" height="131" border="0" cellpadding="0" cellspacing="0">
+                    <tr>
+                      <td height="95" colspan="2"><table width="100%" height="95" border="0" cellpadding="0" cellspacing="0">
+                        <tr>
+                          <td align="center"><a href="https://web.archive.org/web/20070922174150/http://masr.20at.com/newArticle.php?sid=11746"><img src="/tm/missing.gif" alt="كنت إخوانيا" name="reg_08" width="468" height="60" border="0" id="reg_08" data-tm-missing="//masr.20at.com/currentarticleassets/images/adbanners/18sep07/tagdid.jpg"/></a><a href="/articles/masr-n10387/"></a><a href="https://web.archive.org/web/20070922174150/http://masr.20at.cohttp://masr.20at.com/newArticle.php?sid=9874"></a><a href="/articles/masr-n9846/"></a></td>
+                          <td width="203"><span class="callender_contents">Version 1.5 <img src="/tm/missing.gif" alt="شباب النت" width="167" height="59" hspace="0" align="right" data-tm-missing="//masr.20at.com/siteassets/images/masrheader/slogan2.gif"/></span></td>
+                        </tr>
+                      </table></td>
+                    </tr>
+                    <tr>
+                      <td align="right"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <tr><td width="15"></td>
+                          <td width="475"><table width="350" height="25" border="0" cellpadding="0" cellspacing="0">
+                            <tr>
+                              <td align="center" background="" class="midBg" data-tm-missing="//masr.20at.com/siteassets/images/masrheader/marquee_07.jpg">				
+							  <div id="fader" align="center" class="dateTitle" height="15" width="350" dir="rtl">
+                                <script>changetext();</script>
+                              </div>
+                         </td>
+                              </tr>
+                          </table></td>
+                          <td width="207" align="right"><table width="207" border="0" align="right" cellpadding="0" cellspacing="0">
+						  <form action="#" onsubmit="return false" method="get" name="searchFrom">
+                            <tr>
+                              <td width="45"><input type="image" src="/tm/a/13252a2f066c4de7.jpg" alt="اضغط للبحث" name="marquee_08" width="45" height="21" id="marquee_08"/></td>
+                              <td width="130" align="center">
+							  
+							  <input name="keyword" type="text" class="field" dir="rtl" size="25" align="right"/></td>
+                              <td width="34"><img src="/tm/a/d10532f06b3d5a5d.jpg" alt="بحث" name="marquee_03" width="34" height="36" id="marquee_03"/></td>
+                            </tr>
+							</form>
+                          </table></td>
+                        </tr>
+                      </table></td>
+                      
+                    </tr>
+                  </table></td>
+                  <td><a href="/tm/masr/?d=20070922"><img src="/tm/a/0f4d32274a730537.jpg" alt="الرئيسية" width="307" height="131" border="0"></a></td>
+                </tr>
+            </table></td>
+          </tr>
+          <tr>
+            <td><table width="1004" height="45" border="0" cellpadding="0" cellspacing="0" id="usersMarquee">
+                <tr>
+                  <td width="234" height="15" valign="bottom" nowrap background="/tm/a/58bdf61cd1c82ee7.gif"></td>
+                  <td rowspan="2" valign="top"><img src="/tm/a/271849e43082b0e9.jpg" style="cursor:pointer" onClick="document.getElementById('qouteSubmit').style.display='inline';" width="312" height="45" border="0"></td>
+                  <td width="339" height="45" dir="rtl" rowspan="2" nowrap background="/tm/a/9361656e1e07b4ac.gif" class="topBg"><marquee align="bottom" truespeed="truespeed" height="25" scrolldelay="40" scrollamount="1" behavior="scroll" class="WhiteTitle" direction="right" width="300" dir="rtl">
+<script>
+<!--
+function wopen(url, w, h)
+{
+// Fudge factors for window decoration space.
+ // In my tests these work well on all platforms & browsers.
+w += 32;
+h += 96;
+ var win = window.open(url,
+  'popup', 
+  'width=' + w + ', height=' + h + ', ' +
+  'location=no, menubar=no, ' +
+  'status=no, toolbar=no, scrollbars=no, resizable=no');
+ win.resizeTo(w, h);
+ win.moveTo(650, 350);
+ win.focus();
+}
+// -->
+</script>
+
+		
+		<a style="cursor:pointer; color:#FFFFFF;" onClick="document.getElementById('root1').style.display='inline';">القاهرة</a>&nbsp;&nbsp;::&nbsp;&nbsp;
+		
+		
+		<a style="cursor:pointer; color:#FFFFFF;" onClick="document.getElementById('root2').style.display='inline';">الجيزة</a>&nbsp;&nbsp;::&nbsp;&nbsp;
+		
+		
+		<a style="cursor:pointer; color:#FFFFFF;" onClick="document.getElementById('root3').style.display='inline';">الجيزة</a>&nbsp;&nbsp;::&nbsp;&nbsp;
+		
+		
+		<a style="cursor:pointer; color:#FFFFFF;" onClick="document.getElementById('root4').style.display='inline';">التجديد قادم ياشباب مصر</a>&nbsp;&nbsp;::&nbsp;&nbsp;
+		
+		
+		<a style="cursor:pointer; color:#FFFFFF;" onClick="document.getElementById('root5').style.display='inline';">القاهرة</a>&nbsp;&nbsp;::&nbsp;&nbsp;
+		
+		
+		<a style="cursor:pointer; color:#FFFFFF;" onClick="document.getElementById('root6').style.display='inline';">مصر النهاردة</a>&nbsp;&nbsp;::&nbsp;&nbsp;
+		
+		
+		<a style="cursor:pointer; color:#FFFFFF;" onClick="document.getElementById('root7').style.display='inline';">ضع عنوان التعليق</a>&nbsp;&nbsp;::&nbsp;&nbsp;
+		
+		
+		<a style="cursor:pointer; color:#FFFFFF;" onClick="document.getElementById('root8').style.display='inline';">والله الناس مش عارفه تعمل ايه </a>&nbsp;&nbsp;::&nbsp;&nbsp;
+		
+				<a href="https://web.archive.org/web/20070922174150/http://masr.20at.com:80/userMarqueeArchive.php" style="cursor:pointer; color:#FFFFFF; text-decoration:none;">&#1575;&#1604;&#1605;&#1586;&#1610;&#1583;</a>
+		</marquee></td>
+                  <td rowspan="2" valign="top"><a href="https://web.archive.org/web/20070922174150/http://masr.20at.com/userMarqueeArchive.php"><img src="/tm/a/0eedd54138cecb1b.gif" alt="..أرشيف كلامنا" width="119" height="45" border="0"></a></td>
+                </tr>
+                <tr>
+                  <td nowrap>
+				  <div id="qouteSubmit" style="vertical-align:bottom; display:none; position:absolute; left: 71px; top: 229px; width: 561px; height: 205px;">
+                    <form name="qouteForm" method="post" action="#" onsubmit="return false" id="qouteForm">
+                      <table style="text-shadow:#000033" width="560" height="204" border="0" cellpadding="0" cellspacing="0" id="CommentForm">
+                        <tr>
+                          <td height="10" nowrap="nowrap" bgcolor="#FFFBD8"></td>
+                          <td height="10" nowrap="nowrap" bgcolor="#FFFBD8"></td>
+                          <td height="10" nowrap="nowrap"></td>
+                        </tr>
+                        <tr>
+                          <td height="150" colspan="2" align="right" nowrap="nowrap" background="/tm/a/edef37cb9c7f7569.gif" bgcolor="#FFFAD2" class="btmBg"><table width="545" border="0" cellpadding="0" cellspacing="0">
+                              
+                              <tr>
+                                <td width="505" height="38" align="right" background="/tm/a/7e60639730dba94f.gif" class="fav_article" dir="rtl"> الاسم
+                                  <input name="name" type="text" class="fieldInvisible" id="name32" lang="ar" onFocus="this.value='';" value="اكتب اسمك هنا" size="30"/>                                </td>
+                                <td width="10" class="fav_article" dir="rtl">&nbsp;</td>
+                                <td width="7" rowspan="4"><img src="/tm/a/df5b7b2c5249f979.gif" width="1" height="157"/></td>
+                                <td width="10" rowspan="4" align="left" nowrap="nowrap"><img src="/tm/a/df5b7b2c5249f979.gif" width="1" height="157"/></td>
+                                <td width="23" rowspan="4" align="left" valign="top" nowrap="nowrap"><img src="/tm/missing.gif" alt="إغلاق" width="17" height="22" vspace="10" style="cursor:pointer" onClick="document.getElementById('qouteSubmit').style.display='none'; currentBox='';" data-tm-missing="//masr.20at.com/siteassets/images/comment/close.gif"/></td>
+                              </tr>
+                              <tr>
+                                <td height="38" align="right" background="/tm/a/7e60639730dba94f.gif" class="fav_article" dir="rtl">العنوان
+                                <input name="title" type="text" class="fieldInvisible" id="title2" lang="ar" onFocus="this.value='';" value="&#1590;&#1593; &#1593;&#1606;&#1608;&#1575;&#1606; &#1575;&#1604;&#1578;&#1593;&#1604;&#1610;&#1602;" size="30"/></td>
+                                <td width="10" height="39">&nbsp;</td>
+                              </tr>
+                              <tr>
+                                <td height="20" align="right" valign="bottom" dir="rtl"><table width="100%" border="0" align="left" cellpadding="0" cellspacing="0">
+                                    <tr>
+                                      <td width="11%" class="fav_article">قول كلمتك </td>
+                                      <td width="89%" align="left">&nbsp;</td>
+                                    </tr>
+                                </table></td>
+                                <td width="10" valign="top" class="fav_article" dir="rtl">&nbsp;</td>
+                              </tr>
+                              <tr>
+                                <td align="right" valign="top" class="footerLinks" dir="rtl"><div align="left">
+                                  <textarea name="comment" cols="90" rows="3" class="fieldInvisibleBox" id="textarea" lang="ar"></textarea>
+                                  <br> يرجى عدم إدخال تعليقات بعيدة عن إطار موضوع النقاش&nbsp;&nbsp;<img src="/tm/a/a9e823d07f387aca.gif" alt="مسح" width="19" height="20" border="0" align="middle" style="cursor:pointer" onClick="resetForm1();"/>
+
+&nbsp;&nbsp;
+<input type="image" src="/tm/a/97cc062f25330d7f.gif" alt="نشر" align="middle" width="30" height="23" border="0"/>
+&nbsp;&nbsp;&nbsp;</div></td>
+                                <td width="10" valign="bottom" dir="rtl">&nbsp;</td>
+                              </tr>
+                          </table></td>
+                          <td width="7" height="150" align="center" nowrap="nowrap" background="/tm/a/f35d4fd80f33492e.png">&nbsp;</td>
+                        </tr>
+                        <tr>
+                          <td width="22" height="7" nowrap="nowrap"></td>
+                          <td width="532" height="6" nowrap="nowrap" background="/tm/a/f35d4fd80f33492e.png"></td>
+                          <td width="6" nowrap="nowrap" background="/tm/a/f35d4fd80f33492e.png"></td>
+                        </tr>
+                      </table>
+                    </form>
+                  </div></td>
+                </tr>
+            </table></td>
+          </tr>
+        </table></td>
+	</tr>
+	<tr>
+	  <td width="1004" valign="top" nowrap><table width="1004" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td width="264" valign="top"><table id="Table_01" width="264" height="927" border="0" cellpadding="0" cellspacing="0">
+              <tr>
+                <td width="215" height="40" align="right" nowrap background="/tm/a/ca81e8774483ae7c.gif"><img src="/tm/a/d90b808ba9551ca4.jpg" alt="TopCornerimage" width="57" height="40"></td>
+                <td><img src="/tm/a/5fc9af538d271122.jpg" width="49" height="40" alt=""></td>
+              </tr>
+              <tr>
+                <td width="215" height="844" align="center" valign="top" nowrap background="/tm/a/5451d848b3c5f39a.gif"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+                        <tr>
+                          <td width="185" height="44" align="right"><a class="mini-services" dir="rtl" href="#"
+onclick="this.style.behavior='url(#default#homepage)';
+this.setHomePage('http://masr.20at.com');">اجعل ولاد البلد صفحتك الرئيسية</a></td>
+                          <td width="30" align="right"><span class="mini-services"><img src="/tm/a/6e234a2b5713f2b5.gif" alt="Make it Your Home" width="26" height="25" align="absbottom"/></span></td>
+                        </tr>
+                        <tr>
+                          <td height="1" background="" data-tm-missing="//masr.20at.com/siteassets/images/level1/services_09.gif"></td>
+                          <td height="1"></td>
+                        </tr>
+                        <tr>
+                          <td height="44" align="right"><span class="mini-services" dir="rtl" style="cursor:hand;"> <a onclick="window.external.AddFavorite(location.href,document.title);" style="cursor:pointer; text-decoration:none;"> أضفها إلى مفضلتك</a></span></td>
+                          <td align="right"><span class="mini-services"><img onclick="window.external.AddFavorite(location.href,document.title);" style="cursor:pointer" src="/tm/a/0d3eca0dc1f37168.gif" alt="Add 20at to Favorites" width="26" height="25" align="absbottom"/></span></td>
+                        </tr>
+                        <tr>
+                          <td colspan="2" bgcolor="#AAAEAF" height="1"></td>
+                        </tr>
+                        <tr>
+                          <td colspan="2" bgcolor="#F8FCFD" height="1"></td>
+                        </tr>
+                        
+                    </table>
+					<br>
+					<table id="Table_02" width="100%" border="0" cellpadding="0" cellspacing="0">
+                        <tr>
+                          <td height="50" valign="top" background="/tm/a/641982b892066e8f.gif" bgcolor="#FFF9C2" class="topBg"><table width="100%" border="0">
+                              <tr>
+                                <td align="right" valign="top"><img src="/tm/a/228d70614de59354.jpg" alt="مساحة للرأي" width="136" height="38"></td>
+                              </tr>
+                              <tr>
+                                <td height="2" background="/tm/a/8c9bbb6092f2aa55.gif" class="midBg"></td>
+                              </tr>
+                          </table></td>
+                          <td width="6" rowspan="4" valign="top"><img id="fav_artic_05" src="/tm/a/830030e17b02ac7d.jpg" width="5" height="198" alt=""/></td>
+                        </tr>
+                        <tr>
+                          <td height="70" align="right" bgcolor="#FFF9C2" class="leed_11" dir="rtl"><div class="featured" style="margin-right:10"><a href="/articles/masr-n11898/" class="Manchett"> إلى حداشر.. مع تحياتي!</a></div>
+      
+                            <div style="margin-right:10"> <br>
+                                  <a href="/articles/masr-n11898/"><img src="/tm/missing.gif" width="100" height="80" hspace="5" border="1" align="left" class="whiteBorder" data-tm-missing="/images/albaraa-ashraf.jpg"></a> أخويا وصديقي.. يومي الذي أعيشه منذ 22 سنة.. يا يوم يا طيب.. </div>
+                            <br>
+                              <br>
+                              <table width="100%" border="0">
+                                <tr>
+                                  <td height="2" background="/tm/a/8c9bbb6092f2aa55.gif" class="midBg"></td>
+                                </tr>
+                            </table></td>
+                        </tr>
+                        <tr>
+                          <td height="25" align="right" background="/tm/a/035a74b957a30e22.gif" class="btmBg" dir="rtl"><div>&nbsp;&bull;&nbsp;<a href="/articles/masr-n11386/" class="DailyArticle">التنصير والتنوير</a></div>
+                              <div>&nbsp;&bull;&nbsp;<a href="https://web.archive.org/web/20070922174150/http://www.20at.com/masr/newArticle.php?sid=11321" class="DailyArticle">سراب الحاج متولي !</a></div>
+                            <div>&nbsp;&bull;&nbsp;<a href="/articles/masr-n11590/" class="DailyArticle">الخارجية المصرية.. (فيلم ثقافي)</a></div>
+                            <br></td>
+                        </tr>
+                        <tr>
+                          <td><img id="fav_artic_09" src="/tm/missing.gif" width="209" height="2" alt="" data-tm-missing="//masr.20at.com/siteassets/images/favorite/bottom.jpg"/></td>
+                        </tr>
+                  </table>
+					<br />
+					<br />
+					<table width="100%" border="0" cellpadding="0" cellspacing="0">
+                        
+                        <tr>
+                          <td colspan="2" bgcolor="#AAAEAF" height="1"></td>
+                        </tr>
+                        <tr>
+                          <td colspan="2" bgcolor="#F8FCFD" height="1"></td>
+                        </tr>
+                </table><br />
+                <a href="https://web.archive.org/web/20070922174150/http://masr.20at.com/newArticle.php?sid=11772"><img src="/tm/missing.gif" alt="" name="Banner" width="215" height="300" border="0" data-tm-missing="//masr.20at.com/currentarticleassets/images/adbanners/18sep07/ekhla3ni.jpg"></a>                <a href="https://web.archive.org/web/20070922174150/http://www.20at.com/newArticle.php?sid=6934"></a></td>
+                <td width="49" height="844" nowrap background="/tm/a/7da95a3848f08eeb.gif"></td>
+              </tr>
+              <tr>
+                <td width="215" height="43" align="right" nowrap background="/tm/a/dabf75e102b1cdbb.gif"><img src="/tm/a/4e6b9326beddac83.jpg" alt="BtmCornerImage" width="57" height="43"></td>
+                <td><img src="/tm/a/4a94247e86d7f9c1.jpg" width="49" height="43" alt=""></td>
+              </tr>
+            </table></td>
+            <td><table id="Table_01" width="734" height="1291" border="0" cellpadding="0" cellspacing="0">
+              <tr>
+                <td width="734" height="779" nowrap><table id="Table_01" width="734" height="779" border="0" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <td width="323" height="38" nowrap><a href="#"></a><a href="#"></a></td>
+                    <td width="1" height="38" nowrap></td>
+                    <td width="410" height="38" align="right" nowrap>
+					
+					<span class="ArticleText">&nbsp;&nbsp;آخر تحديث:</span>	<span class="fav_article">السبت الثاني والعشرين من سبتمبر - 2007 م</span></td>
+                  </tr>
+                  <tr>
+                    <td width="323" align="center" valign="top">
+					<table id="Table_01" width="292" border="0" cellpadding="0" cellspacing="0" align="center">
+	<tr>
+		<td width="292" height="35">
+			<table id="Table_03" width="292" border="0" cellpadding="0" cellspacing="0">
+				<tr>
+					<td width="100%" height="35" background="/tm/a/106e59530cd9d0cb.jpg"></td>
+					<td align="right" nowrap="nowrap" background="/tm/a/106e59530cd9d0cb.jpg">
+					<img src="/tm/a/7983dd4183363856.jpg" alt="بلوجرز" name="blogImage" border="0" id="blogImage" style="cursor:pointer" onClick="toggleSiteToBlog();"/>					</td>
+					<td align="right" nowrap="nowrap" background="/tm/a/106e59530cd9d0cb.jpg">
+					<img src="/tm/a/d9fc5b1935c9f706.jpg" alt="ولاد البلد" name="siteImage" border="0" id="siteImage" style="cursor:pointer" onClick="toggleBlogToSite();"/>					</td>
+				</tr>
+			</table></td>
+	</tr>
+	<tr>
+		<td width="292" height="213">
+		<div id="mainSite" style="display:inline">
+			<table id="Table_01" width="292" border="0" cellpadding="0" cellspacing="0">
+	<tr>
+		<td height="12" colspan="2" nowrap="nowrap"></td>
+	</tr>
+	<tr>
+		<td width="205" height="58" align="right" valign="top" dir="rtl"><div class="titles">&nbsp;<a href="https://web.archive.org/web/20070922174150/http://masr.20at.com/newArticle.php?sid=12156" class="titles">تبني.. نيولوك!</a></div>
+		<div class="leed">ظهر في الآونة الأخيرة قيام بعض الفتيات في سن العشرين بتبني أطفال من الملاجئ محققين بذلك حلم الأمومة</div></td>
+		<td width="87" height="58" align="right">
+			<a href="https://web.archive.org/web/20070922174150/http://masr.20at.com/newArticle.php?sid=12156"><img src="/tm/missing.gif" alt="ظهر في الآونة الأخيرة قيام بعض الفتيات في سن العشرين بتبني أطفال من الملاجئ محققين بذلك حلم الأمومة" name="featu_03" width="80" height="49" border="0" id="featu_03" data-tm-missing="//admins.20at.com/aly/bnt.jpg.jpg"/></a></td>
+	</tr>
+	<tr>
+		<td width="205" height="1">
+			<img id="featu_04" src="/tm/missing.gif" width="197" height="1" alt="" data-tm-missing="//masr.20at.com/siteassets/images/level1/featu_04.jpg"/></td>
+		<td width="87" height="1" nowrap="nowrap"></td>
+	</tr>
+	<tr>
+		<td height="5" colspan="2" nowrap="nowrap" background="/tm/a/12374058ad1befd5.gif" class="midBg"></td>
+	</tr>
+	<tr>
+		<td width="205" height="58" align="right" valign="top" dir="rtl"><div class="titles">&nbsp;<a href="https://web.archive.org/web/20070922174150/http://masr.20at.com/newArticle.php?sid=12142" class="titles">الكنيسة تتبرأ من أقباط المهجر!</a></div>
+		<div class="leed">&nbsp;لبابا حزين لحبس عضوي منظمة متهمة بالتبشير .. دون أن يتروى في تقصي الحقيقة وحكم القضاء! </div></td>
+		<td width="87" height="58" align="right">
+			<a href="https://web.archive.org/web/20070922174150/http://masr.20at.com/newArticle.php?sid=12142"><img src="/tm/missing.gif" alt="لبابا حزين لحبس عضوي منظمة متهمة بالتبشير .. دون أن يتروى في تقصي الحقيقة وحكم القضاء! " name="featu_08" width="80" height="49" border="0" id="featu_08" data-tm-missing="//admins.20at.com/aly/chn1.jpg"/></a></td>
+	</tr>
+	<tr>
+		<td width="205" height="1">
+			<img id="featu_09" src="/tm/missing.gif" width="197" height="1" alt="" data-tm-missing="//masr.20at.com/siteassets/images/level1/featu_09.jpg"/></td>
+		<td width="87" height="1" nowrap="nowrap"></td>
+	</tr>
+	<tr>
+		<td height="5" colspan="2" nowrap="nowrap" background="/tm/a/12374058ad1befd5.gif" class="midBg"></td>
+	</tr>
+	<tr>
+		<td width="205" height="58" align="right" valign="top" dir="rtl"><div class="titles">&nbsp;<a href="https://web.archive.org/web/20070922174150/http://masr.20at.com/newArticle.php?sid=12130" class="titles">مائدة الرحمن.. أم المعارك</a></div>
+		  <div class="leed">&nbsp;									وبعد الفوز بوجبة  يعاود البعض الكرة والوجبات تحب الخفية
+								</div></td>
+		<td width="87" height="58" align="right">
+			<a href="https://web.archive.org/web/20070922174150/http://masr.20at.com/newArticle.php?sid=12130"><img src="/tm/missing.gif" alt="									وبعد الفوز بوجبة  يعاود البعض الكرة والوجبات تحب الخفية
+								" name="featu_13" width="80" height="49" id="featu_13" border="0" data-tm-missing="//admins.20at.com/masr/om01.jpg"/></a></td>
+	</tr>
+		<tr>
+		<td height="5" colspan="2" nowrap="nowrap" background="/tm/a/12374058ad1befd5.gif" class="midBg"></td>
+	</tr>
+	<tr>
+		<td width="205" height="58" align="right" valign="top" dir="rtl"><div class="titles">&nbsp;<a href="https://web.archive.org/web/20070922174150/http://masr.20at.com/newArticle.php?sid=12112" class="titles">50 في اليد .. ولا شنطة في رمضان</a></div>
+		<div class="leed">&nbsp;انتشرت فكرة الشنطة مع فريق "صناع الحياة" في عام 2003، عندما وضع لنفسه هدفا وهو توزيع 7 مليون شنطة
+								</div></td>
+		<td width="87" height="58" align="right">
+			<a href="https://web.archive.org/web/20070922174150/http://masr.20at.com/newArticle.php?sid=12112"><img src="/tm/missing.gif" alt="" name="featu_13" width="80" height="49" id="featu_13" border="0" data-tm-missing="//admins.20at.com/aly/shanta.jpg"/></a></td>
+	</tr>
+	<tr>
+		<td width="205" height="1">
+			<img id="featu_14" src="/tm/missing.gif" width="197" height="1" alt="" data-tm-missing="//masr.20at.com/siteassets/images/level1/featu_14.jpg"/></td>
+		<td width="87" height="1" nowrap="nowrap"></td>
+	</tr>
+</table>
+			</div>
+			
+<div id="mainBlog" style="display:none;">
+			<table id="Table_01" width="292" border="0" cellpadding="0" cellspacing="0">
+	<tr>
+		<td height="12" colspan="2" nowrap="nowrap"></td>
+	</tr>
+	<tr>
+		<td width="205" height="58" align="right" valign="top" dir="rtl"><div class="titles">&nbsp;<a href="https://web.archive.org/web/20070922174150/http://masr.20at.com/newArticle.php?sid=12048" class="titles">رمضان .. 30 يوم في السجن</a></div>
+		<div class="leed">&nbsp;فمهما كانت روحانيات العبد في رمضان ومهما بلغ إيمانه، تبقي حقيقة أنه سلب نعمة الحرية </div></td>
+		<td width="87" height="58" align="right">
+			<a href="https://web.archive.org/web/20070922174150/http://masr.20at.com/newArticle.php?sid=12048"><img src="/tm/a/f821a81b33b00dbf.jpg" alt="" name="featu_03" width="80" height="49" id="featu_03" border="0"/></a></td>
+	</tr>
+	<tr>
+		<td width="205" height="1">
+			<img id="featu_04" src="/tm/missing.gif" width="197" height="1" alt="" data-tm-missing="//masr.20at.com/siteassets/images/level1/featu_04.jpg"/></td>
+		<td width="87" height="1" nowrap="nowrap"></td>
+	</tr>
+	<tr>
+		<td height="5" colspan="2" nowrap="nowrap" background="/tm/a/12374058ad1befd5.gif" class="midBg"></td>
+	</tr>
+	<tr>
+		<td width="205" height="58" align="right" valign="top" dir="rtl"><div class="titles">&nbsp;<a href="https://web.archive.org/web/20070922174150/http://masr.20at.com/newArticle.php?sid=12000" class="titles">الشيخ عبد الرازق: حي على الصلاة</a></div>
+		<div class="leed">&nbsp;بفضل القرآن ورئيسنا في العمل السيد وزير الأوقاف ربنا يطول في عمره</div></td>
+		<td width="87" height="58" align="right">
+			<a href="https://web.archive.org/web/20070922174150/http://masr.20at.com/newArticle.php?sid=12000"><img src="/tm/missing.gif" alt="" name="featu_08" width="80" height="49" id="featu_08" border="0" data-tm-missing="//admins.20at.com/masr/war1.jpg"/></a></td>
+	</tr>
+	<tr>
+		<td width="205" height="1">
+			<img id="featu_09" src="/tm/missing.gif" width="197" height="1" alt="" data-tm-missing="//masr.20at.com/siteassets/images/level1/featu_09.jpg"/></td>
+		<td width="87" height="1" nowrap="nowrap"></td>
+	</tr>
+	<tr>
+		<td height="5" colspan="2" nowrap="nowrap" background="/tm/a/12374058ad1befd5.gif" class="midBg"></td>
+	</tr>
+	<tr>
+		<td width="205" height="58" align="right" valign="top" dir="rtl"><div class="titles">&nbsp;<a href="https://web.archive.org/web/20070922174150/http://masr.20at.com/newArticle.php?sid=12024" class="titles">الضنا مبقاش غالي</a></div>
+		<div class="leed">&nbsp;انهيار تركيبة الأسرة، ومحاولة كل طرف التنصل من مسئولية الأطفال</div></td>
+		<td width="87" height="58" align="right">
+			<a href="https://web.archive.org/web/20070922174150/http://masr.20at.com/newArticle.php?sid=12024"><img src="/tm/missing.gif" alt="" name="featu_13" width="80" height="49" id="featu_13" border="0" data-tm-missing="//admins.20at.com/masr/dana1.jpg"/></a></td>
+	</tr>
+		<tr>
+		<td height="5" colspan="2" nowrap="nowrap" background="/tm/a/12374058ad1befd5.gif" class="midBg"></td>
+	</tr>
+	<tr>
+		<td width="205" height="58" align="right" valign="top" dir="rtl"><div class="titles">&nbsp;<a href="https://web.archive.org/web/20070922174150/http://masr.20at.com/newArticle.php?sid=11994" class="titles">سلفيين.. في كي جي تو</a></div>
+		<div class="leed">&nbsp;									جيل صغير يتربى فكريا وروحيا على الفكر السلفي.. بين لحية ونقاب..
+								</div></td>
+		<td width="87" height="58" align="right">
+			<a href="https://web.archive.org/web/20070922174150/http://masr.20at.com/newArticle.php?sid=11994"><img src="/tm/missing.gif" alt="" name="featu_13" width="80" height="49" id="featu_13" border="0" data-tm-missing="//admins.20at.com/masr/kg1.jpg"/></a></td>
+	</tr>
+	<tr>
+		<td width="205" height="1">
+			<img id="featu_14" src="/tm/missing.gif" width="197" height="1" alt="" data-tm-missing="//masr.20at.com/siteassets/images/level1/featu_14.jpg"/></td>
+		<td width="87" height="1" nowrap="nowrap"></td>
+	</tr>
+</table>
+			</div>			
+			<br></td>
+	</tr>
+	<tr>
+		<td colspan="3" width="292" height="2" bgcolor="#D80000"></td>
+	</tr>
+</table>
+                    <table width="293" border="0" align="center" cellpadding="0" cellspacing="0" id="Table_04">
+				<tr>
+					<td>
+						<table id="Table_02" width="292" height="52" border="0" cellpadding="0" cellspacing="0">
+				<tr>
+					<td width="65" height="46" background="/tm/a/81dde7aabb2db926.jpg" style="background-position:bottom"></td>
+					<td width="104" align="right" background="/tm/a/81dde7aabb2db926.jpg">&nbsp;</td>
+                        <td width="123" bordercolor="0"><a onClick="togglePetitionToVote();" style="cursor:pointer;"><img src="/tm/a/9ed5a4f04a77a0b5.jpg" alt="تصويت" name="voteImage" border="0" id="voteImage"/></a></td>
+				</tr>
+			</table></td>
+				</tr>
+				<tr>
+					<td height="6">					</td>
+				</tr>
+				<tr>
+				  <td width="293" align="center">
+					<!-- start of vote in main page -->
+					<div id="mainPageVote" style="display:inline">
+<form name="vote" method="post" action="#" onsubmit="return false">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0" dir="rtl">
+					<tr><td align="right">
+					<span id="voteQuestion">
+				&#1581;&#1587;&#1606;&#1610; &#1593;&#1576;&#1583; &#1585;&#1576;&#1607;&#1548; &#1605;&#1606; &#1581;&#1602;....</span>
+				<br />
+				<span class="saggel" id="voteOptions">
+					
+						<input type="radio" name="vote_option" value="1"/>
+						&nbsp;&#1575;&#1604;&#1573;&#1587;&#1605;&#1575;&#1593;&#1610;&#1604;&#1610;<br />
+					
+						<input type="radio" name="vote_option" value="2"/>
+						&nbsp;&#1587;&#1578;&#1585;&#1575;&#1587;&#1576;&#1608;&#1585;&#1580;<br />
+					
+						<input type="radio" name="vote_option" value="3"/>
+						&nbsp;&#1575;&#1604;&#1571;&#1607;&#1604;&#1610;<br />
+									</span>
+</td>
+					</tr>
+					  <tr>
+					    <td align="left"><img src="/tm/a/632c1343467d588b.jpg" width="69" height="21" border="0" id="middle_41"  alt="تصويت" title="تصويت" onClick="vote.submit();" style="cursor:pointer;"/>&nbsp;<a href="https://web.archive.org/web/20070922174150/http://masr.20at.com:80/vote.php?vid=178" style="cursor:pointer;"><img src="/tm/a/f03faada0436b994.jpg" alt="" width="69" height="21" border="0" id="middle_39"/></a> </td>
+				      </tr>
+					</table></form></div>
+					<!-- end of main page -->
+					<!-- start of main page petition --><div id="mainPagePetition" style="display:none;">
+					<table width="280" border="0" cellspacing="0" cellpadding="0">
+					<tr>
+					<td dir="rtl" height="150" align="justify" class="featured">نطالبكم نحن الموقعين على هذه العريضة بوقف هالة سرحان مقدمة برامج "هالة شو" و"السينما والناس" وتهذيب مثل تلك البرامج نظرا لما تعرضه برامجها من قضايا جنسية مخجلة ولموضوعات مثل "فتيات" الليل والدعارة ونشر الثقافة الجنسية وموضوعات الأفلام الساقطة الخادشة للحياء العام المخالفة للأعراف والتقاليد العربية والإسلامية وما يصاحب ذلك من مخالفات مثل العروض الراقصة الخارجة والخلاعة وما شابه.<br />
+<br />
+					    <img align="left" src="/tm/missing.gif" alt="وقع هذه العريضة" width="89" height="20" data-tm-missing="//masr.20at.com/siteassets/images/articlelevel/articlevote/signpetition.jpg"/></td>
+					</tr>
+				  </table></div></td></tr></table>
+				  <table width="292" height="2" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#333333">
+<tr>
+<td></td>
+</tr>
+</table>
+				  <table width="293" border="0" align="center" cellpadding="0" cellspacing="0" id="Table_01">
+	<tr>
+		<td>
+			<table id="Table_03" width="292" border="0" cellpadding="0" cellspacing="0">
+				<tr>
+					<td width="163" background="/tm/a/3e2c70886e4cd4fb.gif">&nbsp;</td>
+					<td width="129" align="right">
+						<img src="/tm/a/38552d3d06643b76.jpg" alt="" name="Bloggers_02" width="129" height="54" id="Bloggers_02"/></td>
+				</tr>
+			</table></td>
+	</tr>
+	<tr>
+		<td>
+			<table id="Table_02" width="292" border="0" cellpadding="0" cellspacing="0">
+				<tr>
+					<td width="98" height="80" align="center"><a href="https://web.archive.org/web/20070922174150/http://masr.20at.com/newArticle.php?sid=11814"><img src="/tm/missing.gif" alt="وبطريقة ما أخرى، فقد وجدت هذه الورقة طريقها إلى جيبي.. ومن جيبي إلى الإسكانر" width="92" height="69" border="0" class="picBorder" title="وبطريقة ما أخرى، فقد وجدت هذه الورقة طريقها إلى جيبي.. ومن جيبي إلى الإسكانر" data-tm-missing="//admins.20at.com/aly/picture115556666.jpg"/>						</a></td>
+					<td width="194" height="80" align="right" valign="top">
+					<div class="DocumentariesTitle">
+					<a href="https://web.archive.org/web/20070922174150/http://masr.20at.com/newArticle.php?sid=11814" class="titles">المدرسة الذكية الوحيدة في مصر</a>					</div>
+					<div class="leed_11Black">وبطريقة ما أخرى، فقد وجدت هذه الورقة طريقها إلى جيبي.. ومن جيبي إلى الإسكانر</div></td>
+				</tr>
+			</table></td>
+	</tr>
+</table>
+				  <br>
+                  <a href="https://web.archive.org/web/20070922174150/http://masr.20at.com/newArticle.php?sid=11714"><img src="/tm/missing.gif" alt="ترزي السيد الرئيس" width="297" height="71" border="0" align="top" data-tm-missing="//masr.20at.com/currentarticleassets/images/adbanners/18sep07/hijab.jpg"></a><br></td>
+                    <td width="1" height="741" nowrap background="/tm/a/45a2dbd466ec27b1.gif"></td>
+                    <td width="410" align="center" valign="top" nowrap class="halfBR"><table width="393" border="0" cellpadding="0" cellspacing="0" background="/tm/a/cb2fb9ed0d94021f.gif" bgcolor="#F20022" class="btmBg" id="Table_01">
+                      <tr>
+                        <td width="393" height="244" align="center" nowrap><a href="https://web.archive.org/web/20070922174150/http://masr.20at.com/newArticle.php?sid=12154"><img src="/tm/missing.gif" alt="ضيف دائم على موائد الإفطار في رمضان وغير رمضان.. هاجمه الكثير وقالوا: يا مخاطره.. " width="381" height="233" border="1" class="whiteBorder" title="ضيف دائم على موائد الإفطار في رمضان وغير رمضان.. هاجمه الكثير وقالوا: يا مخاطره.. " data-tm-missing="//admins.20at.com/aly/mgll1.jpg.jpg"></a></td>
+                      </tr>
+                      <tr>
+                        <td valign="top" width="393" dir="rtl">
+						<div style="margin:5">
+						  <div align="center" dir="rtl"><a href="https://web.archive.org/web/20070922174150/http://masr.20at.com/newArticle.php?sid=12154" class="WhieTitleLarge">واحد (طرشي) وصلحه</a></div>
+						       <div align="right"> <span class="WhieLead">ضيف دائم على موائد الإفطار في رمضان وغير رمضان.. هاجمه الكثير وقالوا: يا مخاطره.. </span></div>
+						</div></td>
+                      </tr>
+                      <tr>
+                        <td width="393" height="18" align="right" nowrap><table id="Table_01" width="392" height="18" border="0" cellpadding="0" cellspacing="0">
+                          <tr>
+                            <td><table id="Table_02" width="392" height="18" border="0" cellpadding="0" cellspacing="0">
+                                <tr>
+                                  <td width="93" height="18" align="center" nowrap background="/tm/a/47e2e666302ffedb.gif"><a href="https://web.archive.org/web/20070922174150/http://masr.20at.com/newArticle.php?sid=12154" class="white">المـزيــد</a></td>
+                                  <td><img src="/tm/a/c6486e05ce6776c4.gif" width="27" height="18" alt=""></td>
+                                  <td width="272" height="18" nowrap background="/tm/a/dfa04f13375008e5.gif"></td>
+                                </tr>
+                            </table></td>
+                          </tr>
+                        </table></td>
+                      </tr>
+                    </table>
+                      <br>
+                      <table width="380" border="0" cellpadding="0" cellspacing="0" dir="ltr">
+                        <tr>
+                          <td width="306" height="80" valign="bottom"><table width="380" height="99" border="0" align="left" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF" class="picBorder">
+                              <tr>
+                                <td height="80" align="right" background="/tm/a/318821639a4a9a76.gif" bgcolor="#FFFDE0" class="btmBg"><table width="370" height="100%" border="0" cellpadding="0" cellspacing="0">
+                                  <tr>
+                                    <td width="356" height="32" valign="middle"><img src="/tm/a/61c158fc627aa624.jpg" alt="رقعة" width="46" height="32"></td>
+                                    <td width="14" rowspan="2" valign="bottom">&nbsp;</td>
+                                  </tr>
+                                  <tr>
+                                    <td align="right" valign="top" dir="rtl"><span class="featured">
+									
+										طلعت فوق السطوح هز الهوا كمى ، كل العيال اتجوزو و ان لسه جنب امى
+									
+									</span><div align="left"><a href="javascript:baby2('popUps/rok3ah.php', 300, 300);" class="DailyArticle">أضف رقعة</a></div></td>
+                                    </tr>
+                                </table>                                  </td>
+                              </tr>
+                          </table></td>
+                          <td width="2" valign="bottom"><img src="/tm/a/562093bc3cb5aaed.gif" width="2" height="100"/></td>
+                        </tr>
+                        <tr>
+                          <td height="4" colspan="2" align="right" valign="top"><img src="/tm/a/e3124e3a1cad0e3f.gif" width="307" height="4"/></td>
+                        </tr>
+                      </table>
+                      <br />
+					  <table id="Table_01" width="393" border="0" cellpadding="0" cellspacing="0">
+	<tr>
+		<td width="393" height="23" align="right"><table width="393" border="0" align="left" cellpadding="0" cellspacing="0" id="Table_03">
+				<tr>
+					<td width="100%" height="23" background="/tm/a/8a7b591abb0da02d.jpg">					  </td>
+					<td width="118" height="23" align="right" background="" data-tm-missing="//masr.20at.com/siteassets/images/level1/media_01.jpg">
+						<img src="/tm/a/71cd2a584f725a81.jpg" alt="" name="listen" width="118" height="23" id="listen" style="cursor:pointer" onClick="toggleSceneToSound();"/></td>
+					<td width="108" height="23" align="right"><img src="/tm/a/72dbd2954416c43f.jpg" alt="" name="see" width="108" height="23" id="see" style="cursor:pointer" onClick="toggleSoundToScene();"/></td>
+				</tr>
+			</table></td>
+	</tr>
+	<tr>
+		<td width="393" height="86">
+	
+		<div id="scene" style="display:inline">
+			<table id="Table_02" width="393" border="0" cellpadding="0" cellspacing="0">
+                      <tr>
+                        <td width="186" height="82" valign="top" background="" class="fatwa" dir="rtl" data-tm-missing="//masr.20at.com/siteassets/images/level1/left_39.jpg"><div class="saggel" style=" font-family:'Arabic Transparent'; margin-right:6px; font-size:15px; direction:rtl;" background="images/icons/clacket.jpg">
+						<a href="https://web.archive.org/web/20070922174150/http://www.20at.com/masr/newArticle.php?sid=11486" class="DailyArticle">يشاهد نفس الطفل الصغير بصورة أخرى تخرج له ماضيه مع والده وضربه له</a>
+						</div></td>
+                              <td width="207" height="81" align="right"><a href="https://web.archive.org/web/20070922174150/http://www.20at.com/masr/newArticle.php?sid=11486"><img src="/tm/missing.gif" alt="يشاهد نفس الطفل الصغير بصورة أخرى تخرج له ماضيه مع والده وضربه له" title="يشاهد نفس الطفل الصغير بصورة أخرى تخرج له ماضيه مع والده وضربه له" name="right_18" width="204" height="87" border="0" style="border-width:1px; border-color:#CCCCCC;" id="right_18" data-tm-missing="/admins/masr/portrai2.jpg"/></a></td>
+                      </tr>
+                    </table>
+		</div>
+	
+		
+		
+		<div id="sound" style="display:none">
+			<table id="Table_02" width="393" border="0" cellpadding="0" cellspacing="0">
+                      <tr>
+                        <td width="186" height="82" valign="top" background="" class="fatwa" dir="rtl" data-tm-missing="//masr.20at.com/siteassets/images/level1/left_39.jpg"><div class="saggel" style=" font-family:'Arabic Transparent'; margin-right:6px; font-size:15px; direction:rtl;" background="images/icons/clacket.jpg">
+						<a class="DailyArticle" href="https://web.archive.org/web/20070922174150/http://masr.20at.com/newArticle.php?sid=11586">ويتخلل الفيلم لقطات تسجيلية من أفلام أو أغاني مناسبة لكل حالة
+								</a>
+						</div></td>
+                              <td width="207" height="81" align="right"><a href="https://web.archive.org/web/20070922174150/http://masr.20at.com/newArticle.php?sid=11586"><img src="/tm/missing.gif" alt="ويتخلل الفيلم لقطات تسجيلية من أفلام أو أغاني مناسبة لكل حالة
+								" name="right_18" width="204" height="87" border="0" style="border-width:1px; border-color:#CCCCCC;" id="right_18" title="ويتخلل الفيلم لقطات تسجيلية من أفلام أو أغاني مناسبة لكل حالة
+								" data-tm-missing="//admins.20at.com/aly/2vkf6s8.jpg"/></a></td>
+                      </tr>
+                    </table></div></td>
+	</tr>
+		<tr>
+		<td width="393" height="1" colspan="4" nowrap="nowrap" bgcolor="#000000"></td>
+	</tr>
+</table>
+<table id="Table_01" width="393" height="123" border="0" cellpadding="0" cellspacing="0">
+              <tr>
+                <td><table id="Table_03" width="393" height="37" border="0" cellpadding="0" cellspacing="0">
+                    <tr>
+                      <td height="25"></td>
+                      <td width="123" height="37" rowspan="2" align="right" valign="bottom"><img src="/tm/a/9d856bee610f4b46.jpg" width="123" height="37" alt=""/></td>
+                    </tr>
+                    <tr>
+                      <td width="270" height="27" background="/tm/a/88daaa05eba3ad08.jpg"></td>
+                    </tr>
+                </table></td>
+              </tr>
+              <tr>
+                <td><table dir="rtl" id="Table_02" width="393" height="90" border="0" cellpadding="0" cellspacing="0">
+                    <tr>
+                      <td width="229" height="90" align="right" valign="top" background="" dir="rtl" data-tm-missing="//masr.20at.com/siteassets/images/level1/saudibg.jpg"><a href="https://web.archive.org/web/20070922174150/http://masr.20at.com/newArticle.php?sid=11600" class="titles" style=" margin-right:6px;"><br>
+                        
+					  </a>
+                          <div style=" margin-right:4px;" class="leed_11Black">لذا قررت أن أشد الرحال لأكتشف معالم هذا المسجد الذي بني في سنة 20 هجرية
+								</div></td>
+                      <td width="164" height="85" align="center"><table border="1" cellpadding="2" cellspacing="0" class="table-borders">
+                        <tr>
+                          <td height="97" align="center"><a href="https://web.archive.org/web/20070922174150/http://masr.20at.com/newArticle.php?sid=11600" class="saudiPic"><img src="/tm/missing.gif" alt="لذا قررت أن أشد الرحال لأكتشف معالم هذا المسجد الذي بني في سنة 20 هجرية
+								" width="148" height="83" hspace="0" vspace="0" border="0" align="left"   style="border-width:1px; border-color:#CCCCCC;" title="لذا قررت أن أشد الرحال لأكتشف معالم هذا المسجد الذي بني في سنة 20 هجرية
+								" data-tm-missing="//admins.20at.com/aly/cp1020737.jpg"/></a></td>
+                        </tr>
+                      </table>                        </td>
+                    </tr>
+                </table></td>
+              </tr>
+              <tr>
+                <td width="393" height="1" bgcolor="#CC3300"></td>
+              </tr>
+            </table>
+
+<br></td>
+                  </tr>
+                </table></td>
+              </tr>
+              <tr>
+                <td width="734" height="1" nowrap background="/tm/a/12374058ad1befd5.gif"></td>
+              </tr>
+              
+              <tr>
+                <td width="734" valign="top">
+				  <table id="Table_01" width="742" border="0" cellpadding="0" cellspacing="0">
+	<tr>
+		<td height="48" colspan="3" valign="bottom">
+			<br>
+			<table id="Table_02" width="742" border="0" cellpadding="0" cellspacing="0">
+				<tr>
+					<td width="256" height="48" background="/tm/a/5f26842dd699d437.gif">						</td>
+					<td width="128" height="48" valign="top">
+						<img src="/tm/a/79f2a80c5414019c.jpg" alt="" name="BodyLower_02" width="129" height="49" id="BodyLower_02"/></td>
+					<td width="233" height="48" background="/tm/a/5f26842dd699d437.gif">						</td>
+					<td width="125" height="48" align="right" valign="bottom" background="/tm/a/5f26842dd699d437.gif">
+						<img src="/tm/a/d153bc464b73d4b0.jpg" alt="" name="BodyLower_04" width="129" height="49" id="BodyLower_04"/></td>
+				</tr>
+			</table></td>
+	</tr>
+	<tr>
+		<td width="366" height="295" align="right" valign="top" nowrap="nowrap"><table id="Table_01" width="349" height="272" border="0" cellpadding="0" cellspacing="0">
+          <tr>
+            <td><table id="Table_02" width="345" height="70" border="0" cellpadding="0" cellspacing="0">
+                <tr>
+                  <td width="90" height="58" nowrap><a href="https://web.archive.org/web/20070922174150/http://masr.20at.com/newArticle.php?sid=11746"><img src="/tm/missing.gif" alt="									نقول مصر قابلة للترمبم ويحيي العظام وهي رميم..
+								" name="featu_03" width="80" height="49" border="0" class="picBorder" id="featu_03" title="									نقول مصر قابلة للترمبم ويحيي العظام وهي رميم..
+								" data-tm-missing="//admins.20at.com/aly/536106702_5ae469a6cf.jpg"/></a></td>
+                  <td width="240" height="58" align="right" valign="top" dir="rtl"><div class="titles">&nbsp;<a href="https://web.archive.org/web/20070922174150/http://masr.20at.com/newArticle.php?sid=11746" class="Manchett">تجديد مصر!</a></div>
+                      <div class="leed_11Black">&nbsp; 									نقول مصر قابلة للترمبم ويحيي العظام وهي رميم..
+								</div></td>
+                  <td width="10">&nbsp;</td>
+                  <td width="6" align="center"><img src="/tm/a/be9b2bddf5e77b4c.jpg" width="4" height="58" alt=""></td>
+                </tr>
+            </table></td>
+          </tr>
+          <tr>
+            <td width="349" height="13" nowrap background="/tm/a/12374058ad1befd5.gif" style=" background-position:center;background-repeat:repeat-x;"></td>
+          </tr>
+          <tr>
+            <td><table id="Table_03" width="345" height="58" border="0" cellpadding="0" cellspacing="0">
+                <tr>
+                  <td width="91" height="58" nowrap><a href="https://web.archive.org/web/20070922174150/http://masr.20at.com/newArticle.php?sid=11796"><img src="/tm/missing.gif" alt="									ببساطة بلدنا وشعبنا لن يتخلص من تخلفه، إلا إذا تخلصنا من آفات شخصيتنا...
+								" name="featu_03" width="80" height="49" border="0" class="picBorder" id="featu_03" title="									ببساطة بلدنا وشعبنا لن يتخلص من تخلفه، إلا إذا تخلصنا من آفات شخصيتنا...
+								" data-tm-missing="//admins.20at.com/aly/astek.jpg"/></a></td>
+                  <td width="241" height="58" align="right" valign="top" dir="rtl"><div class="titles">&nbsp;<a href="https://web.archive.org/web/20070922174150/http://masr.20at.com/newArticle.php?sid=11796" class="Manchett">شد أستك.. ذمتك !</a></div>
+                      <div class="leed_11Black">&nbsp; 									ببساطة بلدنا وشعبنا لن يتخلص من تخلفه، إلا إذا تخلصنا من آفات شخصيتنا...
+								</div></td>
+                  <td width="10">&nbsp;</td>
+                  <td width="6" align="center"><img src="/tm/a/b85aa2136aab1afc.jpg" width="4" height="58" alt=""></td>
+                </tr>
+            </table></td>
+          </tr>
+          <tr>
+            <td width="349" height="13" nowrap background="/tm/a/12374058ad1befd5.gif" style=" background-position:center;background-repeat:repeat-x;"></td>
+          </tr>
+          <tr>
+            <td width="349"><table width="349" height="133" border="0" cellpadding="0" cellspacing="0" id="Table_05">
+                                <tr>
+                  <td height="41" colspan="2" align="right" valign="top" nowrap background="/tm/a/5f26842dd699d437.gif"><img src="/tm/a/d57ab505ed3d1936.jpg" alt="مشاركة" width="129" height="41"></td>
+                  <td width="13" align="center"><img src="/tm/a/b85aa2136aab1afc.jpg" width="4" height="58" alt=""></td>
+                </tr>
+				<tr>
+                  <td width="91" nowrap><a href="/articles/masr-n12068/"><img src="/tm/missing.gif" alt="وأكد المسدي أن نادي الصفاقسي ينتظر حاليا الحكم النهائي الصادر من قبل الفيفا" width="80" height="49" border="0" class="picBorder" data-tm-missing="//admins.20at.com/masr/wes1.jpg"></a></td>
+                    <td width="210" align="right" valign="top" dir="rtl"><div class="titles">&nbsp;<a href="/articles/masr-n12068/" class="Manchett">الصفاقسي يشكو الزمالك واتحاد الكرة للفيفا</a></div>
+                        <div class="leed_11Black">&nbsp; وأكد المسدي أن نادي الصفاقسي ينتظر حاليا الحكم النهائي الصادر من قبل الفيفا</div></td>
+                    <td align="center"><img src="/tm/a/e930990d3d882953.jpg" width="4" height="58" alt=""></td>
+                  </tr>
+                </table></td>
+          </tr>
+          
+        </table></td>
+		<td width="353" height="295" align="right" valign="top" nowrap="nowrap"><table id="Table_01" width="349" height="272" border="0" cellpadding="0" cellspacing="0">
+          <tr>
+            <td align="right"><table id="Table_02" width="349" height="70" border="0" cellpadding="0" cellspacing="0">
+                <tr>
+                  <td width="150" height="58" nowrap bgcolor="#FFFFFF"><img src="/tm/missing.gif" alt="" title="فاروق بين الفيلم والتاريخ" border="0" data-tm-missing="//masr.20at.com/siteassets/images/takhateef/sharqawsat.jpg"></td>
+                  <td width="210" height="58" align="right" dir="rtl"><div><a href="https://web.archive.org/web/20070922174150/http://masr.20at.com:80/newArticle.php?sid=12138" class="Manchett">&nbsp;فاروق بين الفيلم والتاريخ</a></div>
+                      <div class="leed_11Black" align="right"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </div></td>
+                  <td width="5" align="center" valign="middle"><img src="/tm/a/be9b2bddf5e77b4c.jpg" width="4" height="58" alt=""></td>
+                </tr>
+            </table></td>
+          </tr>
+          <tr>
+            <td width="349" height="13" nowrap background="/tm/a/12374058ad1befd5.gif" style=" background-position:center;background-repeat:repeat-x;"></td>
+          </tr>
+          <tr>
+            <td><table id="Table_03" width="349" height="58" border="0" cellpadding="0" cellspacing="0">
+                <tr>
+                  <td width="150" height="58" nowrap bgcolor="#FFFFFF"><img src="/tm/a/a506e2be1e540fc4.jpg" alt="" title="" border="0"/></td>
+                  <td width="210" height="58" align="right" dir="rtl"><div><a href="https://web.archive.org/web/20070922174150/http://masr.20at.com:80/newArticle.php?sid=12114" class="Manchett">&nbsp;ماذا توحي به «لا إله إلا الله محمد رسول الله»؟</a></div>
+                      <div class="leed_11Black" align="right"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </div></td>
+                  <td width="4"><img src="/tm/a/b85aa2136aab1afc.jpg" width="4" height="58" alt=""></td>
+                </tr>
+            </table></td>
+          </tr>
+          <tr>
+            <td width="349" height="13" nowrap background="/tm/a/12374058ad1befd5.gif" style=" background-position:center;background-repeat:repeat-x;"></td>
+          </tr>
+          <tr>
+            <td><table id="Table_04" width="349" height="58" border="0" cellpadding="0" cellspacing="0">
+                <tr>
+                  <td width="150" height="58" nowrap bgcolor="#FFFFFF"><img src="/tm/a/a506e2be1e540fc4.jpg" alt="									حمادة هلال هو المطرب الوحيد، الذي يرفض الغناء في الخيام الرمضانيةلأنه يري أن طبيعة شهر رمضان ليست للغناء
+								"></td>
+                  <td width="210" height="58" align="right" dir="rtl"><div><a href="https://web.archive.org/web/20070922174150/http://masr.20at.com:80/newArticle.php?sid=12106" class="Manchett">&nbsp;حمادة هلال: مش هاغني في رمضان</a></div>
+                      <div class="leed_11Black" align="right"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </div></td>
+                  <td width="4"><img src="/tm/a/b85aa2136aab1afc.jpg" width="4" height="58" alt=""></td>
+                </tr>
+            </table></td>
+          </tr>
+          <tr>
+            <td width="349" height="14" nowrap background="/tm/a/12374058ad1befd5.gif" style=" background-position:center;background-repeat:repeat-x;"></td>
+          </tr>
+          <tr>
+            <td><table id="Table_05" width="349" height="58" border="0" cellpadding="0" cellspacing="0">
+                <tr>
+                  <td width="150" height="58" nowrap bgcolor="#FFFFFF"><img src="/tm/a/a506e2be1e540fc4.jpg" alt=""></td>
+                  <td width="210" height="58" align="right" dir="rtl"><div><a href="/articles/masr-n12090/" class="Manchett">&nbsp;مفهومنا الزائف عن المتعة</a></div>
+                      <div class="leed_11Black" align="right"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </div></td>
+                  <td width="4"><img src="/tm/a/e930990d3d882953.jpg" width="4" height="58" alt=""></td>
+                </tr>
+            </table></td>
+          </tr>
+        </table></td>
+	    <td width="20" valign="top" nowrap="nowrap">&nbsp;</td>
+	</tr>
+</table>				</td>
+              </tr>
+            </table></td>
+          </tr>
+      </table>
+		  <table id="Table_01" width="1004" height="110" border="0" cellpadding="0" cellspacing="0">
+            <tr>
+              <td width="238" height="42" nowrap="nowrap" background="/tm/a/198d4a36a74a8b56.gif"></td>
+              <td width="94" height="42" valign="top" nowrap="nowrap"><img src="/tm/a/4c92939ba596acbd.jpg" width="94" height="42"/></td>
+              <td width="337" height="42" align="center" nowrap="nowrap" background="/tm/a/41c8d68618d27c7d.gif" class="topBg"><a href="https://web.archive.org/web/20070922174150/http://masr.20at.com/archive.php"class="marquee">أرشيف ولاد البلد </a>| <a href="/tm/20at/?d=20070922" class="marquee">عشرينات</a></td>
+              <td width="94" height="42" valign="top" nowrap="nowrap"><img src="/tm/a/cc5ff88f3d99c990.jpg" width="94" height="42"/></td>
+              <td width="241" height="42" nowrap="nowrap" background="/tm/a/198d4a36a74a8b56.gif"></td>
+            </tr>
+            <tr>
+              <td width="1004" height="5" colspan="5" align="center" nowrap="nowrap" bgcolor="#f0f0f0" class="saggel"></td>
+            </tr>
+            <tr>
+              <td dir="rtl" width="1004" height="46" colspan="5" align="center" nowrap="nowrap" class="footerLinks"> جميع  الحقوق  محفوظة www.20at.com 2007 </td>
+            </tr>
+          </table></td>
+	</tr>
+</table>
+<!-- End ImageReady Slices -->
+</body>
+</html>

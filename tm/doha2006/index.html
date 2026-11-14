@@ -1,0 +1,11 @@
+<!doctype html><html lang="ar" dir="rtl"><head><meta charset="utf-8"><title>آلة الزمن</title>
+<meta name="robots" content="noindex"><script>
+(function () {
+  var days = ["20061205", "20061210", "20061215", "20061216", "20061219", "20061224", "20070102", "20070107", "20070111", "20070116", "20070122", "20070127", "20070211", "20070801", "20071016", "20071216", "20080220", "20080421", "20080622", "20080915", "20081218", "20090430", "20091106", "20091208"], def = "20091106", q = (location.search.match(/[?&]d=(\d{8})/) || [])[1], best = def;
+  var t = function (d) { return Date.UTC(+d.slice(0, 4), +d.slice(4, 6) - 1, +d.slice(6, 8)); };
+  if (q) { best = days[0]; for (var i = 0; i < days.length; i++) {   // the nearest saved day, the earlier on a tie
+    var a = Math.abs(t(days[i]) - t(q)), b = Math.abs(t(best) - t(q));
+    if (a < b || (a === b && days[i] < best)) best = days[i]; } }
+  location.replace("/tm/doha2006/" + best + "/");
+})();
+</script></head><body><p><a href="/tm/doha2006/20091106/">دورة الدوحة ٢٠٠٦</a></p></body></html>
