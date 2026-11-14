@@ -1,0 +1,119 @@
+/* CSS Document */
+.marquee {
+	font-family:"arabic Transparent";
+	font-size:14px;
+	font-weight:bold;
+	color:#990000;
+	vertical-align:middle;
+	text-align:right;
+	direction:rtl;
+}
+
+.marquee a {
+	text-decoration:none;
+	color:#1F28A0
+}
+
+.mainArticle {
+	color:#850000;
+	font-family:"Arabic Transparent";
+	font-size:19px;
+	font-weight:900;
+	direction:rtl;
+	text-decoration:none;
+}
+
+.mainArticleL {
+	color:#000000;
+	font-family:"tahoma";
+	font-weight:normal;
+	font-size:13px;
+
+}
+
+.mainArticlePic {
+border:thin;
+border:2px;
+border:#891842;	
+}
+
+.featuredPic {
+border:thin;
+border:1px;
+border:#891842;	
+}
+
+.featuredArticle {
+	color:#850000;
+	font-family:"Arabic Transparent";
+	font-weight:bold;
+	direction:rtl;
+	font-size:15px;
+	text-decoration:none;
+}
+
+.featuredArticleL {
+	color:#000000;
+	font-family:"tahoma";
+	font-weight:normal;
+	font-size:10px;
+}
+
+.mediaTitle {
+	color:#000000;
+	font-family:"Arabic Transparent";
+	font-weight:900;
+	direction:rtl;
+	font-size:16px;
+	text-decoration:none;
+}
+.mediaFeatured {
+	color:#ffffff;
+	font-family:"tahoma";
+	font-weight:normal;
+	font-size:13px;
+	direction:rtl;
+}
+
+.counterDig{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:14px;
+	font-weight:bold;
+}
+.counterTitle{
+	font-family:tahoma;
+	color:#FFFFFF;
+	font-size:13px;
+	font-weight:bold;
+}
+.tasreeh {
+	color:#000000;
+	font-family:"Arabic Transparent";
+	font-weight:bold;
+	font-size:14px;
+	direction:rtl;
+}
+.tasreehName {
+color:#990000;
+	font-family:"Arabic Transparent";
+	font-weight:bold;
+	font-size:13px;
+	direction:rtl;
+}
+
+.footer {
+	color:#FFFFFF;
+	font-family:"Arabic Transparent";
+	font-weight:bolder;
+	font-size:14px;
+	text-decoration:none;
+}
+
+.footer2 {
+	color:#ffffff;
+	font-family:"Times New Roman";
+	font-weight:normal;
+	font-size:12px;
+	direction:rtl;
+}
+

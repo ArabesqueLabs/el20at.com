@@ -1,0 +1,54 @@
+.moduletablesayMarquee{
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-bottom-color:#dddddd;
+	border-top-style:solid;
+	border-top-width:1px;
+	border-top-color:#dddddd;
+	height:23px;
+	width:440px;
+	float:right;
+	margin-bottom: 15px;
+	margin-left: 0px;
+	margin-top: 2px;
+       
+}
+.moduletablesayMarquee td{
+	background-color:#fffde4;
+	font-family:ArabicTransparent, Arial;
+	font-size:14px;
+	font-weight:bold;
+	color:#015e8a;
+}
+
+.moduletablesayMarquee td marquee a {
+	color:#015e8a;
+	text-decoration:none;
+}
+#userSubmit {
+	float:right;
+	border:0;
+	
+}
+.dwindow{
+	background-image: url(/tm/a/d12979ae525b89de.gif);
+	/*background-repeat: repeat_x;*/
+
+}
+.Talk {
+	background-image: url(/tm/a/873cadc749ed161a.jpg);
+	background-repeat: no-repeat;
+	background-position:  center top;
+	height: 41px;
+	text-align: center;
+	padding-top: 5px;
+	width: 148px;
+	float:right;
+}
+.Talk a {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #FFFFFF;
+	text-decoration: none;
+}

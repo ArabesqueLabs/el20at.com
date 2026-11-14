@@ -1,0 +1,25 @@
+/* CSS Document */
+
+.topics {
+	COLOR: #000000; 
+	TEXT-DECORATION: none;
+}
+
+.topics:hover {
+	color: #990000;
+}
+
+.3ain
+{
+	font-family:Tahoma;
+	font-size:11px;
+	font-weight:bold;
+	text-align:right;
+}
+
+.3ain a
+{
+	color:#FF3300;
+	text-align:center;
+	text-decoration:none;
+}

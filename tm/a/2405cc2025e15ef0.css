@@ -1,0 +1,778 @@
+/* CSS Document */
+
+a.feature:link {
+	font-family: "Arabic Transparent";
+	font-size: 14px;
+	font-weight: bold;
+	color: #B80000;
+	text-decoration: none;
+}
+a.feature:visited {
+
+	font-family: "Arabic Transparent";
+	font-size: 14px;
+	font-weight: bold;
+	color: #003366;
+	text-decoration: none;
+}
+a.feature:hover {
+
+	font-family: "Arabic Transparent";
+	font-size: 14px;
+	font-weight: bold;
+	color:#000000;
+	text-decoration: none;
+}
+.saggel{
+	font-family:arabic-transparent;
+	font-size:15px;
+	color:#0024be;
+	font-weight:bold;
+	margin-top:9px;
+	text-decoration:none;
+}
+.callender_contents {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:9px;
+	font-weight:bold;
+	color:#000000;
+	
+}
+.callender_gray_contents {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:9px;
+	font-weight:bold;
+	color:#999999;
+}
+.titles {
+	font-family:arabic-transparent;
+	font-size:15px;
+	color:#CC0000;
+	font-weight:bold;
+	text-decoration:none;
+}
+.pray-num {
+	font-family:Arial Black;
+	font-size:10px;
+	color:#A80000;
+}
+.leed {
+	font-family:tahoma;
+	font-size:10px;
+}
+.reg-text{
+	font-family:arabic-transparent;
+	font-size:14px;
+	color:#656565;
+	font-weight:bold;
+	padding:0px;
+	}
+	
+.forgetpass{
+	font-family:arial;
+	font-size:14px;
+	color:#0024be;
+	font-weight:bold;
+	direction:rtl;
+	
+}
+.marquee{
+	font-family:arial;
+	font-size:15px;
+	color:#0024be;
+	font-weight:bold;
+	direction:rtl;
+	text-decoration:none;
+}
+
+.DailyArticle{
+	font-family:arabic-transparent;
+	font-size:13px;
+	color:#b80000;
+	font-weight:bold;
+	direction:rtl;
+	text-decoration:none;
+}
+
+.dateTitle{
+	font-family:Arabic Transparent;
+	font-size:13px;
+	font-weight:bold;
+	color:#000000;
+}
+.date{
+	font-family:Arabic Transparent;
+	font-size:13px;
+	font-weight:800;
+	color:#ba0000;
+}
+.urgent{
+	font-family:Arabic Transparent;
+	font-size:19px;
+	font-weight:bold;
+	color:#000000;
+	background-repeat:repeat-x;
+	text-align:right;
+	direction:rtl;
+}	
+
+.featured {
+	font-family:"Arabic Transparent";
+	font-size:14px;
+	font-weight:bold;
+	color:#003399;
+	text-decoration:none;
+}
+.archive {
+    font-family:Arial, Helvetica, sans-serif;
+	font-weight:bold;
+	font-size:14px;
+	color:#04209a;
+	text-align:right;
+	}
+.singleBg
+	{
+	background-repeat:no-repeat;
+	background-position:left bottom;
+	}
+
+.table-borders {
+	border-right-width: 1px;
+	border-left-width: 1px;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	border-right-color: #CCCCCC;
+	border-left-color: #CCCCCC;
+}
+.ArticleTitle {
+	font-family:Arabic Transparent;
+	font-size: 26px;
+	font-weight: bold;
+	color: #990000;
+}
+.ArticleText {
+	font-family:Arabic Transparent;
+	font-size: 18px;
+	font-weight: bold;
+}
+
+.ArticleText h1
+{
+	font-family:arabic transparent;
+	font-size:20px;
+	color:#FF0000;
+	font-weight:bold;
+	text-align:center;
+}
+
+.ArticleText h2
+{
+	font-family:arabic transparent;
+	font-size:20px;
+	color:#0000FF;
+	font-weight:bold;
+	text-align:right;
+}
+
+.ArticleText h3
+{
+	font-family:arabic transparent;
+	font-size:20px;
+	color:#ff0000;
+	font-weight:bold;
+	text-align:right;
+}
+
+.ArticleText a
+{
+	text-decoration:none;
+	color:#0033FF;
+}
+
+
+.mainPageVote
+{
+	text-align:right;
+	font-family:Tahoma;
+	font-weight:normal;
+	font-size:16px;
+	direction:rtl;
+	
+}
+
+#voteQuestion {
+	font-family:Arabic Transparent;
+	font-weight:bold;
+	font-size:14px;
+	color:#b80000;
+}
+.fav_article {
+	font-family:Arabic Transparent;
+	font-weight:bold;
+	font-size:15px;
+	color:#b80000;
+}
+
+#voteOptions {
+	font-family:"Arabic Transparent";
+	font-weight:bold;
+	font-size:14px;
+	color:#000000;
+	text-decoration: none;
+}
+.mini-services {
+	font-family:arabic-transparent;
+	font-size:15px;
+	color:#0024be;
+	font-weight:bold;
+	text-decoration:none;
+
+}.field {
+	font-family: tahoma;
+	font-size: 10px;
+	font-weight: normal;
+	color: #003399;
+	text-decoration: none;
+	height: 15px;
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-color: #999999;
+	border-right-color: #999999;
+	border-bottom-color: #999999;
+	border-left-color: #999999;
+}
+.worldClock {
+	font-family: impact;
+	font-size: 15px;
+	font-weight: normal;
+	color: #B5FF71;
+	text-decoration: none;
+}
+.ArticleAuthor {
+	font-family: "Arabic Transparent", "Simplified Arabic";
+	font-size: 16px;
+	font-weight: bold;
+	color: #003399;
+}
+.WhiteTitle {
+	font-family: Arabic Transparent;
+	font-size: 16px;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+.fieldInvisible {
+	font-family: tahoma;
+	font-size: 11px;
+	font-weight: normal;
+	color: #003399;
+	text-decoration: none;
+	height: auto;
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+	background-image: url(/tm/a/7e60639730dba94f.gif);
+}
+.fieldInvisibleBox {
+
+	font-family: tahoma;
+	font-size: 12px;
+	font-weight: normal;
+	color: #003399;
+	text-decoration: none;
+	height: auto;
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+	background-image: url(/tm/missing.gif);
+}
+.btmBg {
+	background-repeat: repeat-x;
+	background-position: bottom;
+}
+.commentTitle {
+
+	font-family: "Arabic Transparent";
+	font-size: 24px;
+	font-weight: bold;
+	color: #666666;
+}
+.txtAlert {
+	font-family:"Arabic Transparent";
+	font-weight:bold;
+	font-size:18px;
+	color:#FF0000;
+	text-decoration: none;
+}
+.picBorder {
+	border: 1px solid #999999;
+}
+.midBg {
+
+	background-repeat: repeat-x;
+	background-position: center;
+}
+.articleQoute {
+	font-family: "Arabic Transparent";
+	font-size: 18px;
+	font-weight: bold;
+	color: #003399;
+}
+
+.whiteBorder {
+	border-top-width: thin;
+	border-right-width: thin;
+	border-bottom-width: thin;
+	border-left-width: thin;
+	border-top-color: #FFFFFF;
+	border-right-color: #FFFFFF;
+	border-bottom-color: #FFFFFF;
+	border-left-color: #FFFFFF;
+}
+.footerLinks {
+	font-family: tahoma;
+	font-size: 10px;
+	color: #000099;
+	text-decoration: none;
+}
+
+a.white:link {
+	font-family: "Arabic Transparent";
+	font-size: 14px;
+	font-weight: bold;
+	color: #ffffff;
+	text-decoration: none;
+}
+a.white:visited {
+
+	font-family: "Arabic Transparent";
+	font-size: 14px;
+	font-weight: bold;
+	color: #f0f0f0;
+	text-decoration: none;
+}
+a.white:hover {
+
+	font-family: "Arabic Transparent";
+	font-size: 14px;
+	font-weight: bold;
+	text-decoration: none;
+}
+.pray-num {
+	font-family:Arial Black;
+	font-size:10px;
+	color:#A80000;
+}
+.fieldQoute {
+	font-family: tahoma;
+	font-size: 10px;
+	font-weight: normal;
+	color: #003399;
+	text-decoration: none;
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-color: #CCCCCC;
+	border-right-color: #999999;
+	border-bottom-color: #999999;
+	border-left-color: #CCCCCC;
+	background-color: #EEEEEE;
+}
+.topBg {
+
+	background-repeat: repeat-x;
+	background-position: top;
+}
+.WhieLead {
+	font-family: "Arabic Transparent", "Simplified Arabic";
+	font-size: 14px;
+	font-weight: bold;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.WhieTitleLarge {
+	font-family: "Arabic Transparent", "Simplified Arabic";
+	font-size: 19px;
+	font-weight: bold;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.WeekDays {
+
+	font-family:"Arabic Transparent";
+	font-size:11px;
+	font-weight:bold;
+	color:#003bb3;
+	padding-right:3px;
+}
+.WeatherC {
+
+
+	font-family:"Arabic Transparent";
+	font-size:13px;
+	font-weight:bold;
+	color:#990000;
+	padding-right:3px;
+	direction:rtl;
+}
+.halfBR {
+	height: 10px;
+}
+.Manchett {
+
+	font-family:arabic-transparent;
+	font-size:18px;
+	color:#CC0000;
+	font-weight:bold;
+	text-decoration:none;
+}
+.DocumentariesTitle {
+	font-family:Arabic Transparent;
+	font-size:15px;
+	color:#000000;
+	font-weight:bolder;
+	text-decoration:none;
+	vertical-align:top;
+}
+.DocumentariesLead {
+
+	font-family:Arabic Transparent;
+	font-size:13px;
+	color:#000000;
+	font-weight:normal;
+}
+a.redLink:link {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #CC0000;
+	text-decoration: none;
+	font-weight: bold;
+}
+a.redLink:visited {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #CC8000;
+	text-decoration: none;
+	font-weight: bold;
+}
+a.redLink:hover{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #ff0000;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+
+#userMarquee ul{
+	list-style: none;
+	float: none;
+	margin: 0px;
+	padding-top: 0px;
+	padding-right: 20px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	direction:rtl;
+	font-size:18px;
+	font-family:Arabic Transparent;
+	font-weight:bold;
+}
+
+#userMarquee li{
+	position: relative;
+	float: right;
+	margin: 0px;
+	border-left:1px solid #FFFFFF;
+}
+
+
+  #root1 {
+    position:absolute;
+    height:150px;
+    width:350px;
+    background-color:#FFFFdd;
+	background-image:url(/tm/missing.gif);
+	background-position:bottom;
+	background-repeat:repeat-x;
+    border:0px solid #333;
+    font-family:Tahoma , sans-serif;
+    font-size:11px;	
+	overflow:auto;
+	text-shadow:#333333;
+	}
+
+  #handle1 {
+    margin:2px;
+    padding:2px;
+    width:342px;
+    color:white;
+    background-color:#990000;
+    font-family:Tahoma , sans-serif;
+    font-size:11px;
+	
+    }
+	
+  #root2 {
+    position:absolute;
+    height:150px;
+    width:350px;
+    background-color:#FFFFdd;
+	background-image:url(/tm/missing.gif);
+	background-position:bottom;
+	background-repeat:repeat-x;
+    border:0px solid #333;
+    font-family:Tahoma , sans-serif;
+    font-size:11px;	
+	overflow:auto;
+	text-shadow:#333333;
+	}
+
+  #handle2 {
+    margin:2px;
+    padding:2px;
+    width:342px;
+    color:white;
+    background-color:#990000;
+    font-family:Tahoma , sans-serif;
+    font-size:11px;
+	
+    }
+	
+  #root3 {
+    position:absolute;
+    height:150px;
+    width:350px;
+    background-color:#FFFFdd;
+	background-image:url(/tm/missing.gif);
+	background-position:bottom;
+	background-repeat:repeat-x;
+    border:0px solid #333;
+    font-family:Tahoma , sans-serif;
+    font-size:11px;	
+	overflow:auto;
+	text-shadow:#333333;
+	}
+
+  #handle3 {
+    margin:2px;
+    padding:2px;
+    width:342px;
+    color:white;
+    background-color:#990000;
+    font-family:Tahoma , sans-serif;
+    font-size:11px;
+	
+    }
+	
+  #root4 {
+    position:absolute;
+    height:150px;
+    width:350px;
+    background-color:#FFFFdd;
+	background-image:url(/tm/missing.gif);
+	background-position:bottom;
+	background-repeat:repeat-x;
+    border:0px solid #333;
+    font-family:Tahoma , sans-serif;
+    font-size:11px;	
+	overflow:auto;
+	text-shadow:#333333;
+	}
+
+  #handle4 {
+    margin:2px;
+    padding:2px;
+    width:342px;
+    color:white;
+    background-color:#990000;
+    font-family:Tahoma , sans-serif;
+    font-size:11px;
+	
+    }
+	
+  #root5 {
+    position:absolute;
+    height:150px;
+    width:350px;
+    background-color:#FFFFdd;
+	background-image:url(/tm/missing.gif);
+	background-position:bottom;
+	background-repeat:repeat-x;
+    border:0px solid #333;
+    font-family:Tahoma , sans-serif;
+    font-size:11px;	
+	overflow:auto;
+	text-shadow:#333333;
+	}
+
+  #handle5 {
+    margin:2px;
+    padding:2px;
+    width:342px;
+    color:white;
+    background-color:#990000;
+    font-family:Tahoma , sans-serif;
+    font-size:11px;
+	
+    }
+	
+  #root6 {
+    position:absolute;
+    height:150px;
+    width:350px;
+    background-color:#FFFFdd;
+	background-image:url(/tm/missing.gif);
+	background-position:bottom;
+	background-repeat:repeat-x;
+    border:0px solid #333;
+    font-family:Tahoma , sans-serif;
+    font-size:11px;	
+	overflow:auto;
+	text-shadow:#333333;
+	}
+
+  #handle6 {
+    margin:2px;
+    padding:2px;
+    width:342px;
+    color:white;
+    background-color:#990000;
+    font-family:Tahoma , sans-serif;
+    font-size:11px;
+	
+    }
+	
+  #root7 {
+    position:absolute;
+    height:150px;
+    width:350px;
+    background-color:#FFFFdd;
+	background-image:url(/tm/missing.gif);
+	background-position:bottom;
+	background-repeat:repeat-x;
+    border:0px solid #333;
+    font-family:Tahoma , sans-serif;
+    font-size:11px;	
+	overflow:auto;
+	text-shadow:#333333;
+	}
+
+  #handle7 {
+    margin:2px;
+    padding:2px;
+    width:342px;
+    color:white;
+    background-color:#990000;
+    font-family:Tahoma , sans-serif;
+    font-size:11px;
+	
+    }
+	
+  #root8 {
+    position:absolute;
+    height:150px;
+    width:350px;
+    background-color:#FFFFdd;
+	background-image:url(/tm/missing.gif);
+	background-position:bottom;
+	background-repeat:repeat-x;
+    border:0px solid #333;
+    font-family:Tahoma , sans-serif;
+    font-size:11px;	
+	overflow:auto;
+	text-shadow:#333333;
+	}
+
+  #handle8 {
+    margin:2px;
+    padding:2px;
+    width:342px;
+    color:white;
+    background-color:#990000;
+    font-family:Tahoma , sans-serif;
+    font-size:11px;
+	
+    }
+	
+  #root9 {
+    position:absolute;
+    height:150px;
+    width:350px;
+    background-color:#FFFFdd;
+	background-image:url(/tm/missing.gif);
+	background-position:bottom;
+	background-repeat:repeat-x;
+    border:0px solid #333;
+    font-family:Tahoma , sans-serif;
+    font-size:11px;	
+	overflow:auto;
+	text-shadow:#333333;
+	}
+
+  #handle9 {
+    margin:2px;
+    padding:2px;
+    width:342px;
+    color:white;
+    background-color:#990000;
+    font-family:Tahoma , sans-serif;
+    font-size:11px;
+	
+    }
+	
+  #root10 {
+    position:absolute;
+    height:150px;
+    width:350px;
+    background-color:#FFFFdd;
+	background-image:url(/tm/missing.gif);
+	background-position:bottom;
+	background-repeat:repeat-x;
+    border:0px solid #333;
+    font-family:Tahoma , sans-serif;
+    font-size:11px;	
+	overflow:auto;
+	text-shadow:#333333;
+	}
+
+  #handle10 {
+    margin:2px;
+    padding:2px;
+    width:342px;
+    color:white;
+    background-color:#990000;
+    font-family:Tahoma , sans-serif;
+    font-size:11px;
+	
+    }.Border {
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-color: #CCCCCC;
+	border-right-color: #CCCCCC;
+	border-bottom-color: #CCCCCC;
+	border-left-color: #CCCCCC;
+	text-align: center;
+}
+.leed_11 {
+	font-family:tahoma;
+	font-size:12px;
+	color: #242FC5;
+}
+.leed_11Black {
+
+	font-family:tahoma;
+	font-size:11px;
+	color: #333333;
+}
+.leftBg {
+	background-repeat: repeat-y;
+	background-position: left;
+}

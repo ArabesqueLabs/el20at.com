@@ -1,0 +1,11 @@
+document.write('<TABLE WIDTH=100% BORDER=0 CELLSPACING=0 cellpadding=0 bordercolor=#000000><TR><TD bgcolor=#ffffff>');
+document.write('');
+document.write('<FONT FACE="Tahoma,Verdana,Times New Roman,Arial,Helvetica" COLOR=#0770DF >');
+document.write(' ');
+document.write('<div align="right"><li style="color: #78797A; margin-right: 17; margin-top: 0; margin-bottom: 0" type="square"><a href=http://www.20at.com/article.php?sid=947 style="text-decoration: none" target=_blank><font color=#0770DF  onMouseOver="this.style.color=\'#CC3300\'" onMouseOut="this.style.color=\'#0770DF\'"><font face="Arabic Transparent" size="3"><b>شعرة (صفراء) بين الحلال والحرام!!</b></font></a></font></li></div>');
+document.write(' ');
+document.write('<div align="right"><li style="color: #78797A; margin-right: 17; margin-top: 0; margin-bottom: 0" type="square"><a href=http://www.20at.com/article.php?sid=946 style="text-decoration: none" target=_blank><font color=#0770DF  onMouseOver="this.style.color=\'#CC3300\'" onMouseOut="this.style.color=\'#0770DF\'"><font face="Arabic Transparent" size="3"><b>كرسي العرش.. يا كرسى العرش!</b></font></a></font></li></div>');
+document.write(' ');
+document.write('<div align="right"><li style="color: #78797A; margin-right: 17; margin-top: 0; margin-bottom: 0" type="square"><a href=http://www.20at.com/article.php?sid=944 style="text-decoration: none" target=_blank><font color=#0770DF  onMouseOver="this.style.color=\'#CC3300\'" onMouseOut="this.style.color=\'#0770DF\'"><font face="Arabic Transparent" size="3"><b>زكي بن لادن!</b></font></a></font></li></div>');
+document.write('<center><b>');
+document.write('</FONT></td></tr></table>');

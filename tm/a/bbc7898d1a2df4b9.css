@@ -1,0 +1,656 @@
+/* CSS Document */
+.saggel{
+	font-family:arabic-transparent;
+	font-size:15px;
+	color:#0024be;
+	font-weight:bold;
+	margin-top:9px;
+	text-decoration:none;
+}
+.callender_contents {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:9px;
+	font-weight:bold;
+	color:#000000;
+	
+}
+.mainArticle{
+	font-family:arabic-transparent;
+	font-size:19px;
+	color:#000066;
+	font-weight:bold;
+	direction:rtl;
+	text-decoration:none;
+
+}
+
+.callender_gray_contents {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:9px;
+	font-weight:bold;
+	color:#999999;
+}
+
+.reg-text{
+	font-family:arabic-transparent;
+	font-size:14px;
+	color:#656565;
+	font-weight:bold;
+	padding:0px;
+	}
+.footer-archive{
+	font-family:arabic-transparent;
+	font-size:14px;
+	color:#000066;
+	font-weight:bold;
+	padding:0px;
+	text-decoration:none;
+
+}
+
+.forgetpass{
+	font-family:arial;
+	font-size:14px;
+	color:#0024be;
+	font-weight:bold;
+	direction:rtl;
+	
+}
+.ArticleTitle {
+	font-family: "Arabic Transparent";
+	font-size: 26px;
+	font-weight: bold;
+	color: #990000;
+}
+.ArticleText {
+	font-family: "Arabic Transparent";
+	font-size: 18px;
+	font-weight: bold;
+}
+.WeekDays {
+
+	font-family:"Arabic Transparent";
+	font-size:11px;
+	font-weight:bold;
+	color:#003bb3;
+	padding-right:3px;
+}
+.WeatherC {
+
+
+	font-family:"Arabic Transparent";
+	font-size:13px;
+	font-weight:bold;
+	color:#990000;
+	padding-right:3px;
+	direction:rtl;
+}
+.WeekDays {
+
+	font-family:"Arabic Transparent";
+	font-size:11px;
+	font-weight:bold;
+	color:#003bb3;
+	padding-right:3px;
+}
+.WeatherC {
+
+
+	font-family:"Arabic Transparent";
+	font-size:13px;
+	font-weight:bold;
+	color:#990000;
+	padding-right:3px;
+	direction:rtl;
+}
+.marquee{
+	font-family:arial;
+	font-size:15px;
+	color:#0024be;
+	font-weight:bold;
+	direction:rtl;
+}
+
+.dateTitle{
+	font-family:Arabic Transparent;
+	font-size:13px;
+	font-weight:bold;
+	color:#000000;
+}
+.date{
+	font-family:Arabic Transparent;
+	font-size:13px;
+	font-weight:800;
+	color:#ba0000;
+}
+.urgent{
+	font-family:Arabic Transparent;
+	font-size:19px;
+	font-weight:bold;
+	color:#000000;
+	background-repeat:repeat-x;
+	text-align:right;
+	direction:rtl;
+}	
+
+.featured {
+	font-family:Arabic Transparent;
+	font-size:14px;
+	font-weight:bold;
+	color:#003bb3;
+}
+.featuredLead {
+	font-family:Tahoma;
+	font-size:10px;
+	font-weight:normal;
+	color:#000000;
+}
+
+.featuredPics {
+	border: 1px;
+	border-style:thin;
+	border-color:#000000;
+}
+
+.archive {
+    font-family:Arial, Helvetica, sans-serif;
+	font-weight:bold;
+	font-size:14px;
+	color:#04209a;
+	text-align:right;
+	}
+.singleBg
+	{
+	background-repeat:no-repeat;
+	background-position:left bottom;
+	}
+
+.table-borders {
+	border-right-width: 1px;
+	border-left-width: 1px;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	border-right-color: #CCCCCC;
+	border-left-color: #CCCCCC;
+}
+.ArticleTitle {
+	font-family: "Arabic Transparent";
+	font-size: 26px;
+	font-weight: bold;
+	color: #990000;
+}
+
+.mainPageVote
+{
+	text-align:right;
+	font-family:Tahoma;
+	font-weight:normal;
+	font-size:16px;
+	direction:rtl;
+	
+}
+
+#voteQuestion {
+	font-family:Arabic Transparent;
+	font-weight:bold;
+	font-size:14px;
+	color:#b80000;
+}
+.fav_article {
+	font-family:Arabic Transparent;
+	font-weight:bold;
+	font-size:15px;
+	color:#b80000;
+}
+
+#voteOptions {
+	font-family:"Arabic Transparent";
+	font-weight:bold;
+	font-size:14px;
+	color:#0030b8;
+}
+.mini-services {
+	font-family:arabic-transparent;
+	font-size:15px;
+	color:#0024be;
+	font-weight:bold;
+	text-decoration:none;
+
+}.field {
+	font-family: tahoma;
+	font-size: 10px;
+	font-weight: normal;
+	color: #003399;
+	text-decoration: none;
+	height: 15px;
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-color: #999999;
+	border-right-color: #999999;
+	border-bottom-color: #999999;
+	border-left-color: #999999;
+}
+.worldClock {
+	font-family: impact;
+	font-size: 15px;
+	font-weight: normal;
+	color: #B5FF71;
+	text-decoration: none;
+}
+.ArticleAuthor {
+	font-family: "Arabic Transparent", "Simplified Arabic";
+	font-size: 16px;
+	font-weight: bold;
+	color: #003399;
+}
+.WhieTitle {
+	font-family: "Arabic Transparent", "Simplified Arabic";
+	font-size: 16px;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+.fieldInvisible {
+	font-family: tahoma;
+	font-size: 11px;
+	font-weight: normal;
+	color: #003399;
+	text-decoration: none;
+	height: auto;
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+	background-image: url('/tm/a/7e60639730dba94f.gif');
+}
+.fieldInvisibleBox {
+
+	font-family: tahoma;
+	font-size: 12px;
+	font-weight: normal;
+	color: #003399;
+	text-decoration: none;
+	height: auto;
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+	background-image: url('/tm/a/30deaf22f1e36fc9.gif');
+}
+.btmBg {
+	background-repeat: repeat-x;
+	background-position: bottom;
+}
+.commentTitle {
+
+	font-family: "Arabic Transparent";
+	font-size: 24px;
+	font-weight: bold;
+	color: #666666;
+}
+.txtAlert {
+	font-family:"Arabic Transparent";
+	font-weight:bold;
+	font-size:18px;
+	color:#FF0000;
+	text-decoration: none;
+}
+.picBorder {
+	border: 1px solid #999999;
+}
+.midBg {
+
+	background-repeat: repeat-x;
+	background-position: center;
+}
+.articleQoute {
+	font-family: "Arabic Transparent";
+	font-size: 18px;
+	font-weight: bold;
+	color: #003399;
+}
+a.feature:link {
+	font-family: "Arabic Transparent";
+	font-size: 14px;
+	font-weight: bold;
+	color: #003399;
+	text-decoration: none;
+}
+a.feature:visited {
+
+	font-family: "Arabic Transparent";
+	font-size: 14px;
+	font-weight: bold;
+	color: #003366;
+	text-decoration: none;
+}
+a.feature:hover {
+
+	font-family: "Arabic Transparent";
+	font-size: 14px;
+	font-weight: bold;
+	color: #CC0000;
+	text-decoration: none;
+}
+.whiteBorder {
+	border-top-width: thin;
+	border-right-width: thin;
+	border-bottom-width: thin;
+	border-left-width: thin;
+	border-top-color: #FFFFFF;
+	border-right-color: #FFFFFF;
+	border-bottom-color: #FFFFFF;
+	border-left-color: #FFFFFF;
+}
+.footerLinks {
+	font-family: tahoma;
+	font-size: 10px;
+	color: #000099;
+	text-decoration: none;
+}
+
+a.white:link {
+	font-family: "Arabic Transparent";
+	font-size: 14px;
+	font-weight: bold;
+	color: #ffffff;
+	text-decoration: none;
+}
+a.white:visited {
+
+	font-family: "Arabic Transparent";
+	font-size: 14px;
+	font-weight: bold;
+	color: #f0f0f0;
+	text-decoration: none;
+}
+a.white:hover {
+
+	font-family: "Arabic Transparent";
+	font-size: 14px;
+	font-weight: bold;
+	color: #ffff00;
+	text-decoration: none;
+}
+.pray-num {
+	font-family:Arial Black;
+	font-size:10px;
+	color:#A80000;
+}
+.topBg {
+
+
+	background-repeat: repeat-x;
+	background-position: top;
+}
+
+.registration {
+	font-family: tahoma;
+	font-size: 11px;
+	font-weight: normal;
+	color:#660033;
+	text-decoration: none;
+	height: 12px;
+
+}
+
+.regFieldInvisible {
+	font-family: tahoma;
+	font-size: 13px;
+	font-weight: normal;
+	color: #003399;
+	text-decoration: none;
+	height: auto;
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+	background-image: url('/tm/a/7e60639730dba94f.gif');
+}
+.regFieldInvisibleBox {
+
+	font-family: tahoma;
+	font-size: 13px;
+	font-weight: normal;
+	color: #003399;
+	text-decoration: none;
+	height: auto;
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+	background-image: url('/tm/a/30deaf22f1e36fc9.gif');
+}
+
+.ArticleText
+{
+	font-family:arabic transparent;
+	font-size:18px;
+	color:#000000;
+	text-align:right;
+	direction:rtl;
+}
+
+
+.ArticleText h1
+{
+	font-family:arabic transparent;
+	font-size:20px;
+	color:#FF0000;
+	font-weight:bold;
+	text-align:center;
+}
+
+.ArticleText h2
+{
+	font-family:arabic transparent;
+	font-size:20px;
+	color:#0000FF;
+	font-weight:bold;
+	text-align:right;
+}
+
+.ArticleText h3
+{
+	font-family:arabic transparent;
+	font-size:20px;
+	color:#ff0000;
+	font-weight:bold;
+	text-align:right;
+}
+
+.ArticleText a
+{
+	text-decoration:none;
+	color:#0033FF;
+}
+
+.style3 {
+	text-decoration: none;
+	color: #333333;
+	font-weight: bold;
+}
+
+a.redLink:link {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #CC0000;
+	text-decoration: none;
+	font-weight: bold;
+}
+a.redLink:visited {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #CC8000;
+	text-decoration: none;
+	font-weight: bold;
+}
+a.redLink:hover{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #ff0000;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+a.Gen:link {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #0000CC;
+	text-decoration: none;
+	font-weight: bold;
+}
+a.Gen:visited {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #000CC8;
+	text-decoration: none;
+	font-weight: bold;
+}
+a.Gen:hover{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #0000ff;
+	text-decoration: none;
+	font-weight: bold;
+}
+.leftBg {
+	background-repeat: repeat-y;
+	background-position: left;
+}
+.saudiTitle {
+	font-family:Arabic Transparent;
+	font-size:16px;
+	direction:rtl;
+	font-weight:bold;
+	text-decoration:none;
+	color:#006633;
+}
+
+.saudiLead {
+	font-family:Arabic Transparent;
+	font-weight:500;
+	direction:rtl;
+	font-size:13px;
+	color:#003333;
+}
+.saudiPic {
+	border: 1px;
+	border-style:thin;
+	border-color:#009E04;
+}
+
+.WhieLead {
+	font-family: "Arabic Transparent", "Simplified Arabic";
+	font-size: 14px;
+	font-weight: bold;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.WhieTitleLarge {
+	font-family: "Arabic Transparent", "Simplified Arabic";
+	font-size: 19px;
+	font-weight: bold;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+/*  White box for Image Browsing Styles  */
+
+#lightbox{
+	position: absolute;
+	top: 40px;
+	left: 0;
+	width: 100%;
+	z-index: 100;
+	text-align: center;
+	line-height: 0;
+	}
+	
+
+#lightbox a img{ border: none; }
+
+#outerImageContainer{
+	position: relative;
+	background-color: #fff;
+	width: 250px;
+	height: 250px;
+	margin: 0 auto;
+	}
+
+#imageData #imageDetails{ width: 70%; float: left; text-align: left; }	
+#imageData #caption{ font-weight: bold;	}
+#imageData #numberDisplay{ display: block; clear: left; padding-bottom: 1.0em;	}			
+#imageData #bottomNavClose{ width: 66px; float: right;  padding-bottom: 0.7em;	}	
+		
+#overlay{
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: 90;
+	width: 100%;
+	height: 500px;
+	background-color: #000;
+	filter:alpha(opacity=60);
+	-moz-opacity: 0.6;
+	opacity: 0.6;
+	}
+	
+#imageContainer{
+	padding: 10px;
+	}
+
+#loading{
+	position: absolute;
+	top: 40%;
+	left: 0%;
+	height: 25%;
+	width: 100%;
+	text-align: center;
+	line-height: 0;
+	}
+#hoverNav{
+	position: absolute;
+	top: 0;
+	left: 0;
+	height: 100%;
+	width: 100%;
+	z-index: 10;
+	}
+#imageContainer>#hoverNav{ left: 0;}
+#hoverNav a{ outline: none;}
+
+#prevLink, #nextLink{
+	width: 49%;
+	height: 100%;
+	background: transparent url(/tm/missing.gif) no-repeat; /* Trick IE into showing hover */
+	display: block;
+	}
+
+
+#imageDataContainer{
+	font: 10px Verdana, Helvetica, sans-serif;
+	background-color: #fff;
+	margin: 0 auto;
+	line-height: 1.4em;
+	}
+
+#imageData{
+	padding:0 10px;
+	}
+#imageData #imageDetails{ width: 70%; float: left; text-align: left; }	
+#imageData #caption{ font-weight: bold;	}
+#imageData #numberDisplay{ display: block; clear: left; padding-bottom: 1.0em;	}			
+#imageData #bottomNavClose{ width: 66px; float: right;  padding-bottom: 0.7em;	}		
+
+
+
+.ArticlePic_Caption {
+	font-family: tahoma;
+	font-size: 10px;
+	font-weight:lighter;
+	color: #003366;
+}

@@ -119,6 +119,8 @@
     f("talk").href = p.u + "#s-comments-title";
     f("talk").innerHTML = `النقاش كاملًا: <bdi>${num(p.n)}</bdi> تعليقًا ←`;
     f("tmlabel").textContent = "يوم " + p.date;
+    // the site's front page in the time machine on that day (the nearest saved day: /tm/<site>/ picks it)
+    f("tm").href = "/tm/" + (p.site || "20at") + "/?d=" + String(p.ymd || "").replace(/-/g, "");
   }
 
   // ---- on this day -----------------------------------------------------------------------------------------

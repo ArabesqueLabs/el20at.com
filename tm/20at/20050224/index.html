@@ -1,0 +1,1284 @@
+﻿<HTML>
+<HEAD><meta name="robots" content="noindex, follow">
+<TITLE>عشرينات .. شباب النت </TITLE>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=utf-8">
+            
+
+<head>
+<style TYPE="text/css">
+
+
+.body_Level_3 
+{
+background-image: url("/tm/missing.gif");
+background-repeat: repeat-x;
+background-attachment: scroll;
+background-position: 0px 0px;
+}
+
+.bodyText {
+	background-color : #ffffff;
+	font-family:"Arabic Transparent";
+	PADDING-RIGHT: 30px
+	font-size:14pt;
+	font-weight:normal;	
+	text-align:right;
+	margin-right: 0px; 
+	margin-left: 0px; 
+	margin-top: 6px; 
+	margin-bottom: 6px; 
+	  }
+
+
+.title {
+	font-family:"Arabic Transparent";
+	PADDING-RIGHT: 0px;
+	font-size:13pt;
+	font-weight:bold;	
+	text-align:center;
+	margin-right: 6px; 
+	margin-left: 0px; 
+	margin-top: 2px; 
+	margin-bottom: 0px; 
+	  }
+
+.title2 {
+	font-family:"Arabic Transparent";
+	PADDING-RIGHT: 0px;
+	font-size:13pt;
+	font-weight:bold;	
+	text-align:right;
+	margin-right: 6px; 
+	margin-left: 0px; 
+	margin-top: 2px; 
+	margin-bottom: 0px; 
+	  }
+	  
+.summary {
+	font-family:"Tahoma";
+	PADDING-RIGHT: 6px;
+	font-size:8pt;
+	font-weight:normal;	
+	text-align:right;
+	margin-right: 6px; 
+	margin-left: 0px; 
+	margin-top: 0px; 
+	margin-bottom: 0px; 
+	  }
+	  
+.bottom {
+	font-family:"Tahoma";
+	PADDING-RIGHT: 6px;
+	font-size:10pt;
+	font-weight:normal;	
+	text-align:center;
+	PADDING-right: 0px; 
+	PADDING-left: 0px; 
+	PADDING-top: 6px; 
+	PADDING-bottom: 6px; 
+	  }
+	  
+
+.01 {
+	font-family:"Arabic Transparent";
+	PADDING-RIGHT: 0px;
+	font-size:11pt;
+	font-weight:bold;	
+	text-align:center;
+	margin-right: 0px; 
+	margin-left: 0px; 
+	margin-top: 2px; 
+	margin-bottom: 0px; 
+	  }
+
+
+A:link {text-decoration: none; color:#006ADF;}
+A:visited { text-decoration: none; color:#006ADF; }
+A:hover { text-decoration: none; color:#006699;}
+
+
+A.bottom:link {text-decoration: none; color:#006ADF;}
+A.bottom:visited { text-decoration: none; color:#006ADF; }
+A.bottom:hover { text-decoration: none; color:#006699;}
+
+
+A.01:link {text-decoration: none; color:#FF6F2F;}
+A.01:visited { text-decoration: none; color:#FF6F2F; }
+A.01:hover { text-decoration: none; color:#CC6633;}
+
+
+
+
+#bg1 {
+	background-color: #F7941D;
+	  }
+
+
+.cov{
+	border-style: solid;
+	border-color: #000000;
+	border-width: 1px;
+	
+	}
+
+
+.list_index
+{
+list-style-image: url(/tm/missing.gif);
+
+}
+
+
+.txtbox {  background-color: #ffffff; border-color: #2D4E8D; width: 100px; height: 19px; border-style: solid; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px}
+
+
+</style>
+</head>
+
+
+<script LANGUAGE="JavaScript">
+
+var speed = 10 
+
+// decrease value to increase speed (must be positive)
+// set pause between completion of message and beginning of following message
+var pause = 3000 
+
+// increase value to increase pause
+// set initial values
+var timerID = null
+var bannerRunning = false
+
+// create array
+var ar = new Array()
+
+// assign the strings to the array's elements
+ar[0] = ""
+ar[1] = ""
+ar[2] = ""
+ar[3] = ""
+
+// assign index of current message
+var message = 0
+
+// empty string initialization
+var state = ""
+
+// no value is currently being displayed
+clearState()
+
+// stop the banner if it is currently running
+function stopBanner() {	
+	// if banner is currently running	
+	if (bannerRunning)		
+	// stop the banner		
+	clearTimeout(timerID)	
+	// timer is now stopped	
+	timerRunning = false
+}
+
+// start the banner
+function startBanner() {	
+	// make sure the banner is stopped	
+	stopBanner()	
+	// start the banner from the current position	
+	showBanner()
+}
+
+// assign state a string of "0" characters of the length of the current message
+function clearState() {	
+	// initialize to empty string	
+	state = ""	
+	// create string of same length containing 0 digits	
+	for (var i = 0; i < ar[message].length; ++i) {		
+		state += "0"	
+	}
+}
+
+// display the current message
+function showBanner() {	
+	// if the current message is done	
+	if (getString()) {		
+		// increment message		
+		message++		
+		// if new message is out of range wrap around to first message		
+	if (ar.length <= message)			
+		message = 0		
+		// new message is first displayed as empty string		
+		clearState()		
+		// display next character after pause milliseconds		
+		timerID = setTimeout("showBanner()", pause)	
+	} 
+	else {		
+		// initialize to empty string		
+		var str = ""		
+		// built string to be displayed (only character selected thus far are displayed)		
+	for (var j = 0; j < state.length; ++j) {			
+		str += (state.charAt(j) == "1") ? ar[message].charAt(j) : "     "		
+	}		
+	// partial string is placed in status bar		
+	window.status = str		
+	// add another character after speed milliseconds		
+	timerID = setTimeout("showBanner()", speed)	
+	}
+}
+
+function getString() {	
+	// set variable to true (it will stay true unless proven otherwise)	
+	var full = true	
+	// set variable to false if a free space is found in string (a not-displayed char)	
+	for (var j = 0; j < state.length; ++j) {		
+		// if character at index j of current message has not been placed in displayed string		
+		if (state.charAt(j) == 0)			
+		full = false	
+	}	
+	// return true immediately if no space found (avoid infinitive loop later)	
+	if (full) return true	
+	// search for random until free space found (braoken up via break statement)	
+	while (1) {		
+		// a random number (between 0 and state.length - 1 == message.length - 1)		
+		var num = getRandom(ar[message].length)		
+		// if free space found break infinitive loop		
+	if (state.charAt(num) == "0")			
+		break	
+	}	
+	// replace the 0 character with 1 character at place found	
+	state = state.substring(0, num) + "1" + state.substring(num + 1, state.length)	
+	// return false because the string was not full (free space was found)	
+	return false
+}
+
+function getRandom(max) {	
+	// create instance of current date	
+	var now = new Date()		
+	// create a random number (good generator)	
+	var num = now.getTime() * now.getSeconds() * Math.random()	
+	// cut random number to value between 0 and max - 1, inclusive	
+	return num % max
+}
+startBanner()
+// -->
+</script>
+
+
+
+</HEAD>
+<BODY LEFTMARGIN=0 rightMARGIN=0 TOPMARGIN=0 MARGINWIDTH=0 MARGINHEIGHT=0><script>window.urchinTracker=window.urchinTracker||function(){};</script><script src="/js/tm-bar.js" data-redrawn="1" charset="utf-8" data-site="20at" data-day="20050224" data-ts="20050224022110" data-wb="https://web.archive.org/web/20050224022110/http://www.20at.com:80/"></script>
+<div align="center">
+  <center>
+  <table border="0" cellpadding="0" cellspacing="0" width="780">
+    <tr>
+      <td>
+      <!--header of the index  -->
+<div align="left">
+  <table border="0" cellpadding="0" cellspacing="0" width="780">
+    <tr>
+      <td background="/tm/a/5ae2f547a428d129.jpg" width="14">
+			<IMG SRC="/tm/missing.gif" WIDTH=1 HEIGHT=3 ALT="" data-tm-missing="/trick.jpg"></td>
+      <td background="/tm-fix/new/images/top_ad_06.jpg">
+            <IMG SRC="/tm/missing.gif" WIDTH=1 HEIGHT=3 ALT="" data-tm-missing="/trick.jpg"></td>
+      <td background="/tm/a/6415adfeb579fc4f.jpg" width="14">
+            <IMG SRC="/tm/missing.gif" WIDTH=1 HEIGHT=3 ALT="" data-tm-missing="/trick.jpg"></td>
+    </tr>
+  </table>
+</div>
+
+<TABLE WIDTH=780 BORDER=0 CELLPADDING=0 CELLSPACING=0>
+	<TR>
+		<TD width="14" background="/tm/a/5ae2f547a428d129.jpg">
+            &nbsp;</TD>
+		<TD background="/tm-fix/new/images/top_ad_06.jpg">
+<TABLE BORDER=0 CELLPADDING=0 CELLSPACING=0>
+	<TR>
+		<TD COLSPAN=4 background="/tm-fix/new/images/top_ad_06.jpg">
+			<IMG SRC="/tm/a/9771263f417273c6.jpg" WIDTH=74 HEIGHT=25 ALT=""></TD>
+	</TR>
+	<TR>
+		<TD>
+			<IMG SRC="/tm/a/812fcef32856f961.jpg" WIDTH=30 HEIGHT=35 ALT=""></TD>
+		<TD>
+	<a href="https://web.archive.org/web/20050224022110/http://www.20at.com/board/index.php"><IMG SRC="/tm/a/4bcba30431049977.jpg" WIDTH=69 HEIGHT=35  border="0" ALT=""></a></TD>
+		<TD>
+		<a href="https://web.archive.org/web/20050224022110/http://www.20at.com/all.php"><IMG border="0" SRC="/tm/a/a8f1ed9b0bf81232.jpg" WIDTH=87 HEIGHT=35 ALT=""></a></TD>
+		<TD>
+			<IMG SRC="/tm/a/3e77ad31ac8c3869.jpg" WIDTH=64 HEIGHT=35 ALT=""></TD>
+	</TR>
+</TABLE>
+        </TD>
+		<TD width="502" background="/tm-fix/new/images/top_ad_06.jpg" valign="bottom" align="right">
+          <div align="right">
+  <table border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td>
+    <a href="/tm/20at/?d=20050224"></a></a></td>
+      </td>
+      <td width="12">&nbsp;<IMG SRC="/tm/missing.gif" WIDTH=12 HEIGHT=1 data-tm-missing="/trick.jpg"></td>
+    </tr>
+  </table>
+</div>
+
+        
+        </TD>
+		<TD background="/tm/a/6415adfeb579fc4f.jpg" width="14">
+            &nbsp;</TD>
+	</TR>
+</TABLE>
+<!-- end header-->
+        
+      </td>
+    </tr>
+  </table>
+  </center>
+</div>
+<div align="center">
+  <center>
+  <table border="0" cellpadding="0" cellspacing="0" width="780">
+    <tr>
+      <td>
+            
+<TABLE WIDTH=780 BORDER=0 CELLPADDING=0 CELLSPACING=0>
+	<TR>
+		<TD>
+			<IMG SRC="/tm/a/5ae2f547a428d129.jpg" WIDTH=14 HEIGHT=34 ALT=""></TD>
+		<TD>
+			<IMG SRC="/tm/a/c8c62c8cf7fe2344.jpg" WIDTH=35 HEIGHT=34 ALT=""></TD>
+		<TD>
+            <a href="https://web.archive.org/web/20050224022110/http://www.20at.com/religion.shtml">
+			<IMG SRC="/tm/a/0c1c10034778a560.jpg" WIDTH=25 HEIGHT=34 ALT="" border="0"></a></TD>
+		<TD>
+            <a href="https://web.archive.org/web/20050224022110/http://www.20at.com/multifold.shtml">
+			<IMG SRC="/tm/a/256c8f86352b589c.jpg" WIDTH=45 HEIGHT=34 ALT="" border="0"></a></TD>
+		<TD>
+            <a href="https://web.archive.org/web/20050224022110/http://www.20at.com/politics.shtml">
+			<IMG SRC="/tm/a/831899bad2ce9b51.jpg" WIDTH=43 HEIGHT=34 ALT="" border="0"></a></TD>
+		<TD>
+            <a href="https://web.archive.org/web/20050224022110/http://www.20at.com/arts.shtml">
+			<IMG SRC="/tm/a/e75eaedc8c3969c0.jpg" WIDTH=33 HEIGHT=34 ALT="" border="0"></a></TD>
+		<TD>
+            <a href="https://web.archive.org/web/20050224022110/http://www.20at.com/relations.shtml">
+			<IMG SRC="/tm/a/b0a3aefde0025c23.jpg" WIDTH=42 HEIGHT=34 ALT="" border="0"></a></TD>
+		<TD background="/tm-fix/new/images/top_me_14.jpg" width="139">
+            &nbsp;</TD>
+		<TD>
+			<IMG SRC="/tm/a/0ee17131f42ca025.jpg" WIDTH=9 HEIGHT=34 ALT=""></TD>
+		<TD>
+			<IMG SRC="/tm/a/befada505f0531a6.jpg" WIDTH=120 HEIGHT=34 ALT=""></TD>
+		<TD background="/tm-fix/new/images/top_me_14.jpg" width="43">
+            &nbsp;</TD>
+		<TD>
+			<IMG SRC="/tm/a/e72db29cb63ee6f6.jpg" WIDTH=8 HEIGHT=34 ALT=""></TD>
+		<TD width="210" background="/tm-fix/new/images/top_me_14.jpg">
+            <font face="Arabic Transparent"><b>آخر تحديث : 24-2-2005</b></font>
+        
+        </TD>
+		<TD width="14">
+			<IMG SRC="/tm/a/6415adfeb579fc4f.jpg" WIDTH=14 HEIGHT=34 ALT=""></TD>
+	</TR>
+</TABLE>
+
+        
+      </td>
+    </tr>
+  </table>
+  </center>
+</div>
+<div align="center">
+  <center>
+<table border="0" cellpadding="0" cellspacing="0" width="780">
+  <tr>
+    <td width="14" valign="top" background="/tm-fix/new/images/column_01_1_01.jpg" rowspan="2">
+			<IMG SRC="/tm/missing.gif" width=14 height=1 data-tm-missing="/trick.jpg">
+            <p>
+            &nbsp;</p>
+    </td>
+    <td valign="top">
+<TABLE BORDER=0 CELLPADDING=0 CELLSPACING=0>
+	<TR>
+		<TD ROWSPAN=3 valign="top">
+			<IMG SRC="/tm/a/edf010921169319d.jpg" width=11 height=176 ALT=""></TD>
+		<TD height="8">
+			<IMG SRC="/tm/a/94f86bbad488885b.jpg" width=348 height=8 ALT=""></TD>
+		<TD ROWSPAN=3 valign="top">
+			<IMG SRC="/tm/a/fc742ab7a320f9e9.jpg" width=12 height=176 ALT=""></TD>
+	</TR>
+	<TR>
+		<TD height="164" background="" valign="top" data-tm-missing="/new/images/column_01_1_shadow.jpg">
+<!-- up left three left topics-->
+<TABLE BORDER=0 CELLPADDING=0 CELLSPACING=0>
+	<TR>
+		<TD width="6">
+			&nbsp;</TD>
+		<TD>
+                       <a href="/articles/a1010/">
+			<IMG SRC="/tm/missing.gif" dir="rtl" border="0" ALT="فيلم كوميدي جداً، قصة مؤثرة، مشاهد نظيفة، وممثلين لهم وزنهم، مع عدم وجود الفنان حسن حسني (العامل المشترك بين جميع الأفلام الكوميدية الحالية)، كانت كلها عوامل لخروج الفيلم جديد نسبياً، وغير معتاد. " width="70" height="51" data-tm-missing="/images/main/kareem-abdel-aziz.jpg"></a></TD>
+		<TD width="272" valign="top" dir="rtl">
+            <p class="title2"><span lang="ar-eg">
+			<a href="/articles/a1010/">أبو علي.. بالأسود والأحمر!</a></span></p>
+			<p class="summary"><span lang="ar-eg">دويتو جديد يحلل فيلم  "أبو علي"..</span></TD>
+
+	<TR>
+		<TD colspan="3">
+<TABLE BORDER=0 CELLPADDING=0 CELLSPACING=0>
+	<tr>
+		<TD>
+			<IMG SRC="/tm/a/783f47b7301ebff6.jpg" width=348 height=2 ALT=""></TD>
+	</tr>
+	</TABLE>
+		</TD>
+		<TR>
+		<TD width="6" height="57">
+			&nbsp;</TD>
+		<TD>
+                  <a href="/articles/a1008/">
+			<IMG SRC="/tm/missing.gif" dir="rtl" border="0" ALT="أما رامي فيقول: "كلنا عايزين نكون أفضل بس إزاي.. أنا راضى على شكلي وهو كده، بس بجد عايز أغير أسلوبي في الحياة، نفسي أكون صاحب مبدأ ورسالة في الحياة، نفسي أعمل أي حاجة، إيه هي مش عارف". " width="70" height="51" data-tm-missing="/images/main/new-look-1.jpg"></a></TD>
+		<TD width="272" valign="top" dir="rtl">
+            <p class="title2"><span lang="ar-eg">
+			<a href="/articles/a1006/">كامل الأوصاف حضرتك؟!..</a></span></p>
+			<p class="summary"><span lang="ar-eg">وماذا عن مضمونك؟! أخلاقك.. قلبك.. </span></TD>
+	</tr>
+	</TABLE>
+<TABLE BORDER=0 CELLPADDING=0 CELLSPACING=0>
+	<tr>
+		<TD>
+			<IMG SRC="/tm/a/783f47b7301ebff6.jpg" width=348 height=2 ALT=""></TD>
+	</tr>
+	</TABLE>
+<TABLE BORDER=0 CELLPADDING=0 CELLSPACING=0>
+	<tr>
+		<TD width="6">
+			&nbsp;</TD>
+		<TD>
+                 <a href="/articles/a1006/">
+			<IMG SRC="/tm/missing.gif" dir="rtl" border="0" ALT="هل استطعت من قبل أن تتنبأ بحدث معين قبل حدوثه؟! أو استطعت قراءة ما يدور في عقل شخص أمامك؟!.. لو قلت (آه) فأنت عندك الحاسة السادسة، ولو قلت ( لا ) – فـاللأسف- تبقى مش عندك.. بسيطة صح؟! " width="70" height="51" data-tm-missing="/images/main/six-sense-1.jpg"></a></TD>
+		<TD width="272" valign="top" dir="rtl">
+            <p class="title2"><span lang="ar-eg">
+			<a href="/articles/a1006/">عندك الحاسة السادسة؟!</a></span></p>
+			<p class="summary"><span lang="ar-eg">الحاسة السادسة هي إحساس فطري لا إرادي..</span></TD>
+
+	<tr>
+<!-- end up left-->
+		<TD colspan="3">
+<TABLE BORDER=0 CELLPADDING=0 CELLSPACING=0>
+	<tr>
+		<TD>
+			<IMG SRC="/tm/a/783f47b7301ebff6.jpg" width=348 height=2 ALT=""></TD>
+	</tr>
+	</TABLE>
+		</TD>
+		</tr>
+	<tr>
+		<TD COLSPAN=3>
+			<IMG SRC="/tm/a/783f47b7301ebff6.jpg" width=348 height=2 ALT=""></TD>
+	</tr>
+</TABLE>
+<TABLE BORDER=0 CELLPADDING=0 CELLSPACING=0>
+	</TABLE>
+        </TD>
+	</TR>
+	<TR>
+		<TD height="4">
+			<IMG SRC="/tm/a/402471d8c515f4fc.jpg" width=348 height=4 ALT=""></TD>
+	</TR>
+</TABLE>
+<div align="left">
+<!-- middle left three horizontaly aligned topics-->
+<table border="0" cellpadding="0" cellspacing="0" width="371">
+    <tr>
+      <td width="14" valign="top">
+            <IMG SRC="/tm/missing.gif" width=14 height=1 data-tm-missing="/trick.jpg"></td>
+      <td width="101" valign="top">
+<TABLE BORDER=0 CELLPADDING=0 CELLSPACING=0>
+	<TR>
+		<TD>
+			<IMG SRC="/tm/missing.gif" ALT="" width="101" height="13" data-tm-missing="/images/column_01_2_03.jpg"></TD>
+	</TR>
+	</TABLE>
+<TABLE BORDER=0 CELLPADDING=0 CELLSPACING=0>
+	<TR>
+		<TD>
+             <a href="https://web.archive.org/web/20050224022110/http://www.20at.com/article.php?sid=1005">
+			<IMG SRC="/tm/missing.gif" dir="rtl" border="0" ALT="شارع حيفا الذي كان يعج بالحركة والحياة أصبح منطقة مخيفة يتجنب الناس الذهاب إليها، ويسرع قائدو السيارات للخروج منها بأقصى سرعة بسبب المقاومة المتواجدة في كل ركن من الشارع. " width="98" height="67" data-tm-missing="/images/main/heifa-3.jpg"></a></TD>
+		<TD>
+            <IMG SRC="/tm/missing.gif" width=3 height=67 ALT="" data-tm-missing="/images/column_01_2_11.jpg"></TD>
+	</TR>
+	<TR>
+		<TD COLSPAN=2>
+            <IMG SRC="/tm/missing.gif" width=101 height=4 ALT="" data-tm-missing="/images/column_01_2_16.jpg"></TD>
+	</TR>
+	<TR>
+		<TD COLSPAN=2 dir="rtl" valign="top">
+            <p class="01" align="center">
+			<a class="01" href="https://web.archive.org/web/20050224022110/http://www.20at.com/article.php?sid=1005">شارع حيفا</a></p>
+        </TD>
+	</TR>
+</TABLE>
+      </td>
+      <td valign="top" width="20">
+			<IMG SRC="/tm/missing.gif" ALT="" width=20 height=1 data-tm-missing="/trick.jpg"></td>
+      <td valign="top" width="101">
+<TABLE BORDER=0 CELLPADDING=0 CELLSPACING=0>
+	<TR>
+		<TD>
+            <IMG SRC="/tm/missing.gif" ALT="" width="101" height="13" data-tm-missing="/images/column_01_2_03.jpg"></TD>
+	</TR>
+	</TABLE>
+<TABLE BORDER=0 CELLPADDING=0 CELLSPACING=0>
+	<TR>
+		<TD>
+             
+             <a href="/articles/a1002/">
+			<IMG SRC="/tm/missing.gif" width=98 height=67 dir="rtl" border="0"  ALT="الجميل أن المناضل الصغير يعشق السياسة جداً" data-tm-missing="/images/main/youth-33.jpg"></a></TD>
+		<TD>
+            <IMG SRC="/tm/missing.gif" width=3 height=67 ALT="" data-tm-missing="/images/column_01_2_11.jpg"></TD>
+	</TR>
+	<TR>
+		<TD COLSPAN=2>
+            <IMG SRC="/tm/missing.gif" width=101 height=4 ALT="" data-tm-missing="/images/column_01_2_16.jpg"></TD>
+	</TR>
+	<TR>
+		<TD COLSPAN=2 width="101" dir="rtl" valign="top">
+            <p class="01">
+			<span lang="ar-eg">
+			<a class="01" href="/articles/a1002/">مناضل ف ابتدائي!</a></span></p>
+        </TD>
+	</TR>
+</TABLE>
+      </td>
+      <td valign="top" width="19">
+            <IMG SRC="/tm/missing.gif" width=19 height=1 data-tm-missing="/trick.jpg"></td>
+      <td valign="top" width="51">
+<TABLE BORDER=0 CELLPADDING=0 CELLSPACING=0>
+	<TR>
+		<TD COLSPAN=2>
+            <IMG SRC="/tm/missing.gif" ALT="" width="101" height="13" data-tm-missing="/images/column_01_2_03.jpg"></TD>
+	</TR>
+	<TR>
+		<TD>
+             
+             <a href="https://web.archive.org/web/20050224022110/http://www.20at.com/article.php?sid=1000">
+			<IMG SRC="/tm/missing.gif" dir="rtl" border="0" ALT="لقاء واحد جمع السادات بالطلاب.. يومها قالوا له كلاما غير كلام المديح المعتاد.. ورأوا الرئيس وهو يشخط وينطر مدافعاً عن هيبته أمام عيال في العشرينات" width="98" height="67" data-tm-missing="/images/main/sadat-22.jpg"></a></TD>
+		<TD>
+            <IMG SRC="/tm/missing.gif" width=3 height=67 ALT="" data-tm-missing="/images/column_01_2_11.jpg"></TD>
+	</TR>
+	<TR>
+		<TD COLSPAN=2>
+            <IMG SRC="/tm/missing.gif" width=101 height=4 ALT="" data-tm-missing="/images/column_01_2_16.jpg"></TD>
+	</TR>
+	<TR>
+		<TD COLSPAN=2 width="101" dir="rtl" valign="top">
+            <p class="01" align="center">
+			<a href="https://web.archive.org/web/20050224022110/http://www.20at.com/article.php?sid=1000" class="01">في وش السادات!</a></p>
+        </TD>
+	</TR>
+</TABLE>
+      </td>
+      <td valign="top" width="7"><IMG SRC="/tm/missing.gif" width=7 height=1 data-tm-missing="/trick.jpg"></td>
+      <td valign="top" width="8" background="/tm/a/0e5be8797a0048f4.jpg">
+			<IMG SRC="/tm/a/0e5be8797a0048f4.jpg" width=8 height=131 ALT=""></td>
+    </tr>
+  </table>
+</div>
+<!-- /middle left -->
+
+<!-- four bannar colomn-->
+<div align="left">
+  <table border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td width="8" valign="top">
+			<IMG SRC="/tm/missing.gif" width=8 height=1 ALT="" data-tm-missing="/trick.jpg"></td>
+      <td valign="top" width="141">
+        <div align="left">
+          <table border="0" cellpadding="0" cellspacing="0" width="141">
+            <tr>
+              <td><a href="/articles/a1011/"><IMG border="0" SRC="/tm/missing.gif" width="141" height="500" dir="rtl" ALT="" data-tm-missing="/images/main/malaf-bannar.jpg"></a></td>
+            </tr>
+            <tr>
+              <td><IMG SRC="/tm/missing.gif" width=1 height=6 ALT="" data-tm-missing="/trick.jpg"></td>
+            </tr>
+            <tr>
+              <td><a href="/tm/20at/?d=20050224"></a></td>
+
+</td>
+            </tr>
+            <tr>
+              <td><IMG SRC="/tm/missing.gif" width=1 height=6 ALT="" data-tm-missing="/trick.jpg"></td>
+            </tr>
+            <tr>
+              <td><a href="/articles/a845/"><IMG border="0" SRC="/tm/missing.gif" width=141 height=200 ALT="عموما.. خطوة جريئة من عشرينات إنها فتحت سينما أون لاين مرة واحدة .. وإن شاء الله ستعرض أفلاما شبابية قصيرة.. مشروعات تخرج من معهد السينما، أفلام من الفيديو المنزلي، أفلام قصيرة بالتليفون المحمول..  
+الفيلم الأول الذي سنفتتح به دار عرض عشرينات هو لعبة البيت .. من إنتاج معهد السينما بمصر وهو فيلم قصير ولذيذ والأهم... أنه عيالي!  " data-tm-missing="/images/main/ax002670.gif"></a></td>
+            </tr>
+            <tr>
+              <td><IMG SRC="/tm/missing.gif" width=1 height=6 ALT="" data-tm-missing="/trick.jpg"></td>
+            </tr>
+            <tr>
+              <td><a href="https://web.archive.org/web/20050224022110/http://www.maganin.com" target="_blank"><IMG border="0" SRC="/tm/missing.gif" width=141 height=60 dir="rtl" ALT="&#1607;&#1584;&#1575; &#1605;&#1608;&#1602;&#1593;&#1612; &#1604;&#1605;&#1580;&#1575;&#1606;&#1610;&#1606; &#1575;&#1604;&#1593;&#1602;&#1604;&#1575;&#1569; &#1608; &#1593;&#1602;&#1604;&#1575;&#1569; &#1575;&#1604;&#1605;&#1580;&#1575;&#1606;&#1610;&#1606;&#1606; &#1608;&#1607;&#1608; &#1605;&#1603;&#1575;&#1606; &#1610;&#1604;&#1578;&#1602;&#1610; &#1601;&#1610;&#1607; &#1575;&#1604;&#1607;&#1608;&#1575;&#1577; &#1605;&#1593; &#1575;&#1604;&#1605;&#1581;&#1578;&#1585;&#1601;&#1610;&#1606; &#1604;&#1610;&#1578;&#1583;&#1575;&#1608;&#1604;&#1608;&#1575; &#1601;&#1610; &#1588;&#1574;&#1608;&#1606; &#1575;&#1604;&#1593;&#1602;&#1604; &#1608;&#1575;&#1604;&#1606;&#1601;&#1587; &#1608;&#1575;&#1604;&#1585;&#1608;&#1581; &#1608;&#1588;&#1593;&#1575;&#1585;&#1606;&#1575;: &#1575;&#1604;&#1589;&#1581;&#1577; &#1575;&#1604;&#1606;&#1601;&#1587;&#1610;&#1577; &#1604;&#1604;&#1580;&#1605;&#1610;&#1593;" data-tm-missing="/images/main/maganin.gif"></a></td>
+            </tr>
+            <tr>
+              <td height="101">&nbsp;</td>
+            </tr>
+          </table>
+        </div>
+      </td>
+      <td valign="top" width="8"><IMG SRC="/tm/missing.gif" width=8 height=1 ALT="" data-tm-missing="/trick.jpg"></td>
+      <td valign="top" width="206">
+        <div align="left">
+<!-- movie colomn -->
+          <table border="0" cellpadding="0" cellspacing="0">
+            <tr>
+              <td>
+			<IMG SRC="/tm/a/e7f11b9b5889b9a2.jpg" width=206 height=1 ALT=""></td>
+            </tr>
+            <tr></td>&nbsp;</td></tr>
+            <tr>
+              <td>
+			
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+
+<body>
+
+
+
+
+<script language="javascript">
+
+function newWin() {
+  var win = window.open("http://www.20at.com/plug/cinema.html", "_blank", "width=470, height=445, status=0, menubar=0, toolbar=0, scrollbars=0, resizable=0");
+}
+
+</script>
+
+	<a href="/articles/a1001/"><IMG border="0" SRC="/tm/missing.gif" width=206 height=161 ALT="شاهد معنا شهادة د.عيد المنعم أبو الفتوح" data-tm-missing="/images/articles/abou-fotoh.jpg"></a>
+		</td>
+            </tr>
+<tr>
+              <td align="center">
+                <p align="center" dir="rtl" class="title">
+				<a class="000000" href="/articles/a1001/">
+				<span lang="ar-eg">الألفا.. أبو الفتوح!</span></a></td>
+            </tr>
+            <tr>
+              <td>
+			<IMG SRC="/tm/missing.gif" WIDTH=1 HEIGHT=5 ALT="" data-tm-missing="/trick.jpg">
+<TABLE BORDER=0 CELLPADDING=0 CELLSPACING=0 dir="ltr" width="100%">
+	<TR>
+		<TD>
+			<IMG SRC="/tm/missing.gif" WIDTH=1 HEIGHT=11 ALT="" data-tm-missing="/trick.jpg"></TD>
+		<TD ROWSPAN=3 width="29">
+			<IMG SRC="/tm/a/d8144e4c8e53ef65.jpg" width=29 height=23 ALT=""></TD>
+	</TR>
+	<TR>
+		<TD background="/tm/a/065229c3fab71992.jpg">
+			<IMG SRC="/tm/missing.gif" width=1 height=1 ALT="" data-tm-missing="/trick.jpg"></TD>
+	</TR>
+	<TR>
+		<TD>
+			<IMG SRC="/tm/missing.gif" WIDTH=1 HEIGHT=11 ALT="" data-tm-missing="/trick.jpg"></TD>
+	</TR>
+</TABLE>
+<!-- malafat colomn-->
+<table border="0" cellpadding="0" cellspacing="0">
+   <tr>
+     <td valign="bottom" rowspan="2">
+		<IMG SRC="/tm/a/04758cb541169946.gif" width=100 height=48 ALT=""> </td>
+      <td dir="rtl">
+            <p style="font-size: 13pt; margin-right: 6; margin-top: 0; margin-bottom: -4" align="right">
+			<span lang="ar-eg"><b>
+			<font face="Arabic Transparent" color="#000000">إيزي موزو!</font></b></span></p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td valign="top"><IMG SRC="/tm/a/437cb5318aa189ec.jpg" width=106 height=2 ALT=""></td>
+                    </tr>
+                  </table>
+              </td>
+            </tr>
+            <tr>
+              <td dir="rtl">
+                <ul style="color: #78797A; margin-right: 17; margin-top: 0; margin-bottom: 0" type="square">
+                  <li>
+                    <p style="line-height: 115%; margin-top: 6; margin-bottom: 0">
+					<b><a href="/articles/a238/">
+					<font face="Arabic Transparent" color="#FF0000">مدن الحب والغريزة!</font></a></b></li>
+                  <li>
+                    <p style="font-size: 12pt; line-height: 115%; margin-top: 6; margin-bottom: 0">
+					<b><a href="/articles/b1270/">
+					<font face="Arabic Transparent" color="#000000">بحبك.. رغم أنف رمضان!</font></a></b></li>
+                  <li>
+                    <p style="font-size: 12pt; line-height: 115%; margin-top: 6; margin-bottom: 0">
+					<b><a href="/articles/a509/">
+					<font face="Arabic Transparent" color="#FF0000">أنا مش بتاع حب وجواز!</font></a></b></li>
+                                  </ul>
+              </td>
+            </tr>
+            <tr>
+              <td>
+<IMG SRC="/tm/missing.gif" WIDTH=1 HEIGHT=5 ALT="" data-tm-missing="/trick.jpg">
+<TABLE BORDER=0 CELLPADDING=0 CELLSPACING=0>
+	<TR>
+		<TD ROWSPAN=2>
+			<IMG SRC="/tm/a/58216e317e8e8fc4.jpg" width=100 height=48 ALT=""></TD>
+		<TD>
+			<p dir="rtl" style="margin-top: 0; margin-bottom: 0" align="right">
+			<b><font face="Arabic Transparent" color="#000000">
+			<span lang="ar-eg">خمسة جد</span></font></b></p>
+			</TD>
+	</TR>
+	<TR>
+		<TD>
+			<IMG SRC="/tm/a/8754d16e9a63dea3.jpg" width=106 height=2 ALT=""></TD>
+	</TR>
+</TABLE>
+              </td>
+            </tr>
+            <tr>
+              <td dir="rtl">
+                <ul style="color: #78797A; margin-right: 17; margin-top: 0; margin-bottom: 0" type="square">
+                    <li>
+<p style="line-height: 115%; margin-top: 6; margin-bottom: 0">
+					<b><a href="/articles/a657/">
+					<font face="Arabic Transparent" color="#000000">حب زميلتك من غير ما تترفد</font></a></b></p>
+				  <li>	<p style="line-height: 115%; margin-top: 6; margin-bottom: 0">
+					<b><a href="/articles/a794/">
+					<font face="Arabic Transparent" color="#FF0000">يالا نحب بجد!</font></a></b></p>
+					<li>
+					<p style="line-height: 115%; margin-top: 6; margin-bottom: 0">
+					<b><a href="https://web.archive.org/web/20050224022110/http://www.20at.com/article.php?sid=836">
+					<font face="Arabic Transparent" color="#000000">حُب الفلسطينية</font></a></b></li>
+                         </ul>
+              </td>
+            </tr>
+            <tr>
+              <td>
+<IMG SRC="/tm/missing.gif" WIDTH=1 HEIGHT=5 ALT="" data-tm-missing="/trick.jpg">
+<TABLE BORDER=0 CELLPADDING=0 CELLSPACING=0>
+	<TR>
+		<TD ROWSPAN=3>
+			<IMG SRC="/tm/a/58216e317e8e8fc4.jpg" width=100 height=48 ALT=""></TD>
+		<TD>
+			<IMG SRC="/tm/missing.gif" width=1 height=27 ALT="" data-tm-missing="/trick.jpg"></TD>
+	</TR>
+	<TR>
+		<TD dir="rtl">
+            <p style="font-size: 13pt; margin-right: 6; margin-top: 0; margin-bottom: -4" align="right">
+			<span lang="ar-eg"><b>
+			<font face="Arabic Transparent" color="#000000">ممكن تحبني؟!</font></b></span>
+        </TD>
+	</TR>
+	<TR>
+		<TD>
+            <IMG SRC="/tm/a/76426d74bd6a60f5.jpg" width=106 height=2 ALT=""></TD>
+	</TR>
+</TABLE>
+              </td>
+            </tr>
+            <tr>
+              <td dir="rtl">
+                <ul style="color: #78797A; margin-right: 17; margin-top: 0; margin-bottom: 0" type="square">
+                   <li> <p style="line-height: 115%; margin-top: 6; margin-bottom: 0">
+					<b><a href="/articles/a426/">
+					<font face="Arabic Transparent" color="#FF0000">إعلانات الزواج.. كلها سياسة!</font></a></b></p>
+                  <li>
+                    <p style="line-height: 115%; margin-top: 6; margin-bottom: 0">
+					<b><a href="https://web.archive.org/web/20050224022110/http://www.20at.com/article.php?sid=807">
+					<font face="Arabic Transparent" color="#000000">حب الملتزمات.. دموع وآهات!</font></a></b></li>
+                  <li>  <p style="line-height: 115%; margin-top: 6; margin-bottom: 0">
+					<b><a href="/articles/a822/">
+					<font face="Arabic Transparent" color="#FF0000">الحب المستحيل</font></a></b></p>
+                               </ul>
+              </td>
+            </tr>
+          </table>
+        </div>
+      </td>
+      <td valign="top" background="/tm-fix/new/images/shadow_02.jpg" width="8">
+		&nbsp;</td>
+    </tr>
+  </table
+<!-- /mlfat column -->
+
+</div>
+    </td>
+    <td valign="top" width="163">
+<!-- middle colomn-->
+<TABLE WIDTH=163 BORDER=0 CELLPADDING=0 CELLSPACING=0>
+	<TR>
+		<TD COLSPAN=6>
+		<a href="/tm/20at/?d=20050224">	<IMG border="0" SRC="/tm/a/e3167ce31f5355ff.jpg" width=163 height=197 ALT="&#1593;&#1588;&#1585;&#1610;&#1606;&#1575;&#1578; : &#1575;&#1604;&#1588;&#1576;&#1575;&#1576; .. &#1588;&#1576;&#1575;&#1576; &#1575;&#1604;&#1606;&#1578;"></a></TD>
+	</TR>
+	<TR>
+		<TD COLSPAN=6 dir="rtl">
+            <p style="margin-top: 6; margin-bottom: 0" align="center"><b>
+	<form action="#" onsubmit="return false" method="get">
+<font face="Traditional Arabic" size="3"><a href="https://web.archive.org/web/20050224022110/http://www.20at.com/search.php" class="000000">
+ابحث..</a></font>
+	<input size="10" type="text" dir="rtl" style="height: 20; width: 102; background-color: #FFE4CC; font-family: Tahoma; font-size: 11px; border: 1 solid #FF3300" name="query"/>
+        <input type="hidden" name="topic" value=""/>
+        <input type="hidden" name="author" value=""/>
+        <input type="hidden" name="days" value="0"/>
+	</form>
+                  
+                      </b></p>
+        
+        </TD>
+	</TR>
+	<TR>
+		<TD ROWSPAN=9 width="7">
+			<IMG SRC="/tm/missing.gif" WIDTH=7 HEIGHT=1 ALT="" data-tm-missing="/trick.jpg"></TD>
+		<TD COLSPAN=4>
+			<IMG SRC="/tm/missing.gif" width=1 height=12 ALT="" data-tm-missing="/trick.jpg"></TD>
+		<TD ROWSPAN=9 width="7">
+			<IMG SRC="/tm/missing.gif" WIDTH=7 HEIGHT=1 ALT="" data-tm-missing="/trick.jpg"></TD>
+	</TR>
+	<TR>
+		<TD COLSPAN=4>
+		</TD>
+	</TR>
+	<TR>
+		<TD COLSPAN=4>
+            <IMG SRC="/tm/missing.gif" width=1 height=7 ALT="" data-tm-missing="/trick.jpg"></TD>
+	</TR>
+	<TR>
+		<TD COLSPAN=4>
+			<IMG SRC="/tm/a/25dfbff88f368cc5.jpg" width=149 height=11 ALT=""></TD>
+	</TR>
+	<TR>
+		<TD background="/tm/a/56d16214b5a0c938.jpg">
+			<IMG SRC="/tm/a/56d16214b5a0c938.jpg" width=10 height=176 ALT=""></TD>
+		<TD COLSPAN=2 height="176" valign="top" dir="rtl" bgcolor="#F0F0F0">
+            <marquee style="font-family: Traditional Arabic; font-size: 13pt; color: #FF5737; font-weight: bold" direction="up" align="middle" scrollamount="2" scrolldelay="90">
+
+<li><a href="/articles/a586/">&#1588;&#1610;&#1585;&#1610;&#1606; &#1605;&#1606; &#1607;&#1606;&#1575;&#1603;</a></li>
+<br>
+<li><a href="/articles/a480/">&#1575;&#1604;&#1605;&#1590;&#1585;&#1608;&#1576; &#1605;&#1590;&#1585;&#1608;&#1576;</a> </li>
+<br>
+<li><a href="/articles/a377/">&#1571;&#1606;&#1575; &#1608;&#1603;&#1575;&#1578;&#1585;&#1610;&#1606;</a></li>
+<br>
+<li><a href="/articles/a573/">&#1610;&#1608;&#1605;&#1610;&#1575;&#1578; &#1606;&#1608;&#1606;&#1575; &#1575;&#1604;&#1605;&#1580;&#1606;&#1608;&#1606;&#1577;</a></li>
+<br>
+<li><a href="/articles/a173/">&#1575;&#1606;&#1607;&#1575; &#1604;&#1605; &#1578;&#1603;&#1606; &#1575;&#1604;&#1606;&#1607;&#1575;&#1610;&#1577;</a></li>
+<br>
+<li><a href="/articles/a291/">&#1571;&#1606;&#1575; &#1608;&#1581;&#1576;&#1610;&#1576;&#1578;&#1610; &#1608;&#1575;&#1604;&#1608;&#1585;&#1605; &#1575;&#1604;&#1582;&#1576;&#1610;&#1579;</a></li>
+<br>
+<li><a href="/articles/a550/">&#1575;&#1604;&#1610;&#1608;&#1605; &#1575;&#1604;&#1571;&#1589;&#1593;&#1576;</a></li>
+<br>
+<li><a href="/articles/a560/">&#1607;&#1606;&#1575;&#1569; &#1605;&#1606; &#1607;&#1606;&#1575;&#1603;</a></li>
+<br>
+<li><a href="/articles/a803/">&#1593;&#1604;&#1610; &#1593;&#1604;&#1576;&#1577;...&#1589;&#1583;&#1610;&#1602;&#1610; &#1575;&#1604;&#1602;&#1607;&#1608;&#1580;&#1610;..!!</a></li></marquee>
+        
+        </TD>
+		<TD background="/tm/a/8824d826dfa22e29.jpg">
+			<IMG SRC="/tm/a/8824d826dfa22e29.jpg" width=10 height=176 ALT=""></TD>
+	</TR>
+	<TR>
+		<TD COLSPAN=4>
+			<IMG SRC="/tm/a/2fb74b75038bf77e.jpg" width=149 height=10 ALT=""></TD>
+	</TR>
+	<TR>
+		<TD COLSPAN=4>
+            <IMG SRC="/tm/missing.gif" width=1 height=11 ALT="" data-tm-missing="/trick.jpg"></TD>
+	</TR>
+	<TR>
+<!-- nashrat tes3a-->
+		<TD COLSPAN=4 width="149" height="112">
+<a href="https://web.archive.org/web/20050224022110/http://www.20at.com/article.php?sid=1004">
+<img border="0" src="/tm/missing.gif" width="149" height="108" dir="rtl" ALT="اغتيال الحريري جاء  ذريعة للضغط على لبنان وشاهده قول رئيسة اللجنة الفرعية لشؤون لشرق الأوسط ووسط آسيا في الكونجرس الأمريكي، النائبة إليانا روس ليتنن بأن "هناك مشروع قرار نسعى لتمريره يطالب الرئيس بوش بتجميد جميع الودائع الخاصة بالمسؤولين الحكوميين اللبنانيين الذين يدعمون الوجود السوري في لبنان بحسب الشرق الأوسط". " data-tm-missing="/images/main/hariry.jpg"></a></TD>
+	</TR>
+	<TR>
+		<TD COLSPAN=4 height="45" dir="rtl">
+            <p align="center">
+			<b><a href="https://web.archive.org/web/20050224022110/http://www.20at.com/article.php?sid=1004">
+			<font face="Arabic Transparent" dir="rtl"></font></a></b></p>
+        </TD>
+	</TR>
+	<TR>
+		<TD COLSPAN=6>
+			</TD>
+	</TR>
+	<TR>
+<!-- poll -->
+		<TD ROWSPAN=7>
+            <IMG SRC="/tm/missing.gif" WIDTH=7 HEIGHT=1 ALT="" data-tm-missing="/trick.jpg"></TD>
+		<TD COLSPAN=4 height="48" background="/tm-fix/new/images/column_02_17.jpg" dir="rtl">
+            <p style="margin-right: 45">
+            <font face="Arabic Transparent" size="3" color="#006ADF"><b>عندما تنظر إلى المرآة تقول:</b></font></p>
+        </TD>
+		<TD ROWSPAN=7>
+            <IMG SRC="/tm/missing.gif" WIDTH=7 HEIGHT=1 ALT="" data-tm-missing="/trick.jpg"></TD>
+	</TR>
+	<TR>
+		<TD>
+			<IMG SRC="/tm/a/f49da6b7c1a033b7.jpg" width=10 height=112 ALT=""></TD>
+		<TD COLSPAN=2 height="112" valign="top" dir="rtl">
+            <form id="form2" method="POST" action="#" onsubmit="return false">
+<INPUT type=hidden value=poll name=mod>
+<INPUT type=hidden value=vote name=op>
+<INPUT type=hidden value=50 name=pid>
+<INPUT type=hidden name=forwarder>
+<INPUT type=radio value=1 name=voteid>تبارك الله
+<BR><INPUT type=radio value=2 name=voteid>أنا تخين
+<BR><INPUT type=radio value=3 name=voteid>آنا رفيع جداَ
+<BR><INPUT type=radio value=4 name=voteid>ولا حاجة</TD>
+       
+		<TD>
+			<IMG SRC="/tm/a/5524711e3ef31ae1.jpg" width=10 height=112 ALT=""></TD>
+	</TR>
+	<TR>
+		<TD>
+			<IMG SRC="/tm/a/f9e330d9de423a60.jpg" width=10 height=27 ALT=""></TD>
+		<TD>
+            <a href="https://web.archive.org/web/20050224022110/http://www.20at.com/mod.php?mod=poll&amp;op=results&amp;pid=50&amp;cid=0">
+			<IMG SRC="/tm/a/1f67510a2c81eafb.jpg" width=63 height=27 ALT="" border="0"></a></TD>
+		<TD>
+            
+            <IMG onclick="form2.submit()" style="cursor:hand;" SRC="/tm/a/ec7ad9486424bce8.jpg" width=66 height=27 ALT="" border="0"></TD>
+		<TD>
+			<IMG SRC="/tm/a/b9882b31e3ed1d1e.jpg" width=10 height=27 ALT=""></TD>
+	</TR>
+	<TR>
+		<TD COLSPAN=4>
+			<IMG SRC="/tm/a/9bf9f0928d60d5ac.jpg" width=149 height=10 ALT=""></form></TD>
+	</TR>
+	<TR>
+		<TD COLSPAN=4>
+
+<IMG SRC="/tm/missing.gif" width=1 height=12 ALT="" data-tm-missing="/trick.jpg"></TD>
+</form>
+	</TR>
+	<TR>
+<!-- cartricater -->
+		<TD COLSPAN=4>
+		<a href="https://web.archive.org/web/20050224022110/http://www.20at.com/article.php?sid=985">	
+		<IMG border="0" SRC="/tm/missing.gif" width=149 height=128 dir="rtl" ALT="طائرا الفلامنجو يشكلان برقبتيهما شكل قلب في إحدى حدائق الحيوان في الأردن في صورة التقطها مصور وكالة رويترز الأحد 13/2/2005.. بالتأكيد ليس بمناسبة هوس عيد الحب! " data-tm-missing="/images/main/valentine-in-zoo-main.jpg"></a></TD>
+	</TR>
+	<TR>
+		<TD COLSPAN=4 height="45" dir="rtl">
+            <p align="center"><span lang="ar-eg"><b>
+			<font face="Arabic Transparent">
+			<a href="https://web.archive.org/web/20050224022110/http://www.20at.com/article.php?sid=985">حتى الحيوانات؟!</a></font></b></span></p>
+        </TD>
+	</TR>
+	<TR>
+		<TD COLSPAN=4 height="50" dir="rtl">
+            <p align="center">&nbsp;</p>
+        </TD>
+	</TR>
+</TABLE>
+      </td>
+    <td valign="top" width="228">
+<TABLE BORDER=0 CELLPADDING=0 CELLSPACING=0>
+	<TR>
+		<TD ROWSPAN=3>
+			<IMG SRC="/tm/a/730e9ff358019bdd.jpg" width=5 height=230 ALT=""></TD>
+		<TD>
+			<IMG SRC="/tm/a/48337fbcbcdef584.jpg" width=210 height=1 ALT=""></TD>
+		<TD ROWSPAN=3>
+			<IMG SRC="/tm/a/c653bcf01cbec514.jpg" width=3 height=230 ALT=""></TD>
+	</TR>
+	<TR>
+<!-- main topic -->
+		<TD>
+  <a href="https://web.archive.org/web/20050224022110/http://www.20at.com/article.php?sid=1012">
+	<IMG border="0" SRC="/tm/missing.gif" width=210 height=228 dir="rtl" ALT="تعرفوا أنا حبيت أحكي حكايتي ليه؟! أولا أنا كل ما أفتكر الحكاية دي أتعظ منها ولا يمكن أكرر أي حاجة غلط أنا عملتها في حياتي.. وتاني حاجة حبيت أقولكم إن الأم ما تتعوضش واللي من غير أم حاله...... " data-tm-missing="/images/main/mom-main.jpg"></a></TD>
+	</TR>
+	<TR>
+		<TD>
+			<IMG SRC="/tm/a/de5a3fd7927b489d.jpg" width=210 height=1 ALT=""></TD>
+	</TR>
+</TABLE>
+      <div align="left">
+        <table border="0" cellpadding="0" cellspacing="0" width="100%">
+          <tr>
+            <td width="4" background="/tm-fix/new/images/column_03_shadow_02.jpg" rowspan="2">
+			<IMG SRC="/tm/missing.gif" WIDTH=4 HEIGHT=1 ALT="" data-tm-missing="/trick.jpg">
+            </td>
+          </tr>
+          <tr>
+            <td dir="rtl">
+<TABLE BORDER=0 CELLPADDING=0 CELLSPACING=0 height="101">
+	<TR>
+		<TD height="101" valign="top" dir="rtl">
+            <p align="right" style="margin:0 6; ">
+			<span lang="ar-eg"><b>
+			<a href="https://web.archive.org/web/20050224022110/http://www.20at.com/article.php?sid=1012">
+			<font face="Arabic Transparent" size="4" color="#FF6F2F">آسفة يا أمي!</font></a></b></span></p>
+			<p class="MsoNormal" dir="RTL" style="margin-top: 0; margin-bottom: 0">
+			<font face="Tahoma" size="2" color="#0F50B2">كان عندي إحساس إن ماما ماتت فعشان كده رحت أتصل بأقاربي كلهم، وكنت ماسكة نفسي من العياط.. خاصة أن الكل بدأ في الانهيار قدامى وكنت لازم أسكتهم عشان أعمل زى ماهى كانت عايزة<span lang="ar-eg"></span></font></p>
+			<p style="margin-left: 6; margin-right: 6; margin-top: 0; margin-bottom: 3" align="left">
+			<span lang="ar-eg"><b>
+			<a href="https://web.archive.org/web/20050224022110/http://www.20at.com/article.php?sid=1012">
+			<font face="Arabic Transparent" color="#FF6F2F">أدعوا لها</font></a></b></span><b><a><font size="3" face="Arabic Transparent" color="#FF6F2F"><span lang="ar-eg"> </span></font></a></b></TD>
+	</TR>
+</TABLE>
+<TABLE BORDER=0 CELLPADDING=0 CELLSPACING=0 dir="ltr" width="100%">
+	<TR>
+		<TD>
+			<IMG SRC="/tm/missing.gif" WIDTH=1 HEIGHT=11 ALT="" data-tm-missing="/trick.jpg"></TD>
+		<TD ROWSPAN=3 width="29">
+			<IMG SRC="/tm/a/d8144e4c8e53ef65.jpg" width=29 height=23 ALT=""></TD>
+	</TR>
+	<TR>
+		<TD background="/tm/a/065229c3fab71992.jpg">
+			<IMG SRC="/tm/missing.gif" width=1 height=1 ALT="" data-tm-missing="/trick.jpg"></TD>
+	</TR>
+	<TR>
+		<TD>
+			<IMG SRC="/tm/missing.gif" WIDTH=1 HEIGHT=11 ALT="" data-tm-missing="/trick.jpg"></TD>
+	</TR>
+</TABLE>
+                  <TABLE BORDER=0 CELLPADDING=0 CELLSPACING=0 dir="ltr">
+	<TR>
+		<TD>
+	</TR>
+</TABLE>
+<TABLE BORDER=0 CELLPADDING=0 CELLSPACING=0 align="center">
+	<TR>
+		<TD>
+	<TD>
+<!-- audio -->
+	 <a href="/articles/a1009/"><IMG border="0" SRC="/tm/missing.gif" width=180 height=135 dir="rtl" ALT="" data-tm-missing="/images/main/where.gif"></a></TD>
+	</TR>
+	<TR>
+		<TD COLSPAN=3 height="44" valign="top">
+            <div align="left">
+              <table border="0" cellpadding="0" cellspacing="0" width="100%" dir="rtl">
+                <tr>
+                <td align="center">
+                <p align="center" dir="rtl" class="title" style="margin-top: 6px"><a href="/articles/a1009/"></a></p>
+                  </td>
+                </tr>
+              </table>
+            </div>
+        </TD>
+	</TR>
+</TABLE>
+<TABLE BORDER=0 CELLPADDING=0 CELLSPACING=0 dir="ltr">
+	<TR>
+		<TD ROWSPAN=3 width="67">
+
+<!-- three right topics-->
+
+	<a href="https://web.archive.org/web/20050224022110/http://www.20at.com/article.php?sid=983">
+		<IMG border="0" SRC="/tm/missing.gif" width=67 height=55 dir="rtl"ALT="مقدرش أتجوز من غير حب.. هو أنا سلعة واحد ييجي يتفرج عليا ويشتريني.. وغيرها كلام كتير يرى أن الحب قبل الزواج ضرورة لا مفر منها، وأن الجواز من غير حب فاشل حتماً. وفي نفس الوقت نجد من يقول بأن الحب قبل الزواج هو انحراف و(قلة حيا)، بل وحرام شرعا" data-tm-missing="/images/main/heart125.jpg"></a></TD>
+		<TD>
+            <IMG SRC="/tm/missing.gif" WIDTH=1 HEIGHT=5 ALT="" data-tm-missing="/trick.jpg"></TD>
+	</TR>
+	<TR>
+		<TD bgcolor="#F0F0F0" dir="rtl">
+            <p style="margin-left: 6; margin-right: 6">
+            <span lang="ar-eg"><b>
+			<a href="https://web.archive.org/web/20050224022110/http://www.20at.com/article.php?sid=983">
+			<font face="Arabic Transparent" color="#006ADF">الحب حلال.. والكره أيضا!</font></a></b></span></p>	
+        </TD>
+	</TR>
+	<TR>
+		<TD>
+            <IMG SRC="/tm/missing.gif" WIDTH=1 HEIGHT=6 ALT="" data-tm-missing="/trick.jpg"></TD>
+	</TR>
+	<TR>
+		<TD COLSPAN=2>
+            <IMG SRC="/tm/missing.gif" WIDTH=1 HEIGHT=11 ALT="" data-tm-missing="/trick.jpg"></TD>
+	</TR>
+	<TR>
+		<TD ROWSPAN=3 width="67">
+	<a href="/articles/a947/">
+		<IMG border="0" SRC="/tm/missing.gif" width=67 height=55 dir="rtl"ALT="الصداقة بين الجنسين، موضوع يطول شرحه، ناس مؤيدة وناس معارضة، ناس تراه انحلالاً وحرام بين، وناس تراه قمة الرقي الإنساني. ناس فاتحاها على البحري علاقات وخروج وخلافه، وناس بتبعد عن الجنس الآخر (ومن غير ما تغنيله كمان)!" data-tm-missing="/images/main/yusuf-karadawy.jpg"></a></TD>
+		<TD>
+            <IMG SRC="/tm/missing.gif" WIDTH=1 HEIGHT=5 ALT="" data-tm-missing="/trick.jpg"></TD>
+	</TR>
+	<TR>
+		<TD bgcolor="#F0F0F0" dir="rtl">
+            <p style="margin-left: 6; margin-right: 6">
+            <span lang="ar-eg"><b>
+			<a href="/articles/a947/">
+			<font face="Arabic Transparent" color="#006ADF">شعرة صفراء بين الحلال والحرام</font></a></b></span></p>		
+        </TD>
+	</TR>
+	<TR>
+		<TD>
+            <IMG SRC="/tm/missing.gif" WIDTH=1 HEIGHT=4 ALT="" data-tm-missing="/trick.jpg"></TD>
+	</TR>
+	<TR>
+		<TD COLSPAN=2>
+            <IMG SRC="/tm/missing.gif" WIDTH=1 HEIGHT=10 ALT="" data-tm-missing="/trick.jpg"></TD>
+	</TR>
+	<TR>
+		<TD ROWSPAN=3 width="67">
+	<a href="/articles/a980/">	
+		<IMG border="0" SRC="/tm/missing.gif" width=67 height=55 dir="rtl"ALT="انطلاقا من أن الحب هو قيمة أساسية من القيم الإسلامية نادى موقع كل الطلبة جامعة القاهرة، بكل حماس: (يلا نحب بجد حتى في Valentine's Day ).. عذرا أقصد Mohammad's day ! " data-tm-missing="/images/main/2203.gif"></a></TD>
+		<TD>
+            <IMG SRC="/tm/missing.gif" WIDTH=1 HEIGHT=6 ALT="" data-tm-missing="/trick.jpg"></TD>
+	</TR>
+	<TR>
+		<TD width="147" valign="top" dir="rtl" bgcolor="#F0F0F0">
+            <p style="margin-left: 6; margin-right: 6">
+            <span lang="ar-eg"><b>
+			<a href="/articles/a980/">
+			<font face="Arabic Transparent" color="#006ADF">نحب زي نبينا؟!</font></a></b></span></p>
+        </TD>
+	</TR>
+	<TR>
+		<TD>
+            <IMG SRC="/tm/missing.gif" WIDTH=1 HEIGHT=3 ALT="" data-tm-missing="/trick.jpg"></TD>
+	</TR>
+</TABLE>
+<div align="center">
+<TABLE BORDER=0 CELLPADDING=0 CELLSPACING=0 dir="ltr">
+	<TR>
+		<TD height="19">
+            <IMG SRC="/tm/missing.gif" WIDTH=1 HEIGHT=6 ALT="" data-tm-missing="/trick.jpg"></TD>
+	</TR>
+	<TR>
+		<TD align="center">
+<TABLE BORDER=0 CELLPADDING=0 CELLSPACING=0 dir="ltr">
+	<TR>
+	<TD>
+			<IMG SRC="/tm/missing.gif" WIDTH=1 HEIGHT=11 ALT="" data-tm-missing="/trick.jpg"></TD>
+		<TD ROWSPAN=3 width="29">
+			&nbsp;</TD>
+	</TR>
+	<TR>
+		<TD>
+	</TR>
+</TABLE>
+<TABLE BORDER=0 CELLPADDING=0 CELLSPACING=0 align="center">
+	<TR>
+		<TD>
+<!-- 2 down right photo topics-->
+	<TD align="center">
+	 	<a href="/articles/a853/">	
+		<IMG border="0" SRC="/tm/missing.gif" width=180 height=116 dir="rtl"ALT="تقدم مني شاب وسألني مع تكرار إعتذاره الشديد إذا كنت مرتبطة أم لا؟! ، وعندما أجبت بالنفي، بدأ في تعريف نفسه وشرح إمكانياته المادية مغلفاً حديثه بالعديد من الشواهد من القرآن الكريم والسنة النبوية حول أهمية الزواج، شروطه، أساليبه، وصفات الزوجة الصالحة... إلخ" data-tm-missing="/images/main/marry-me1.jpg"></a></TD>
+	</TR>
+	<TR>
+		<TD COLSPAN=2 height="44" valign="top">
+            <div align="left">
+              <table border="0" cellpadding="0" cellspacing="0" width="100%" dir="rtl">
+                <tr>
+                <td align="center">
+                <p align="center" dir="rtl" class="title" style="margin-top: 6px"><span lang="ar-eg"><b>
+			<a href="/articles/a853/">
+			<font face="Arabic Transparent" color="#006ADF">جواز من أول ناصية!</font></a></b></span></p>
+                  </td>
+                </tr>
+              </table>
+            </div>
+        </TD>
+	</TR>
+</TABLE>
+&nbsp;</TD>
+	</TR>
+	<TR>
+		<TD height="117" align="center">
+<TABLE BORDER=0 CELLPADDING=0 CELLSPACING=0 dir="ltr">
+	<TR>
+	<TD>
+			<IMG SRC="/tm/missing.gif" WIDTH=1 HEIGHT=11 ALT="" data-tm-missing="/trick.jpg"></TD>
+		<TD ROWSPAN=3 width="29">
+			&nbsp;</TD>
+	</TR>
+	<TR>
+		<TD>
+	</TR>
+</TABLE>
+<TABLE BORDER=0 CELLPADDING=0 CELLSPACING=0 align="center">
+	<TR>
+		<TD>
+	<TD>
+	 	<a href="https://web.archive.org/web/20050224022110/http://www.20at.com/article.php?sid=978">	
+		<IMG border="0" SRC="/tm/missing.gif" width=180 height=120 dir="rtl" ALT="شعار المرحلة بين شباب الجامعة.. الكل يعشق بكل قوة، ويستمتع بكل لحظة، ويعيش يومينه، هو مدرك تماما أن قصة حبه إلى زوال، بسبب الملل، أو المال، أو حتى عدم الرغبة في الحب الحقيقي من أساسه... " data-tm-missing="/images/main/gift-123.jpg"> </a></TD>
+	</TR>
+	<TR>
+		<TD COLSPAN=2 height="44" valign="top">
+            <div align="left">
+              <table border="0" cellpadding="0" cellspacing="0" width="100%" dir="rtl">
+                <tr>
+                <td align="center">
+                <p dir="rtl" class="title" style="margin-top: 6px">
+				<span lang="ar-eg"><b>
+				<a href="https://web.archive.org/web/20050224022110/http://www.20at.com/article.php?sid=978">
+				<font face="Arabic Transparent" color="#006ADF">حب الجامعة.. بح خلاص!</font></a></b></span></p>
+                  </td>
+                </tr>
+              </table>
+            	<p dir="rtl" class="title" style="margin-top: 6px">&nbsp;</div>
+        </TD>
+	</TR>
+</TABLE>
+        </TD>
+	</TR>
+</TABLE>
+            </div>
+            </td>
+          </tr>
+        </table>
+      </div>
+</td>
+    <td valign="top" width="14" background="/tm-fix/new/images/column_03_shadow.jpg" rowspan="2">
+<IMG SRC="/tm/missing.gif" width=14 height=1 ALT="" data-tm-missing="/trick.jpg"></td>
+  </tr>
+  <tr>
+    <td valign="top" colspan="3">
+<TABLE width=100% BORDER=0 CELLPADDING=0 CELLSPACING=0>
+	<TR>
+		<TD width="15%">
+<IMG width=1 height=1 ALT=""></TD>
+		<TD bgcolor="#78797A">
+			<IMG width=1 height=1 ALT=""></TD>
+		<TD width="15%">
+			<IMG WIDTH=1 HEIGHT=1 ALT=""></TD>
+	</TR>
+</TABLE>
+<div align="left">
+  <table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td width="15%"></td>
+      <td>
+        <div align="left">
+          <table border="0" cellpadding="0" cellspacing="0" width="100%" dir="rtl">
+            <tr>
+              <td width="20%" class="bottom"><a href="https://web.archive.org/web/20050224022110/http://www.20at.com/alll.php" class="bottom">
+				اتصل بنا</a></td>
+              <td width="16%" class="bottom"><a href="https://web.archive.org/web/20050224022110/http://www.20at.com/politics.shtml" class="bottom">
+				سياسة</a></td>
+              <td width="16%" class="bottom"><a href="https://web.archive.org/web/20050224022110/http://www.20at.com/multifold.shtml" class="bottom">
+				منوعات</a></td>
+              <td width="16%" class="bottom"><a href="https://web.archive.org/web/20050224022110/http://www.20at.com/relations.shtml" class="bottom">
+				علاقات</a></td>
+              <td width="16%" class="bottom"><a href="https://web.archive.org/web/20050224022110/http://www.20at.com/religion.shtml" class="bottom">
+				دين</a></td>
+              <td width="16%" class="bottom"><a href="https://web.archive.org/web/20050224022110/http://www.20at.com/arts.shtml" class="bottom">
+				فنون</a></td>
+            </tr>
+            <tr>
+              <td colspan="5">
+                <div align="center">
+                  <center>
+                  <table border="0" cellpadding="0" cellspacing="0" dir="rtl">
+                    <tr>
+                      <td class="bottom">جميع الحقوق محفوظة&nbsp;&nbsp;</td>
+                      <td>
+                        <p align="center">    <font face="Verdana" size="2">    
+						www.20at.com</font></td>
+                      <td>
+                        <p style="margin-left: 20; margin-right: 20"><font face="Verdana" size="2">
+						2005 ©</font></td>
+                    </tr>
+                  </table>
+                  </center>
+                </div>
+              </td>
+            </tr>
+          </table>
+        </div>
+      </td>
+      <td width="15%"></td>
+    </tr>
+  </table>
+</div>
+    </td>
+  </tr>
+</table>
+  </center>
+  </div>
+</BODY>
+</HTML>

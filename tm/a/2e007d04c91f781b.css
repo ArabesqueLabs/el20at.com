@@ -1,0 +1,97 @@
+/* CSS Document */
+
+.articles
+{
+	font-family:arabic transparent;
+	font-size:18px;
+	color:#000000;
+	text-align:right;
+	background-repeat:no-repeat; 
+	direction:rtl;
+}
+
+
+.articles h1
+{
+	font-family:arabic transparent;
+	font-size:20px;
+	color:#FF0000;
+	font-weight:bold;
+	text-align:center;
+}
+
+.articles h2
+{
+	font-family:arabic transparent;
+	font-size:20px;
+	color:#0000FF;
+	font-weight:bold;
+	text-align:right;
+}
+
+.articles h3
+{
+	font-family:arabic transparent;
+	font-size:20px;
+	color:#ff0000;
+	font-weight:bold;
+	text-align:right;
+}
+
+.articles a
+{
+	text-decoration:none;
+	color:#0033FF;
+}
+.articles img
+{
+		
+}
+
+
+.takhateef
+{
+	font-family:arabic transparent;
+	font-size:18px;
+	color:#000000;
+	text-align:right;
+	background-repeat:no-repeat; 
+	direction:rtl;
+}
+
+.takhateef a
+{
+	text-decoration:none;
+}
+
+.takhateef li
+{
+	background:url(/tm/a/cccd12ac71b92bcc.gif);
+	background-position:right;
+	background-repeat:no-repeat;
+	list-style:none;
+}
+
+.marquee {
+	font-size:14px;
+	font-family:Arabic Transparnt;
+	font-weight:bold;
+	direction:rtl;
+	text-align:right;
+}
+
+.marquee a {
+	text-decoration:none;
+}
+
+.marquee em {
+	color:#FF0000;
+	font-style:normal;
+}
+
+
+.marquee div {
+	text-align:left;
+	direction:rtl;
+	vertical-align:bottom;
+	position:bottom left;
