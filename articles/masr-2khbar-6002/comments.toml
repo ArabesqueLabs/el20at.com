@@ -45,6 +45,46 @@ capture_url = "https://web.archive.org/web/20091027021313/http://www.20at.com:80
 
 [[comments]]
 order = 5
+subject = "امتنعوا عن التعليق يا اخونا مسلمين او مسيحيين"
+author = "مش ضروري"
+text = "ارجوكم امتنعوا عن التعليق<br />ارجوكم امتنعوا عن التعليق<br />ارجوكم امتنعوا عن التعليق<br />ارجوكم امتنعوا عن التعليق<br />ارجوكم امتنعوا عن التعليق<br />ارجوكم امتنعوا عن التعليق<br />ارجوكم امتنعوا عن التعليق<br />ارجوكم امتنعوا عن التعليق"
+archived = "2007-06-02"
+capture_url = "https://web.archive.org/web/20070602111723/http://masr.20at.com:80/newArticle.php?sid=10355"
+
+[[comments]]
+order = 6
+subject = "اختلاف العلماء رحمة"
+author = "سيرانة"
+text = "عمي الدين اعظم من تقديس \"انسان\"<br />واظن في كتير قضايا اهم من مناقشة بول الرسول<br />ديننا لا يقسد جسد أحد"
+archived = "2007-06-02"
+capture_url = "https://web.archive.org/web/20070602111723/http://masr.20at.com:80/newArticle.php?sid=10355"
+
+[[comments]]
+order = 7
+subject = "مشايخ الحزب الوطنى"
+author = ".ufgm زعبلة"
+text = "خلاص كل مشاكل المسلمين اتحلت والمسلمين اخر تمام وكلهم شبعانين والحمد للة كل واحد عندة يخت ومرسيدس شبح وفيلا فى الساحل الشمالى وبعدين قاعدين نفكر فى ارضاع الكبير وبول الرسول والصحابة وكل اعمال التخريف التى تشغل الحكومة بها السذج والخدج واسافل الناس حتى ينشغلوا عن تعديل الكستور والاخوان وجواز الانجال وبلاوى الحكومة المتلتلة وكة كلام مجالس قهاوى وتصلح عند لعب الطاولة وموجات التنكيت على العجوز المتصابى"
+archived = "2007-06-02"
+capture_url = "https://web.archive.org/web/20070602111723/http://masr.20at.com:80/newArticle.php?sid=10355"
+
+[[comments]]
+order = 8
+subject = "عبث"
+author = "نيفين نيفى نوفا"
+text = "هل من احد يخبرنى ماذا نسمى تللك الفتوى و ماذا نسمى موضوع ارضاع الكبير<br />اليس هذا العبث الذى انتشر حتى طال الدين<br />احب ان اقول كلمه ربما تردع الكثيرين<br />قال رسول الله من كذب على متعمدا فليتبوأ مقعده من الناو كل انسان الزمناه طائره فى عنقه"
+archived = "2007-06-02"
+capture_url = "https://web.archive.org/web/20070602111723/http://masr.20at.com:80/newArticle.php?sid=10355"
+
+[[comments]]
+order = 9
+subject = "ملاهى الحكومة لاند"
+author = "واحد من الناس"
+text = "يا جماعة أفهموا بقى ... كل ده و انتم مش فاهمين يا نهار اسوح!!! ... يعنى الحكومة كل شوية تطلعلكم قصة تلهيكم فيها و انتم شعب يحب اللت و العجن .... مرة هالة سرحان ... و مرة سفاح المعادى ... و مرة التوربينى .... و مرة عم الشيخ اللى اتفطم بدرى ده .... و الشعب عامل زى الكورة المفسية فى رجلين الحكومة و ناس مشاكله و همه اليومى .... فوقوا بقى و سيبكم من الهيافة و خليكم فى حالكم اللى اتقندل و انتم بتحكوا فى ارضاع الكبير ..... هوه انتم اصلا بقيتوا بترضعوا الصغير علشان ترضعوا الكبير ما كله لبن صناعى ..... مع ان مفيش احسن من لبن الام .... الله يمسيكي بالخير يا ماما كريمة مختار"
+archived = "2007-06-02"
+capture_url = "https://web.archive.org/web/20070602111723/http://masr.20at.com:80/newArticle.php?sid=10355"
+
+[[comments]]
+order = 10
 subject = ""
 author = "يونس"
 posted = "2007-06-07"
@@ -53,7 +93,7 @@ archived = "2009-10-27"
 capture_url = "https://web.archive.org/web/20091027021313/http://www.20at.com:80/masr/2khbar/6002.html"
 
 [[comments]]
-order = 6
+order = 11
 subject = ""
 author = "الانسه زعلانه"
 posted = "2007-06-19"
@@ -62,7 +102,23 @@ archived = "2009-10-27"
 capture_url = "https://web.archive.org/web/20091027021313/http://www.20at.com:80/masr/2khbar/6002.html"
 
 [[comments]]
-order = 7
+order = 12
+subject = "إتقوا الله في علماءنا"
+author = "يونس"
+text = "إذا قال الدكتور علي جمعة صدقوه إنّ القول ما قاله لدكتور"
+archived = "2007-07-03"
+capture_url = "https://web.archive.org/web/20070703112240/http://masr.20at.com:80/newArticle.php?sid=10355"
+
+[[comments]]
+order = 13
+subject = "مفيش فايده"
+author = "الانسه زعلانه"
+text = "والله العظيم الواحد مش عارف يلاقيها منين ولا منين يلاقيها من( الفتاوى فتى وكل معايا يااخى)ولانلاقيها من الحكومه اللى متالعا عينا ومبهدلانه انا عايزه اقول حاجه سورى يعنى هى الفتوه بول الرسول هاتفادنا فى ايه هاتفيدنا نكون مومنين وليس مسلمين بالاسم فقط مين من الشباب فاهم دينه صح وبيعمل بيه انا واحده من الناس اللى من كتر مشاهديتى لكل البرامج الدينيه اللى منها تجارى ومنها دينى متعصب جالى اكتئاب لمدة سنه وده اكيد حال معظم الشباب . لازم نفوء ونفكر فى اللي يهمنا واللى ميهمناش."
+archived = "2007-07-03"
+capture_url = "https://web.archive.org/web/20070703112240/http://masr.20at.com:80/newArticle.php?sid=10355"
+
+[[comments]]
+order = 14
 subject = ""
 author = "اكتب اسمك هنا"
 posted = "2007-10-27"
@@ -71,7 +127,7 @@ archived = "2009-10-27"
 capture_url = "https://web.archive.org/web/20091027021313/http://www.20at.com:80/masr/2khbar/6002.html"
 
 [[comments]]
-order = 8
+order = 15
 subject = ""
 author = "mohammedhatem"
 posted = "2007-11-23"
@@ -80,7 +136,7 @@ archived = "2009-10-27"
 capture_url = "https://web.archive.org/web/20091027021313/http://www.20at.com:80/masr/2khbar/6002.html"
 
 [[comments]]
-order = 9
+order = 16
 subject = ""
 author = "علي الغرياني"
 posted = "2008-07-31"
@@ -89,7 +145,7 @@ archived = "2009-10-27"
 capture_url = "https://web.archive.org/web/20091027021313/http://www.20at.com:80/masr/2khbar/6002.html"
 
 [[comments]]
-order = 10
+order = 17
 subject = ""
 author = "محمد هاشم"
 posted = "2009-01-25"
@@ -98,7 +154,7 @@ archived = "2009-10-27"
 capture_url = "https://web.archive.org/web/20091027021313/http://www.20at.com:80/masr/2khbar/6002.html"
 
 [[comments]]
-order = 11
+order = 18
 subject = ""
 author = "عيد حسن"
 posted = "2009-03-03"
@@ -107,7 +163,7 @@ archived = "2009-10-27"
 capture_url = "https://web.archive.org/web/20091027021313/http://www.20at.com:80/masr/2khbar/6002.html"
 
 [[comments]]
-order = 12
+order = 19
 subject = ""
 author = "حرام"
 posted = "2009-07-06"
@@ -116,7 +172,7 @@ archived = "2009-10-27"
 capture_url = "https://web.archive.org/web/20091027021313/http://www.20at.com:80/masr/2khbar/6002.html"
 
 [[comments]]
-order = 13
+order = 20
 subject = ""
 author = "مارو"
 posted = "2009-08-30"
@@ -125,7 +181,7 @@ archived = "2009-10-27"
 capture_url = "https://web.archive.org/web/20091027021313/http://www.20at.com:80/masr/2khbar/6002.html"
 
 [[comments]]
-order = 14
+order = 21
 subject = ""
 author = "مارينا"
 posted = "2009-08-30"
@@ -134,7 +190,7 @@ archived = "2009-10-27"
 capture_url = "https://web.archive.org/web/20091027021313/http://www.20at.com:80/masr/2khbar/6002.html"
 
 [[comments]]
-order = 15
+order = 22
 subject = ""
 author = "ميمي"
 posted = "2009-08-30"
@@ -143,7 +199,7 @@ archived = "2009-10-27"
 capture_url = "https://web.archive.org/web/20091027021313/http://www.20at.com:80/masr/2khbar/6002.html"
 
 [[comments]]
-order = 16
+order = 23
 subject = ""
 author = "المعناوى"
 posted = "2009-11-06"
@@ -152,7 +208,7 @@ archived = "2009-12-03"
 capture_url = "https://web.archive.org/web/20091203031154/http://www.20at.com:80/masr/news/6002.html"
 
 [[comments]]
-order = 17
+order = 24
 subject = ""
 author = "????????"
 posted = "2009-12-02"

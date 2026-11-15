@@ -1,0 +1,101 @@
+/* 20at archive: one type scale, loaded last (config extra.stylesheets). Revisited 2026-11-15.
+
+   Two faces: Noto Kufi Arabic for the interface and headings, Noto Naskh Arabic for anything read at
+   length (article text, readers' comments). Naskh's letters are much smaller than a sans's at the same
+   size, so a sans paragraph next to a Naskh one at the same px looks bigger: reading text is always Naskh.
+
+   Scale (px, desktop / phone):
+     reading text      20 / 19   Naskh, line-height 2
+     comment text      18 / 17   Naskh, a step under the article
+     h1                40 / 28   Kufi 700
+     h2                24 / 21   Kufi 700  (in the text, and section titles like «تعليقات القرّاء»)
+     h3                20 / 19   Kufi 700
+     interface         15        Kufi      (meta line, tags, notes, provenance)
+     small             13        Kufi      (dates, labels)                                          */
+:root {
+  --ar-fs-read: 20px;
+  --ar-fs-comment: 18px;
+  --ar-fs-h1: clamp(28px, 1.25rem + 2.2vw, 40px);
+  --ar-fs-h2: 24px;
+  --ar-fs-h3: 20px;
+  --ar-fs-ui: 15px;
+  --ar-fs-small: 13px;
+  --ar-lh-read: 2;
+  --ar-lh-heading: 1.45;
+}
+@media (max-width: 40rem) {
+  :root { --ar-fs-read: 19px; --ar-fs-comment: 17px; --ar-fs-h2: 21px; --ar-fs-h3: 19px; }
+}
+
+/* ---- the article page ------------------------------------------------------------------------------ */
+.zt-doc__title { font-family: var(--al-font-display); font-size: var(--ar-fs-h1); font-weight: 700; line-height: var(--ar-lh-heading); letter-spacing: 0; }
+.zt-doc__head .zt-meta, .zt-doc__head .zt-meta * { font-size: var(--ar-fs-ui); }
+.ar-article .zt-prose { font-family: var(--al-font-serif); font-size: var(--ar-fs-read); line-height: var(--ar-lh-read); }
+.ar-article .zt-prose :is(p, li, blockquote) { font-size: inherit; line-height: inherit; }
+.ar-article .zt-prose h2 { font-family: var(--al-font-display); font-size: var(--ar-fs-h2); font-weight: 700; line-height: var(--ar-lh-heading); }
+.ar-article .zt-prose :is(h3, h4) { font-family: var(--al-font-display); font-size: var(--ar-fs-h3); font-weight: 700; line-height: var(--ar-lh-heading); }
+.ar-article .zt-prose :is(figcaption, small) { font-family: var(--al-font-sans); font-size: var(--ar-fs-ui); line-height: 1.7; }
+.ar-article .zt-prose .al-notice { font-size: var(--ar-fs-ui); }
+
+/* tags under the text: the section as its coloured label, the writers as names */
+.zt-terms__title { font-size: var(--ar-fs-ui); font-weight: 700; }
+.zt-terms .zt-term { font-size: var(--ar-fs-ui); }
+.zt-terms .zt-term.ar-term--section { border: 0; border-radius: 0; padding: 2px 10px; background: var(--ct, #555555); color: #FFFFFF; font-weight: 700; }
+.zt-terms .zt-term.ar-term--section:hover { color: #FFFFFF; filter: brightness(1.1); }
+
+/* readers' comments: a step under the article, in the same reading face */
+.s-comments__title { font-size: var(--ar-fs-h2); font-weight: 700; letter-spacing: 0; line-height: var(--ar-lh-heading); }
+.s-comments__note { font-size: var(--ar-fs-ui); line-height: 1.8; }
+.s-comment__author { font-size: var(--ar-fs-ui); font-weight: 600; }
+.s-comment__when { font-family: var(--al-font-sans); font-size: var(--ar-fs-small); letter-spacing: 0; }
+.s-comment__body { font-family: var(--al-font-serif); font-size: var(--ar-fs-comment); line-height: 1.9; color: #444444; }
+
+/* "about this archived copy", the excerpt note, the report link */
+.ar-provenance, .ar-provenance .al-notice__title { font-size: var(--ar-fs-ui); }
+.ar-provenance .al-notice__title { font-weight: 700; }
+.ar-excerpt { margin-block-start: var(--al-space-6); font-size: var(--ar-fs-ui); line-height: 1.8; }
+.ar-excerpt p { margin: 0; }
+.ar-excerpt p + p { margin-block-start: var(--al-space-2); }
+.ct-report { font-size: var(--ar-fs-ui); }
+
+/* previous / next article */
+.zt-pager__label { font-size: var(--ar-fs-small); }
+.zt-pager__title { font-size: 18px; font-weight: 600; line-height: 1.6; }
+
+/* the read-more box (templates/page.html): in the logo's orange, apart from the blue archived-copy box */
+.ar-side { margin-block-start: var(--al-space-12); }
+.ar-side .ar-provenance { margin-block-start: 0; }
+.ar-related { margin-block-end: var(--al-space-4); padding: 14px 18px; border-inline-start: 3px solid #F47216;
+              background: #FFF4EB; font-size: var(--ar-fs-ui); }
+.ar-related__title { margin: 0 0 8px; font-weight: 700; color: #A04000; }
+.ar-related__list { margin: 0; padding: 0; list-style: none; display: flex; flex-direction: column; gap: 6px; }
+.ar-related__list li { line-height: 1.6; }
+.ar-related__list a { color: #333333; text-decoration: underline; text-decoration-color: #F5B183; text-underline-offset: 0.25em; }
+.ar-related__list a:hover { color: #A04000; text-decoration-color: currentColor; }
+
+/* ---- elsewhere: no Arabic text under 13px (Kufi's small sizes blur), except the dense grids (the
+   calendar's cells, the letters' counts) and the labels the user set at 12px (home "writer of the day",
+   the header's dates). Those floors are in pages.css and home.css themselves. --------------------------- */
+
+/* ---- TRIAL (2026-11-15): a narrower reading column on article pages (~70 characters a line), with
+   «عن هذه النسخة المؤرشفة» beside it on wide screens (sticky under the header); below 1100px the column
+   takes the width it has and the box stays at the end of the article, as before.
+   To revert, delete this block; css/archive.css's full-width rule then applies again. ----------------- */
+.ar-article { box-sizing: border-box; inline-size: 100%; max-inline-size: 720px; margin-inline: 0 auto; }
+@media (min-width: 1100px) {
+  .ar-article { display: grid; grid-template-columns: minmax(0, 720px) minmax(0, 1fr); column-gap: 48px;
+                align-items: start; max-inline-size: none; }
+  .ar-article > * { grid-column: 1; }
+  /* the side boxes beside everything from the title down: a tall area of empty implicit rows, so they can
+     stay in view (scrolling inside when taller than the window) */
+  .ar-article > .ar-side { grid-column: 2; grid-row: 1 / span 40; position: sticky; top: 84px;
+                           max-block-size: calc(100vh - 100px); overflow-y: auto; margin: 0; }
+  .ar-side .ar-provenance { margin: 0; font-size: 14px; }
+  .ar-side .ar-provenance .al-notice__title { font-size: 15px; }
+  .ar-side .ar-related { margin: 0 0 var(--al-space-4); }
+  .ar-provenance__list { grid-template-columns: minmax(0, 1fr); gap: 2px; }
+  .ar-provenance__list dt { margin-block-start: var(--al-space-2); color: var(--al-color-text-muted); font-size: 13px; }
+  .ar-provenance__list dt:first-child { margin-block-start: 0; }
+  .ar-provenance__list dd { color: var(--al-color-text); }
+  .ar-provenance__list dt + dd ~ dd { grid-column: 1; }
+}

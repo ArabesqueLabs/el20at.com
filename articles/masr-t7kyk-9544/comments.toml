@@ -17,6 +17,21 @@ capture_url = "https://web.archive.org/web/20090915183628/http://www.20at.com:80
 
 [[comments]]
 order = 2
+subject = "يا نهار اسود"
+author = "Mahmoud mandour"
+text = "دد الأجانب المقيمين في مصر وصل إلى 262.5 ألف \\\"حسب إحصائية جهاز الإحصاء، بنسبة 4 في الألف من التعداد السكاني في مصر.<br />ويعمل في مصر نحو 22 ألف مرخص له بالعمل، ولكن الواقع يكشف عن أن هناك أكثر من تلك النسبة يعملون بدون ترخيص<br />_______________________<br />يا نهار اسود"
+archived = "2008-07-25"
+capture_url = "https://web.archive.org/web/20080725084257/http://masr.20at.com:80/newArticle.php?sid=16649"
+
+[[comments]]
+order = 3
+subject = "ضع عنوان التعليق"
+text = "فى ظل ظاهرة العولمة وفتح المجالات الأقتصادية بكافة أشكالها<br />يبق اشمعنا ميكونش فيه تبادل فى المجال التجارى ماهى شغاله فى الغنا زى الصواريخ يبقى نديها فى تسويق منتجاتهم بس الأهم أننا نعرف تحقيق لاحق لمتابعة مدى تأثيره على حال السوق التجارى فى مصر زى الصينيت مثلا وانتشارهم حتى فى المناطق الشعبية ومدى تفاعل الناس معاهم طالما فى النهاية هيحكمنا رخص السعر وليس الحنين إلى منتج بلدنا ."
+archived = "2008-07-25"
+capture_url = "https://web.archive.org/web/20080725084257/http://masr.20at.com:80/newArticle.php?sid=16649"
+
+[[comments]]
+order = 4
 subject = ""
 author = "اكتب اسمك هنا"
 posted = "2008-07-25"
@@ -25,10 +40,25 @@ archived = "2009-09-15"
 capture_url = "https://web.archive.org/web/20090915183628/http://www.20at.com:80/masr/t7kyk/9544.html"
 
 [[comments]]
-order = 3
+order = 5
 subject = ""
 author = "Ana"
 posted = "2008-07-26"
 text = "Egypt must be just for Egyptians?!!!!<br />So America must be just for Americans.. Italy (Milan City has over 300000 Egyptianos more than the half are Illigale!!) must be just for Italians and so on right??<br />ana Asef bs enta bayen 3aleek emma hommar aw 3ayez teb2a hommar<br />asef bs lazem tet3alem tefakar abl matetkalem<br />ana"
 archived = "2009-09-15"
 capture_url = "https://web.archive.org/web/20090915183628/http://www.20at.com:80/masr/t7kyk/9544.html"
+
+[[comments]]
+order = 6
+subject = "ضع عنوان التعليق"
+text = "go away from egypt, we don\\'t need you, i work in tourism & they desturb me, they work less & salaries biger. egypt must be for egyptians"
+archived = "2008-07-27"
+capture_url = "https://web.archive.org/web/20080727031859/http://masr.20at.com:80/newArticle.php?sid=16649"
+
+[[comments]]
+order = 7
+subject = "To the One obve me"
+author = "Ana"
+text = "Egypt must be just for Egyptians?!!!!<br />So America must be just for Americans.. Italy (Milan City has over 300000 Egyptianos more than the half are Illigale!!) must be just for Italians and so on right??<br />ana Asef bs enta bayen 3aleek emma hommar aw 3ayez teb2a hommar<br />asef bs lazem tet3alem tefakar abl matetkalem<br />ana"
+archived = "2008-07-27"
+capture_url = "https://web.archive.org/web/20080727031859/http://masr.20at.com:80/newArticle.php?sid=16649"

@@ -27,6 +27,38 @@ capture_url = "https://web.archive.org/web/20090705085627/http://www.20at.com:80
 
 [[comments]]
 order = 3
+subject = "ممكن حد يجاوب على سؤالى"
+author = "مش مهم"
+text = "هو ممكن انسان يكون شاذا وكمان يكون كويس وطبيعى مع مراته"
+archived = "2007-11-13"
+capture_url = "https://web.archive.org/web/20071113113726/http://masr.20at.com:80/newArticle.php?sid=12393"
+
+[[comments]]
+order = 4
+subject = "رد علي مش مهم"
+author = "مش مهم بردو"
+text = "ممكن الواحد يكوت شاذ ويكون كويس مع مراته<br />اصل ممكن الشواذ انواع<br />في ناس شواذ وبتماري<br />وناس شواذ بالتفكير بس لا لا بيمارسوا ولا عندهم استعداد الا اذا اتعرضوا له صراحة"
+archived = "2007-11-13"
+capture_url = "https://web.archive.org/web/20071113113726/http://masr.20at.com:80/newArticle.php?sid=12393"
+
+[[comments]]
+order = 5
+subject = "واللة هيكسب وهيبقى مليونير"
+author = "ثعلوب"
+text = "العيادة دى مهمة جدا ومطلوبة زى ما بنسمع على القهوة فيها وزراء فى المجلس عندهم شذوذ وبقى لهم فى الوزارة عشرين سنة<br />ومش عايزين يتعالجوا اصل الشذوذ مصدر للرزق وللثقافة<br />وياما كلام بيتقال عن الشذوذ - ومدام دة موجود يبقى الفقر هيركب البلد وهنشحت لان غضب ربنا هينزل علينا<br />اللهم لا تؤخذنا بما يفعلة السفهاء منا"
+archived = "2007-11-13"
+capture_url = "https://web.archive.org/web/20071113113726/http://masr.20at.com:80/newArticle.php?sid=12393"
+
+[[comments]]
+order = 6
+subject = "e-mail me his number plz"
+author = "toto"
+text = "hey<br />they are not living in country who attack him .. i dunno if they dunno or wanna hide it... and both are dangerous ..... i can prove it gays in egypt are too much now ..and someone them need doctor .. i'm one of then :(and that's great person who thiink to help us .....plz someone i really need his number or e-mail plz i can't get them ... who can get them just send to my email kokoxxxx7@hotmail.com thanks for help"
+archived = "2008-01-15"
+capture_url = "https://web.archive.org/web/20080115002348/http://masr.20at.com:80/newArticle.php?sid=12393"
+
+[[comments]]
+order = 7
 subject = ""
 author = "مثلي"
 posted = "2008-03-01"
@@ -35,7 +67,7 @@ archived = "2009-07-05"
 capture_url = "https://web.archive.org/web/20090705085627/http://www.20at.com:80/masr/2khbar/7573.html"
 
 [[comments]]
-order = 4
+order = 8
 subject = ""
 author = "اكتب اسمك هنا"
 posted = "2008-05-06"
@@ -44,7 +76,7 @@ archived = "2009-07-05"
 capture_url = "https://web.archive.org/web/20090705085627/http://www.20at.com:80/masr/2khbar/7573.html"
 
 [[comments]]
-order = 5
+order = 9
 subject = ""
 author = "اكتب اسمك هنا"
 posted = "2008-09-09"
@@ -53,7 +85,7 @@ archived = "2009-07-05"
 capture_url = "https://web.archive.org/web/20090705085627/http://www.20at.com:80/masr/2khbar/7573.html"
 
 [[comments]]
-order = 6
+order = 10
 subject = ""
 author = "محمد"
 posted = "2009-03-20"
@@ -62,7 +94,7 @@ archived = "2009-07-05"
 capture_url = "https://web.archive.org/web/20090705085627/http://www.20at.com:80/masr/2khbar/7573.html"
 
 [[comments]]
-order = 7
+order = 11
 subject = ""
 author = "محمد"
 posted = "2009-03-20"
@@ -71,7 +103,7 @@ archived = "2009-07-05"
 capture_url = "https://web.archive.org/web/20090705085627/http://www.20at.com:80/masr/2khbar/7573.html"
 
 [[comments]]
-order = 8
+order = 12
 subject = ""
 author = "احمد"
 posted = "2009-05-28"

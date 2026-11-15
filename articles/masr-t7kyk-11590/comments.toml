@@ -27,6 +27,29 @@ capture_url = "https://web.archive.org/web/20090923221237/http://www.20at.com:80
 
 [[comments]]
 order = 3
+subject = "اللة عليك ياحبيب والديك"
+text = "خير مثال لاحسن الرجال"
+archived = "2009-03-18"
+capture_url = "https://web.archive.org/web/20090318003755/http://masr.20at.com:80/newArticle.php?sid=20297"
+
+[[comments]]
+order = 4
+subject = "ربنا يحفظك"
+author = "زيزو"
+text = "واللة يابنى انتى عملت اللى محدش عملة قبل كدة وربنا يحفظك يابو حفيظة ياجامد"
+archived = "2009-03-18"
+capture_url = "https://web.archive.org/web/20090318003755/http://masr.20at.com:80/newArticle.php?sid=20297"
+
+[[comments]]
+order = 5
+subject = "حظ"
+author = "كورمبو"
+text = "واللة حظك من السما كنت مذيع فى الهابظ بقيت مذيع فى العالى"
+archived = "2009-03-18"
+capture_url = "https://web.archive.org/web/20090318003755/http://masr.20at.com:80/newArticle.php?sid=20297"
+
+[[comments]]
+order = 6
 subject = ""
 author = "كلب أثر كلمة الحق وانصار الله"
 posted = "2009-03-22"
@@ -35,7 +58,7 @@ archived = "2009-09-23"
 capture_url = "https://web.archive.org/web/20090923221237/http://www.20at.com:80/masr/t7kyk/11590.html"
 
 [[comments]]
-order = 4
+order = 7
 subject = ""
 author = "raafattawfik"
 posted = "2009-03-25"
@@ -44,7 +67,7 @@ archived = "2009-09-23"
 capture_url = "https://web.archive.org/web/20090923221237/http://www.20at.com:80/masr/t7kyk/11590.html"
 
 [[comments]]
-order = 5
+order = 8
 subject = ""
 author = "سعيد الشيخ"
 posted = "2009-03-25"
@@ -53,7 +76,7 @@ archived = "2009-09-23"
 capture_url = "https://web.archive.org/web/20090923221237/http://www.20at.com:80/masr/t7kyk/11590.html"
 
 [[comments]]
-order = 6
+order = 9
 subject = ""
 author = "كلب أثر كلمة الحق وانصار الله"
 posted = "2009-03-28"

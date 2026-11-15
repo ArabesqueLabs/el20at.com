@@ -6,3 +6,11 @@ posted = "2008-06-04"
 text = "هو المقال مالهوس صاحب؟؟!!!<br />فين اسم الكاتب؟؟؟!!!<br />و لا صحيتو لقيتو المقال على السيرفر"
 archived = "2009-06-28"
 capture_url = "https://web.archive.org/web/20090628094804/http://www.20at.com:80/masr/blog/9258.html"
+
+[[comments]]
+order = 1
+subject = "هو فيه ايه؟؟؟؟"
+author = "محمد"
+text = "هو المقال مالهوس صاحب؟؟!!!<br />فين اسم الكاتب؟؟؟!!!<br />و لا صحيتو لقيتو المقال على السيرفر"
+archived = "2008-06-06"
+capture_url = "https://web.archive.org/web/20080606091624/http://masr.20at.com:80/newArticle.php?sid=16133"

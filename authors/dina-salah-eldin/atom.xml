@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ar">
     <title>أرشيف عشرينات - dina-salah-eldin</title>
-    <subtitle>أرشيف محتوى بوابة عشرينات (فبراير ٢٠٠٤ – مارس ٢٠١٠): ٨٥٧٨ مقالًا استعدناها من أرشيف الإنترنت.</subtitle>
+    <subtitle>أرشيف محتوى بوابة عشرينات (فبراير ٢٠٠٤ – مارس ٢٠١٠): ٩٠١٣ مقالًا استعدناها من أرشيف الإنترنت.</subtitle>
     <link rel="self" type="application/atom+xml" href="https://el20at.com/authors/dina-salah-eldin/atom.xml"/>
     <link rel="alternate" type="text/html" href="https://el20at.com"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
@@ -932,6 +932,35 @@
         
     </entry>
     <entry xml:lang="ar">
+        <title>سلطة الحمص</title>
+        <published>2010-01-05T00:00:00+00:00</published>
+        <updated>2010-01-05T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            دينا صلاح الدين
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://el20at.com/articles/banat-kitchen-14749/"/>
+        <id>https://el20at.com/articles/banat-kitchen-14749/</id>
+        
+        <content type="html" xml:base="https://el20at.com/articles/banat-kitchen-14749/">&lt;p&gt;&lt;span style=&quot;color:#FF0000&quot;&gt;المقادير:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;كوب حمص.&lt;/p&gt;
+&lt;p&gt;نصف كوب عصير ليمون.&lt;/p&gt;
+&lt;p&gt;ملعقتين كبيرتين زيت زيتون.&lt;/p&gt;
+&lt;p&gt;4 ملاعق خل.&lt;/p&gt;
+&lt;p&gt;ملح.&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color:#FF0000&quot;&gt;طريقة التحضير:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;انقعي الحمص فى 5 أكواب ماء لمدة يوم واحد.&lt;/p&gt;
+&lt;p&gt;اسلقي الحمص فى ماء مغلى حتى ينضج ثم صفى منه الماء.&lt;/p&gt;
+&lt;p&gt;اخلطي الحمص مع الخل وعصير الليمون والملح.&lt;/p&gt;
+&lt;p&gt;ضعي الحمص فى طبق التقديم ورشى فوقه الزيت.&lt;/p&gt;
+&lt;p&gt;يمكنك استبدال الحمص الجاف بالحمص المعلب الجاهز.&lt;/p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="ar">
         <title>قالي بحبِك.. أعمل إيه؟</title>
         <published>2010-01-05T00:00:00+00:00</published>
         <updated>2010-01-05T00:00:00+00:00</updated>
@@ -1033,41 +1062,6 @@
 &lt;p&gt;قد تظنين أن ذلك أمر غير طبيعي ، ولكن الدراسات قالت إننا نجتهد لنبدو بأفضل صورة عندما نتحدث مع غرباء ربما نلتقيهم لأول مرة لنترك لهم انطباعا جيدا عنا، ولكننا لا نبذل هذا المجهود مع شركاء حياتنا، ولما قام الأشخاص الذين أجريت عليهم الدراسة بالتحدث مع شركائهم كالغرباء، شعروا بالسعادة بعد نهاية التجربة.&lt;/p&gt;
 &lt;h3&gt;&lt;span style=&quot;color:#FF0000&quot;&gt;ابتدي حياتك من جديد&lt;/span&gt;&lt;/h3&gt;
 &lt;p&gt;أغلبنا لا يعرف متى يجب أن يبتعد عن شخص أو موقف ما ويمضي بعيدا، فأحيانا نتمسك بما يجب أن نترك، كعمل مزعج وسيئ يستمر به الشخص، لأنه أمضى به سنوات، أو علاقة غير سعيدة مع شريك لمجرد عدم تصور أنك تنسحب منها. ببساطة نحن نستمر في استثمارات خاسرة سواء على صعيد المال أو الوقت أو المجهود أو المشاعر ولا نستوعب أننا لن نستطيع تعويض ما خسرناه سلفا. لكي تصلحي ذلك فكري بالموقف السيئ، وكأنك لم تكوني فيه واسألي نفسك ماذا كنت ستفعلين لو تعرضت له؟ هل كنت ستستمرين؟&lt;/p&gt;
-</content>
-        
-    </entry>
-    <entry xml:lang="ar">
-        <title>فتشي عن الفتوش..</title>
-        <published>2009-12-29T00:00:00+00:00</published>
-        <updated>2009-12-29T00:00:00+00:00</updated>
-        
-        <author>
-          <name>
-            دينا صلاح الدين
-          </name>
-        </author>
-        
-        <link rel="alternate" type="text/html" href="https://el20at.com/articles/banat-kitchen-14636/"/>
-        <id>https://el20at.com/articles/banat-kitchen-14636/</id>
-        
-        <content type="html" xml:base="https://el20at.com/articles/banat-kitchen-14636/">&lt;p&gt;&lt;span style=&quot;color:#FF0000&quot;&gt;المقادير:&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;- 500 جم طماطم.&lt;/p&gt;
-&lt;p&gt;- 500 جم خيار.&lt;/p&gt;
-&lt;p&gt;- حبة فلفل بارد.&lt;/p&gt;
-&lt;p&gt;- خبز.&lt;/p&gt;
-&lt;p&gt;- زيت.&lt;/p&gt;
-&lt;p&gt;- خس.&lt;/p&gt;
-&lt;p&gt;- خل.&lt;/p&gt;
-&lt;p&gt;- 4 حبات بصل أخضر.&lt;/p&gt;
-&lt;p&gt;- عصير ليمون.&lt;/p&gt;
-&lt;p&gt;- نعناع.&lt;/p&gt;
-&lt;p&gt;- ثوم.&lt;/p&gt;
-&lt;p&gt;- نعناع مجفف.&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;color:#FF0000&quot;&gt;طريقة التحضير:&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;- قطعي الطماطم والخيار ثم تقطع أوراق الخس وتفرم فرما ناعما.&lt;/p&gt;
-&lt;p&gt;- افرمي أوراق النعناع مع الفلفل الأخضر والبصل الأخضر.&lt;/p&gt;
-&lt;p&gt;- افرمي الثوم مع الملح واخلطيه بالزيت والخل والنعناع المجفف.&lt;/p&gt;
-&lt;p&gt;- اخلطي جميع المكونات مع الخبز بعد تقطيعه وتتبل بالملح والزيت وعصير الليمون.&lt;/p&gt;
 </content>
         
     </entry>

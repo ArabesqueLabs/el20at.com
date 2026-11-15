@@ -9,6 +9,14 @@ capture_url = "https://web.archive.org/web/20100105193314/http://20at.com/20at/p
 
 [[comments]]
 order = 1
+subject = "...."
+author = "مو مهم"
+text = "الأجانب أحسن منهم، بنوا نفسهم بنفسهم ..<br />شكراً"
+archived = "2009-03-04"
+capture_url = "https://web.archive.org/web/20090304024448/http://www.harb.20at.com:80/newArticle.php?sid=20164"
+
+[[comments]]
+order = 2
 subject = ""
 author = "أميمة الشاذلي"
 posted = "2009-03-10"

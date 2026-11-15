@@ -1,12 +1,39 @@
 [[comments]]
 order = 0
+subject = ""
+author = "نايك خونه العرب"
+posted = "1970-01-01"
+text = "كــس امكم ياكلاب ياشراميط الخليج يا اذناب الامريكان والصهاينه لعنه الله عليم ياحثاله يا أقبح شعب يازنوج الخليج يالحووج العرب اتفوه عليكم في وجيهكم فضحكم الله دنيا واخره"
+archived = "2011-07-05"
+capture_url = "https://web.archive.org/web/20110705191317/http://www.20at.com/20at/religious/2909.html"
+
+[[comments]]
+order = 1
+subject = ""
+author = "انتي سخيفه"
+posted = "1970-01-01"
+text = "انتي كل تردي على بهامه"
+archived = "2011-07-05"
+capture_url = "https://web.archive.org/web/20110705191317/http://www.20at.com/20at/religious/2909.html"
+
+[[comments]]
+order = 2
+subject = ""
+author = "المياسة"
+posted = "1970-01-01"
+text = "ما شاء الله عليك ممتاز"
+archived = "2011-07-05"
+capture_url = "https://web.archive.org/web/20110705191317/http://www.20at.com/20at/religious/2909.html"
+
+[[comments]]
+order = 3
 subject = "2222222222222"
 text = "أرسل هذا التعليق بواسطة : 44444444444444444444444"
 archived = "2007-02-12"
 capture_url = "https://web.archive.org/web/20070212025904/http://doha2006.20at.com:80/article.php?sid=4540"
 
 [[comments]]
-order = 1
+order = 4
 subject = "بنت قطر"
 author = "ما شاء الله عليك ممتاز"
 text = "أرسل هذا التعليق بواسطة : المياسة"
@@ -14,7 +41,7 @@ archived = "2007-10-16"
 capture_url = "https://web.archive.org/web/20071016105149/http://doha2006.20at.com:80/article.php?sid=4540"
 
 [[comments]]
-order = 2
+order = 5
 subject = "ااااااااااااااااااااااااااااااااااااااااهووووو"
 author = "انتي كل تردي على بهامه"
 text = "أرسل هذا التعليق بواسطة : انتي سخيفه"
@@ -22,7 +49,7 @@ archived = "2008-02-20"
 capture_url = "https://web.archive.org/web/20080220162905/http://doha2006.20at.com:80/article.php?sid=4540"
 
 [[comments]]
-order = 3
+order = 6
 subject = "كس ام قطر"
 text = "أرسل هذا التعليق بواسطة : نايك خونه العرب<br />كــس امكم ياكلاب ياشراميط الخليج يا اذناب الامريكان والصهاينه لعنه الله عليم ياحثاله يا أقبح شعب يازنوج الخليج يالحووج العرب اتفوه عليكم في وجيهكم فضحكم الله دنيا واخره"
 archived = "2008-12-23"
