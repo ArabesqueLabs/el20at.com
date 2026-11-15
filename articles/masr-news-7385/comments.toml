@@ -9,6 +9,14 @@ capture_url = "https://web.archive.org/web/20100212123545/http://www.20at.com:80
 
 [[comments]]
 order = 1
+subject = "هوووووووووبه"
+author = "فعلا.."
+text = "انا لما كنت بدرس تاريخ في الكليه كان المدرس بتاعي يهودي كان بيكلمني عن ازاي ان المصرين اليهود اتخدو غدر<br />وان ليهم حق في مصر وحاجات كدا انا مصدقتهوش رحت لبابا وحكتلوه قالي فعلا علي ايام عد الناصر وكدا بس لسه لغايه دلوقتي حازة في نفسيتهم وعايزين يرجعو مصر اه والله ويخدو تراثهم هو اللي قالي كدا المدرس وبيحب مصر جدااااااااااااااااا وكان بيكلمني شويه عربي ويعلمني شويه عبري ما علينا الحمد لله خلصت التاريخ واداني درجه كويسه جدا"
+archived = "2007-10-27"
+capture_url = "https://web.archive.org/web/20071027143702/http://masr.20at.com:80/newArticle.php?sid=11985"
+
+[[comments]]
+order = 2
 subject = ""
 author = "انا غووول"
 posted = "2008-03-04"
@@ -17,7 +25,7 @@ archived = "2010-02-12"
 capture_url = "https://web.archive.org/web/20100212123545/http://www.20at.com:80/masr/news/7385.html"
 
 [[comments]]
-order = 2
+order = 3
 subject = ""
 author = "اكتب اسمك هنا"
 posted = "2008-03-04"

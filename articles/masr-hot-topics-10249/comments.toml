@@ -27,6 +27,30 @@ capture_url = "https://web.archive.org/web/20090701044956/http://www.20at.com:80
 
 [[comments]]
 order = 3
+subject = "الصحف القومية والاعلام البدنجانى وتحيا جمهورية مصر العربية"
+author = "مختار"
+text = "كنت با اتفرج على قنوات النايل سات<br />تصوروا<br />لقيت اربع قنوات تليفزيونية اسرائيلية بتذيع من على النايل سات<br />نعم شفت قنوات اسرائلية بتذيع من على النايل سات<br />يعيش نصر اكتوبر العظيم وتعيش كامب دافيد وتعيش جمهورية مصر العربية<br />ولقيت الاطفال معجبين جدا بالتقدم الاسرائيلى ومعجبين بتلك القنواتى خالص<br />هو وزير الاعلام الاسرائيلى اسمة اية - عايز ابعت لة جواب شكرا على امتاع الشعب المصرى بقنواتة اللذيذة<br />بالمناسبة<br />هى جريدة اديعوت احرانوت هتتوزع فى القاهرة امتى<br />شكرا<br />شكرا"
+archived = "2008-10-14"
+capture_url = "https://web.archive.org/web/20081014020231/http://masr.20at.com:80/newArticle.php?sid=17883"
+
+[[comments]]
+order = 4
+subject = "صباح الخير يا اعلام"
+author = "لية"
+text = "تليفزيون قناة النيل بيذيع كل يوم الصبح فقرة رياضية اروبيك تفطس من الضحك<br />جايبين واحدة رياضية عروق رقبتها بارزة ولابسة باروكة وبتنهج ومش قادرة تتنفس ومعظمة وعندها فقر دم وانيميا مزمنة ومنظرها يدل على مدى المجاعة فى بر مصر ومومياء خارجة من القبر تتفسح شوية وتظهر فى التليفزيون وترجع تانى<br />هى الاشكال دى قريبة مين فى التليفزيون<br />دى اشكال تخللى الناس تكرة الرياضة<br />وتقولى اعلام وصحف وتليفزيون<br />بلاش قرف"
+archived = "2008-10-14"
+capture_url = "https://web.archive.org/web/20081014020231/http://masr.20at.com:80/newArticle.php?sid=17883"
+
+[[comments]]
+order = 5
+subject = "المصري اليوم إيه؟أكبر إيه؟؟مصداقية؟؟"
+author = "محمد السيد"
+text = "\\\\\\\\\\\\\\\"وقد يكون هؤلاء على غير دراية بأن المصري اليوم هي الجريدة صاحبة أكبر مصداقية في مصر حالياً. \\\\\\\\\\\\\\\"<br />الموضوع كله راااااااائع ... الا اخر جملة ... اللي مش عارف جابها منين؟؟<br />المصري اليوم .. الجريدة الأمنية الأولي في مصر..<br />المصري اليوم ..الجريدة صاحبة الاراء المتناقضة الاولي في مصر كسياسة تحريرية<br />المصري اليوم ..الجريدة الاولي في التقارير الأمنية في مصر<br />المصري اليوم .... لا تعليق<br />مش حاسكت ..."
+archived = "2008-10-14"
+capture_url = "https://web.archive.org/web/20081014020231/http://masr.20at.com:80/newArticle.php?sid=17883"
+
+[[comments]]
+order = 6
 subject = ""
 author = "احمد الفااااااااااار"
 posted = "2009-07-04"
@@ -35,7 +59,7 @@ archived = "2009-07-21"
 capture_url = "https://web.archive.org/web/20090721030923/http://www.20at.com:80/masr/t7kyk/10249.html"
 
 [[comments]]
-order = 4
+order = 7
 subject = ""
 author = "أشرف ابن بلد الأحرار"
 posted = "2009-10-13"
@@ -44,7 +68,7 @@ archived = "2009-11-07"
 capture_url = "https://web.archive.org/web/20091107112519/http://www.20at.com:80/masr/hot-topics/10249.html"
 
 [[comments]]
-order = 5
+order = 8
 subject = ""
 author = "فارس امازيغ"
 posted = "2009-10-13"
@@ -53,7 +77,7 @@ archived = "2009-11-07"
 capture_url = "https://web.archive.org/web/20091107112519/http://www.20at.com:80/masr/hot-topics/10249.html"
 
 [[comments]]
-order = 6
+order = 9
 subject = ""
 author = "الياس الجزائري"
 posted = "2009-10-14"
@@ -62,7 +86,7 @@ archived = "2009-11-07"
 capture_url = "https://web.archive.org/web/20091107112519/http://www.20at.com:80/masr/hot-topics/10249.html"
 
 [[comments]]
-order = 7
+order = 10
 subject = ""
 author = "kamikas"
 posted = "2009-10-14"
@@ -71,7 +95,7 @@ archived = "2009-11-07"
 capture_url = "https://web.archive.org/web/20091107112519/http://www.20at.com:80/masr/hot-topics/10249.html"
 
 [[comments]]
-order = 8
+order = 11
 subject = ""
 author = "أمينة من الجزائر"
 posted = "2009-10-19"
@@ -80,7 +104,7 @@ archived = "2009-11-07"
 capture_url = "https://web.archive.org/web/20091107112519/http://www.20at.com:80/masr/hot-topics/10249.html"
 
 [[comments]]
-order = 9
+order = 12
 subject = ""
 author = "نادية بنت الجزائر"
 posted = "2009-10-19"
@@ -89,7 +113,7 @@ archived = "2009-11-07"
 capture_url = "https://web.archive.org/web/20091107112519/http://www.20at.com:80/masr/hot-topics/10249.html"
 
 [[comments]]
-order = 10
+order = 13
 subject = ""
 author = "منى من أوراس الجزائر"
 posted = "2009-10-19"
@@ -98,7 +122,7 @@ archived = "2009-11-07"
 capture_url = "https://web.archive.org/web/20091107112519/http://www.20at.com:80/masr/hot-topics/10249.html"
 
 [[comments]]
-order = 11
+order = 14
 subject = ""
 author = "Khaled Hassan"
 posted = "2009-10-20"
@@ -107,7 +131,7 @@ archived = "2009-11-07"
 capture_url = "https://web.archive.org/web/20091107112519/http://www.20at.com:80/masr/hot-topics/10249.html"
 
 [[comments]]
-order = 12
+order = 15
 subject = ""
 author = "أشرف من الجزائر"
 posted = "2009-10-21"
@@ -116,7 +140,7 @@ archived = "2009-11-07"
 capture_url = "https://web.archive.org/web/20091107112519/http://www.20at.com:80/masr/hot-topics/10249.html"
 
 [[comments]]
-order = 13
+order = 16
 subject = ""
 author = "حياة بنت الجزائر"
 posted = "2009-10-21"
@@ -125,7 +149,7 @@ archived = "2009-11-07"
 capture_url = "https://web.archive.org/web/20091107112519/http://www.20at.com:80/masr/hot-topics/10249.html"
 
 [[comments]]
-order = 14
+order = 17
 subject = ""
 author = "محمد معاك يا الخضرة"
 posted = "2009-10-21"
@@ -134,7 +158,7 @@ archived = "2009-11-07"
 capture_url = "https://web.archive.org/web/20091107112519/http://www.20at.com:80/masr/hot-topics/10249.html"
 
 [[comments]]
-order = 15
+order = 18
 subject = ""
 author = "سلمى من الجزائر"
 posted = "2009-10-22"
@@ -143,7 +167,7 @@ archived = "2009-11-07"
 capture_url = "https://web.archive.org/web/20091107112519/http://www.20at.com:80/masr/hot-topics/10249.html"
 
 [[comments]]
-order = 16
+order = 19
 subject = ""
 author = "بن عيسى : الجزائر"
 posted = "2009-10-22"
@@ -152,7 +176,7 @@ archived = "2009-11-07"
 capture_url = "https://web.archive.org/web/20091107112519/http://www.20at.com:80/masr/hot-topics/10249.html"
 
 [[comments]]
-order = 17
+order = 20
 subject = ""
 author = "أشرف من الجزائر"
 posted = "2009-10-22"
@@ -161,7 +185,7 @@ archived = "2009-11-07"
 capture_url = "https://web.archive.org/web/20091107112519/http://www.20at.com:80/masr/hot-topics/10249.html"
 
 [[comments]]
-order = 18
+order = 21
 subject = ""
 author = "حسابات مهمة و واقعية"
 posted = "2009-10-24"
@@ -170,7 +194,7 @@ archived = "2009-11-07"
 capture_url = "https://web.archive.org/web/20091107112519/http://www.20at.com:80/masr/hot-topics/10249.html"
 
 [[comments]]
-order = 19
+order = 22
 subject = ""
 author = "جزائري غيور على بلده"
 posted = "2009-10-24"
@@ -179,7 +203,7 @@ archived = "2009-11-07"
 capture_url = "https://web.archive.org/web/20091107112519/http://www.20at.com:80/masr/hot-topics/10249.html"
 
 [[comments]]
-order = 20
+order = 23
 subject = ""
 author = "هاني رجب طالب مصري ب"
 posted = "2009-10-24"
@@ -188,7 +212,7 @@ archived = "2009-11-07"
 capture_url = "https://web.archive.org/web/20091107112519/http://www.20at.com:80/masr/hot-topics/10249.html"
 
 [[comments]]
-order = 21
+order = 24
 subject = ""
 author = "منصف الجزايري"
 posted = "2009-10-24"
@@ -197,7 +221,7 @@ archived = "2009-11-07"
 capture_url = "https://web.archive.org/web/20091107112519/http://www.20at.com:80/masr/hot-topics/10249.html"
 
 [[comments]]
-order = 22
+order = 25
 subject = ""
 author = "عربي مسلم"
 posted = "2009-10-30"
@@ -206,7 +230,7 @@ archived = "2009-11-07"
 capture_url = "https://web.archive.org/web/20091107112519/http://www.20at.com:80/masr/hot-topics/10249.html"
 
 [[comments]]
-order = 23
+order = 26
 subject = ""
 author = "بوعلام الجزائري"
 posted = "2009-10-31"
@@ -215,7 +239,7 @@ archived = "2009-11-07"
 capture_url = "https://web.archive.org/web/20091107112519/http://www.20at.com:80/masr/hot-topics/10249.html"
 
 [[comments]]
-order = 24
+order = 27
 subject = ""
 author = "بوعلام الجزائري"
 posted = "2009-10-31"
@@ -224,7 +248,7 @@ archived = "2009-11-07"
 capture_url = "https://web.archive.org/web/20091107112519/http://www.20at.com:80/masr/hot-topics/10249.html"
 
 [[comments]]
-order = 25
+order = 28
 subject = ""
 author = "مسلم وافتخر"
 posted = "2009-11-01"
@@ -233,7 +257,7 @@ archived = "2009-11-07"
 capture_url = "https://web.archive.org/web/20091107112519/http://www.20at.com:80/masr/hot-topics/10249.html"
 
 [[comments]]
-order = 26
+order = 29
 subject = ""
 author = "§§§§§§"
 posted = "2009-11-03"
@@ -242,7 +266,7 @@ archived = "2009-11-07"
 capture_url = "https://web.archive.org/web/20091107112519/http://www.20at.com:80/masr/hot-topics/10249.html"
 
 [[comments]]
-order = 27
+order = 30
 subject = ""
 author = "حكيم من الجزائر"
 posted = "2009-11-04"
@@ -251,7 +275,7 @@ archived = "2009-11-07"
 capture_url = "https://web.archive.org/web/20091107112519/http://www.20at.com:80/masr/hot-topics/10249.html"
 
 [[comments]]
-order = 28
+order = 31
 subject = ""
 author = "بوعلام الجزائري"
 posted = "2009-11-05"
@@ -260,7 +284,7 @@ archived = "2009-11-07"
 capture_url = "https://web.archive.org/web/20091107112519/http://www.20at.com:80/masr/hot-topics/10249.html"
 
 [[comments]]
-order = 29
+order = 32
 subject = ""
 author = "بوعلام الجزائري"
 posted = "2009-11-05"
@@ -269,7 +293,7 @@ archived = "2009-11-07"
 capture_url = "https://web.archive.org/web/20091107112519/http://www.20at.com:80/masr/hot-topics/10249.html"
 
 [[comments]]
-order = 30
+order = 33
 subject = ""
 author = "امينة بلد الشهداء"
 posted = "2009-11-06"
@@ -278,7 +302,7 @@ archived = "2009-11-07"
 capture_url = "https://web.archive.org/web/20091107112519/http://www.20at.com:80/masr/hot-topics/10249.html"
 
 [[comments]]
-order = 31
+order = 34
 subject = ""
 author = "ابومهند"
 posted = "2009-11-11"
@@ -287,7 +311,7 @@ archived = "2009-12-03"
 capture_url = "https://web.archive.org/web/20091203040547/http://www.20at.com:80/masr/hot-topics/10249.html"
 
 [[comments]]
-order = 32
+order = 35
 subject = ""
 author = "sofia"
 posted = "2009-11-11"
@@ -296,7 +320,7 @@ archived = "2009-12-03"
 capture_url = "https://web.archive.org/web/20091203040547/http://www.20at.com:80/masr/hot-topics/10249.html"
 
 [[comments]]
-order = 33
+order = 36
 subject = ""
 author = "جزائرية"
 posted = "2009-11-11"
@@ -305,7 +329,7 @@ archived = "2009-12-03"
 capture_url = "https://web.archive.org/web/20091203040547/http://www.20at.com:80/masr/hot-topics/10249.html"
 
 [[comments]]
-order = 34
+order = 37
 subject = ""
 author = "سيسينيو بداندو"
 posted = "2009-11-12"
@@ -314,7 +338,7 @@ archived = "2009-12-03"
 capture_url = "https://web.archive.org/web/20091203040547/http://www.20at.com:80/masr/hot-topics/10249.html"
 
 [[comments]]
-order = 35
+order = 38
 subject = ""
 author = "سيسينيو بداندو"
 posted = "2009-11-12"
@@ -323,7 +347,7 @@ archived = "2009-12-03"
 capture_url = "https://web.archive.org/web/20091203040547/http://www.20at.com:80/masr/hot-topics/10249.html"
 
 [[comments]]
-order = 36
+order = 39
 subject = ""
 author = "جزائر العزة والكرام"
 posted = "2009-11-12"
@@ -332,7 +356,7 @@ archived = "2009-12-03"
 capture_url = "https://web.archive.org/web/20091203040547/http://www.20at.com:80/masr/hot-topics/10249.html"
 
 [[comments]]
-order = 37
+order = 40
 subject = ""
 author = "rosa بنت راس الوادي"
 posted = "2009-11-13"
@@ -341,7 +365,7 @@ archived = "2009-12-03"
 capture_url = "https://web.archive.org/web/20091203040547/http://www.20at.com:80/masr/hot-topics/10249.html"
 
 [[comments]]
-order = 38
+order = 41
 subject = ""
 author = "بنت الجزائر"
 posted = "2009-11-13"
@@ -350,7 +374,7 @@ archived = "2009-12-03"
 capture_url = "https://web.archive.org/web/20091203040547/http://www.20at.com:80/masr/hot-topics/10249.html"
 
 [[comments]]
-order = 39
+order = 42
 subject = ""
 author = "مناصرة جزائرية"
 posted = "2009-11-18"
@@ -359,7 +383,7 @@ archived = "2009-12-03"
 capture_url = "https://web.archive.org/web/20091203040547/http://www.20at.com:80/masr/hot-topics/10249.html"
 
 [[comments]]
-order = 40
+order = 43
 subject = ""
 author = "وصال عاشقة تراب مصر"
 posted = "2009-11-19"
@@ -368,7 +392,7 @@ archived = "2009-12-03"
 capture_url = "https://web.archive.org/web/20091203040547/http://www.20at.com:80/masr/hot-topics/10249.html"
 
 [[comments]]
-order = 41
+order = 44
 subject = ""
 author = "وصال عاشقة تراب مصر"
 posted = "2009-11-19"
@@ -377,7 +401,7 @@ archived = "2009-12-03"
 capture_url = "https://web.archive.org/web/20091203040547/http://www.20at.com:80/masr/hot-topics/10249.html"
 
 [[comments]]
-order = 42
+order = 45
 subject = ""
 author = "وصال عاشقة تراب مصر"
 posted = "2009-11-19"
@@ -386,7 +410,7 @@ archived = "2009-12-03"
 capture_url = "https://web.archive.org/web/20091203040547/http://www.20at.com:80/masr/hot-topics/10249.html"
 
 [[comments]]
-order = 43
+order = 46
 subject = ""
 author = "وصال عاشقة تراب مصر"
 posted = "2009-11-19"
@@ -395,7 +419,7 @@ archived = "2009-12-03"
 capture_url = "https://web.archive.org/web/20091203040547/http://www.20at.com:80/masr/hot-topics/10249.html"
 
 [[comments]]
-order = 44
+order = 47
 subject = ""
 author = "وصال عاشقة تراب مصر"
 posted = "2009-11-19"
@@ -404,7 +428,7 @@ archived = "2009-12-03"
 capture_url = "https://web.archive.org/web/20091203040547/http://www.20at.com:80/masr/hot-topics/10249.html"
 
 [[comments]]
-order = 45
+order = 48
 subject = ""
 author = "هدى"
 posted = "2009-11-19"
@@ -413,7 +437,7 @@ archived = "2009-12-03"
 capture_url = "https://web.archive.org/web/20091203040547/http://www.20at.com:80/masr/hot-topics/10249.html"
 
 [[comments]]
-order = 46
+order = 49
 subject = ""
 author = "هدى"
 posted = "2009-11-19"
@@ -422,7 +446,7 @@ archived = "2009-12-03"
 capture_url = "https://web.archive.org/web/20091203040547/http://www.20at.com:80/masr/hot-topics/10249.html"
 
 [[comments]]
-order = 47
+order = 50
 subject = ""
 author = "محمد"
 posted = "2009-11-20"
@@ -431,7 +455,7 @@ archived = "2009-12-03"
 capture_url = "https://web.archive.org/web/20091203040547/http://www.20at.com:80/masr/hot-topics/10249.html"
 
 [[comments]]
-order = 48
+order = 51
 subject = ""
 author = "عربي"
 posted = "2009-11-21"
@@ -440,7 +464,7 @@ archived = "2009-12-03"
 capture_url = "https://web.archive.org/web/20091203040547/http://www.20at.com:80/masr/hot-topics/10249.html"
 
 [[comments]]
-order = 49
+order = 52
 subject = ""
 author = "العربي عبد القادر"
 posted = "2009-11-22"
@@ -449,7 +473,7 @@ archived = "2009-12-03"
 capture_url = "https://web.archive.org/web/20091203040547/http://www.20at.com:80/masr/hot-topics/10249.html"
 
 [[comments]]
-order = 50
+order = 53
 subject = ""
 author = "جزائري"
 posted = "2009-11-22"
@@ -458,7 +482,7 @@ archived = "2009-12-03"
 capture_url = "https://web.archive.org/web/20091203040547/http://www.20at.com:80/masr/hot-topics/10249.html"
 
 [[comments]]
-order = 51
+order = 54
 subject = ""
 author = "جوجو"
 posted = "2009-11-23"
@@ -467,7 +491,7 @@ archived = "2009-12-03"
 capture_url = "https://web.archive.org/web/20091203040547/http://www.20at.com:80/masr/hot-topics/10249.html"
 
 [[comments]]
-order = 52
+order = 55
 subject = ""
 author = "جوجو"
 posted = "2009-11-23"
@@ -476,7 +500,7 @@ archived = "2009-12-03"
 capture_url = "https://web.archive.org/web/20091203040547/http://www.20at.com:80/masr/hot-topics/10249.html"
 
 [[comments]]
-order = 53
+order = 56
 subject = ""
 author = "جوجو"
 posted = "2009-11-23"
@@ -485,7 +509,7 @@ archived = "2009-12-03"
 capture_url = "https://web.archive.org/web/20091203040547/http://www.20at.com:80/masr/hot-topics/10249.html"
 
 [[comments]]
-order = 54
+order = 57
 subject = ""
 author = "123"
 posted = "2009-11-23"
@@ -494,7 +518,7 @@ archived = "2009-12-03"
 capture_url = "https://web.archive.org/web/20091203040547/http://www.20at.com:80/masr/hot-topics/10249.html"
 
 [[comments]]
-order = 55
+order = 58
 subject = ""
 author = "جزائرييييييييييييييي"
 posted = "2009-11-23"
@@ -503,7 +527,7 @@ archived = "2009-12-03"
 capture_url = "https://web.archive.org/web/20091203040547/http://www.20at.com:80/masr/hot-topics/10249.html"
 
 [[comments]]
-order = 56
+order = 59
 subject = ""
 author = "فاروق الجزائري"
 posted = "2009-11-24"
@@ -512,7 +536,7 @@ archived = "2009-12-03"
 capture_url = "https://web.archive.org/web/20091203040547/http://www.20at.com:80/masr/hot-topics/10249.html"
 
 [[comments]]
-order = 57
+order = 60
 subject = ""
 author = "الجبلاوي"
 posted = "2009-11-26"
@@ -521,7 +545,7 @@ archived = "2009-12-03"
 capture_url = "https://web.archive.org/web/20091203040547/http://www.20at.com:80/masr/hot-topics/10249.html"
 
 [[comments]]
-order = 58
+order = 61
 subject = ""
 author = "amar"
 posted = "2009-11-27"
@@ -530,7 +554,7 @@ archived = "2009-12-03"
 capture_url = "https://web.archive.org/web/20091203040547/http://www.20at.com:80/masr/hot-topics/10249.html"
 
 [[comments]]
-order = 59
+order = 62
 subject = ""
 author = "عمار"
 posted = "2009-11-28"
@@ -539,7 +563,7 @@ archived = "2009-12-03"
 capture_url = "https://web.archive.org/web/20091203040547/http://www.20at.com:80/masr/hot-topics/10249.html"
 
 [[comments]]
-order = 60
+order = 63
 subject = ""
 author = "ابو رؤى"
 posted = "2009-11-30"
@@ -548,7 +572,7 @@ archived = "2009-12-03"
 capture_url = "https://web.archive.org/web/20091203040547/http://www.20at.com:80/masr/hot-topics/10249.html"
 
 [[comments]]
-order = 61
+order = 64
 subject = ""
 author = "abbou"
 posted = "2009-12-03"
@@ -557,7 +581,7 @@ archived = "2010-01-06"
 capture_url = "https://web.archive.org/web/20100106142415/http://www.20at.com:80/masr/hot-topics/10249.html"
 
 [[comments]]
-order = 62
+order = 65
 subject = ""
 author = "abbou"
 posted = "2009-12-03"
@@ -566,7 +590,7 @@ archived = "2010-01-06"
 capture_url = "https://web.archive.org/web/20100106142415/http://www.20at.com:80/masr/hot-topics/10249.html"
 
 [[comments]]
-order = 63
+order = 66
 subject = ""
 author = "abbou"
 posted = "2009-12-03"
@@ -575,7 +599,7 @@ archived = "2010-01-06"
 capture_url = "https://web.archive.org/web/20100106142415/http://www.20at.com:80/masr/hot-topics/10249.html"
 
 [[comments]]
-order = 64
+order = 67
 subject = ""
 author = "وردة الجزائر"
 posted = "2009-12-06"
@@ -584,7 +608,7 @@ archived = "2010-01-06"
 capture_url = "https://web.archive.org/web/20100106142415/http://www.20at.com:80/masr/hot-topics/10249.html"
 
 [[comments]]
-order = 65
+order = 68
 subject = ""
 author = "وردة الجزائر"
 posted = "2009-12-06"
@@ -593,7 +617,7 @@ archived = "2010-01-06"
 capture_url = "https://web.archive.org/web/20100106142415/http://www.20at.com:80/masr/hot-topics/10249.html"
 
 [[comments]]
-order = 66
+order = 69
 subject = ""
 author = "وردة الجزائر"
 posted = "2009-12-07"
@@ -602,7 +626,7 @@ archived = "2010-01-06"
 capture_url = "https://web.archive.org/web/20100106142415/http://www.20at.com:80/masr/hot-topics/10249.html"
 
 [[comments]]
-order = 67
+order = 70
 subject = ""
 author = "مصراوي"
 posted = "2009-12-08"
@@ -611,7 +635,7 @@ archived = "2010-01-06"
 capture_url = "https://web.archive.org/web/20100106142415/http://www.20at.com:80/masr/hot-topics/10249.html"
 
 [[comments]]
-order = 68
+order = 71
 subject = ""
 author = "مصراوي"
 posted = "2009-12-08"
@@ -620,7 +644,7 @@ archived = "2010-01-06"
 capture_url = "https://web.archive.org/web/20100106142415/http://www.20at.com:80/masr/hot-topics/10249.html"
 
 [[comments]]
-order = 69
+order = 72
 subject = ""
 author = "وردة الجزائر"
 posted = "2009-12-09"
@@ -629,7 +653,7 @@ archived = "2010-01-06"
 capture_url = "https://web.archive.org/web/20100106142415/http://www.20at.com:80/masr/hot-topics/10249.html"
 
 [[comments]]
-order = 70
+order = 73
 subject = ""
 author = "بنت الصحراء الجزائر"
 posted = "2009-12-10"
@@ -638,7 +662,7 @@ archived = "2010-01-06"
 capture_url = "https://web.archive.org/web/20100106142415/http://www.20at.com:80/masr/hot-topics/10249.html"
 
 [[comments]]
-order = 71
+order = 74
 subject = ""
 author = "عنتر يحي"
 posted = "2009-12-14"
@@ -647,7 +671,7 @@ archived = "2010-01-06"
 capture_url = "https://web.archive.org/web/20100106142415/http://www.20at.com:80/masr/hot-topics/10249.html"
 
 [[comments]]
-order = 72
+order = 75
 subject = ""
 author = "اكرم الجزائر"
 posted = "2009-12-14"
@@ -656,7 +680,7 @@ archived = "2010-01-06"
 capture_url = "https://web.archive.org/web/20100106142415/http://www.20at.com:80/masr/hot-topics/10249.html"
 
 [[comments]]
-order = 73
+order = 76
 subject = ""
 author = "ابنة الشهيد"
 posted = "2009-12-18"
@@ -665,7 +689,7 @@ archived = "2010-01-06"
 capture_url = "https://web.archive.org/web/20100106142415/http://www.20at.com:80/masr/hot-topics/10249.html"
 
 [[comments]]
-order = 74
+order = 77
 subject = ""
 author = "من جزائرى الى كل مصر"
 posted = "2009-12-18"
@@ -674,7 +698,7 @@ archived = "2010-01-06"
 capture_url = "https://web.archive.org/web/20100106142415/http://www.20at.com:80/masr/hot-topics/10249.html"
 
 [[comments]]
-order = 75
+order = 78
 subject = ""
 author = "ابنة مجاهد حر"
 posted = "2009-12-19"
@@ -683,7 +707,7 @@ archived = "2010-01-06"
 capture_url = "https://web.archive.org/web/20100106142415/http://www.20at.com:80/masr/hot-topics/10249.html"
 
 [[comments]]
-order = 76
+order = 79
 subject = ""
 author = "حرااااااااااااااااام"
 posted = "2009-12-21"
@@ -692,7 +716,7 @@ archived = "2010-01-06"
 capture_url = "https://web.archive.org/web/20100106142415/http://www.20at.com:80/masr/hot-topics/10249.html"
 
 [[comments]]
-order = 77
+order = 80
 subject = ""
 author = "أيوب - الجزائر"
 posted = "2009-12-22"
@@ -701,7 +725,7 @@ archived = "2010-01-06"
 capture_url = "https://web.archive.org/web/20100106142415/http://www.20at.com:80/masr/hot-topics/10249.html"
 
 [[comments]]
-order = 78
+order = 81
 subject = ""
 author = "أيوب - الجزائر"
 posted = "2009-12-22"
@@ -710,7 +734,7 @@ archived = "2010-01-06"
 capture_url = "https://web.archive.org/web/20100106142415/http://www.20at.com:80/masr/hot-topics/10249.html"
 
 [[comments]]
-order = 79
+order = 82
 subject = ""
 author = "أيوب - الجزائر"
 posted = "2009-12-22"
@@ -719,7 +743,7 @@ archived = "2010-01-06"
 capture_url = "https://web.archive.org/web/20100106142415/http://www.20at.com:80/masr/hot-topics/10249.html"
 
 [[comments]]
-order = 80
+order = 83
 subject = ""
 author = "أيوب - الجزائر"
 posted = "2009-12-22"
@@ -728,7 +752,7 @@ archived = "2010-01-06"
 capture_url = "https://web.archive.org/web/20100106142415/http://www.20at.com:80/masr/hot-topics/10249.html"
 
 [[comments]]
-order = 81
+order = 84
 subject = ""
 author = "عزة العربيه"
 posted = "2009-12-27"
@@ -737,7 +761,7 @@ archived = "2010-01-06"
 capture_url = "https://web.archive.org/web/20100106142415/http://www.20at.com:80/masr/hot-topics/10249.html"
 
 [[comments]]
-order = 82
+order = 85
 subject = ""
 author = "kaiso-41"
 posted = "2010-01-16"
@@ -746,7 +770,7 @@ archived = "2010-01-31"
 capture_url = "https://web.archive.org/web/20100131032829/http://www.20at.com:80/masr/hot-topics/10249.html"
 
 [[comments]]
-order = 83
+order = 86
 subject = ""
 author = "kaiso-41"
 posted = "2010-01-16"
@@ -755,7 +779,7 @@ archived = "2010-01-31"
 capture_url = "https://web.archive.org/web/20100131032829/http://www.20at.com:80/masr/hot-topics/10249.html"
 
 [[comments]]
-order = 84
+order = 87
 subject = ""
 author = "عمر المصرى"
 posted = "2010-01-19"
@@ -764,7 +788,7 @@ archived = "2010-01-31"
 capture_url = "https://web.archive.org/web/20100131032829/http://www.20at.com:80/masr/hot-topics/10249.html"
 
 [[comments]]
-order = 85
+order = 88
 subject = ""
 author = "كوكا"
 posted = "2010-01-27"
@@ -773,7 +797,7 @@ archived = "2010-01-31"
 capture_url = "https://web.archive.org/web/20100131032829/http://www.20at.com:80/masr/hot-topics/10249.html"
 
 [[comments]]
-order = 86
+order = 89
 subject = ""
 author = "سمير الزل"
 posted = "2010-01-27"
@@ -782,7 +806,7 @@ archived = "2010-01-31"
 capture_url = "https://web.archive.org/web/20100131032829/http://www.20at.com:80/masr/hot-topics/10249.html"
 
 [[comments]]
-order = 87
+order = 90
 subject = ""
 author = "ابن الجزائر"
 posted = "2010-01-27"
@@ -791,7 +815,7 @@ archived = "2010-01-31"
 capture_url = "https://web.archive.org/web/20100131032829/http://www.20at.com:80/masr/hot-topics/10249.html"
 
 [[comments]]
-order = 88
+order = 91
 subject = ""
 author = "ابن الجزائر"
 posted = "2010-01-27"
@@ -800,7 +824,7 @@ archived = "2010-01-31"
 capture_url = "https://web.archive.org/web/20100131032829/http://www.20at.com:80/masr/hot-topics/10249.html"
 
 [[comments]]
-order = 89
+order = 92
 subject = ""
 author = "امزيغي مسلم"
 posted = "2010-01-27"
@@ -809,7 +833,7 @@ archived = "2010-01-31"
 capture_url = "https://web.archive.org/web/20100131032829/http://www.20at.com:80/masr/hot-topics/10249.html"
 
 [[comments]]
-order = 90
+order = 93
 subject = ""
 author = "djalal"
 posted = "2010-01-30"
@@ -818,7 +842,7 @@ archived = "2010-01-31"
 capture_url = "https://web.archive.org/web/20100131032829/http://www.20at.com:80/masr/hot-topics/10249.html"
 
 [[comments]]
-order = 91
+order = 94
 subject = ""
 author = "بن الجزائر"
 posted = "2010-01-30"
@@ -827,7 +851,7 @@ archived = "2010-01-31"
 capture_url = "https://web.archive.org/web/20100131032829/http://www.20at.com:80/masr/hot-topics/10249.html"
 
 [[comments]]
-order = 92
+order = 95
 subject = ""
 author = "بن الجزائر"
 posted = "2010-01-30"
@@ -836,52 +860,52 @@ archived = "2010-01-31"
 capture_url = "https://web.archive.org/web/20100131032829/http://www.20at.com:80/masr/hot-topics/10249.html"
 
 [[comments]]
-order = 93
+order = 96
 subject = ""
 author = "سمير 2"
 posted = "2010-02-01"
 text = "ايها العبيد انتم لا تسجدون لله بل انتم تسجدون لال مبارك يا خونة"
-archived = "2010-03-04"
-capture_url = "https://web.archive.org/web/20100304185116/http://www.20at.com:80/masr/hot-topics/10249.html"
-
-[[comments]]
-order = 94
-subject = ""
-author = "بنت مصرية"
-posted = "2010-02-03"
-text = "اقتباس سمير 2:<br />ايها العبيد انتم لا تسجدون لله بل انتم تسجدون لال مبارك يا خونة<br />ليس هناك ردعلى كلامك ابلغ من قول الله تعالى \" حسبى الله ونعم الوكيل \" وقولة \" واذا خاطبهم الجاهلون قالوا سلاما \" - لقدد اخطأت فى حق كل مسلم يسجد لله تعالى ويرعى الله وسوف يحاسبك الله حسابا عسيرا على ذلك"
-archived = "2010-03-04"
-capture_url = "https://web.archive.org/web/20100304185116/http://www.20at.com:80/masr/hot-topics/10249.html"
-
-[[comments]]
-order = 95
-subject = ""
-author = "جزائر اقتخراني مسلمة"
-posted = "2010-02-04"
-text = "لا يزال قلبي يبض حبا لك يا مصر لا ما يسمع لا يبشر بالخير فالواضح ان اسرائيل تريد ان تضرب الجزائر بمصر لاننا كرهها كما كتم تكرهونها ولازلتم تكرهونها رغم الجدار هناك مثل فرنسي يقول خض عدوك بالاحضان كي يسهل عليك قتله والواضح ان اسرائيل بدات تاخذكم بالاحضان يا مصريين ارجوا ان كلامي هذا يصل الى قلوبكم لان من القلب الى القلب حب وورود<br />وارجو ان يعفو الله عما سلف لان ما سيخلفه هذا الشجار سيتلف كل من ينبض قلبه حبا لدين محمد والفتنة اشد من القتل<br />ارجو من الاخوة الجزائريين ان لا يسقطوا في الشرك الدي نصب لهم من الاسرائيليين الصهاينة الدين يقودون معرك ضارية ضد اخواننا الفلسطينيين امر العداب ويلهوننا في مع معارك سيتالم التاريخ منها والشعوب<br />احبكم في الله"
-archived = "2010-03-04"
-capture_url = "https://web.archive.org/web/20100304185116/http://www.20at.com:80/masr/hot-topics/10249.html"
-
-[[comments]]
-order = 96
-subject = ""
-author = "sonson 2020"
-posted = "2010-02-04"
-text = "بمناسبه الشهداء انا كنت سامع انهم مليون وبعدين مصر قالتلكم خليهم مليون ونص هو حد هيعد وراكم"
-archived = "2010-03-04"
-capture_url = "https://web.archive.org/web/20100304185116/http://www.20at.com:80/masr/hot-topics/10249.html"
+archived = "2010-02-08"
+capture_url = ""
 
 [[comments]]
 order = 97
 subject = ""
-author = "sonson 2020"
-posted = "2010-02-04"
-text = "لقد ذكرت مصر فى القران ونتشرف بذكرها اما انتم فلم نسمع عنكم ولا فى طبق اليوم هههههههه.1.2.3.فيفا لانجيرى ههههههههههههههه ههههههههههههههه هه"
-archived = "2010-03-04"
-capture_url = "https://web.archive.org/web/20100304185116/http://www.20at.com:80/masr/hot-topics/10249.html"
+author = "بنت مصرية"
+posted = "2010-02-03"
+text = "اقتباس سمير 2:<br />ايها العبيد انتم لا تسجدون لله بل انتم تسجدون لال مبارك يا خونة<br />ليس هناك ردعلى كلامك ابلغ من قول الله تعالى \" حسبى الله ونعم الوكيل \" وقولة \" واذا خاطبهم الجاهلون قالوا سلاما \" - لقدد اخطأت فى حق كل مسلم يسجد لله تعالى ويرعى الله وسوف يحاسبك الله حسابا عسيرا على ذلك"
+archived = "2010-02-08"
+capture_url = ""
 
 [[comments]]
 order = 98
+subject = ""
+author = "جزائر اقتخراني مسلمة"
+posted = "2010-02-04"
+text = "لا يزال قلبي يبض حبا لك يا مصر لا ما يسمع لا يبشر بالخير فالواضح ان اسرائيل تريد ان تضرب الجزائر بمصر لاننا كرهها كما كتم تكرهونها ولازلتم تكرهونها رغم الجدار هناك مثل فرنسي يقول خض عدوك بالاحضان كي يسهل عليك قتله والواضح ان اسرائيل بدات تاخذكم بالاحضان يا مصريين ارجوا ان كلامي هذا يصل الى قلوبكم لان من القلب الى القلب حب وورود<br />وارجو ان يعفو الله عما سلف لان ما سيخلفه هذا الشجار سيتلف كل من ينبض قلبه حبا لدين محمد والفتنة اشد من القتل<br />ارجو من الاخوة الجزائريين ان لا يسقطوا في الشرك الدي نصب لهم من الاسرائيليين الصهاينة الدين يقودون معرك ضارية ضد اخواننا الفلسطينيين امر العداب ويلهوننا في مع معارك سيتالم التاريخ منها والشعوب<br />احبكم في الله"
+archived = "2010-02-08"
+capture_url = ""
+
+[[comments]]
+order = 99
+subject = ""
+author = "sonson 2020"
+posted = "2010-02-04"
+text = "بمناسبه الشهداء انا كنت سامع انهم مليون وبعدين مصر قالتلكم خليهم مليون ونص هو حد هيعد وراكم"
+archived = "2010-02-08"
+capture_url = ""
+
+[[comments]]
+order = 100
+subject = ""
+author = "sonson 2020"
+posted = "2010-02-04"
+text = "لقد ذكرت مصر فى القران ونتشرف بذكرها اما انتم فلم نسمع عنكم ولا فى طبق اليوم هههههههه.1.2.3.فيفا لانجيرى ههههههههههههههه ههههههههههههههه هه"
+archived = "2010-02-08"
+capture_url = ""
+
+[[comments]]
+order = 101
 subject = ""
 author = "notilaemo@live.com"
 posted = "2010-02-14"
@@ -890,7 +914,7 @@ archived = "2010-03-04"
 capture_url = "https://web.archive.org/web/20100304185116/http://www.20at.com:80/masr/hot-topics/10249.html"
 
 [[comments]]
-order = 99
+order = 102
 subject = ""
 author = "يوسف أبو القاسم"
 posted = "2010-02-15"
@@ -899,7 +923,7 @@ archived = "2010-03-04"
 capture_url = "https://web.archive.org/web/20100304185116/http://www.20at.com:80/masr/hot-topics/10249.html"
 
 [[comments]]
-order = 100
+order = 103
 subject = ""
 author = "أحمد ابن شهيد"
 posted = "2010-02-22"
@@ -908,7 +932,7 @@ archived = "2010-03-04"
 capture_url = "https://web.archive.org/web/20100304185116/http://www.20at.com:80/masr/hot-topics/10249.html"
 
 [[comments]]
-order = 101
+order = 104
 subject = ""
 author = "الجزائري"
 posted = "2010-02-22"
@@ -917,7 +941,7 @@ archived = "2010-03-04"
 capture_url = "https://web.archive.org/web/20100304185116/http://www.20at.com:80/masr/hot-topics/10249.html"
 
 [[comments]]
-order = 102
+order = 105
 subject = ""
 author = "nano2003"
 posted = "2010-02-23"
@@ -926,7 +950,7 @@ archived = "2010-03-04"
 capture_url = "https://web.archive.org/web/20100304185116/http://www.20at.com:80/masr/hot-topics/10249.html"
 
 [[comments]]
-order = 103
+order = 106
 subject = ""
 author = "algerienne et fiere"
 posted = "2010-03-04"
@@ -935,7 +959,7 @@ archived = "2010-03-04"
 capture_url = "https://web.archive.org/web/20100304185116/http://www.20at.com:80/masr/hot-topics/10249.html"
 
 [[comments]]
-order = 104
+order = 107
 subject = ""
 author = "حوحو و بلد العز"
 posted = "2010-03-04"
@@ -944,7 +968,7 @@ archived = "2010-03-04"
 capture_url = "https://web.archive.org/web/20100304185116/http://www.20at.com:80/masr/hot-topics/10249.html"
 
 [[comments]]
-order = 105
+order = 108
 subject = ""
 author = "حوحو و بلد العز"
 posted = "2010-03-04"

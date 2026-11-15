@@ -1,0 +1,41 @@
+[[comments]]
+order = 0
+subject = ""
+author = "اكتب اسمك هنا"
+posted = "2008-07-10"
+text = "عيب بقى الموضوع اتعرض في العاشرة مساءا من اكتر من شهر يا نايمين في العسل"
+archived = "2010-02-09"
+capture_url = ""
+
+[[comments]]
+order = 1
+subject = ""
+author = "ابو محسن"
+posted = "2008-07-12"
+text = "لا واللة حاجة جميلة خالص وهو دة الشغل اللى على ودنة"
+archived = "2010-02-09"
+capture_url = ""
+
+[[comments]]
+order = 2
+subject = "ضع عنوان التعليق"
+text = "عيب بقى الموضوع اتعرض في العاشرة مساءا من اكتر من شهر يا نايمين في العسل"
+archived = "2008-07-14"
+capture_url = "https://web.archive.org/web/20080714061036/http://masr.20at.com:80/newArticle.php?sid=16711"
+
+[[comments]]
+order = 3
+subject = "حاجة حلوة يا ام باسم"
+author = "ابو محسن"
+text = "لا واللة حاجة جميلة خالص وهو دة الشغل اللى على ودنة"
+archived = "2008-07-14"
+capture_url = "https://web.archive.org/web/20080714061036/http://masr.20at.com:80/newArticle.php?sid=16711"
+
+[[comments]]
+order = 4
+subject = ""
+author = "مريم عاطف"
+posted = "2008-08-01"
+text = "أتمنى أن تزودني بمعلومات عنها للاتصال بها لاستضافتها في برنامج"
+archived = "2010-02-09"
+capture_url = ""

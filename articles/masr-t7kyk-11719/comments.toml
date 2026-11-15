@@ -18,6 +18,29 @@ capture_url = "https://web.archive.org/web/20090422003335/http://www.20at.com:80
 
 [[comments]]
 order = 2
+subject = "عدوية انت فين ياراجل سايب الملعب لشعبان وسعد الصغير وبعرور انت فين بجد ياعدوية"
+author = "ناظورجى"
+text = "انا بااقترح انك تغنى لوحدك لان الناس حتحبك زى محبتك زمان ومش حنجاملك لو السى دى مش ولا بد لاسمح اللة"
+archived = "2009-03-27"
+capture_url = "https://web.archive.org/web/20090327230424/http://masr.20at.com:80/newArticle.php?sid=20426"
+
+[[comments]]
+order = 3
+subject = "ضع عنوان التعليق"
+text = "ايوه كده ارجعي نوري من تاني يا استاذه مروه"
+archived = "2009-03-27"
+capture_url = "https://web.archive.org/web/20090327230424/http://masr.20at.com:80/newArticle.php?sid=20426"
+
+[[comments]]
+order = 4
+subject = "عدوية بداية السقوط"
+author = "ابومحسن غربة 27 سنه"
+text = "عدوية بداية سقوط الاغنية العربية<br />اتذكر اول اغنيةى التي هوت بالمغنى المصري الى الجحيم<br />السح الدح امبو ادلي الواد لابوه<br />يا عيني الواد بيعيط الواد عطشان اسقوه<br />وراحت في ستين داهية الاغنية العربية<br />وراح في ستين داهية خريجي معهد الموسيقى العربية<br />وجلب علينا القهوجية والمكوجية والحرامية وكله اعد يغني<br />بع شادية وعبدالحليم<br />شوفوا بقا مين بقا بيغني<br />معدش يجي منه<br />سلام يا صاحبي"
+archived = "2009-03-27"
+capture_url = "https://web.archive.org/web/20090327230424/http://masr.20at.com:80/newArticle.php?sid=20426"
+
+[[comments]]
+order = 5
 subject = ""
 author = "ابومحسن غربة 27 سنه"
 posted = "2009-03-27"
@@ -26,7 +49,7 @@ archived = "2009-04-22"
 capture_url = "https://web.archive.org/web/20090422003335/http://www.20at.com:80/masr/t7kyk/11719-2009-04-15-18-53-04.html"
 
 [[comments]]
-order = 3
+order = 6
 subject = ""
 author = "المعلم كفتة"
 posted = "2009-03-28"
@@ -35,7 +58,7 @@ archived = "2009-04-22"
 capture_url = "https://web.archive.org/web/20090422003335/http://www.20at.com:80/masr/t7kyk/11719-2009-04-15-18-53-04.html"
 
 [[comments]]
-order = 4
+order = 7
 subject = ""
 author = "مش لازم منقول"
 posted = "2009-03-28"
@@ -44,7 +67,7 @@ archived = "2009-04-22"
 capture_url = "https://web.archive.org/web/20090422003335/http://www.20at.com:80/masr/t7kyk/11719-2009-04-15-18-53-04.html"
 
 [[comments]]
-order = 5
+order = 8
 subject = ""
 author = "مش ححبك"
 posted = "2009-03-28"

@@ -1,5 +1,30 @@
 [[comments]]
 order = 0
+subject = "جزاك الله خيرا"
+text = "واعطاك بكل كلمة حسنة آمين"
+archived = "2005-03-16"
+capture_url = "https://web.archive.org/web/20050316100309/http://www.20at.com:80/article.php?sid=680"
+
+[[comments]]
+order = 1
+subject = "جزاكم الله خيرا"
+author = "جزاكم الله كل خير و جعله الله في ميزان حساناتكم"
+posted = "2006-09-29"
+text = "تقبل الله منا و منكم صالح القول و العمل"
+archived = "2006-11-02"
+capture_url = "https://web.archive.org/web/20061102123557/http://www.20at.com/article2.php?sid=1288"
+
+[[comments]]
+order = 2
+subject = "بسم الله الرحمن الرحيم"
+author = "ام عبد العزيز"
+posted = "2006-10-17"
+text = "جزاكم خير على نقل الموضوع<br />ووفقكم لما فيه الخير"
+archived = "2006-11-02"
+capture_url = "https://web.archive.org/web/20061102123557/http://www.20at.com/article2.php?sid=1288"
+
+[[comments]]
+order = 3
 subject = ""
 author = "sara"
 posted = "2009-09-11"
@@ -8,7 +33,7 @@ archived = "2009-09-12"
 capture_url = "https://web.archive.org/web/20090912045940/http://20at.com:80/20at/7ayatna/13415-2009-09-10-12-52-32.html"
 
 [[comments]]
-order = 1
+order = 4
 subject = ""
 author = "صليب منقريوس"
 posted = "2009-09-11"
@@ -17,7 +42,7 @@ archived = "2009-09-12"
 capture_url = "https://web.archive.org/web/20090912045940/http://20at.com:80/20at/7ayatna/13415-2009-09-10-12-52-32.html"
 
 [[comments]]
-order = 2
+order = 5
 subject = ""
 author = "زكريا الدرديري"
 posted = "2009-09-11"
@@ -26,7 +51,7 @@ archived = "2009-09-12"
 capture_url = "https://web.archive.org/web/20090912045940/http://20at.com:80/20at/7ayatna/13415-2009-09-10-12-52-32.html"
 
 [[comments]]
-order = 3
+order = 6
 subject = ""
 author = "مؤمنة"
 posted = "2009-09-12"
@@ -35,7 +60,7 @@ archived = "2009-12-27"
 capture_url = "https://web.archive.org/web/20091227040956/http://www.20at.com:80/banat/variety/13415-2009-09-10-12-52-32.html"
 
 [[comments]]
-order = 4
+order = 7
 subject = ""
 author = "نونا"
 posted = "2009-09-13"

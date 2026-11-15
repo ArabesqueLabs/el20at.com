@@ -1,5 +1,23 @@
 [[comments]]
 order = 0
+subject = ""
+author = "مُعلمة شباب المستقبل"
+posted = "1970-01-01"
+text = "أنا كمان بحب أعمل أى طاعه فيها عشان أخد ثواب الهجره للرسول صلى الله عليه وسلم"
+archived = "2012-01-18"
+capture_url = "https://web.archive.org/web/20120118044616/http://www.20at.com:80/20at/arts/1492.html"
+
+[[comments]]
+order = 1
+subject = ""
+author = "نيفين نيفى نوفا"
+posted = "1970-01-01"
+text = "انا شايفه فعلا ان الاحتفال بالكريسماس يرتبط بالنيه<br />الاخوه الاقباط ليهم نيه<br />اما الاحتفال عند معظم المسلمين اعتقد انه بيكون بنيه استقبال عام جديد<br />انا بحب احتفل بالكريسماس و بتزيين شجر الكريسماس و تهيئه نفسى و الاخرين بعام جديد و بحب اقول لكل اللى يقابلنى و لكا اصحابى merry christmas<br />lو مش شرط الواحد يخرج و يسهر بره يوم راس السنه علشان يحتفل<br />الاحتفال ليه مظاهر كتير<br />انا شخصيت مبحتفلش بالخروج<br />زى ما قلتلكو يا جماعه جدا شىء نفسى"
+archived = "2012-01-18"
+capture_url = "https://web.archive.org/web/20120118044616/http://www.20at.com:80/20at/arts/1492.html"
+
+[[comments]]
+order = 2
 subject = "هبهوب"
 author = "هبهوب"
 posted = "2005-12-29"
@@ -8,7 +26,7 @@ archived = "2006-11-02"
 capture_url = "https://web.archive.org/web/20061102124142/http://www.20at.com/article2.php?sid=166"
 
 [[comments]]
-order = 1
+order = 3
 subject = "الملتزمين ملهومش كريسماس"
 author = "الملتزم"
 posted = "2005-12-29"
@@ -17,7 +35,7 @@ archived = "2006-11-02"
 capture_url = "https://web.archive.org/web/20061102124142/http://www.20at.com/article2.php?sid=166"
 
 [[comments]]
-order = 2
+order = 4
 subject = "ya3abdo"
 author = "rabena ykater men amsalak"
 posted = "2005-12-29"
@@ -26,7 +44,7 @@ archived = "2006-11-02"
 capture_url = "https://web.archive.org/web/20061102124142/http://www.20at.com/article2.php?sid=166"
 
 [[comments]]
-order = 3
+order = 5
 subject = "أي كلام"
 author = "هاني جمال الدين"
 posted = "2005-12-29"
@@ -35,7 +53,7 @@ archived = "2006-11-02"
 capture_url = "https://web.archive.org/web/20061102124142/http://www.20at.com/article2.php?sid=166"
 
 [[comments]]
-order = 4
+order = 6
 subject = "الاحتفال باعياد النصارى حرام"
 author = "إن مشاركة النصارى في اعيادهم هو اقرار بهاوبمشروعيتها ، وهذا لا يحل لمسلم يزعم الايمان ، وقد أمرناربنا بالكفر بالطاغوت : اقرؤا : ومن يكفر بالطاغوت ويؤمن بالله ، فقد استمسك بالعروة الوتقى ، لاانفصام لها."
 posted = "2005-12-30"
@@ -44,7 +62,7 @@ archived = "2006-11-02"
 capture_url = "https://web.archive.org/web/20061102124142/http://www.20at.com/article2.php?sid=166"
 
 [[comments]]
-order = 5
+order = 7
 subject = "زي أي ليلة تانية"
 author = "راية"
 posted = "2005-12-30"
@@ -53,7 +71,7 @@ archived = "2006-11-02"
 capture_url = "https://web.archive.org/web/20061102124142/http://www.20at.com/article2.php?sid=166"
 
 [[comments]]
-order = 6
+order = 8
 subject = "الاستاذ هاني جمال الدين"
 author = "الملتزم"
 posted = "2005-12-30"
@@ -62,7 +80,7 @@ archived = "2006-11-02"
 capture_url = "https://web.archive.org/web/20061102124142/http://www.20at.com/article2.php?sid=166"
 
 [[comments]]
-order = 7
+order = 9
 subject = "كريسماس الملتزمين"
 author = "sudanees"
 posted = "2005-12-30"
@@ -71,7 +89,7 @@ archived = "2006-11-02"
 capture_url = "https://web.archive.org/web/20061102124142/http://www.20at.com/article2.php?sid=166"
 
 [[comments]]
-order = 8
+order = 10
 subject = "دي ليلة مش يوم"
 author = "حمادة المصري"
 posted = "2005-12-31"
@@ -80,7 +98,7 @@ archived = "2006-11-02"
 capture_url = "https://web.archive.org/web/20061102124142/http://www.20at.com/article2.php?sid=166"
 
 [[comments]]
-order = 9
+order = 11
 subject = "ليس عيدا للنصارى ..."
 author = "هاني جمال الدين"
 posted = "2005-12-31"
@@ -89,7 +107,7 @@ archived = "2006-11-02"
 capture_url = "https://web.archive.org/web/20061102124142/http://www.20at.com/article2.php?sid=166"
 
 [[comments]]
-order = 10
+order = 12
 subject = "رحمتك يارب"
 author = "wonder"
 posted = "2005-12-31"
@@ -98,7 +116,7 @@ archived = "2006-11-02"
 capture_url = "https://web.archive.org/web/20061102124142/http://www.20at.com/article2.php?sid=166"
 
 [[comments]]
-order = 11
+order = 13
 subject = "تصحيح"
 author = "مسلم"
 posted = "2005-12-31"
@@ -107,7 +125,7 @@ archived = "2006-11-02"
 capture_url = "https://web.archive.org/web/20061102124142/http://www.20at.com/article2.php?sid=166"
 
 [[comments]]
-order = 12
+order = 14
 subject = "يوم التوبة"
 author = "امير"
 posted = "2005-12-31"
@@ -116,7 +134,7 @@ archived = "2006-11-02"
 capture_url = "https://web.archive.org/web/20061102124142/http://www.20at.com/article2.php?sid=166"
 
 [[comments]]
-order = 13
+order = 15
 subject = "مفيش فايدة ..."
 author = "هاني جمال الدين"
 posted = "2006-01-01"
@@ -125,7 +143,7 @@ archived = "2006-11-02"
 capture_url = "https://web.archive.org/web/20061102124142/http://www.20at.com/article2.php?sid=166"
 
 [[comments]]
-order = 14
+order = 16
 subject = "يا هانى"
 author = "وليد"
 posted = "2006-01-03"
@@ -134,7 +152,7 @@ archived = "2006-11-02"
 capture_url = "https://web.archive.org/web/20061102124142/http://www.20at.com/article2.php?sid=166"
 
 [[comments]]
-order = 15
+order = 17
 subject = "صح وليد"
 author = "مروة"
 posted = "2006-01-03"
@@ -143,7 +161,7 @@ archived = "2006-11-02"
 capture_url = "https://web.archive.org/web/20061102124142/http://www.20at.com/article2.php?sid=166"
 
 [[comments]]
-order = 16
+order = 18
 subject = "للاسف"
 author = "فارس النيل"
 posted = "2006-01-03"
@@ -152,7 +170,7 @@ archived = "2006-11-02"
 capture_url = "https://web.archive.org/web/20061102124142/http://www.20at.com/article2.php?sid=166"
 
 [[comments]]
-order = 17
+order = 19
 subject = "عبادة في هرج"
 author = "عبادة في هرج كهجرة إلي"
 posted = "2006-01-04"
@@ -161,7 +179,7 @@ archived = "2006-11-02"
 capture_url = "https://web.archive.org/web/20061102124142/http://www.20at.com/article2.php?sid=166"
 
 [[comments]]
-order = 18
+order = 20
 subject = "انسان"
 author = "انا احترم راي استاذ هاني لانه انسان فاهم و مثقف و قد اوضح مواعيد عيد الكريسماس و هو 25 ديسمبر و 7 يناير"
 posted = "2006-01-04"
@@ -170,7 +188,7 @@ archived = "2006-11-02"
 capture_url = "https://web.archive.org/web/20061102124142/http://www.20at.com/article2.php?sid=166"
 
 [[comments]]
-order = 19
+order = 21
 subject = "انا فهمت"
 author = "مروة"
 posted = "2006-01-05"
@@ -179,7 +197,7 @@ archived = "2006-11-02"
 capture_url = "https://web.archive.org/web/20061102124142/http://www.20at.com/article2.php?sid=166"
 
 [[comments]]
-order = 20
+order = 22
 subject = "حكم الأحتفال بالكريسماس ورأس السنه"
 author = "عبدالله 17 سنة"
 posted = "2006-02-06"
@@ -188,7 +206,7 @@ archived = "2006-11-02"
 capture_url = "https://web.archive.org/web/20061102124142/http://www.20at.com/article2.php?sid=166"
 
 [[comments]]
-order = 21
+order = 23
 subject = "يا جماعة براحة"
 author = "أبو عبد الله"
 posted = "2006-04-29"
@@ -197,7 +215,7 @@ archived = "2006-11-02"
 capture_url = "https://web.archive.org/web/20061102124142/http://www.20at.com/article2.php?sid=166"
 
 [[comments]]
-order = 22
+order = 24
 subject = "مش عارفه"
 author = "مش عارفه برده"
 posted = "2006-09-10"

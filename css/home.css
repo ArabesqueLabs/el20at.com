@@ -242,7 +242,7 @@
 .hm-writers__list { min-block-size: 30rem; }
 .hm-writers__list a { color: #2B2B2B; font-weight: 500; font-size: 15px; text-decoration: none; }
 .hm-writers__list a:hover { color: var(--al-color-accent-hover); text-decoration: underline; }
-.hm-writers__list span { color: #8A8A8A; font-size: 12px; }
+.hm-writers__list span { color: #8A8A8A; font-size: 13px; }
 /* "the whole directory" and "all the sections": text links, a little bigger and bold */
 .hm-block__more { font-size: 1em; font-weight: 700; }
 /* the poll and the media: a small kicker, the question or the title is what stands out */
@@ -303,7 +303,7 @@
 .ab-eras li { display: flex; flex-direction: column; gap: 2px; padding: 14px; background: var(--al-color-surface-sunk); }
 .ab-eras strong { font-size: 15px; }
 .ab-eras span { color: #555555; font-size: 14px; line-height: 1.8; }
-.ab-eras bdi { color: var(--t9-color-text-soft); font-size: 12px; }
+.ab-eras bdi { color: var(--t9-color-text-soft); font-size: 13px; }
 .ab-archive { border-block-end: 0; }
 .ab-archive > p:not(.hm-links) { margin: 12px 0 0; max-inline-size: 46em; font-family: var(--al-font-serif); font-size: 18px; line-height: 1.95; color: #444444; }
 @media (max-width: 52rem) {

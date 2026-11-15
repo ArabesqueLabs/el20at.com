@@ -15,6 +15,9 @@
   var fmt = function (d) { return ar(+d.slice(6, 8)) + " " + M[+d.slice(4, 6) - 1] + " " + ar(d.slice(0, 4)); };
   var wd = function (d) { return WD[new Date(Date.UTC(+d.slice(0, 4), +d.slice(4, 6) - 1, +d.slice(6, 8))).getUTCDay()]; };
   var go = function (s, d) { location.href = "/tm/" + s + "/" + (d ? (/^\d{8}$/.test(d) ? d + "/" : "?d=" + d) : ""); };
+  // any day, saved or not: /tm/<site>/?d= opens that site's nearest saved day
+  var goNear = function (s, d) { location.href = "/tm/" + s + "/?d=" + d; };
+  var SHOW_DATE_PICKER = false;   // the date field is hidden for now (user's choice, 2026-11-14); kept for later
 
   // the Noto fonts the archive uses (font-face rules only: the old page's own styles stay as they were)
   if (!document.querySelector('link[href="/css/fonts-noto.css"]')) {
@@ -56,6 +59,7 @@
     ".periods button[aria-pressed=true] { background: #FFCC00; color: #111111; border-color: #FFCC00; }",
     ".note { font-size: 12px; opacity: .85; }",
     ".note a { color: #FFE680; text-decoration: underline; }",
+    "[hidden] { display: none !important; }",
     ".sr { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }",
     "@media (max-width: 640px) { .dial { margin-inline-start: 0; } .day { min-width: 0; } .row { padding: 6px 12px; } .periods { flex-basis: 100%; } }"
   ].join("\n");
@@ -96,7 +100,7 @@
     data.sites.forEach(function (x) { if (x.key === site) s = x; });
     if (!s) return;
     var i = s.days.indexOf(day);
-    var sel = el("select", { id: "tm-site", onchange: function () { go(sel.value, day); } });
+    var sel = el("select", { id: "tm-site", onchange: function () { goNear(sel.value, day); } });
     data.sites.forEach(function (x) {
       var o = el("option", { value: x.key, text: x.name, title: x.host });
       if (x.key === site) o.selected = true;
@@ -104,7 +108,8 @@
     });
     var pick = el("input", { type: "date", id: "tm-date", value: day.slice(0, 4) + "-" + day.slice(4, 6) + "-" + day.slice(6),
       min: s.days[0].replace(/(\d{4})(\d\d)(\d\d)/, "$1-$2-$3"), max: s.days[s.days.length - 1].replace(/(\d{4})(\d\d)(\d\d)/, "$1-$2-$3"),
-      onchange: function () { if (pick.value) go(site, pick.value.replace(/-/g, "")); } });
+      onchange: function () { if (pick.value) goNear(site, pick.value.replace(/-/g, "")); } });
+    pick.hidden = !SHOW_DATE_PICKER;
     // the arrows point outwards, away from the date: the earlier day on the right (the bar reads right to left).
     // dir="ltr" so the browser does not mirror ‹ › as it does in right-to-left text
     var prev = el("button", { type: "button", dir: "ltr", "aria-label": "اليوم المحفوظ السابق", text: "›",
@@ -120,8 +125,8 @@
      el("div", { "class": "dial" }, [prev,
        el("span", { "class": "day", "aria-live": "polite",
          text: wd(day) + " " + fmt(day) + (day === last ? " · آخر تحديث" : "") }), next]),
-     el("label", { "for": "tm-date", "class": "sr", text: "اختيار يوم" }), pick
-    ].forEach(function (n) { top.appendChild(n); });
+     SHOW_DATE_PICKER ? el("label", { "for": "tm-date", "class": "sr", text: "اختيار يوم" }) : null, pick
+    ].forEach(function (n) { if (n) top.appendChild(n); });
     // second row: the design periods (each run of saved days with the same look), then the jumps
     var periods = s.periods.length > 1 ? el("div", { "class": "periods", role: "group", "aria-label": "أشكال الموقع عبر السنين" },
       [el("span", { "class": "l", text: "أشكال الموقع:" })].concat(s.periods.map(function (p) {

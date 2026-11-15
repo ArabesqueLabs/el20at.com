@@ -9,6 +9,13 @@ capture_url = "https://web.archive.org/web/20100205154207/http://www.20at.com:80
 
 [[comments]]
 order = 1
+subject = "بيصدروا لمين"
+text = "احنا بنصدر لمين ؟<br />على فكرة انا كنت با اتفرج على المعارض فى دول الخليج ومعظم الاقبال كان على الملابس التركية الجاهزة وكذلك الملابس القطنية السورية وانتاج جبل على فى دبى عشر اضعاف الانتاج المصرى<br />المنتج الوحيد الذى تجدة فى السوبر ماركت فى دول الخليج من انتاج مصر هو المعسل بتاع الشيشة بريحة التفاح ولة شهرة تغمر الافاق<br />ثم ان معظم الملابس الجاهزة داخل مصر نفسها من انتاج الصين والمصريين فى القرى والمدن بيلبسوا انتاج الصين"
+archived = "2009-02-22"
+capture_url = "https://web.archive.org/web/20090222122958/http://masr.20at.com:80/newArticle.php?sid=20047"
+
+[[comments]]
+order = 2
 subject = ""
 author = "مها"
 posted = "2009-06-18"
@@ -17,7 +24,7 @@ archived = "2010-02-05"
 capture_url = "https://web.archive.org/web/20100205154207/http://www.20at.com:80/masr/hot-topics/11343.html"
 
 [[comments]]
-order = 2
+order = 3
 subject = ""
 author = "محمد"
 posted = "2009-12-13"
@@ -26,7 +33,7 @@ archived = "2010-02-05"
 capture_url = "https://web.archive.org/web/20100205154207/http://www.20at.com:80/masr/hot-topics/11343.html"
 
 [[comments]]
-order = 3
+order = 4
 subject = ""
 author = "صاحب مكتب بواقى"
 posted = "2010-02-13"

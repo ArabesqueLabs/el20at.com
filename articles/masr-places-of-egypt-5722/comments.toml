@@ -36,6 +36,38 @@ capture_url = "https://web.archive.org/web/20100105141124/http://20at.com/masr/p
 
 [[comments]]
 order = 4
+subject = "ahha"
+author = "yyy"
+text = "vvv"
+archived = "2007-05-10"
+capture_url = "https://web.archive.org/web/20070510014522/http://masr.20at.com:80/newArticle.php?sid=10063"
+
+[[comments]]
+order = 5
+subject = "تعددت المستشفيات و الكشف واحد"
+author = "نيفين نيفى نوفا"
+text = "قبل ما اعلق بقول طبعا الف سلامه عليك يا جميل<br />بتوحشينا يا منى<br />مش محتاجه اقوللك ان الموضوع تمام و عجبنى البرجراف التالت لان فعلا هى حاجه كدا ملهاش تفسير"
+archived = "2007-05-10"
+capture_url = "https://web.archive.org/web/20070510014522/http://masr.20at.com:80/newArticle.php?sid=10063"
+
+[[comments]]
+order = 6
+subject = "ظاهرة رائعة"
+author = "شادي المصري"
+text = "ظاهرة جميلة جدا ولكن للاسف لا تعبر عن واقع حال كل المصرين.كنت اتمني ان تكون قلوب المصريين ونفوسهم مثل شارع بدران مليئه بالتسامح وقبول الآخر ..."
+archived = "2007-05-10"
+capture_url = "https://web.archive.org/web/20070510014522/http://masr.20at.com:80/newArticle.php?sid=10063"
+
+[[comments]]
+order = 7
+subject = "ياخوفي"
+author = "brince"
+text = "ياخوفي نبأه زي لبنان"
+archived = "2007-05-10"
+capture_url = "https://web.archive.org/web/20070510014522/http://masr.20at.com:80/newArticle.php?sid=10063"
+
+[[comments]]
+order = 8
 subject = ""
 author = "خالد شعراوى"
 posted = "2008-05-12"

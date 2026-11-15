@@ -27,6 +27,30 @@ capture_url = "https://web.archive.org/web/20091029105652/http://www.20at.com:80
 
 [[comments]]
 order = 3
+subject = "مرحبا"
+author = "محمد رشيدي"
+text = "عشرينات .. مرحبا بالعودة لمواضيع عليها القيمة"
+archived = "2008-06-22"
+capture_url = "https://web.archive.org/web/20080622185208/http://www.harb.20at.com:80/newArticle.php?sid=15908"
+
+[[comments]]
+order = 4
+subject = "موضوع جيد"
+author = "مش مهم"
+text = "طبعا لولا لقات الفيديو كنت افتكرت ان الموضوع مضروب ومفبرك لكن كده اتأكدت أن داليا سافرت الدنمارك مش السيدة عائشة علي العموم يا ريت تهتموا بهذه الموضوعات الموثقة"
+archived = "2008-06-22"
+capture_url = "https://web.archive.org/web/20080622185208/http://www.harb.20at.com:80/newArticle.php?sid=15908"
+
+[[comments]]
+order = 5
+subject = "الموقع بتضيع سمعته"
+author = "الدميرى"
+text = "اهتموا بالمواضيع الجاده التى تضيف الجديد للعقول والاذهان وبلاها الهراء والقصص المتفبركه<br />وجزاكم الله خيرا....................................................................."
+archived = "2008-06-22"
+capture_url = "https://web.archive.org/web/20080622185208/http://www.harb.20at.com:80/newArticle.php?sid=15908"
+
+[[comments]]
+order = 6
 subject = ""
 author = "egyptian muslim"
 posted = "2008-07-12"

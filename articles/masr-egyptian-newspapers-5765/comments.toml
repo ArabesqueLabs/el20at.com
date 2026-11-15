@@ -27,6 +27,30 @@ capture_url = "https://web.archive.org/web/20091105043601/http://www.20at.com:80
 
 [[comments]]
 order = 3
+subject = "والله عيب"
+author = "عبدالله atat_atat40@hotmail.com"
+text = "السلام عليكم كل ما اقدر اقوله والله حرام يعني احنا بنشوف شباشب عليها اعلام انديه اوروبيه ومالو مش مهم لاكن علم مصر لا والله لا تسلمس اي مصر انني الفدا ولكي قلبي وعزمي للجهاد وسلاما يا بلادي ان رمي الدهر سهامه التقيها بي فؤادي واسلمي في كل حييييييييييييييييييييييييييييييييييييييييييييين"
+archived = "2007-05-14"
+capture_url = "https://web.archive.org/web/20070514044109/http://masr.20at.com:80/newArticle.php?sid=10106"
+
+[[comments]]
+order = 4
+subject = "ادى اللى كان ناقص"
+author = "نيفين نيفى نوفا"
+text = "المصيبه الاكبر ان بين كل ميت شاب هتلاقى واحد بس يقول ايه دم ميصحش<br />و ال99 هتلاقيهم ياخدوها افتكاسه<br />فين شوقى لو كان معانا دلوقتى كان قال:وطنى لو شغلت بالخلد عنه ..هيرسمو علمه على شبشب"
+archived = "2007-05-14"
+capture_url = "https://web.archive.org/web/20070514044109/http://masr.20at.com:80/newArticle.php?sid=10106"
+
+[[comments]]
+order = 5
+subject = "العلم ام المواطن"
+author = "bakryhasan"
+text = "اعتقد لو كان هناك مواطن مصري محترم في وطنه باليقين كان علمه ورمزه هو الاخر سوف يكون<br />محل تبجيل واحترام منه ومن الدولة كلها.ولكن حال العلم ليس باكثر سوء من حال المواطن فكلنا<br />واعني المصريين البسطاء للاسف الشديد وآسف علي التعبير شباشب في ارجل الممكسين بزمام<br />الحكم عندنا. اذا قبل ان تبحثوا عن كرامة العلم يجب ان تبحثوا اولا عن كرامة من صنع من اجله العلم."
+archived = "2007-05-14"
+capture_url = "https://web.archive.org/web/20070514044109/http://masr.20at.com:80/newArticle.php?sid=10106"
+
+[[comments]]
+order = 6
 subject = ""
 author = "تخلف خلف المحامى"
 posted = "2007-06-04"
@@ -35,7 +59,7 @@ archived = "2009-11-05"
 capture_url = "https://web.archive.org/web/20091105043601/http://www.20at.com:80/masr/egyptian-newspapers/5765.html"
 
 [[comments]]
-order = 4
+order = 7
 subject = ""
 author = "القنوات الكهفية"
 posted = "2007-06-08"
@@ -44,7 +68,7 @@ archived = "2009-11-05"
 capture_url = "https://web.archive.org/web/20091105043601/http://www.20at.com:80/masr/egyptian-newspapers/5765.html"
 
 [[comments]]
-order = 5
+order = 8
 subject = ""
 author = "عمر - السعودية"
 posted = "2007-06-20"
@@ -53,7 +77,31 @@ archived = "2009-11-05"
 capture_url = "https://web.archive.org/web/20091105043601/http://www.20at.com:80/masr/egyptian-newspapers/5765.html"
 
 [[comments]]
-order = 6
+order = 9
+subject = "واية اللى جاب السياسة فى الشبشب"
+author = "تخلف خلف المحامى"
+text = "مفيش فايدة"
+archived = "2007-06-24"
+capture_url = "https://web.archive.org/web/20070624021122/http://masr.20at.com:80/newArticle.php?sid=10106"
+
+[[comments]]
+order = 10
+subject = "على كدة تبقى الدمغة بالشبشب اوفر وممكن الشبشب يعمل شغل لو وقف الورق على شوية فكة"
+author = "القنوات الكهفية"
+text = "لازم يبقى فية كلوت رجالى وبكينى وابوفتلة بشعار النسر عشان نبقى زى الدول اللى سبقونا مهو كلة تطور وتقليد اعمى"
+archived = "2007-06-24"
+capture_url = "https://web.archive.org/web/20070624021122/http://masr.20at.com:80/newArticle.php?sid=10106"
+
+[[comments]]
+order = 11
+subject = "عيب والله عيب"
+author = "عمر - السعودية"
+text = "انا قبل ايام شفت اللاعب المصري المحترف في الدوري الالماني محمد زيدان في مقابلة معة على قناة o tv المصرية وراهم جزمة عملاها لة شركة بوما خصيصا وفيها علم مصر يعني اللاعب ماعندو عقل علم بلدك تحطه في جزمة في رجلك بدل ما تحط علم بلدك في تيشرت على صدرك<br />لكن زي ما قال الشاعر صلاح جاهين (عجبي )"
+archived = "2007-06-24"
+capture_url = "https://web.archive.org/web/20070624021122/http://masr.20at.com:80/newArticle.php?sid=10106"
+
+[[comments]]
+order = 12
 subject = ""
 author = "واحد معدي"
 posted = "2007-06-24"
@@ -62,7 +110,7 @@ archived = "2009-11-05"
 capture_url = "https://web.archive.org/web/20091105043601/http://www.20at.com:80/masr/egyptian-newspapers/5765.html"
 
 [[comments]]
-order = 7
+order = 13
 subject = ""
 author = "old wolf"
 posted = "2007-06-26"
@@ -71,7 +119,7 @@ archived = "2009-11-05"
 capture_url = "https://web.archive.org/web/20091105043601/http://www.20at.com:80/masr/egyptian-newspapers/5765.html"
 
 [[comments]]
-order = 8
+order = 14
 subject = ""
 author = "لاحول ولا قوة الابالله"
 posted = "2007-06-26"
@@ -80,7 +128,71 @@ archived = "2009-11-05"
 capture_url = "https://web.archive.org/web/20091105043601/http://www.20at.com:80/masr/egyptian-newspapers/5765.html"
 
 [[comments]]
-order = 9
+order = 15
+subject = "يمكن اللي بيلبسوا الشبشب ده خلطوا بين نقمتهم على الحكومة ورمز البلد"
+author = "واحد معدي"
+text = "يمكن اللي بيلبسوا الشبشب ده خلطوا بين نقمتهم على الحكومة ورمز البلد!<br />وأشهد أني في الجيش أثناء فترة التجنيد رأيت مدى نقمة زملائي على العلم المصري!<br />ولن أنسى تهليلهم وسعادتهم الغامرة عندما وقفوا يوما لتحية العلم ثم فوجئوا به ممزقًا!<br />وأحد الظرفاء قال إننا نكاد نعامل العلم كالوثن!...فنحن نقف لتحيته...ثم نرتل أمامه الأناشيد...ثم نطوف حوله أثناء طوابير السير!!!!"
+archived = "2007-08-19"
+capture_url = "https://web.archive.org/web/20070819050956/http://masr.20at.com:80/newArticle.php?sid=10106"
+
+[[comments]]
+order = 16
+subject = "شام عبد العزيز"
+author = "لاحول ولا قوة الابالله"
+text = "ماذا حدث بالدنيا وصل الحال الى الاستهزاء بالوطن فالعلم هو من مقومات الدوله كيف يهان علم مصر بهذة الطريقة الوضيعة اليهود يحاربون ويسيميتون فى فلسطين من اجل ان يكون لهم وطن وهوية والمصريين عنده اعظم حضارة بل هى مهد الحضارة الفرعونية واليونا نية والبيزنطية وهى اول من دخلها الاسلام فى القارة الافريقية اى والحضارة الاسلاميةايضا وبعد كل ذلك يوضع العلم اعزكم الله على \"شبشب\" لما اغفل المصريين عن عظمة بلادهم ولم يعودوا يحترما هويتهم"
+archived = "2007-08-19"
+capture_url = "https://web.archive.org/web/20070819050956/http://masr.20at.com:80/newArticle.php?sid=10106"
+
+[[comments]]
+order = 17
+subject = "خلفيه"
+author = "old wolf"
+text = "لما اعدت ادور علي خلفيف احطها للتليفون بتاعي . حطيت صورة عبد الناصر . ودلوأتي بلاءي ناس حطين البلد في رجلهم وبعدين استغرب لما الناس تؤل عليا غريب. الحمد لله اني غريب في وسط الناس دول"
+archived = "2007-08-19"
+capture_url = "https://web.archive.org/web/20070819050956/http://masr.20at.com:80/newArticle.php?sid=10106"
+
+[[comments]]
+order = 18
+subject = "هو الشبشب بقى نعمة علشان نغنيلة"
+author = "زقزوق باشا"
+text = "عظيمة يامصر ياارض النعم لوشفت حد لابس الشبشب اياة على بدلة وكرفتة دا يبقى موضوع تانى انما على البحر او البيسين اوالبازار القريب من البحر دى مفيهاش اى حاجة"
+archived = "2007-08-19"
+capture_url = "https://web.archive.org/web/20070819050956/http://masr.20at.com:80/newArticle.php?sid=10106"
+
+[[comments]]
+order = 19
+subject = "هو ده اللى انا كنت عامل حسابة"
+author = "الباشا"
+text = "الاستهتار يؤدى الى مزيد من الاستهتار ثم ازيد فأزيد فـــــ..........."
+archived = "2007-08-19"
+capture_url = "https://web.archive.org/web/20070819050956/http://masr.20at.com:80/newArticle.php?sid=10106"
+
+[[comments]]
+order = 20
+subject = "عادي"
+author = "هبه شرف"
+text = "الموضوع تافه جدا مش معني اني البس شبشب عليه علم بلدي اني بكرهها ومش بحبها او بستهزء بيها ده مش مقياس."
+archived = "2007-08-19"
+capture_url = "https://web.archive.org/web/20070819050956/http://masr.20at.com:80/newArticle.php?sid=10106"
+
+[[comments]]
+order = 21
+subject = "جات على الشبشب ووقفت"
+author = "mmm"
+text = "عادى يعنى هم مش لاقين موضة يعملوها فطلعوا شبشب على شكل علم<br />طب ما انا قبل كدة من يجى 7سنين جالى صندل من قطر عليه علم قطر<br />يعنى اللى بيحب بلدة مش هيزعل اوى عشان الشبشب فى 5000 حاجة تزعل اكتر منه"
+archived = "2007-08-19"
+capture_url = "https://web.archive.org/web/20070819050956/http://masr.20at.com:80/newArticle.php?sid=10106"
+
+[[comments]]
+order = 22
+subject = "يارب سترك"
+author = "واحد من الناس"
+text = "والله دي حاجه تخرج الواحد عن شعوره \"مصر ع الجزمة-او الشبشب بمعنى اوضح\" مهي لو جدت ع السياسة بس قولنا ماشي لكن يتحكمو ف اللي بنلبسو ويخلوه موضه ده انجاز للغرب الصراحة ولازم نشهد ان الناس دول ....<br />و عجبي"
+archived = "2007-08-19"
+capture_url = "https://web.archive.org/web/20070819050956/http://masr.20at.com:80/newArticle.php?sid=10106"
+
+[[comments]]
+order = 23
 subject = ""
 author = "لا لا لا"
 posted = "2007-11-02"
@@ -89,7 +201,7 @@ archived = "2009-11-05"
 capture_url = "https://web.archive.org/web/20091105043601/http://www.20at.com:80/masr/egyptian-newspapers/5765.html"
 
 [[comments]]
-order = 10
+order = 24
 subject = ""
 author = "ashraf"
 posted = "2007-11-04"
@@ -98,7 +210,7 @@ archived = "2009-11-05"
 capture_url = "https://web.archive.org/web/20091105043601/http://www.20at.com:80/masr/egyptian-newspapers/5765.html"
 
 [[comments]]
-order = 11
+order = 25
 subject = ""
 author = "latif"
 posted = "2007-11-05"
@@ -107,7 +219,7 @@ archived = "2009-11-05"
 capture_url = "https://web.archive.org/web/20091105043601/http://www.20at.com:80/masr/egyptian-newspapers/5765.html"
 
 [[comments]]
-order = 12
+order = 26
 subject = ""
 author = "ام محمد"
 posted = "2007-11-13"
@@ -116,7 +228,7 @@ archived = "2009-11-05"
 capture_url = "https://web.archive.org/web/20091105043601/http://www.20at.com:80/masr/egyptian-newspapers/5765.html"
 
 [[comments]]
-order = 13
+order = 27
 subject = ""
 author = "ahmed"
 posted = "2007-11-13"
@@ -125,7 +237,7 @@ archived = "2009-11-05"
 capture_url = "https://web.archive.org/web/20091105043601/http://www.20at.com:80/masr/egyptian-newspapers/5765.html"
 
 [[comments]]
-order = 14
+order = 28
 subject = ""
 author = "mohamed zaky"
 posted = "2007-11-14"
@@ -134,7 +246,7 @@ archived = "2009-11-05"
 capture_url = "https://web.archive.org/web/20091105043601/http://www.20at.com:80/masr/egyptian-newspapers/5765.html"
 
 [[comments]]
-order = 15
+order = 29
 subject = ""
 author = "ابو اسامة"
 posted = "2007-11-15"
@@ -143,7 +255,7 @@ archived = "2009-11-05"
 capture_url = "https://web.archive.org/web/20091105043601/http://www.20at.com:80/masr/egyptian-newspapers/5765.html"
 
 [[comments]]
-order = 16
+order = 30
 subject = ""
 author = "مصرية"
 posted = "2008-02-10"
@@ -152,7 +264,7 @@ archived = "2009-11-05"
 capture_url = "https://web.archive.org/web/20091105043601/http://www.20at.com:80/masr/egyptian-newspapers/5765.html"
 
 [[comments]]
-order = 17
+order = 31
 subject = ""
 author = "A.I"
 posted = "2008-04-13"
@@ -161,7 +273,7 @@ archived = "2009-11-05"
 capture_url = "https://web.archive.org/web/20091105043601/http://www.20at.com:80/masr/egyptian-newspapers/5765.html"
 
 [[comments]]
-order = 18
+order = 32
 subject = ""
 author = "عادل حلمي"
 posted = "2009-03-27"
@@ -170,7 +282,7 @@ archived = "2009-11-05"
 capture_url = "https://web.archive.org/web/20091105043601/http://www.20at.com:80/masr/egyptian-newspapers/5765.html"
 
 [[comments]]
-order = 19
+order = 33
 subject = ""
 author = "sokar"
 posted = "2009-08-20"
@@ -179,7 +291,7 @@ archived = "2009-11-05"
 capture_url = "https://web.archive.org/web/20091105043601/http://www.20at.com:80/masr/egyptian-newspapers/5765.html"
 
 [[comments]]
-order = 20
+order = 34
 subject = ""
 author = "Elmasry سيدهم"
 posted = "2009-10-01"
@@ -188,7 +300,7 @@ archived = "2009-11-05"
 capture_url = "https://web.archive.org/web/20091105043601/http://www.20at.com:80/masr/egyptian-newspapers/5765.html"
 
 [[comments]]
-order = 21
+order = 35
 subject = ""
 author = "محمد مش لاقى حقه"
 posted = "2009-10-19"
@@ -197,7 +309,7 @@ archived = "2009-11-05"
 capture_url = "https://web.archive.org/web/20091105043601/http://www.20at.com:80/masr/egyptian-newspapers/5765.html"
 
 [[comments]]
-order = 22
+order = 36
 subject = ""
 author = "وفاء"
 posted = "2009-11-21"
@@ -206,7 +318,7 @@ archived = "2009-12-07"
 capture_url = "https://web.archive.org/web/20091207040529/http://www.20at.com:80/masr/egyptian-newspapers/5765.html"
 
 [[comments]]
-order = 23
+order = 37
 subject = ""
 author = "فخوره بمصريتي"
 posted = "2009-11-23"
@@ -215,7 +327,7 @@ archived = "2009-12-07"
 capture_url = "https://web.archive.org/web/20091207040529/http://www.20at.com:80/masr/egyptian-newspapers/5765.html"
 
 [[comments]]
-order = 24
+order = 38
 subject = ""
 author = "مصرية"
 posted = "2009-12-01"
@@ -224,7 +336,7 @@ archived = "2009-12-07"
 capture_url = "https://web.archive.org/web/20091207040529/http://www.20at.com:80/masr/egyptian-newspapers/5765.html"
 
 [[comments]]
-order = 25
+order = 39
 subject = ""
 author = "مصراوية"
 posted = "2009-12-18"
@@ -233,7 +345,7 @@ archived = "2010-02-04"
 capture_url = "https://web.archive.org/web/20100204101230/http://www.20at.com:80/masr/egyptian-newspapers/5765.html"
 
 [[comments]]
-order = 26
+order = 40
 subject = ""
 author = "مصراوي"
 posted = "2010-01-05"
@@ -242,7 +354,7 @@ archived = "2010-02-04"
 capture_url = "https://web.archive.org/web/20100204101230/http://www.20at.com:80/masr/egyptian-newspapers/5765.html"
 
 [[comments]]
-order = 27
+order = 41
 subject = ""
 author = "عاشقة مصر"
 posted = "2010-01-31"
@@ -251,7 +363,7 @@ archived = "2010-02-04"
 capture_url = "https://web.archive.org/web/20100204101230/http://www.20at.com:80/masr/egyptian-newspapers/5765.html"
 
 [[comments]]
-order = 28
+order = 42
 subject = ""
 author = "m.moshmosh"
 posted = "2010-02-01"
@@ -260,7 +372,7 @@ archived = "2010-02-04"
 capture_url = "https://web.archive.org/web/20100204101230/http://www.20at.com:80/masr/egyptian-newspapers/5765.html"
 
 [[comments]]
-order = 29
+order = 43
 subject = ""
 author = "egnedo"
 posted = "2010-02-07"

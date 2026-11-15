@@ -9,6 +9,13 @@ capture_url = "https://web.archive.org/web/20100301100643/http://www.20at.com:80
 
 [[comments]]
 order = 1
+subject = "حتى لو كتبنا على ورق الشجر - الحكومة بتعمل اللى هى عايزاة"
+text = "نحن نرحب باى جريدة جديدة حتى لا يقرأ الناس جرائد الحكومة الصفراء ونرتاح من ممتاز القط واسامة سرايا"
+archived = "2009-02-06"
+capture_url = "https://web.archive.org/web/20090206074957/http://masr.20at.com:80/newArticle.php?sid=19799"
+
+[[comments]]
+order = 2
 subject = ""
 author = "دبي - نادية سلطان"
 posted = "2009-02-06"

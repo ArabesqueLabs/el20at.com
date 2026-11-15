@@ -54,6 +54,53 @@ capture_url = "https://web.archive.org/web/20090813093457/http://www.20at.com:80
 
 [[comments]]
 order = 6
+subject = "حركات قرعة"
+author = "مصراوى"
+text = "كلام فارغ"
+archived = "2008-12-01"
+capture_url = "https://web.archive.org/web/20081201195137/http://masr.20at.com:80/newArticle.php?sid=18539"
+
+[[comments]]
+order = 7
+subject = "نفاق رخيص"
+author = "ممدوح زكى زخارى جرجس_الاسكندرية-مصر"
+text = "أضحكتمونى يا عرب<br />و أضحكتم العالم اللى بتفهم علينا<br />ها ها ها ها ها ها ها ها ها هااااااااااااااااااااااا هاااااااااااااااااااااااااااااااااا<br />نفاق مملوكى قذر و رخيص؟!!!<br />موش كدة و لالالالالالالالالالالالالا ايةةةةةةةةةةةةةةةةةةةةةةةةةةةةةةةةةةةةةةة!!!"
+archived = "2008-12-01"
+capture_url = "https://web.archive.org/web/20081201195137/http://masr.20at.com:80/newArticle.php?sid=18539"
+
+[[comments]]
+order = 8
+subject = "ضع عنوان التعليق"
+text = "مش فاهمة بصراحة أقول رايي في ايه<br />يعنى هى ايه الغلط اللى عملته عشان اقول رايي فيه بالايجاب أوالسلب<br />الست بدل ما تطلع تقول اننا ناس كويسة بشكل مباشر<br />طلعت قالت نفس المعنى بشكل ظريف ويوصل للعقول والقلوب بسهولة<br />وبعدين دى بتتكلم على اليوتيوب يعني لازم تكون شبابية وظريفة<br />ياريتنا الناس اللى بتتريق تعرف تعمل عشر اللى هى عملته"
+archived = "2008-12-01"
+capture_url = "https://web.archive.org/web/20081201195137/http://masr.20at.com:80/newArticle.php?sid=18539"
+
+[[comments]]
+order = 9
+subject = "كلام عادى"
+author = "waleed"
+text = "انا شايف انه كلام عادى مافيهوش حاجه تدعو للسخريه بالعكس يمكن يحمل فى طياته معانى لو فعلا تقصدها يبقى فعلا هى عايشه معنا قضايانا ,, لكن الغريب فى التعليقات وخصوصا تعليق ( ممدوح زكى زخارى جرجس_الاسكندرية-مصر ) اللى بيضحك وباين انه معتبر نفسه مش من ضمن العرب بيسمو بنفسه بأضحكتمونى ياعرب حتى الفاظه تنم عن شئ دفين للعرب , ياريت نحاول نكون ايد واحده واللى شايف انه اسمى مننا يسيبنا ويرحل ولن نأسف عليه ."
+archived = "2008-12-01"
+capture_url = "https://web.archive.org/web/20081201195137/http://masr.20at.com:80/newArticle.php?sid=18539"
+
+[[comments]]
+order = 10
+subject = "بلاد العرب"
+author = "د. محمود"
+text = "لاول مرة اجد نفسي معجبا بعمل جماهيري يقوم به احد زعماء العرب.<br />الملكة رانية اوصلت كلمتها للغرب بالطريقة التي تؤثر عليهم ."
+archived = "2008-12-01"
+capture_url = "https://web.archive.org/web/20081201195137/http://masr.20at.com:80/newArticle.php?sid=18539"
+
+[[comments]]
+order = 11
+subject = "ضع عنوان التعليق انا مع الراي الثاني"
+author = "اكتب اسمك هنا خلود"
+text = "انا مع الراي الثاني ،، يعني يكفي انها تحركت وقامت بتصحيح صورة العرب ،،<br />كثير مكانها كانو راح يترددو بحكم مركزها الاجتماعي ،،<br />يعتبر الي سوته خطوه جريئه منها ،،"
+archived = "2008-12-01"
+capture_url = "https://web.archive.org/web/20081201195137/http://masr.20at.com:80/newArticle.php?sid=18539"
+
+[[comments]]
+order = 12
 subject = ""
 author = "مصرى من ارضها وعربى مسلم"
 posted = "2008-12-03"
@@ -62,7 +109,7 @@ archived = "2009-08-13"
 capture_url = "https://web.archive.org/web/20090813093457/http://www.20at.com:80/20at/eshtbak/10584.html"
 
 [[comments]]
-order = 7
+order = 13
 subject = ""
 author = "اكتب اسمك هنا"
 posted = "2008-12-04"
@@ -71,7 +118,7 @@ archived = "2009-08-13"
 capture_url = "https://web.archive.org/web/20090813093457/http://www.20at.com:80/20at/eshtbak/10584.html"
 
 [[comments]]
-order = 8
+order = 14
 subject = ""
 author = "فتتاه من الصعيد الجوانى"
 posted = "2008-12-05"
@@ -80,7 +127,7 @@ archived = "2009-08-13"
 capture_url = "https://web.archive.org/web/20090813093457/http://www.20at.com:80/20at/eshtbak/10584.html"
 
 [[comments]]
-order = 9
+order = 15
 subject = ""
 author = "ممدوح زكى زخارى جرجس_الاسكندري"
 posted = "2008-12-07"
@@ -89,7 +136,7 @@ archived = "2009-08-13"
 capture_url = "https://web.archive.org/web/20090813093457/http://www.20at.com:80/20at/eshtbak/10584.html"
 
 [[comments]]
-order = 10
+order = 16
 subject = ""
 author = "نسرين العجلوني === الاردن"
 posted = "2008-12-07"
@@ -98,7 +145,7 @@ archived = "2009-08-13"
 capture_url = "https://web.archive.org/web/20090813093457/http://www.20at.com:80/20at/eshtbak/10584.html"
 
 [[comments]]
-order = 11
+order = 17
 subject = ""
 author = "مغربي حر"
 posted = "2008-12-13"
@@ -107,7 +154,7 @@ archived = "2009-08-13"
 capture_url = "https://web.archive.org/web/20090813093457/http://www.20at.com:80/20at/eshtbak/10584.html"
 
 [[comments]]
-order = 12
+order = 18
 subject = ""
 author = "عبدالعزيز الرابع عشر"
 posted = "2008-12-17"
@@ -116,7 +163,7 @@ archived = "2009-08-13"
 capture_url = "https://web.archive.org/web/20090813093457/http://www.20at.com:80/20at/eshtbak/10584.html"
 
 [[comments]]
-order = 13
+order = 19
 subject = ""
 author = "كويتى يعيش بأمريكا"
 posted = "2009-01-12"
@@ -125,7 +172,7 @@ archived = "2009-08-13"
 capture_url = "https://web.archive.org/web/20090813093457/http://www.20at.com:80/20at/eshtbak/10584.html"
 
 [[comments]]
-order = 14
+order = 20
 subject = ""
 author = "جرجس رمزى"
 posted = "2009-01-12"
@@ -134,7 +181,7 @@ archived = "2009-08-13"
 capture_url = "https://web.archive.org/web/20090813093457/http://www.20at.com:80/20at/eshtbak/10584.html"
 
 [[comments]]
-order = 15
+order = 21
 subject = ""
 author = "امجد"
 posted = "2009-05-13"

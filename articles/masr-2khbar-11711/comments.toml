@@ -18,6 +18,29 @@ capture_url = "https://web.archive.org/web/20090425202935/http://www.20at.com:80
 
 [[comments]]
 order = 2
+subject = "واللة لو حصل يبقى الرجل استن سنة حسنة لبقية الاحزاب"
+text = "نامل ان يكون الكلام صحيحا وان يكون ذلك درسا كبيرا للحزن الوطنى وبقية الاحزاب -<br />يمكن<br />افلح الرجل ان صدق<br />نعم تلك الحكمة القديمة<br />افلح الرجل ان صدق"
+archived = "2009-03-27"
+capture_url = "https://web.archive.org/web/20090327230359/http://masr.20at.com:80/newArticle.php?sid=20418"
+
+[[comments]]
+order = 3
+subject = "اعتقد ان امن الدولة سيتدخل ويمنعة من الاستقالة"
+author = "رايق"
+text = "هى فوضى - امن الدولة يسيبة يستقيل - مش ممكن - هما عارفين اللى جاى وراة هيعمل اية - وبعدين هم عرفوا لبة المرشد دة - لسة هييجى واحد جديد<br />وبعدين الجماعة هتظهر امام الامريكان انها ديمقراطية وفيها انتخابات وتغيير مش متجمدة زى الحزب الحاكم<br />اكيد الامن هيمنعة من الاستقالة<br />مستحيل يسيبوة يمشى كدة بمزاجة"
+archived = "2009-03-27"
+capture_url = "https://web.archive.org/web/20090327230359/http://masr.20at.com:80/newArticle.php?sid=20418"
+
+[[comments]]
+order = 4
+subject = "عقبال الريس مبارك يستقيل ويستغفر ويبقى مواطن عادى لحسن يرفدة ربنا ويتحاسب كرئيس تسبب فى كم هائل من المعاناة للبلد والشعب"
+author = "البشمهندس فرخة"
+text = "لو صحيح الخبر تبقى خطوة مش غريبة ولا مستغربة من تنظيم مواكب للعصر يسعى للمصلحة العامة ومؤهل وعلى قدر كبير لادارة البلد"
+archived = "2009-03-27"
+capture_url = "https://web.archive.org/web/20090327230359/http://masr.20at.com:80/newArticle.php?sid=20418"
+
+[[comments]]
+order = 5
 subject = ""
 author = "البشمهندس فرخة"
 posted = "2009-03-27"
@@ -26,7 +49,7 @@ archived = "2009-04-25"
 capture_url = "https://web.archive.org/web/20090425202935/http://www.20at.com:80/masr/2khbar/11711.html"
 
 [[comments]]
-order = 3
+order = 6
 subject = ""
 author = "ممدوح زكى زخارى جرجس_الاسكندري"
 posted = "2009-03-28"
@@ -35,7 +58,7 @@ archived = "2009-04-25"
 capture_url = "https://web.archive.org/web/20090425202935/http://www.20at.com:80/masr/2khbar/11711.html"
 
 [[comments]]
-order = 4
+order = 7
 subject = ""
 author = "مش ححبك"
 posted = "2009-03-28"
