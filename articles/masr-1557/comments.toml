@@ -189,15 +189,6 @@ capture_url = "https://web.archive.org/web/20070210050400/http://masr.20at.com:8
 
 [[comments]]
 order = 21
-subject = "نداء عاجل الى المرشد العام للاخوان"
-author = ": يا فضيلة المرشد ارجوك اسحب اعضاء الجماعة من مجلس الشعب فورا وانسحب من اي معترك سياسي ودع الملك للمالك يؤتيه من يشاء كما هو قال في قرآنه سبحانه وتعالى قل اللهم مالك الملك تؤتي الملك من تشاء وتنزع الملك ممن تشاء."
-posted = "2007-02-10"
-text = "واذكرت بمعاوية ابن ابي سفيان وابنه يزيد كيف حول معاوية الخلافة الراشدة الى مملكه وكيف استخدم كل سلطاته لتوريثها الى يزيد ومن الذي راح ضحية ذلك<br />انهم الحسن والحسين اشرف خلق الله<br />الحسين ذات نفسه لم يستطع فعل اي شيء امام اردة الله.<br />حرام الناس اللي في المعتقلات هذه<br />واوعا تفتكر ان حسني مبارك كافر حسني مبارك مسلم والدليل على ذلك انه يدافع عن المادة الثانية من الدستور التي تنص على ان الدين الرسمي للدولة هو الاسلام والشريعة الاسلامية هي مصدر التشريع رغم الحملات الجنوبية لاقباط المهجر ضده من اجل الغاء هذه المادة.<br />ارجوك انسحب من المعترك السياسي<br />كفاية سجون<br />كفاية معتقلات<br />كفاية امن دولة<br />كفاية مخبرين<br />كفاية تعذيب<br />كفاية ترويع امنين<br />كفاية كفاية كفاية"
-archived = "2007-02-17"
-capture_url = "https://web.archive.org/web/20070217225247/http://masr.20at.com:80/article.php?sid=1557"
-
-[[comments]]
-order = 22
 subject = "الاخوان احتاروا معاكم والله"
 author = "ياسر أبو عمار"
 posted = "2007-02-10"
@@ -206,7 +197,7 @@ archived = "2007-02-17"
 capture_url = "https://web.archive.org/web/20070217225247/http://masr.20at.com:80/article.php?sid=1557"
 
 [[comments]]
-order = 23
+order = 22
 subject = "الى الاخ اللي فوق ياسر"
 author = "لا بد من تغيير استراتيجية الاخوان"
 posted = "2007-02-11"
@@ -215,7 +206,7 @@ archived = "2007-02-17"
 capture_url = "https://web.archive.org/web/20070217225247/http://masr.20at.com:80/article.php?sid=1557"
 
 [[comments]]
-order = 24
+order = 23
 subject = "جندل"
 author = "خليل علي حيدر"
 posted = "2007-02-11"
@@ -224,7 +215,7 @@ archived = "2007-02-17"
 capture_url = "https://web.archive.org/web/20070217225247/http://masr.20at.com:80/article.php?sid=1557"
 
 [[comments]]
-order = 25
+order = 24
 subject = "هناك مبدعين..ولكن سياسة الحجب والاستئصال !!"
 author = "محمد ..من الاخوان المسلمين"
 posted = "2007-02-11"
@@ -233,7 +224,7 @@ archived = "2007-02-17"
 capture_url = "https://web.archive.org/web/20070217225247/http://masr.20at.com:80/article.php?sid=1557"
 
 [[comments]]
-order = 26
+order = 25
 subject = "أنا بس عايز أعلق علي مستوي الحوار؟ممكن؟"
 author = "محمد السيد"
 posted = "2007-02-11"
@@ -242,7 +233,7 @@ archived = "2007-02-17"
 capture_url = "https://web.archive.org/web/20070217225247/http://masr.20at.com:80/article.php?sid=1557"
 
 [[comments]]
-order = 27
+order = 26
 subject = "ابن بهية"
 author = "إبن بهيه"
 posted = "2007-02-11"
@@ -251,7 +242,7 @@ archived = "2007-02-17"
 capture_url = "https://web.archive.org/web/20070217225247/http://masr.20at.com:80/article.php?sid=1557"
 
 [[comments]]
-order = 28
+order = 27
 subject = "نعم .. في انتظار المحنة"
 author = "عبدالرحمن عياش"
 posted = "2007-02-14"

@@ -25,3 +25,12 @@ subject = "بخخخخخخخخخخ"
 text = "يا أبحاثك يااسرائيل"
 archived = "2004-09-26"
 capture_url = "https://web.archive.org/web/20040926040632/http://www.20at.com:80/article.php?sid=304"
+
+[[comments]]
+order = 4
+subject = "مرجبا"
+author = "وجدان حسين.......عزون"
+posted = "2007-11-24"
+text = "ولا شي"
+archived = "2010-03-14"
+capture_url = ""

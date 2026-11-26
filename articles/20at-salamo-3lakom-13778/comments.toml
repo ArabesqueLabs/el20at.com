@@ -12,7 +12,7 @@ order = 1
 subject = ""
 author = "غزاوي"
 posted = "2009-10-21"
-text = "سبحان الله<br />بس ممكن توضيح شو مكتو ببالحديث ؟"
+text = "سبحان الله<br />بس ممكن توضيح شو مكتو ببالحديث ؟ :-|"
 archived = "2009-10-22"
 capture_url = "https://web.archive.org/web/20091022081013/http://www.20at.com:80/20at/nashrat-9/13778-2009-10-21-08-13-50.html"
 
@@ -51,3 +51,48 @@ posted = "2009-10-30"
 text = "lazem ashof be3eny"
 archived = "2009-11-08"
 capture_url = "https://web.archive.org/web/20091108191147/http://www.20at.com:80/20at/religious/13778-2009-10-21-08-13-50.html"
+
+[[comments]]
+order = 6
+subject = ""
+author = "fg"
+posted = "2009-10-30"
+text = ":cry: :cry: :cry: :cry: :cry: :cry: :cry: :cry: :cry: :sad: :roll: :D :lol: :-)"
+archived = "2010-03-14"
+capture_url = ""
+
+[[comments]]
+order = 7
+subject = ""
+author = "sssssssssssss"
+posted = "2009-12-07"
+text = "ويخلق ما لا تعلمون سبحان الله وبحمده سبحان الله العظيم :roll: :roll:"
+archived = "2010-03-14"
+capture_url = ""
+
+[[comments]]
+order = 8
+subject = ""
+author = "semsemaa1"
+posted = "2009-12-18"
+text = "السلام عليكم ورحمه الله وبركاته سبحان الله تعالى"
+archived = "2010-03-14"
+capture_url = ""
+
+[[comments]]
+order = 9
+subject = ""
+author = "mohamd nuba"
+posted = "2009-12-19"
+text = "مكتوب بالحبر السائل اوالجاف :P"
+archived = "2010-03-14"
+capture_url = ""
+
+[[comments]]
+order = 10
+subject = ""
+author = "محمد نوبه"
+posted = "2009-12-19"
+text = "اتقي الله في خلقه انت كتبته ( مكتوب صح) لكن باليد حديث شريف جنب حفاظة الطفل"
+archived = "2010-03-14"
+capture_url = ""

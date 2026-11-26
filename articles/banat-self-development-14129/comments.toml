@@ -39,7 +39,7 @@ order = 4
 subject = ""
 author = "سمسمة"
 posted = "2009-12-24"
-text = "انا بضيع وقت كتير اوي ع النت وع الشات وامتحاناتي قربت ونفسي ابعد عن الشات شوية عشان ازاكر ادعولي ربنا يوفقني"
+text = "انا بضيع وقت كتير اوي ع النت وع الشات وامتحاناتي قربت ونفسي ابعد عن الشات شوية عشان ازاكر ادعولي ربنا يوفقني :sad:"
 archived = "2009-12-24"
 capture_url = "https://web.archive.org/web/20091224143358/http://www.20at.com:80/banat/self-development/14129-2009-11-22-12-04-55.html"
 
@@ -48,7 +48,7 @@ order = 5
 subject = ""
 author = "feto"
 posted = "2009-12-25"
-text = "فعلا انا بضيع وقتى كتييييييييييررر ررررررررررررررر ر ومش عارفه ليه<br />اتمنى ان اعرف انظم وقتى كويس لان داخله ع امتحانات<br />ادعولى<br />شكرا ع النصيحه"
+text = "فعلا انا بضيع وقتى كتييييييييييررررررررررررررررررر ومش عارفه ليه<br />اتمنى ان اعرف انظم وقتى كويس لان داخله ع امتحانات<br />ادعولى<br />شكرا ع النصيحه :-)<br />:sad:"
 archived = "2009-12-30"
 capture_url = "https://web.archive.org/web/20091230140421/http://www.20at.com:80/banat/self-development/14129-2009-11-22-12-04-55.html"
 
@@ -57,7 +57,7 @@ order = 6
 subject = ""
 author = "funy"
 posted = "2009-12-26"
-text = "فعلا الوقت بضيع واحنا مش بعمل حاجة مفيش المذاكرة عشان الامتحانات انا فى ثانية كلية وكمان فى الاجازة النوووووووووووو وووووووووم كتير جدا يارب نستغل اوقات فى حاجة كويسة فى كورسات وحفظ القرآن"
+text = "فعلا الوقت بضيع واحنا مش بعمل حاجة مفيش المذاكرة عشان الامتحانات انا فى ثانية كلية وكمان فى الاجازة النوووووووووووووووووووووم كتير جدا يارب نستغل اوقات فى حاجة كويسة فى كورسات وحفظ القرآن :eek:"
 archived = "2009-12-30"
 capture_url = "https://web.archive.org/web/20091230140421/http://www.20at.com:80/banat/self-development/14129-2009-11-22-12-04-55.html"
 
@@ -66,7 +66,7 @@ order = 7
 subject = ""
 author = "looka"
 posted = "2009-12-28"
-text = "y? ya smsma bdy3y w 2tk fe el chat w kda blash w rkzy fy mozkrtk plzzzzzzzzzzzzz zzzzzzzzzzzzzzz zzzzzzzzzzzzzzz z"
+text = "y? ya smsma bdy3y w 2tk fe el chat w kda blash w rkzy fy mozkrtk plzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz :-) ;-)"
 archived = "2009-12-30"
 capture_url = "https://web.archive.org/web/20091230140421/http://www.20at.com:80/banat/self-development/14129-2009-11-22-12-04-55.html"
 
@@ -75,7 +75,7 @@ order = 8
 subject = ""
 author = "looka"
 posted = "2009-12-28"
-text = "shatra ya funny ana 3agbny kalamik 2wy 27na el mafrod n7faz qor2an w nzakr l2n da 7ynf3na isa fi el 25ra ana fe first secondary merci 2wy 3ala eladvise bgd"
+text = "shatra ya funny ana 3agbny kalamik 2wy 27na el mafrod n7faz qor2an w nzakr l2n da 7ynf3na isa fi el 25ra ana fe first secondary merci 2wy 3ala eladvise bgd :oops:"
 archived = "2009-12-30"
 capture_url = "https://web.archive.org/web/20091230140421/http://www.20at.com:80/banat/self-development/14129-2009-11-22-12-04-55.html"
 
@@ -84,6 +84,15 @@ order = 9
 subject = ""
 author = "مريم الاميري"
 posted = "2010-01-08"
-text = "كتير حلو… شكرا"
+text = "كتير حلو... شكرا :-)"
 archived = "2010-01-31"
 capture_url = "https://web.archive.org/web/20100131031855/http://www.20at.com:80/banat/self-development/14129-2009-11-22-12-04-55.html"
+
+[[comments]]
+order = 10
+subject = ""
+author = "حبيبه الرحمن"
+posted = "2010-03-05"
+text = "جميل جدا الموضوع ده بس المشكله انه محتاج شويه عزيمه لان فعلا الواحد بيضعف ادام الحاجات دي وجزاك الله كل خير ;-)"
+archived = "2010-03-14"
+capture_url = ""

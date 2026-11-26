@@ -90,15 +90,6 @@ capture_url = "https://web.archive.org/web/20060517023121/http://masr.20at.com:8
 
 [[comments]]
 order = 10
-subject = "لا تنتظر الحرية فلن تاتيك الي بالدم"
-author = "مصري"
-posted = "2006-05-06"
-text = "(ان الله لا يغير ما بقوم حتي يغيروا ما بانفسهم) صدق الله العظيم<br />ياشباب مصر يا احفاد مينا وقظز والناصر صلاح الدين واحمدعرابي وسعد زغلول ومصطفي كامل وعبد الناصر<br />مصر شهدت الكثير من الثورات ضد الحكام الفاسدين وعملاء الاستعمار وخدمهم , فهل سنغير التاريخ ونعيد مصر الي المصريين وليس الي بقايا الهكسوس والصـليبين؟؟؟؟؟؟,او سنظل في قاع الذاكرة البلد بلد ابونا ومبارك وحاشيته يركبونا؟؟؟؟؟؟؟"
-archived = "2006-05-17"
-capture_url = "https://web.archive.org/web/20060517023121/http://masr.20at.com:80/article.php?sid=276"
-
-[[comments]]
-order = 11
 subject = "قرفان من حسنى مبارك"
 author = "برضوا قرفان قوى"
 posted = "2006-05-07"
@@ -107,7 +98,7 @@ archived = "2006-05-17"
 capture_url = "https://web.archive.org/web/20060517023121/http://masr.20at.com:80/article.php?sid=276"
 
 [[comments]]
-order = 12
+order = 11
 subject = "عيد بأي حال جئت ياعيد"
 author = "بينما في الوقت الذي يتناول فيه قطعة الجاتوه احتفاء بعيده كانت بطن سمكة قرش قد انتهت من هضم بعض قطع من اجساد ضحايا العبارةالغلابة فلذة كبد الوطن المفدى"
 posted = "2006-05-09"
@@ -116,7 +107,7 @@ archived = "2006-05-17"
 capture_url = "https://web.archive.org/web/20060517023121/http://masr.20at.com:80/article.php?sid=276"
 
 [[comments]]
-order = 13
+order = 12
 subject = "الحاقد"
 author = "حاقد علي كل الدنيا"
 posted = "2006-05-09"
@@ -125,7 +116,7 @@ archived = "2006-05-17"
 capture_url = "https://web.archive.org/web/20060517023121/http://masr.20at.com:80/article.php?sid=276"
 
 [[comments]]
-order = 14
+order = 13
 subject = "كل سنة و أنت ....."
 author = "مصرية طفحانة الدم"
 posted = "2006-05-10"
@@ -134,7 +125,7 @@ archived = "2006-05-17"
 capture_url = "https://web.archive.org/web/20060517023121/http://masr.20at.com:80/article.php?sid=276"
 
 [[comments]]
-order = 15
+order = 14
 subject = "عمر"
 author = "طارق حسن"
 posted = "2006-05-12"
@@ -143,7 +134,7 @@ archived = "2006-05-17"
 capture_url = "https://web.archive.org/web/20060517023121/http://masr.20at.com:80/article.php?sid=276"
 
 [[comments]]
-order = 16
+order = 15
 subject = "لا للطوارئ"
 author = "شادى هشام فتحى"
 posted = "2006-06-30"
@@ -152,7 +143,7 @@ archived = "2006-09-05"
 capture_url = "https://web.archive.org/web/20060905224119/http://masr.20at.com:80/article.php?sid=276&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
 
 [[comments]]
-order = 17
+order = 16
 subject = "مين المسئول عن العبارة"
 author = "شادى هشام"
 posted = "2006-06-30"

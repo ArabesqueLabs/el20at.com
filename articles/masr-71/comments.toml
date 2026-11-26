@@ -114,3 +114,12 @@ posted = "2006-10-18"
 text = "moi wissal de kénitra j'étudiante dans l'école de ouad adahabe"
 archived = "2006-11-18"
 capture_url = "https://web.archive.org/web/20061118124017/http://masr.20at.com:80/article.php?sid=71&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
+
+[[comments]]
+order = 13
+subject = "ضع عنوان التعليق"
+author = "اكتب اسمك هنا"
+posted = "2008-10-16"
+text = "tayeb ana 3ayza 2shtrk fi el maodo3 da 23mel eh w plz el rad"
+archived = "2010-03-14"
+capture_url = ""

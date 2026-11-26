@@ -27,15 +27,6 @@ capture_url = "https://web.archive.org/web/20060821065053/http://masr.20at.com:8
 
 [[comments]]
 order = 3
-subject = "اتكلم بأدب ونظف لسانك ياللي فوق"
-author = "عاشق زنوبة"
-posted = "2006-07-26"
-text = "نفسي اسمع تعليقك الحلو علي الموضوع دا يا زنوبتي"
-archived = "2006-08-21"
-capture_url = "https://web.archive.org/web/20060821065053/http://masr.20at.com:80/article.php?sid=712"
-
-[[comments]]
-order = 4
 subject = "يووووووووووه"
 author = "القصف يا خفه وامري لله"
 posted = "2006-07-26"
@@ -44,7 +35,7 @@ archived = "2006-08-21"
 capture_url = "https://web.archive.org/web/20060821065053/http://masr.20at.com:80/article.php?sid=712"
 
 [[comments]]
-order = 5
+order = 4
 subject = "يا عم كريم خلاص بتفهم في السيما"
 author = "نورا"
 posted = "2006-07-26"
@@ -53,7 +44,7 @@ archived = "2006-08-21"
 capture_url = "https://web.archive.org/web/20060821065053/http://masr.20at.com:80/article.php?sid=712"
 
 [[comments]]
-order = 6
+order = 5
 subject = "عمارة يعقوبيان"
 author = "عاشق زنوبة"
 posted = "2006-07-27"
@@ -62,7 +53,7 @@ archived = "2006-08-21"
 capture_url = "https://web.archive.org/web/20060821065053/http://masr.20at.com:80/article.php?sid=712"
 
 [[comments]]
-order = 7
+order = 6
 subject = "جنان"
 author = "مجنون"
 posted = "2006-07-29"
@@ -71,7 +62,7 @@ archived = "2006-08-21"
 capture_url = "https://web.archive.org/web/20060821065053/http://masr.20at.com:80/article.php?sid=712"
 
 [[comments]]
-order = 8
+order = 7
 subject = "كل يعقوب وله عمارته"
 author = "كل هذه العوامل جعلتنا نرى في الفيلم"
 posted = "2006-07-30"
@@ -80,7 +71,7 @@ archived = "2006-08-21"
 capture_url = "https://web.archive.org/web/20060821065053/http://masr.20at.com:80/article.php?sid=712"
 
 [[comments]]
-order = 9
+order = 8
 subject = "رائع يا هيثم"
 author = "نهال المغازى"
 posted = "2006-08-01"
@@ -89,7 +80,7 @@ archived = "2006-08-21"
 capture_url = "https://web.archive.org/web/20060821065053/http://masr.20at.com:80/article.php?sid=712"
 
 [[comments]]
-order = 10
+order = 9
 subject = "بحبك يا هيثم"
 author = "سالى المغازى"
 posted = "2006-08-01"
@@ -98,16 +89,7 @@ archived = "2006-08-21"
 capture_url = "https://web.archive.org/web/20060821065053/http://masr.20at.com:80/article.php?sid=712"
 
 [[comments]]
-order = 11
-subject = "انا الرخم"
-author = "عاشق زنوبة"
-posted = "2006-08-20"
-text = "نفسي اسمع تعليقك الحلو علي الموضوع دا يا زنوبتي"
-archived = "2006-08-21"
-capture_url = "https://web.archive.org/web/20060821065053/http://masr.20at.com:80/article.php?sid=712"
-
-[[comments]]
-order = 12
+order = 10
 subject = "زنووووووووووبيا"
 author = "سرى للغايه"
 posted = "2006-08-21"
@@ -116,7 +98,7 @@ archived = "2006-08-21"
 capture_url = "https://web.archive.org/web/20060821065053/http://masr.20at.com:80/article.php?sid=712"
 
 [[comments]]
-order = 13
+order = 11
 subject = "لآ زٍلـت في قلوٍبنآ وٍفي ذهوٍننآ"
 author = "عادل العيوي"
 posted = "2006-09-01"
@@ -125,7 +107,7 @@ archived = "2006-11-21"
 capture_url = "https://web.archive.org/web/20061121222854/http://masr.20at.com:80/article.php?sid=712"
 
 [[comments]]
-order = 14
+order = 12
 subject = "احمد زكي ايه بس"
 author = "ساكت"
 posted = "2006-09-03"
@@ -134,7 +116,7 @@ archived = "2006-11-21"
 capture_url = "https://web.archive.org/web/20061121222854/http://masr.20at.com:80/article.php?sid=712"
 
 [[comments]]
-order = 15
+order = 13
 subject = "اهو حاعلق"
 author = "زنوبته"
 posted = "2006-09-06"
@@ -143,7 +125,7 @@ archived = "2006-11-21"
 capture_url = "https://web.archive.org/web/20061121222854/http://masr.20at.com:80/article.php?sid=712"
 
 [[comments]]
-order = 16
+order = 14
 subject = "شكرا لكم"
 author = "نوال"
 posted = "2006-09-07"
@@ -152,7 +134,7 @@ archived = "2006-11-21"
 capture_url = "https://web.archive.org/web/20061121222854/http://masr.20at.com:80/article.php?sid=712"
 
 [[comments]]
-order = 17
+order = 15
 subject = "يالهويييييييي على خفة دمكم"
 author = "ايه يا عشريناتية دمكو بقى واقف كده ليه أنا بقالي ييجي 3 شهور ما دخلتش عالموقع ولما دخلت لقيته لسه خنأة زى ماهو.."
 posted = "2006-09-07"
@@ -161,7 +143,7 @@ archived = "2006-11-21"
 capture_url = "https://web.archive.org/web/20061121222854/http://masr.20at.com:80/article.php?sid=712"
 
 [[comments]]
-order = 18
+order = 16
 subject = "بلبلالاب"
 author = "ضياء"
 posted = "2006-09-09"
@@ -170,7 +152,7 @@ archived = "2006-11-21"
 capture_url = "https://web.archive.org/web/20061121222854/http://masr.20at.com:80/article.php?sid=712"
 
 [[comments]]
-order = 19
+order = 17
 subject = "إليكم هذه الصدمة"
 author = "مسلم"
 posted = "2006-09-15"
@@ -179,7 +161,7 @@ archived = "2006-11-21"
 capture_url = "https://web.archive.org/web/20061121222854/http://masr.20at.com:80/article.php?sid=712"
 
 [[comments]]
-order = 20
+order = 18
 subject = "السلام عليكم ورحمة الله وبركاته"
 author = "جويريه"
 posted = "2006-09-19"
@@ -188,7 +170,7 @@ archived = "2006-11-21"
 capture_url = "https://web.archive.org/web/20061121222854/http://masr.20at.com:80/article.php?sid=712"
 
 [[comments]]
-order = 21
+order = 19
 subject = "السلام عليكم ورحمة الله وبركاته"
 author = "جويريه"
 posted = "2006-09-19"
@@ -197,7 +179,7 @@ archived = "2006-11-21"
 capture_url = "https://web.archive.org/web/20061121222854/http://masr.20at.com:80/article.php?sid=712"
 
 [[comments]]
-order = 22
+order = 20
 subject = "الي الاخت جويريه"
 author = "عبد الله"
 posted = "2006-09-23"
@@ -206,7 +188,7 @@ archived = "2006-11-21"
 capture_url = "https://web.archive.org/web/20061121222854/http://masr.20at.com:80/article.php?sid=712"
 
 [[comments]]
-order = 23
+order = 21
 subject = "كفاية يا جماعة"
 author = "السنجلاب"
 posted = "2006-09-24"
@@ -215,7 +197,7 @@ archived = "2006-11-21"
 capture_url = "https://web.archive.org/web/20061121222854/http://masr.20at.com:80/article.php?sid=712"
 
 [[comments]]
-order = 24
+order = 22
 subject = "ولا عزاء للهايفين"
 author = "أبو ساره"
 posted = "2006-09-27"
@@ -224,7 +206,7 @@ archived = "2006-11-21"
 capture_url = "https://web.archive.org/web/20061121222854/http://masr.20at.com:80/article.php?sid=712"
 
 [[comments]]
-order = 25
+order = 23
 subject = "وكل الاصدقاء بما فيهم ؟؟ بألف خير"
 author = "أبو ساره"
 posted = "2006-09-28"
@@ -233,7 +215,7 @@ archived = "2006-11-21"
 capture_url = "https://web.archive.org/web/20061121222854/http://masr.20at.com:80/article.php?sid=712"
 
 [[comments]]
-order = 26
+order = 24
 subject = "عين وصابت القلوب"
 author = "أبو ساره"
 posted = "2006-09-29"
@@ -242,7 +224,7 @@ archived = "2006-11-21"
 capture_url = "https://web.archive.org/web/20061121222854/http://masr.20at.com:80/article.php?sid=712"
 
 [[comments]]
-order = 27
+order = 25
 subject = "فيلم حليم"
 author = "حليم"
 posted = "2006-10-03"
@@ -251,7 +233,7 @@ archived = "2006-11-21"
 capture_url = "https://web.archive.org/web/20061121222854/http://masr.20at.com:80/article.php?sid=712"
 
 [[comments]]
-order = 28
+order = 26
 subject = "الرومنسيا"
 author = "سلطان الجان"
 posted = "2006-10-21"
@@ -260,7 +242,7 @@ archived = "2006-11-21"
 capture_url = "https://web.archive.org/web/20061121222854/http://masr.20at.com:80/article.php?sid=712"
 
 [[comments]]
-order = 29
+order = 27
 subject = "وإلي متي نظل في دوامة الأغاني والأفلام والمسلسلات ؟"
 author = "عبدالرحمن"
 posted = "2006-10-23"
@@ -269,7 +251,7 @@ archived = "2006-11-21"
 capture_url = "https://web.archive.org/web/20061121222854/http://masr.20at.com:80/article.php?sid=712"
 
 [[comments]]
-order = 30
+order = 28
 subject = "ماري"
 author = "مارية و لمياء"
 posted = "2006-11-11"
@@ -278,7 +260,7 @@ archived = "2006-11-21"
 capture_url = "https://web.archive.org/web/20061121222854/http://masr.20at.com:80/article.php?sid=712"
 
 [[comments]]
-order = 31
+order = 29
 subject = "لا تعليق الى انه سلطان الطرب ولن يأتي ولن ياتي متله"
 author = "نبيل"
 posted = "2006-11-17"
@@ -287,7 +269,7 @@ archived = "2006-11-21"
 capture_url = "https://web.archive.org/web/20061121222854/http://masr.20at.com:80/article.php?sid=712"
 
 [[comments]]
-order = 32
+order = 30
 subject = "المغرب تمارة"
 author = "ايوب حبيب الله"
 posted = "2006-12-02"

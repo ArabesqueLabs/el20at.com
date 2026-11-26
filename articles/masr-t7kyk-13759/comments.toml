@@ -15,3 +15,30 @@ posted = "2009-10-19"
 text = "عرض جميل"
 archived = "2009-10-20"
 capture_url = "https://web.archive.org/web/20091020144403/http://www.20at.com:80/masr/t7kyk/13759--2010-.html"
+
+[[comments]]
+order = 2
+subject = ""
+author = "تتح"
+posted = "2009-10-20"
+text = "شكراااا على المجهود الخارق فى جمع المعلومات عن اللعبة"
+archived = "2010-03-14"
+capture_url = ""
+
+[[comments]]
+order = 3
+subject = ""
+author = "الضبع"
+posted = "2009-10-20"
+text = "الكورة جوان والفيفا تمام يامعلم واللى راجل فيكم يكسبنى فيها"
+archived = "2010-03-14"
+capture_url = ""
+
+[[comments]]
+order = 4
+subject = ""
+author = "عبدالله"
+posted = "2010-01-04"
+text = "شكراااااااااااااااااااااااااااا على المجهود"
+archived = "2010-03-14"
+capture_url = ""

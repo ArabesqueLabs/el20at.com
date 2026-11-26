@@ -28,6 +28,24 @@ capture_url = "https://web.archive.org/web/20100226134847/http://www.20at.com:80
 [[comments]]
 order = 3
 subject = ""
+author = "عبدالله"
+posted = "2010-02-28"
+text = "البرادعي رجل محترم ولدية خبرة ويتميز بحكمتة وتدبير الامور وهو يريد ان يفيد مصر بخبرتة وهو رجل متميز فعلا"
+archived = "2010-03-14"
+capture_url = ""
+
+[[comments]]
+order = 4
+subject = ""
+author = "خالد"
+posted = "2010-02-28"
+text = "اختار البرادعي لانة من الممكن ان يحسن من حالة مصر حاليأ ومستقبلا"
+archived = "2010-03-14"
+capture_url = ""
+
+[[comments]]
+order = 5
+subject = ""
 author = "يا بتوع الوطنى"
 posted = "2010-03-01"
 text = "جمال حمارك مينفعش<br />الشعب كلة وراء البرادعى<br />لان البرادعى مصرى زينا<br />ولو بصمجى هننتخبة<br />كفاية حكم للعملاء والجواسيس والفاسدين<br />الشعب كلة ورائك يا برادعى<br />والبرادعى هو الحل"
@@ -35,7 +53,7 @@ archived = "2010-03-04"
 capture_url = "https://web.archive.org/web/20100304064535/http://www.20at.com:80/masr/hot-topics/15457-2010-02-23-16-56-23.html?"
 
 [[comments]]
-order = 4
+order = 6
 subject = ""
 author = "حسن السكرى"
 posted = "2010-03-01"
@@ -44,7 +62,7 @@ archived = "2010-03-04"
 capture_url = "https://web.archive.org/web/20100304064535/http://www.20at.com:80/masr/hot-topics/15457-2010-02-23-16-56-23.html?"
 
 [[comments]]
-order = 5
+order = 7
 subject = ""
 author = "محمد وحيد"
 posted = "2010-03-01"
@@ -53,7 +71,7 @@ archived = "2010-03-04"
 capture_url = "https://web.archive.org/web/20100304064535/http://www.20at.com:80/masr/hot-topics/15457-2010-02-23-16-56-23.html?"
 
 [[comments]]
-order = 6
+order = 8
 subject = ""
 author = "ابن مصر"
 posted = "2010-03-01"
@@ -62,7 +80,7 @@ archived = "2010-03-04"
 capture_url = "https://web.archive.org/web/20100304064535/http://www.20at.com:80/masr/hot-topics/15457-2010-02-23-16-56-23.html?"
 
 [[comments]]
-order = 7
+order = 9
 subject = ""
 author = "عمرو خالد للهرم"
 posted = "2010-03-01"
@@ -71,7 +89,7 @@ archived = "2010-03-04"
 capture_url = "https://web.archive.org/web/20100304064535/http://www.20at.com:80/masr/hot-topics/15457-2010-02-23-16-56-23.html?"
 
 [[comments]]
-order = 8
+order = 10
 subject = ""
 author = "نرشح عمرو خالد"
 posted = "2010-03-01"
@@ -80,7 +98,7 @@ archived = "2010-03-04"
 capture_url = "https://web.archive.org/web/20100304064535/http://www.20at.com:80/masr/hot-topics/15457-2010-02-23-16-56-23.html?"
 
 [[comments]]
-order = 9
+order = 11
 subject = ""
 author = "اكرام الميت دفنة"
 posted = "2010-03-01"
@@ -89,16 +107,16 @@ archived = "2010-03-04"
 capture_url = "https://web.archive.org/web/20100304064535/http://www.20at.com:80/masr/hot-topics/15457-2010-02-23-16-56-23.html?"
 
 [[comments]]
-order = 10
+order = 12
 subject = ""
 author = "د/حسام الغمرى"
 posted = "2010-03-01"
-text = "اى حد فيهم كويس اهم حاجه ان العالم الرزله بتوع الحزب الوطنى دول يغورو فى ستين داهيه تاخدهم"
+text = "اى حد فيهم كويس اهم حاجه ان العالم الرزله بتوع الحزب الوطنى دول يغورو فى ستين داهيه تاخدهم :D"
 archived = "2010-03-04"
 capture_url = "https://web.archive.org/web/20100304064535/http://www.20at.com:80/masr/hot-topics/15457-2010-02-23-16-56-23.html?"
 
 [[comments]]
-order = 11
+order = 13
 subject = ""
 author = "0 اللى هيحكم البلد د"
 posted = "2010-03-02"
@@ -107,7 +125,7 @@ archived = "2010-03-04"
 capture_url = "https://web.archive.org/web/20100304064535/http://www.20at.com:80/masr/hot-topics/15457-2010-02-23-16-56-23.html?"
 
 [[comments]]
-order = 12
+order = 14
 subject = ""
 author = "0 ابقوا قابلونى"
 posted = "2010-03-02"
@@ -116,7 +134,7 @@ archived = "2010-03-04"
 capture_url = "https://web.archive.org/web/20100304064535/http://www.20at.com:80/masr/hot-topics/15457-2010-02-23-16-56-23.html?"
 
 [[comments]]
-order = 13
+order = 15
 subject = ""
 author = "0 عزرائيل بيلاعبة"
 posted = "2010-03-02"
@@ -125,7 +143,7 @@ archived = "2010-03-04"
 capture_url = "https://web.archive.org/web/20100304064535/http://www.20at.com:80/masr/hot-topics/15457-2010-02-23-16-56-23.html?"
 
 [[comments]]
-order = 14
+order = 16
 subject = ""
 author = "حماده"
 posted = "2010-03-02"
@@ -134,16 +152,16 @@ archived = "2010-03-04"
 capture_url = "https://web.archive.org/web/20100304064535/http://www.20at.com:80/masr/hot-topics/15457-2010-02-23-16-56-23.html?"
 
 [[comments]]
-order = 15
+order = 17
 subject = ""
 author = "حماده"
 posted = "2010-03-02"
-text = "الرئيس جامد ان شاء الله حيكسباقتباس موسى والبرادعي:<br />موسى والبرادعي تحت جذمه الريس<br />وكل دا تمثيل وصرف فلوس على الفاضي<br />وعيب على الحكومة لما تضحك على شغبها وتصرف فلوس شعبها في انتخابات ملهاش قيمه والنتيجة معروفة ومحتومه مسبقا<br />عيب يا حمومه يا فاشله"
+text = "الرئيس جامد ان شاء الله حيكسب[quote name=\"موسى والبرادعي\"]موسى والبرادعي تحت جذمه الريس<br />وكل دا تمثيل وصرف فلوس على الفاضي<br />وعيب على الحكومة لما تضحك على شغبها وتصرف فلوس شعبها في انتخابات ملهاش قيمه والنتيجة معروفة ومحتومه مسبقا<br />عيب يا حمومه يا فاشله[/quote]"
 archived = "2010-03-04"
 capture_url = "https://web.archive.org/web/20100304064535/http://www.20at.com:80/masr/hot-topics/15457-2010-02-23-16-56-23.html?"
 
 [[comments]]
-order = 16
+order = 18
 subject = ""
 author = "ارشح الفريق الشاذلى"
 posted = "2010-03-02"
@@ -152,7 +170,7 @@ archived = "2010-03-04"
 capture_url = "https://web.archive.org/web/20100304064535/http://www.20at.com:80/masr/hot-topics/15457-2010-02-23-16-56-23.html?"
 
 [[comments]]
-order = 17
+order = 19
 subject = ""
 author = "دياب"
 posted = "2010-03-02"
@@ -161,7 +179,7 @@ archived = "2010-03-04"
 capture_url = "https://web.archive.org/web/20100304064535/http://www.20at.com:80/masr/hot-topics/15457-2010-02-23-16-56-23.html?"
 
 [[comments]]
-order = 18
+order = 20
 subject = ""
 author = "alialiomar20021@yaho"
 posted = "2010-03-02"
@@ -170,16 +188,16 @@ archived = "2010-03-04"
 capture_url = "https://web.archive.org/web/20100304064535/http://www.20at.com:80/masr/hot-topics/15457-2010-02-23-16-56-23.html?"
 
 [[comments]]
-order = 19
+order = 21
 subject = ""
 author = "مواطن مصرى"
 posted = "2010-03-02"
-text = "برادعى ايه يا خوننننننننننننن ننننننننننننننن ننننا<br />هو بعرف ايه عن حياتنا اصلا<br />كل اللى يعرفه عن الطاقة الذرية و تعريفها هو<br />اصوات تصدر من فاتحة ضيقة باصوات عالية"
+text = "برادعى ايه يا خوننننننننننننننننننننننننننننننننا<br />هو بعرف ايه عن حياتنا اصلا<br />كل اللى يعرفه عن الطاقة الذرية و تعريفها هو<br />اصوات تصدر من فاتحة ضيقة باصوات عالية"
 archived = "2010-03-04"
 capture_url = "https://web.archive.org/web/20100304064535/http://www.20at.com:80/masr/hot-topics/15457-2010-02-23-16-56-23.html?"
 
 [[comments]]
-order = 20
+order = 22
 subject = ""
 author = "عقدة الفلاحين"
 posted = "2010-03-02"
@@ -188,7 +206,7 @@ archived = "2010-03-04"
 capture_url = "https://web.archive.org/web/20100304064535/http://www.20at.com:80/masr/hot-topics/15457-2010-02-23-16-56-23.html?"
 
 [[comments]]
-order = 21
+order = 23
 subject = ""
 author = "برضة البرادعى"
 posted = "2010-03-02"
@@ -197,25 +215,25 @@ archived = "2010-03-04"
 capture_url = "https://web.archive.org/web/20100304064535/http://www.20at.com:80/masr/hot-topics/15457-2010-02-23-16-56-23.html?"
 
 [[comments]]
-order = 22
+order = 24
 subject = ""
 author = "alialiomar20021@yaho"
 posted = "2010-03-02"
-text = "احنا المصرين انخلو بالنا سواء اركب رئيس البرادعى او عائلة مبارك ده كوليته مش هيفرق.<br />بس الاهم عندينا انحنا تبقى عندينا معلومه انى كول الى يركب ريس من بعد عبد الناصر بينهب فينا<br />يعنى ايه كول واحد يدور على مصلحته افضل وسيبكم من الانتخبات .<br />بس افضل لينا الى ينفع رئيس مبارك او عياله<br />قولى ليه لان البرادعى طول عمره فى متربى وعايش فى الغرب ولا عمره شافنا ولا عمره اسمع على شعب مصر<br />ومش عرفينا لو مسك منصب الرئيس هيعمل فينا ايه اما لو امبارك او عياله فاحنه ايه عرفينهم واحنا امربينهم على ايدينا ولا هيجبولنا حرب ولا هيجبولنا حاجه احنا مش متعودين عليها ولا ايه .<br />واحنا مع بعضينا فى الاول والاخر عرفين مين الى هيكسب فى الاخر يبقى نقعدو سكتين ومحدش يتنفس .وانا ولا بكسكس ولا بنيل انا بقول الحقيقه اى كولنا عرفينها .<br />وفى مثل مصر يقو الى نعرفوه احسن من الى منعرفوهش<br />وفى الاول ولا الاخر البردعى لو بيدور على حقوق مصر كان نصر اخوان مصر ولا ايه .<br />ولو انا غلطان قلولى انا غلطان وادى اميلى عنديكو (alialiomar2002 1<br />yahoo.com)<br />اوك باى وهنسيبكو مع بابا مبارك وماما سوزان والابناء الاشقياء على"
+text = "احنا المصرين انخلو بالنا سواء اركب رئيس البرادعى او عائلة مبارك ده كوليته مش هيفرق.<br />بس الاهم عندينا انحنا تبقى عندينا معلومه انى كول الى يركب ريس من بعد عبد الناصر بينهب فينا<br />يعنى ايه كول واحد يدور على مصلحته افضل وسيبكم من الانتخبات .<br />بس افضل لينا الى ينفع رئيس مبارك او عياله<br />قولى ليه لان البرادعى طول عمره فى متربى وعايش فى الغرب ولا عمره شافنا ولا عمره اسمع على شعب مصر<br />ومش عرفينا لو مسك منصب الرئيس هيعمل فينا ايه اما لو امبارك او عياله فاحنه ايه عرفينهم واحنا امربينهم على ايدينا ولا هيجبولنا حرب ولا هيجبولنا حاجه احنا مش متعودين عليها ولا ايه .<br />واحنا مع بعضينا فى الاول والاخر عرفين مين الى هيكسب فى الاخر يبقى نقعدو سكتين ومحدش يتنفس .وانا ولا بكسكس ولا بنيل انا بقول الحقيقه اى كولنا عرفينها .<br />وفى مثل مصر يقو الى نعرفوه احسن من الى منعرفوهش<br />وفى الاول ولا الاخر البردعى لو بيدور على حقوق مصر كان نصر اخوان مصر ولا ايه .<br />ولو انا غلطان قلولى انا غلطان وادى اميلى عنديكو (alialiomar20021@yahoo.com)<br />اوك باى وهنسيبكو مع بابا مبارك وماما سوزان والابناء الاشقياء على"
 archived = "2010-03-04"
 capture_url = "https://web.archive.org/web/20100304064535/http://www.20at.com:80/masr/hot-topics/15457-2010-02-23-16-56-23.html?"
 
 [[comments]]
-order = 23
+order = 25
 subject = ""
 author = "برادعي وشعب عبيط"
 posted = "2010-03-02"
-text = "الشعب العبيط عايز ينتخب البرادعي<br />مع ان البرادعي كان ضمن العصابه اللي ضيعت العراق<br />فاكرين ولا نسيتو يا شعب اهبل وعبيط<br />نسيتو البرادعي ايام بوش<br />ارجعو بالذاكره وشوفو موقف البرادعي من العراق والعصابه اللي كان البرادعي عضو فيها<br />سلام يا شوية عبط<br />جمال مبارك اشرف مليون مرة من البرادعي<br />والحديث يطول شرحه<br />ـــــــــــــــ ـــــــــــــــ ـــــــــــــــ ـــــــــــــــ ـــــــــــــــ ـــ<br />مش رغداء بندق ولا عجم"
+text = "الشعب العبيط عايز ينتخب البرادعي<br />مع ان البرادعي كان ضمن العصابه اللي ضيعت العراق<br />فاكرين ولا نسيتو يا شعب اهبل وعبيط<br />نسيتو البرادعي ايام بوش<br />ارجعو بالذاكره وشوفو موقف البرادعي من العراق والعصابه اللي كان البرادعي عضو فيها<br />سلام يا شوية عبط<br />جمال مبارك اشرف مليون مرة من البرادعي<br />والحديث يطول شرحه<br />ــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــ<br />مش رغداء بندق ولا عجم"
 archived = "2010-03-04"
 capture_url = "https://web.archive.org/web/20100304064535/http://www.20at.com:80/masr/hot-topics/15457-2010-02-23-16-56-23.html?"
 
 [[comments]]
-order = 24
+order = 26
 subject = ""
 author = "حياتنا سواد"
 posted = "2010-03-02"
@@ -224,7 +242,7 @@ archived = "2010-03-04"
 capture_url = "https://web.archive.org/web/20100304064535/http://www.20at.com:80/masr/hot-topics/15457-2010-02-23-16-56-23.html?"
 
 [[comments]]
-order = 25
+order = 27
 subject = ""
 author = "البحراوي"
 posted = "2010-03-03"
@@ -233,16 +251,16 @@ archived = "2010-03-04"
 capture_url = "https://web.archive.org/web/20100304064535/http://www.20at.com:80/masr/hot-topics/15457-2010-02-23-16-56-23.html?"
 
 [[comments]]
-order = 26
+order = 28
 subject = ""
 author = "اكرامى زيدان"
 posted = "2010-03-03"
-text = "احنا عايزين شويه مطالب صغيره صحه وتعليم والشرطه تختفى من الرشوه ونحسن مستوى دخل الفرد والبطاله"
+text = ":lol: احنا عايزين شويه مطالب صغيره صحه وتعليم والشرطه تختفى من الرشوه ونحسن مستوى دخل الفرد والبطاله"
 archived = "2010-03-04"
 capture_url = "https://web.archive.org/web/20100304064535/http://www.20at.com:80/masr/hot-topics/15457-2010-02-23-16-56-23.html?"
 
 [[comments]]
-order = 27
+order = 29
 subject = ""
 author = "حساب التضخم"
 posted = "2010-03-03"
@@ -251,38 +269,20 @@ archived = "2010-03-04"
 capture_url = "https://web.archive.org/web/20100304064535/http://www.20at.com:80/masr/hot-topics/15457-2010-02-23-16-56-23.html?"
 
 [[comments]]
-order = 28
+order = 30
 subject = ""
-author = "نختار محافظ"
+author = "نختار  محافظ"
 posted = "2010-03-03"
 text = "السادة المحافظون فى المديريات المختلفة كلهم والحمد للة لواءات اركان حرب وقادة جيوش ورؤساء اركان - لماذا لا نرشح خمسة منهم ونختار واحد فى الانتخابات<br />كلهم رجال وكلهم ابطال وبعضهم لا يعانى من التخلف ولا الزهايمر ويمكن شافوا فى حياتهم كمبيوتر بيشتغل وبيشتغل ازاى<br />واذا كنتم عايزين واحد مدنى فالحمد للة فية كتير<br />عندك مثلا فى ايران<br />الاستاذ احمدى نجاد استاذ فى كلية هندسة طهران وكان بيدرس مادة اسمها تخطيط مدن وعمران<br />نشوف استاذ عندنا يخطط المدن ويمنع العشوائيات وسكان القبور ويمسك الحكم 5 سنين ويسيب لغيرة<br />البدائل كتير جدا<br />عسكرى مدنى - مصر مليانة بالكفاءات"
 archived = "2010-03-04"
 capture_url = "https://web.archive.org/web/20100304064535/http://www.20at.com:80/masr/hot-topics/15457-2010-02-23-16-56-23.html?"
 
 [[comments]]
-order = 29
+order = 31
 subject = ""
 author = "جور الحكام"
 posted = "2010-03-03"
-text = "قال رسول الله صلى الله عليه وآله وسلم :<br />يأتي زمان علي أمتي يحبون خمس وينسون خمس … يحبون الدنيا وينسون الآخرة<br />يحبون المال وينسون الحساب يحبون المخلوق<br />وينسون الخالق يحبون القصور وينسون القبور يحبون المعصية<br />وينسون التوبة فإن كان الأمر كذلك ابتلاهم الله بالغلاء والوباء والموت<br />الفجأة وجور الحكام"
-archived = "2010-03-04"
-capture_url = "https://web.archive.org/web/20100304064535/http://www.20at.com:80/masr/hot-topics/15457-2010-02-23-16-56-23.html?"
-
-[[comments]]
-order = 30
-subject = ""
-author = "يوسف المصرى"
-posted = "2010-03-04"
-text = "انا كده هعمل بطاقة انتخابيه واقوم بالترشيح مع انى عارف ان ممكن يحصل غدر زى مانتو فاهمين بس لما الاقى حد يستاهل لازم اديله صوتى<br />ارشح البرادعى رئيس للجمهورية واى حد يخاف على البلد بجد"
-archived = "2010-03-04"
-capture_url = "https://web.archive.org/web/20100304064535/http://www.20at.com:80/masr/hot-topics/15457-2010-02-23-16-56-23.html?"
-
-[[comments]]
-order = 31
-subject = ""
-author = "يوسف المصرى"
-posted = "2010-03-04"
-text = "وياريت ينجح البرادعى فى الانتخابات واول حاجه يعملها تغيير الوزرات اداريا ويعين ناس تخاف على البلد بجد فى نماذج كويسه بس مش كتير<br />الله المستعان"
+text = "قال رسول الله صلى الله عليه وآله وسلم :<br />يأتي زمان علي أمتي يحبون خمس وينسون خمس ... يحبون الدنيا وينسون الآخرة<br />يحبون المال وينسون الحساب يحبون المخلوق<br />وينسون الخالق يحبون القصور وينسون القبور يحبون المعصية<br />وينسون التوبة فإن كان الأمر كذلك ابتلاهم الله بالغلاء والوباء والموت<br />الفجأة وجور الحكام"
 archived = "2010-03-04"
 capture_url = "https://web.archive.org/web/20100304064535/http://www.20at.com:80/masr/hot-topics/15457-2010-02-23-16-56-23.html?"
 
@@ -291,12 +291,30 @@ order = 32
 subject = ""
 author = "يوسف المصرى"
 posted = "2010-03-04"
-text = "عمرو موس والبرادعى بحترمهم جدااااااااااااا ااااااااااا<br />انا كان نفسى عمر موسى يبقى رئيس الجمهوريه انبسطت لما عرفت ان البرادعى مرشح نفسه وكمان عمرو موسى هيبقى النائب ده كد حلووووووووووووو قوىىىىىى<br />بس ياريت ده يحصل مانتو فاهمين ربنا يستر وربنا يحفظهم ويعوضونا ياااااااااااااا ااااااااااااااا ارب<br />خلو بالكو يا مصريين الموضوع ده هيغير حاجااااااااتا كتيرررر قوى احنا داخلين على تغيير جذرى وللاحسن ان شاء الله بس يتم على خير اهم حاجه وربنا يحفظهم ويعوضو الشعب المصرى اللى خلاص والله العظيم الناس بتكلم نفسها فى الشارع ده غير اللى بيحصل يوم عن يوم من مأسى وطاحونة الحياه … الله المستعان"
+text = "انا كده هعمل بطاقة انتخابيه واقوم بالترشيح مع انى عارف ان ممكن يحصل غدر زى مانتو فاهمين بس لما الاقى حد يستاهل لازم اديله صوتى :lol: ارشح البرادعى رئيس للجمهورية واى حد يخاف على البلد بجد"
 archived = "2010-03-04"
 capture_url = "https://web.archive.org/web/20100304064535/http://www.20at.com:80/masr/hot-topics/15457-2010-02-23-16-56-23.html?"
 
 [[comments]]
 order = 33
+subject = ""
+author = "يوسف المصرى"
+posted = "2010-03-04"
+text = "وياريت ينجح البرادعى فى الانتخابات واول حاجه يعملها تغيير الوزرات اداريا ويعين ناس تخاف على البلد بجد فى نماذج كويسه بس مش كتير<br />الله المستعان"
+archived = "2010-03-04"
+capture_url = "https://web.archive.org/web/20100304064535/http://www.20at.com:80/masr/hot-topics/15457-2010-02-23-16-56-23.html?"
+
+[[comments]]
+order = 34
+subject = ""
+author = "يوسف المصرى"
+posted = "2010-03-04"
+text = "عمرو موس والبرادعى بحترمهم جداااااااااااااااااااااااا<br />انا كان نفسى عمر موسى يبقى رئيس الجمهوريه انبسطت لما عرفت ان البرادعى مرشح نفسه وكمان عمرو موسى هيبقى النائب ده كد حلووووووووووووو قوىىىىىى<br />بس ياريت ده يحصل مانتو فاهمين ربنا يستر وربنا يحفظهم ويعوضونا ياااااااااااااااااااااااااااااارب<br />خلو بالكو يا مصريين الموضوع ده هيغير حاجااااااااتا كتيرررر قوى احنا داخلين على تغيير جذرى وللاحسن ان شاء الله بس يتم على خير اهم حاجه وربنا يحفظهم ويعوضو الشعب المصرى اللى خلاص والله العظيم الناس بتكلم نفسها فى الشارع ده غير اللى بيحصل يوم عن يوم من مأسى وطاحونة الحياه ... الله المستعان"
+archived = "2010-03-04"
+capture_url = "https://web.archive.org/web/20100304064535/http://www.20at.com:80/masr/hot-topics/15457-2010-02-23-16-56-23.html?"
+
+[[comments]]
+order = 35
 subject = ""
 author = "حكم الامير"
 posted = "2010-03-04"
@@ -305,7 +323,7 @@ archived = "2010-03-05"
 capture_url = "https://web.archive.org/web/20100305224701/http://www.20at.com:80/masr/hot-topics/15457-2010-02-23-16-56-23.html?utm_source=facebook_ads&utm_medium=masr&utm_campaign=amr_mousa"
 
 [[comments]]
-order = 34
+order = 36
 subject = ""
 author = "البرادعي ابن اكابر"
 posted = "2010-03-04"
@@ -314,16 +332,16 @@ archived = "2010-03-05"
 capture_url = "https://web.archive.org/web/20100305224701/http://www.20at.com:80/masr/hot-topics/15457-2010-02-23-16-56-23.html?utm_source=facebook_ads&utm_medium=masr&utm_campaign=amr_mousa"
 
 [[comments]]
-order = 35
+order = 37
 subject = ""
 author = "البرادعي هو الاصلح"
 posted = "2010-03-04"
-text = "جمال مين دا يا جماعه دا كل الحكايه ابن الريس ولا تقول حزب بلا بتاع<br />بس يااااارب يكون مافيش [ *** ]<br />بجد مصلحتكووو البردعي<br />والي يقول البردعي كنا عايش بره وملوش دعوه بمصر دا كدب<br />اومال جمال عايش وسطينا دا اخرو يشجع مصر"
+text = "جمال مين دا يا جماعه دا كل الحكايه ابن الريس ولا تقول حزب بلا بتاع<br />بس يااااارب يكون مافيش تعريس<br />بجد مصلحتكووو البردعي<br />والي يقول البردعي كنا عايش بره وملوش دعوه بمصر دا كدب<br />اومال جمال عايش وسطينا دا اخرو يشجع مصر"
 archived = "2010-03-05"
 capture_url = "https://web.archive.org/web/20100305224701/http://www.20at.com:80/masr/hot-topics/15457-2010-02-23-16-56-23.html?utm_source=facebook_ads&utm_medium=masr&utm_campaign=amr_mousa"
 
 [[comments]]
-order = 36
+order = 38
 subject = ""
 author = "البرادعي جوز عايده"
 posted = "2010-03-04"
@@ -332,7 +350,7 @@ archived = "2010-03-05"
 capture_url = "https://web.archive.org/web/20100305224701/http://www.20at.com:80/masr/hot-topics/15457-2010-02-23-16-56-23.html?utm_source=facebook_ads&utm_medium=masr&utm_campaign=amr_mousa"
 
 [[comments]]
-order = 37
+order = 39
 subject = ""
 author = "خلاص جمال وبس"
 posted = "2010-03-04"
@@ -341,7 +359,7 @@ archived = "2010-03-05"
 capture_url = "https://web.archive.org/web/20100305224701/http://www.20at.com:80/masr/hot-topics/15457-2010-02-23-16-56-23.html?utm_source=facebook_ads&utm_medium=masr&utm_campaign=amr_mousa"
 
 [[comments]]
-order = 38
+order = 40
 subject = ""
 author = "ازاي"
 posted = "2010-03-04"
@@ -350,7 +368,7 @@ archived = "2010-03-05"
 capture_url = "https://web.archive.org/web/20100305224701/http://www.20at.com:80/masr/hot-topics/15457-2010-02-23-16-56-23.html?utm_source=facebook_ads&utm_medium=masr&utm_campaign=amr_mousa"
 
 [[comments]]
-order = 39
+order = 41
 subject = ""
 author = "حكمة فرنسية"
 posted = "2010-03-05"
@@ -359,7 +377,7 @@ archived = "2010-03-05"
 capture_url = "https://web.archive.org/web/20100305224701/http://www.20at.com:80/masr/hot-topics/15457-2010-02-23-16-56-23.html?utm_source=facebook_ads&utm_medium=masr&utm_campaign=amr_mousa"
 
 [[comments]]
-order = 40
+order = 42
 subject = ""
 author = "البرادعي 68 سنه"
 posted = "2010-03-05"
@@ -368,7 +386,7 @@ archived = "2010-03-05"
 capture_url = "https://web.archive.org/web/20100305224701/http://www.20at.com:80/masr/hot-topics/15457-2010-02-23-16-56-23.html?utm_source=facebook_ads&utm_medium=masr&utm_campaign=amr_mousa"
 
 [[comments]]
-order = 41
+order = 43
 subject = ""
 author = "لى رأى"
 posted = "2010-03-06"
@@ -377,7 +395,7 @@ archived = "2010-03-10"
 capture_url = "https://web.archive.org/web/20100310122313/http://www.20at.com:80/masr/interviews/15457-2010-02-23-16-56-23.html"
 
 [[comments]]
-order = 42
+order = 44
 subject = ""
 author = "احاديث دينية"
 posted = "2010-03-07"
@@ -386,7 +404,7 @@ archived = "2010-03-10"
 capture_url = "https://web.archive.org/web/20100310122313/http://www.20at.com:80/masr/interviews/15457-2010-02-23-16-56-23.html"
 
 [[comments]]
-order = 43
+order = 45
 subject = ""
 author = "لا تشغل بالك"
 posted = "2010-03-08"

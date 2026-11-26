@@ -2,6 +2,7 @@
 order = 0
 subject = "رئيس منظمة الشذوذ العالمية"
 author = "هع"
+posted = "2008-06-19"
 text = "اللى اختشوا ماتوا<br />وانا ارشح بطاطا ابو زعزوعة رئيسا لمنظمة الشذوذ العالمى كى يرتقى باسلوبها وطرقها<br />وبعدين انا خايف ليروح اسرائيل ويرجع حامل"
 archived = "2008-06-26"
 capture_url = "https://web.archive.org/web/20080626151051/http://masr.20at.com:80/newArticle.php?sid=16350"
@@ -10,6 +11,16 @@ capture_url = "https://web.archive.org/web/20080626151051/http://masr.20at.com:8
 order = 1
 subject = "نكته"
 author = "مش رضوى حسن ولا مروى صلاح"
+posted = "2008-06-20"
 text = "واحدة سألت واحدة<br />هي فاروق حسني تبقى اخت سعاد حسني<br />قالت لها لا<br />دي واحدة ودي واحدة تانية خالص"
 archived = "2008-06-26"
 capture_url = "https://web.archive.org/web/20080626151051/http://masr.20at.com:80/newArticle.php?sid=16350"
+
+[[comments]]
+order = 2
+subject = "ضع عنوان التعليق"
+author = "راجل صح صح"
+posted = "2008-12-17"
+text = "هو ايه اللى حصل فى الدنيا مش ده اللى كان موافقه على خلع الحجاب عجايب<br />دول ناس ؟؟؟؟؟؟؟؟؟؟؟؟"
+archived = "2010-03-14"
+capture_url = ""

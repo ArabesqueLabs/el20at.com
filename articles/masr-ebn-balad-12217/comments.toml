@@ -10,6 +10,15 @@ capture_url = "https://web.archive.org/web/20090530183247/http://www.20at.com:80
 [[comments]]
 order = 1
 subject = ""
+author = "حمرا يا زخاري"
+posted = "2009-05-29"
+text = ":lol:"
+archived = "2010-03-14"
+capture_url = ""
+
+[[comments]]
+order = 2
+subject = ""
 author = "هبه محرم"
 posted = "2009-05-30"
 text = "جميل اوى يا مارو بيفكرنا بأيام أفلام زمان الجميلة و المهن الحلوة دى. تسلم ايديكى"
@@ -17,16 +26,16 @@ archived = "2009-06-09"
 capture_url = "https://web.archive.org/web/20090609031249/http://www.20at.com:80/masr/ebn-balad/12217-2009-05-28-14-27-28.html"
 
 [[comments]]
-order = 2
+order = 3
 subject = ""
 author = "عمرو عادل"
 posted = "2009-12-09"
-text = "ايميلي هوة www.mr_amr_adel_emam<br />hotmail.com هام جداً جداً تبعتيلي الرقم بتاعة ضروري"
+text = "ايميلي هوة www.mr_amr_adel_emam@hotmail.com هام جداً جداً تبعتيلي الرقم بتاعة ضروري"
 archived = "2010-01-05"
 capture_url = "https://web.archive.org/web/20100105145620/http://20at.com/masr/profile/12217-2009-05-28-14-27-28.html"
 
 [[comments]]
-order = 3
+order = 4
 subject = ""
 author = "عمرو عادل"
 posted = "2009-12-09"

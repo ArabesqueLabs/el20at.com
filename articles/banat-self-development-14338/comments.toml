@@ -3,7 +3,7 @@ order = 0
 subject = ""
 author = "من SAFI"
 posted = "2009-12-17"
-text = "شكرا…معلومات حلوة"
+text = "شكرا.....معلومات حلوة ;-)"
 archived = "2009-12-18"
 capture_url = "https://web.archive.org/web/20091218055613/http://www.20at.com:80/banat/self-development/14338-2009-12-10-10-41-02.html"
 
@@ -21,7 +21,7 @@ order = 2
 subject = ""
 author = "Aioui"
 posted = "2009-12-21"
-text = "فعلا عندك حق<br />الواحد بيلبخ كتير مع الناس بدون قصدQuote:<br />يا رب محدش يزعل منى من الناس اللى استخدمت معاهم الاسلوب ده قبل كده"
+text = "[b]فعلا عندك حق[/b]<br />[b]الواحد بيلبخ كتير مع الناس بدون قصد[/b][quote]يا رب محدش يزعل منى من الناس اللى استخدمت معاهم الاسلوب ده قبل كده[/quote]"
 archived = "2010-01-06"
 capture_url = "https://web.archive.org/web/20100106030714/http://20at.com/banat/self-development/14338-2009-12-10-10-41-02.html"
 
@@ -39,7 +39,7 @@ order = 4
 subject = ""
 author = "gege"
 posted = "2009-12-21"
-text = "maho m3na keda eny ab2a monfqa b2a<br />ba2ol klam 3ks eli ana shyfah"
+text = "maho m3na keda eny ab2a monfqa b2a :o ba2ol klam 3ks eli ana shyfah"
 archived = "2010-01-06"
 capture_url = "https://web.archive.org/web/20100106030714/http://20at.com/banat/self-development/14338-2009-12-10-10-41-02.html"
 
@@ -93,7 +93,7 @@ order = 10
 subject = ""
 author = "lollla"
 posted = "2010-01-02"
-text = "جزاكم الله خيراً"
+text = "جزاكم الله خيراً :-)"
 archived = "2010-01-06"
 capture_url = "https://web.archive.org/web/20100106030714/http://20at.com/banat/self-development/14338-2009-12-10-10-41-02.html"
 
@@ -102,6 +102,24 @@ order = 11
 subject = ""
 author = "White heart"
 posted = "2010-01-04"
-text = "فعلا عندك حق .. الواحد لازم ياخد باله من كلامه كويس .. موضوع جميل جدا<br />شكراااً"
+text = "فعلا عندك حق .. الواحد لازم ياخد باله من كلامه كويس .. موضوع جميل جدا :-)<br />شكراااً"
 archived = "2010-01-06"
 capture_url = "https://web.archive.org/web/20100106030714/http://20at.com/banat/self-development/14338-2009-12-10-10-41-02.html"
+
+[[comments]]
+order = 12
+subject = ""
+author = "نورسين"
+posted = "2010-03-02"
+text = "lموضوع حقيقى مهم شكرا جدا ;-)"
+archived = "2010-03-14"
+capture_url = ""
+
+[[comments]]
+order = 13
+subject = ""
+author = "لولااا"
+posted = "2010-03-10"
+text = "فعلا بجد الموضوع حلو بس يا ريت ناخد بالنا"
+archived = "2010-03-14"
+capture_url = ""

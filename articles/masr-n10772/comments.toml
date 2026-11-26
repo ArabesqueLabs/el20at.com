@@ -2,6 +2,7 @@
 order = 0
 subject = "هاهاهاهاها - موضوع مرح"
 author = "محمد ممتاز - بيبو"
+posted = "2007-06-23"
 text = "اما انا محمد ممتاز - فعندما تتصل بى ستجدنى انى ادير مفتاح العربة الخاصة بى و لكنى اسمع صوت التلفون فاقول<br />damn i am so busy now coz i will go to meet my girlfriend plz call me later"
 archived = "2007-06-26"
 capture_url = "https://web.archive.org/web/20070626164203/http://masr.20at.com:80/newArticle.php?sid=10772"
@@ -10,6 +11,16 @@ capture_url = "https://web.archive.org/web/20070626164203/http://masr.20at.com:8
 order = 1
 subject = "الو الو احنا هنا............."
 author = "نيفين نيفى نوفا"
+posted = "2007-06-24"
 text = "موضوع جميل و لذيذ كالعاده يا استاذ محمود<br />و فعلا ف كتير من الحالات بتعبر رساله ال answer machine عن شخصيه صاحبها"
 archived = "2007-06-26"
 capture_url = "https://web.archive.org/web/20070626164203/http://masr.20at.com:80/newArticle.php?sid=10772"
+
+[[comments]]
+order = 2
+subject = "محافظة الغربية"
+author = "انا محمد فؤاد"
+posted = "2008-02-27"
+text = "ياجماعة انا بطلب المساعدة انا اسمى محمد فؤاد والله ياجماعة انا بطلب حد يساعدنى فى انى اغنى والله انا صوتى جميل ومش عاوز احكم على نفسى عاوزكم انتم اللى تسمعوا وتحكموا علية تقولى اذا كنت انفع اغنى ولا لا وعلى العموم اللى يقدر يساعدنى فى انى اوصل الاستار اكاديمى واشارك فيه جزاة الله كل خير ويارب حد يساعدنى ودة تليفونى 0162093857 ويارب اى حد فى ايدية تقديم المساعدة مش يتأخر"
+archived = "2010-03-14"
+capture_url = ""

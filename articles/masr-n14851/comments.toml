@@ -2,6 +2,7 @@
 order = 0
 subject = "مبروووووووك علينا احمد حسن"
 author = "ريري"
+posted = "2008-03-26"
 text = "وااااااااااااااااااااااااااااو..مفاجاه جامده مووووووووت..ميرسي على الخبر<br />بجد كنت زعلانه جدا انه هيروح الزمالك..احمد حسن لاعب كبير ووجوده فى الاهلى لاشك مكسب طبعا<br />الف مبرووك علينا اللاعب احمد حسن..وان شاءالله يعمل موسم جميل"
 archived = "2008-03-30"
 capture_url = "https://web.archive.org/web/20080330174848/http://masr.20at.com:80/newArticle.php?sid=14851"
@@ -9,6 +10,8 @@ capture_url = "https://web.archive.org/web/20080330174848/http://masr.20at.com:8
 [[comments]]
 order = 1
 subject = "ضع عنوان التعليق"
+author = "اكتب اسمك هنا"
+posted = "2008-03-26"
 text = "مكسب كبير للمارد الأحمر ...و بالتوفيق يا بوحميد<br />أحمد حسن انسان محترم و يستاهل كل خير"
 archived = "2008-03-30"
 capture_url = "https://web.archive.org/web/20080330174848/http://masr.20at.com:80/newArticle.php?sid=14851"

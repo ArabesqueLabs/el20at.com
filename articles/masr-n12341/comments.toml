@@ -2,6 +2,7 @@
 order = 0
 subject = "موضوع جميل"
 author = "ahmad hamdy"
+posted = "2007-11-08"
 text = "ازايك يا ست الريسه<br />موضوع حلو وقعدت اقراه كله وعجبنى<br />بس موضوع الفيس بوك ده غريب خالص والعايشين فيه كتير اوى وبيزيدوا بشكل فظيع<br />انا مش عارف تفاصيله الصراحة ومالقتش وقت استكشف الدنيا دى عامله ازاي بس احساسى ان فيه سلبيات كتير اوى<br />مش عارف<br />المهم انا والله داخل اسلم واقوليك تسلم ايديك ودايما متميزة<br />تحياتي"
 archived = "2007-11-10"
 capture_url = "https://web.archive.org/web/20071110082441/http://masr.20at.com:80/newArticle.php?sid=12341"
@@ -10,6 +11,7 @@ capture_url = "https://web.archive.org/web/20071110082441/http://masr.20at.com:8
 order = 1
 subject = "شككككرا"
 author = "شيرين"
+posted = "2007-11-08"
 text = "والله يا أحمد الموقع منور.. شكرا قوي على تعليقك، وعلى انك مش ناسينا.. أما بقى بالنسبة لعالم الفيس بووك فبجد عالم تاااااني.. بس هو في النهاية يصدق عليه ما يصدق على النت كله، يعني فيه الكويس والوحش<br />ربنا يكرمك يا رب، وشكرا تاني على تشريفك."
 archived = "2007-11-10"
 capture_url = "https://web.archive.org/web/20071110082441/http://masr.20at.com:80/newArticle.php?sid=12341"
@@ -18,6 +20,7 @@ capture_url = "https://web.archive.org/web/20071110082441/http://masr.20at.com:8
 order = 2
 subject = "موضوع دمة خفيف"
 author = "عادل سرحان"
+posted = "2007-11-09"
 text = "بصراحة موضوع خفيف سهل الهضم بيرسم ابتسامة فى زمن كلة تكشير<br />رائع يا اخت شيرين<br />فاكرتينا با امثال جداتنا<br />ويا قاعدين يكفيكوا امثال شيرين<br />هايل بجد"
 archived = "2007-11-10"
 capture_url = "https://web.archive.org/web/20071110082441/http://masr.20at.com:80/newArticle.php?sid=12341"
@@ -26,6 +29,7 @@ capture_url = "https://web.archive.org/web/20071110082441/http://masr.20at.com:8
 order = 3
 subject = "رائع"
 author = "ولاء الشملول"
+posted = "2007-11-10"
 text = "الموضوع حلو جداً يا شيري<br />الله ينور يا باشا"
 archived = "2007-11-10"
 capture_url = "https://web.archive.org/web/20071110082441/http://masr.20at.com:80/newArticle.php?sid=12341"
@@ -34,6 +38,7 @@ capture_url = "https://web.archive.org/web/20071110082441/http://masr.20at.com:8
 order = 4
 subject = "موضوع جميل"
 author = "WAHED"
+posted = "2007-11-12"
 text = "موضوع جميل و الموقع قريب من أسم في البلد .. اتمنا انكوو تكونو زي موقع في البلد لأن كل شيء فريد ليه ثمن"
 archived = "2007-11-28"
 capture_url = "https://web.archive.org/web/20071128145810/http://masr.20at.com:80/newArticle.php?sid=12341"
@@ -42,6 +47,34 @@ capture_url = "https://web.archive.org/web/20071128145810/http://masr.20at.com:8
 order = 5
 subject = "الحمدلله"
 author = "ابـن نــاصر"
+posted = "2007-12-02"
 text = "الحمدلله أنا ناشط علي الفايس بوك لكن مادخلتش في الجروب ده عشان ممكن تبقي حرب أهلية لو دخلت لاني مع الطبقين وحش قوي قوي<br />تحياتي<br />ابن ناصر<br />http://ibnasser.blogspot.com<br />ibn-nasser@hotmail.com"
 archived = "2007-12-23"
 capture_url = "https://web.archive.org/web/20071223180051/http://masr.20at.com:80/newArticle.php?sid=12341"
+
+[[comments]]
+order = 6
+subject = "تعليق على الفيس بوك"
+author = "يمنى"
+posted = "2008-06-16"
+text = "الموضوع حلو جدا وفيه معلومات كويسه و امثال شعبيه جميله وياريت البنات وكل اللى يدخل على الفيس بوك يعمل حسابه بيكلم مين زى عاداتنا الشرقيه وشكرا"
+archived = "2010-03-14"
+capture_url = ""
+
+[[comments]]
+order = 7
+subject = "مثل بشع"
+author = "مظلوم"
+posted = "2008-06-24"
+text = "الموقع هايل وضحكنى جدا بس خايف الافتكاسات زى مثل الحشاشين كده تدخل على الامثال اللى بجد واللى فعلا بتشكل جزء من تراثنا وبنتميز بيه وها أقولكو على مثل بشع<br />المثل البشع ده سمعته من واحد غنى جدا وكمان مش تعبان فى فلوسه دا وارثها<br />إن قابلك الاعمى كل عشاه مش هتبقى أحن عليه من ربه اللى عماه"
+archived = "2010-03-14"
+capture_url = ""
+
+[[comments]]
+order = 8
+subject = "موضوع جميل"
+author = "نونا"
+posted = "2008-08-29"
+text = "عل رأى المثل الفاضى يعمل قاضى والفضى بعيد عنك وعن السامعين وحش ويعمل اكتر من كده ما هو احنا مش ناقصنا غير قاموس شامل للامثال الشعبيه وامثال ولاد الذوات ربنا يعينهم والله<br />وكل سنه وانتم طيبين"
+archived = "2010-03-14"
+capture_url = ""

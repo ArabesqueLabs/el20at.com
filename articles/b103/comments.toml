@@ -639,15 +639,6 @@ capture_url = "https://web.archive.org/web/20061102133158/http://www.20at.com/ar
 
 [[comments]]
 order = 71
-subject = "عمرو مطرب بحبه"
-author = "عمرو دياب مطرب رائع و رهيب بدون شك....و ألبومه الأخير \"كمل كلامك\" جميل جدا...كلمات و ألحان على أعلى مستوى..و المحتوى الموسيقى جديد و رائع...و الألبوم فيه تنويع راقى بالمزج بين الموسيقى الأسبانية و العربية و موسيقا الجاز بدون أن تفقد الأغنية الروح الشرقية و أيضا موسيقا الصلصا الهادئة زى أغنية \" أيوه أنا عارف\" فضلا عن الأغانى على المقسوم الشرقى الخالص زى \"و حكايتك إيه؟\"...الألبوم جميل من فنان موهوب و رائع...."
-posted = "2006-01-16"
-text = "لكن ليه كم التعصب ده فى التعليقات؟<br />هى دى بقت العلاقة بين الأخوة العرب؟<br />ثم الناس اللى مش عاجبها الموضوع و بتتهم الموقع بالتفاهة مش ملاحظين إن فى ركن كامل بالموقع إسمه \"فنون\" يا ريت الكلام يكون مسئول شوية...و عيب إن يبقى كل اللى واحد يقدر يعلق بيه إنه يتهم كل المصريين بالهيافة!!!"
-archived = "2006-11-02"
-capture_url = "https://web.archive.org/web/20061102133158/http://www.20at.com/article2.php?sid=103"
-
-[[comments]]
-order = 72
 subject = "ما تشوهو سمعة الاسلام"
 author = "لولو"
 posted = "2006-01-18"
@@ -656,7 +647,7 @@ archived = "2006-11-02"
 capture_url = "https://web.archive.org/web/20061102133158/http://www.20at.com/article2.php?sid=103"
 
 [[comments]]
-order = 73
+order = 72
 subject = "وضوح الصورة"
 author = "أحمد مختار"
 posted = "2006-01-19"
@@ -665,7 +656,7 @@ archived = "2006-11-02"
 capture_url = "https://web.archive.org/web/20061102133158/http://www.20at.com/article2.php?sid=103"
 
 [[comments]]
-order = 74
+order = 73
 subject = "ايوة"
 author = "ايهاب العجمى"
 posted = "2006-01-20"
@@ -674,7 +665,7 @@ archived = "2006-11-02"
 capture_url = "https://web.archive.org/web/20061102133158/http://www.20at.com/article2.php?sid=103"
 
 [[comments]]
-order = 75
+order = 74
 subject = "عندما نقيم عمرو دياب"
 author = "احمد السبد"
 posted = "2006-01-20"
@@ -683,7 +674,7 @@ archived = "2006-11-02"
 capture_url = "https://web.archive.org/web/20061102133158/http://www.20at.com/article2.php?sid=103"
 
 [[comments]]
-order = 76
+order = 75
 subject = "عاشق عمرودياب"
 author = "خالد وحيد"
 posted = "2006-01-20"
@@ -692,7 +683,7 @@ archived = "2006-11-02"
 capture_url = "https://web.archive.org/web/20061102133158/http://www.20at.com/article2.php?sid=103"
 
 [[comments]]
-order = 77
+order = 76
 subject = "مين زي عمرو"
 author = "محمد حرب"
 posted = "2006-01-20"
@@ -701,7 +692,7 @@ archived = "2006-11-02"
 capture_url = "https://web.archive.org/web/20061102133158/http://www.20at.com/article2.php?sid=103"
 
 [[comments]]
-order = 78
+order = 77
 subject = "ليه الضجة لعمرو دياب"
 author = "مصطفى"
 posted = "2006-01-21"
@@ -710,7 +701,7 @@ archived = "2006-11-02"
 capture_url = "https://web.archive.org/web/20061102133158/http://www.20at.com/article2.php?sid=103"
 
 [[comments]]
-order = 79
+order = 78
 subject = "أيوه أنا عارف انك أفضل مطرب"
 author = "سليمان يونس"
 posted = "2006-01-21"
@@ -719,7 +710,7 @@ archived = "2006-11-02"
 capture_url = "https://web.archive.org/web/20061102133158/http://www.20at.com/article2.php?sid=103"
 
 [[comments]]
-order = 80
+order = 79
 subject = "بحب"
 author = "طاهر عبد الحي سليم"
 posted = "2006-01-22"
@@ -728,7 +719,7 @@ archived = "2006-11-02"
 capture_url = "https://web.archive.org/web/20061102133158/http://www.20at.com/article2.php?sid=103"
 
 [[comments]]
-order = 81
+order = 80
 subject = "بحب وغدرة بيا"
 author = "محمد عادل محمد شمندى"
 posted = "2006-01-22"
@@ -737,7 +728,7 @@ archived = "2006-11-02"
 capture_url = "https://web.archive.org/web/20061102133158/http://www.20at.com/article2.php?sid=103"
 
 [[comments]]
-order = 82
+order = 81
 subject = "فشل"
 author = "احمد فرج"
 posted = "2006-01-23"
@@ -746,7 +737,7 @@ archived = "2006-11-02"
 capture_url = "https://web.archive.org/web/20061102133158/http://www.20at.com/article2.php?sid=103"
 
 [[comments]]
-order = 83
+order = 82
 subject = "نبب"
 author = "كارم غريب"
 posted = "2006-01-23"
@@ -755,7 +746,7 @@ archived = "2006-11-02"
 capture_url = "https://web.archive.org/web/20061102133158/http://www.20at.com/article2.php?sid=103"
 
 [[comments]]
-order = 84
+order = 83
 subject = "سفير الحب معا الشباب"
 author = "محمد نصر"
 posted = "2006-01-24"
@@ -764,7 +755,7 @@ archived = "2006-11-02"
 capture_url = "https://web.archive.org/web/20061102133158/http://www.20at.com/article2.php?sid=103"
 
 [[comments]]
-order = 85
+order = 84
 subject = "ياريت تعرف انا مين..."
 author = "سفيان الشاعر و عمرو دياب"
 posted = "2006-01-24"
@@ -773,7 +764,7 @@ archived = "2006-11-02"
 capture_url = "https://web.archive.org/web/20061102133158/http://www.20at.com/article2.php?sid=103"
 
 [[comments]]
-order = 86
+order = 85
 subject = "شبرا"
 author = "ميدو"
 posted = "2006-01-24"
@@ -782,7 +773,7 @@ archived = "2006-11-02"
 capture_url = "https://web.archive.org/web/20061102133158/http://www.20at.com/article2.php?sid=103"
 
 [[comments]]
-order = 87
+order = 86
 subject = "amer diab maat"
 author = "esso"
 posted = "2006-01-25"
@@ -791,7 +782,7 @@ archived = "2006-11-02"
 capture_url = "https://web.archive.org/web/20061102133158/http://www.20at.com/article2.php?sid=103"
 
 [[comments]]
-order = 88
+order = 87
 subject = "عمر دياب"
 author = "رنا"
 posted = "2006-01-27"
@@ -800,7 +791,7 @@ archived = "2006-11-02"
 capture_url = "https://web.archive.org/web/20061102133158/http://www.20at.com/article2.php?sid=103"
 
 [[comments]]
-order = 89
+order = 88
 subject = "من فلسطين"
 author = "سنان"
 posted = "2006-01-30"
@@ -809,7 +800,7 @@ archived = "2006-11-02"
 capture_url = "https://web.archive.org/web/20061102133158/http://www.20at.com/article2.php?sid=103"
 
 [[comments]]
-order = 90
+order = 89
 subject = "عمرو ملك الاغانى"
 author = "حسن"
 posted = "2006-02-01"
@@ -818,7 +809,7 @@ archived = "2006-11-02"
 capture_url = "https://web.archive.org/web/20061102133158/http://www.20at.com/article2.php?sid=103"
 
 [[comments]]
-order = 91
+order = 90
 subject = "كمل كلمك"
 author = "الروش احمد ابو حسنى"
 posted = "2006-02-01"
@@ -827,7 +818,7 @@ archived = "2006-11-02"
 capture_url = "https://web.archive.org/web/20061102133158/http://www.20at.com/article2.php?sid=103"
 
 [[comments]]
-order = 92
+order = 91
 subject = "غيرانين ليه؟!"
 author = "انيتا عجمايا"
 posted = "2006-02-02"
@@ -836,7 +827,7 @@ archived = "2006-11-02"
 capture_url = "https://web.archive.org/web/20061102133158/http://www.20at.com/article2.php?sid=103"
 
 [[comments]]
-order = 93
+order = 92
 subject = "mmm_nnn2033"
 author = "ابراهيم"
 posted = "2006-02-04"
@@ -845,7 +836,7 @@ archived = "2006-11-02"
 capture_url = "https://web.archive.org/web/20061102133158/http://www.20at.com/article2.php?sid=103"
 
 [[comments]]
-order = 94
+order = 93
 subject = "عمرودياب الفنان الوحيد بجد"
 author = "خالد الضوي"
 posted = "2006-02-05"
@@ -854,7 +845,7 @@ archived = "2006-11-02"
 capture_url = "https://web.archive.org/web/20061102133158/http://www.20at.com/article2.php?sid=103"
 
 [[comments]]
-order = 95
+order = 94
 subject = "اجمل مطرب فى العالم"
 author = "هبه"
 posted = "2006-02-06"
@@ -863,7 +854,7 @@ archived = "2006-11-02"
 capture_url = "https://web.archive.org/web/20061102133158/http://www.20at.com/article2.php?sid=103"
 
 [[comments]]
-order = 96
+order = 95
 subject = "اجمل انسان فى الكون"
 author = "منى"
 posted = "2006-02-06"
@@ -872,7 +863,7 @@ archived = "2006-11-02"
 capture_url = "https://web.archive.org/web/20061102133158/http://www.20at.com/article2.php?sid=103"
 
 [[comments]]
-order = 97
+order = 96
 subject = "عمرو دياب"
 author = "رامى"
 posted = "2006-02-18"
@@ -881,7 +872,7 @@ archived = "2006-11-02"
 capture_url = "https://web.archive.org/web/20061102133158/http://www.20at.com/article2.php?sid=103"
 
 [[comments]]
-order = 98
+order = 97
 subject = "لا تعليق"
 author = "عاشق عمرو دياب"
 posted = "2006-02-21"
@@ -890,7 +881,7 @@ archived = "2006-11-02"
 capture_url = "https://web.archive.org/web/20061102133158/http://www.20at.com/article2.php?sid=103"
 
 [[comments]]
-order = 99
+order = 98
 subject = "عمرو هو الكينج والكل بيقلدةوبينتظرو اعمالة"
 author = "aliasal"
 posted = "2006-02-27"
@@ -899,7 +890,7 @@ archived = "2006-11-02"
 capture_url = "https://web.archive.org/web/20061102133158/http://www.20at.com/article2.php?sid=103"
 
 [[comments]]
-order = 100
+order = 99
 subject = "مش بس جامدفى الاغانى لا دة زكى كمان"
 author = "اسلام"
 posted = "2006-03-06"
@@ -908,7 +899,7 @@ archived = "2006-11-02"
 capture_url = "https://web.archive.org/web/20061102133158/http://www.20at.com/article2.php?sid=103"
 
 [[comments]]
-order = 101
+order = 100
 subject = "احلي كلام لعمرودياب"
 author = "جاسمين"
 posted = "2006-03-23"
@@ -917,7 +908,7 @@ archived = "2006-11-02"
 capture_url = "https://web.archive.org/web/20061102133158/http://www.20at.com/article2.php?sid=103"
 
 [[comments]]
-order = 102
+order = 101
 subject = "حرام عليكم اقسم بالله منكم لله"
 author = "احمد كمال او عمرو دياب"
 posted = "2006-03-23"
@@ -926,7 +917,7 @@ archived = "2006-11-02"
 capture_url = "https://web.archive.org/web/20061102133158/http://www.20at.com/article2.php?sid=103"
 
 [[comments]]
-order = 103
+order = 102
 subject = "عمرو وبس"
 author = "حازم"
 posted = "2006-04-11"
@@ -935,7 +926,7 @@ archived = "2006-11-02"
 capture_url = "https://web.archive.org/web/20061102133158/http://www.20at.com/article2.php?sid=103"
 
 [[comments]]
-order = 104
+order = 103
 subject = "عمرو سوبر ستار"
 author = "مني"
 posted = "2006-04-23"
@@ -944,7 +935,7 @@ archived = "2006-11-02"
 capture_url = "https://web.archive.org/web/20061102133158/http://www.20at.com/article2.php?sid=103"
 
 [[comments]]
-order = 105
+order = 104
 subject = "عودنا"
 author = "زيدان"
 posted = "2006-05-01"
@@ -953,7 +944,7 @@ archived = "2006-11-02"
 capture_url = "https://web.archive.org/web/20061102133158/http://www.20at.com/article2.php?sid=103"
 
 [[comments]]
-order = 106
+order = 105
 subject = "لا اتصور"
 author = "محمد زين العابدين"
 posted = "2006-05-01"
@@ -962,7 +953,7 @@ archived = "2006-11-02"
 capture_url = "https://web.archive.org/web/20061102133158/http://www.20at.com/article2.php?sid=103"
 
 [[comments]]
-order = 107
+order = 106
 subject = "غباء عمرو دياب"
 author = "dasha"
 posted = "2006-05-01"
@@ -971,7 +962,7 @@ archived = "2006-11-02"
 capture_url = "https://web.archive.org/web/20061102133158/http://www.20at.com/article2.php?sid=103"
 
 [[comments]]
-order = 108
+order = 107
 subject = "الكينغ"
 author = "أحمد"
 posted = "2006-05-04"
@@ -980,7 +971,7 @@ archived = "2006-11-02"
 capture_url = "https://web.archive.org/web/20061102133158/http://www.20at.com/article2.php?sid=103"
 
 [[comments]]
-order = 109
+order = 108
 subject = "http://www.20at.com/comments/?sid=103"
 author = "احمد شاكر"
 posted = "2006-05-20"
@@ -989,7 +980,7 @@ archived = "2006-11-02"
 capture_url = "https://web.archive.org/web/20061102133158/http://www.20at.com/article2.php?sid=103"
 
 [[comments]]
-order = 110
+order = 109
 subject = "ahssan moughanni"
 author = "ghizlan"
 posted = "2006-05-20"
@@ -998,7 +989,7 @@ archived = "2006-11-02"
 capture_url = "https://web.archive.org/web/20061102133158/http://www.20at.com/article2.php?sid=103"
 
 [[comments]]
-order = 111
+order = 110
 subject = "كفاح عمروديلب"
 author = "معجب"
 posted = "2006-05-31"
@@ -1007,7 +998,7 @@ archived = "2006-11-02"
 capture_url = "https://web.archive.org/web/20061102133158/http://www.20at.com/article2.php?sid=103"
 
 [[comments]]
-order = 112
+order = 111
 subject = "عمرو مطرب بجد ومطرب كااامل"
 author = "محمد السيد"
 posted = "2006-06-02"
@@ -1016,7 +1007,7 @@ archived = "2006-11-02"
 capture_url = "https://web.archive.org/web/20061102133158/http://www.20at.com/article2.php?sid=103"
 
 [[comments]]
-order = 113
+order = 112
 subject = "المنصوره"
 author = "احمد حسن"
 posted = "2006-06-04"
@@ -1025,7 +1016,7 @@ archived = "2006-11-02"
 capture_url = "https://web.archive.org/web/20061102133158/http://www.20at.com/article2.php?sid=103"
 
 [[comments]]
-order = 114
+order = 113
 subject = "ليه كده"
 author = "عبد الله اسماعيل"
 posted = "2006-06-07"
@@ -1034,7 +1025,7 @@ archived = "2006-11-02"
 capture_url = "https://web.archive.org/web/20061102133158/http://www.20at.com/article2.php?sid=103"
 
 [[comments]]
-order = 115
+order = 114
 subject = "اجمل لحظات العمر"
 author = "عبدالله اسماعيل"
 posted = "2006-06-07"
@@ -1043,7 +1034,7 @@ archived = "2006-11-02"
 capture_url = "https://web.archive.org/web/20061102133158/http://www.20at.com/article2.php?sid=103"
 
 [[comments]]
-order = 116
+order = 115
 subject = "القديم"
 author = "خالد"
 posted = "2006-06-21"
@@ -1052,7 +1043,7 @@ archived = "2006-11-02"
 capture_url = "https://web.archive.org/web/20061102133158/http://www.20at.com/article2.php?sid=103"
 
 [[comments]]
-order = 117
+order = 116
 subject = "عمرو نجم النجوم"
 author = "إيهاب المصرى"
 posted = "2006-06-24"
@@ -1061,7 +1052,7 @@ archived = "2006-11-02"
 capture_url = "https://web.archive.org/web/20061102133158/http://www.20at.com/article2.php?sid=103"
 
 [[comments]]
-order = 118
+order = 117
 subject = "حبيبى"
 author = "هشام (عاشق عمرودياب )"
 posted = "2006-06-25"
@@ -1070,7 +1061,7 @@ archived = "2006-11-02"
 capture_url = "https://web.archive.org/web/20061102133158/http://www.20at.com/article2.php?sid=103"
 
 [[comments]]
-order = 119
+order = 118
 subject = "حبييى ياعمرو دياب"
 author = "حمادة باشا مجنون عمرو دياب"
 posted = "2006-06-30"
@@ -1079,7 +1070,7 @@ archived = "2006-11-02"
 capture_url = "https://web.archive.org/web/20061102133158/http://www.20at.com/article2.php?sid=103"
 
 [[comments]]
-order = 120
+order = 119
 subject = "عمروووووووووووووووووووو"
 author = "tyty"
 posted = "2006-07-08"
@@ -1088,7 +1079,7 @@ archived = "2006-11-02"
 capture_url = "https://web.archive.org/web/20061102133158/http://www.20at.com/article2.php?sid=103"
 
 [[comments]]
-order = 121
+order = 120
 subject = "عمرودياب لاتعليق"
 author = "كريم البحيرى"
 posted = "2006-07-11"
@@ -1097,7 +1088,7 @@ archived = "2006-11-02"
 capture_url = "https://web.archive.org/web/20061102133158/http://www.20at.com/article2.php?sid=103"
 
 [[comments]]
-order = 122
+order = 121
 subject = "جميل"
 author = "السيد"
 posted = "2006-07-18"
@@ -1106,7 +1097,7 @@ archived = "2006-11-02"
 capture_url = "https://web.archive.org/web/20061102133158/http://www.20at.com/article2.php?sid=103"
 
 [[comments]]
-order = 123
+order = 122
 subject = "حبيبى الغالى"
 author = "مجنونة عمرودياب"
 posted = "2006-07-22"
@@ -1115,7 +1106,7 @@ archived = "2006-11-02"
 capture_url = "https://web.archive.org/web/20061102133158/http://www.20at.com/article2.php?sid=103"
 
 [[comments]]
-order = 124
+order = 123
 subject = "بحبك عمرو ديابببببببببببب"
 author = "عاشقه عمرو دياب(اصاله)"
 posted = "2006-07-25"
@@ -1124,7 +1115,7 @@ archived = "2006-11-02"
 capture_url = "https://web.archive.org/web/20061102133158/http://www.20at.com/article2.php?sid=103"
 
 [[comments]]
-order = 125
+order = 124
 subject = "بحبك عمرو ديابببببببببببب"
 author = "عاشقه عمرو دياب (عمرو يا حياتي) اصاله مجد الكروم"
 posted = "2006-07-25"
@@ -1133,7 +1124,7 @@ archived = "2006-11-02"
 capture_url = "https://web.archive.org/web/20061102133158/http://www.20at.com/article2.php?sid=103"
 
 [[comments]]
-order = 126
+order = 125
 subject = "بحبك"
 author = "عما عبيدات"
 posted = "2006-07-26"
@@ -1142,7 +1133,7 @@ archived = "2006-11-02"
 capture_url = "https://web.archive.org/web/20061102133158/http://www.20at.com/article2.php?sid=103"
 
 [[comments]]
-order = 127
+order = 126
 subject = "والله بحبك"
 author = "عمار عبيدات"
 posted = "2006-07-26"
@@ -1151,7 +1142,7 @@ archived = "2006-11-02"
 capture_url = "https://web.archive.org/web/20061102133158/http://www.20at.com/article2.php?sid=103"
 
 [[comments]]
-order = 128
+order = 127
 subject = "عمرو دياب الملك"
 author = "عاشق عمرو دياب"
 posted = "2006-08-03"
@@ -1160,7 +1151,7 @@ archived = "2006-11-02"
 capture_url = "https://web.archive.org/web/20061102133158/http://www.20at.com/article2.php?sid=103"
 
 [[comments]]
-order = 129
+order = 128
 subject = "اين موهبة عمرو دياب"
 author = "محمد رضوان"
 posted = "2006-08-04"
@@ -1169,7 +1160,7 @@ archived = "2006-11-02"
 capture_url = "https://web.archive.org/web/20061102133158/http://www.20at.com/article2.php?sid=103"
 
 [[comments]]
-order = 130
+order = 129
 subject = "بحبك يا عمرو"
 author = "بدر عصام"
 posted = "2006-08-05"
@@ -1178,7 +1169,7 @@ archived = "2006-11-02"
 capture_url = "https://web.archive.org/web/20061102133158/http://www.20at.com/article2.php?sid=103"
 
 [[comments]]
-order = 131
+order = 130
 subject = "عمرو دياب والصراحه"
 author = "****الظل****"
 posted = "2006-08-07"
@@ -1187,7 +1178,7 @@ archived = "2006-11-02"
 capture_url = "https://web.archive.org/web/20061102133158/http://www.20at.com/article2.php?sid=103"
 
 [[comments]]
-order = 132
+order = 131
 subject = "عمرو دياب والصراحه"
 author = "****الظل****"
 posted = "2006-08-07"
@@ -1196,7 +1187,7 @@ archived = "2006-11-02"
 capture_url = "https://web.archive.org/web/20061102133158/http://www.20at.com/article2.php?sid=103"
 
 [[comments]]
-order = 133
+order = 132
 subject = "ساحر الفن والقوة والوسامة"
 author = "شوقي نبيل الشرجبي"
 posted = "2006-08-12"
@@ -1205,7 +1196,7 @@ archived = "2006-11-02"
 capture_url = "https://web.archive.org/web/20061102133158/http://www.20at.com/article2.php?sid=103"
 
 [[comments]]
-order = 134
+order = 133
 subject = "ببساطة عمرو دياب هو الأفضل"
 author = "إياد تامر"
 posted = "2006-08-12"
@@ -1214,7 +1205,7 @@ archived = "2006-11-02"
 capture_url = "https://web.archive.org/web/20061102133158/http://www.20at.com/article2.php?sid=103"
 
 [[comments]]
-order = 135
+order = 134
 subject = "الكلاب تنبح والقافلة تسير"
 author = "كلمة حق"
 posted = "2006-08-26"
@@ -1223,7 +1214,7 @@ archived = "2006-11-02"
 capture_url = "https://web.archive.org/web/20061102133158/http://www.20at.com/article2.php?sid=103"
 
 [[comments]]
-order = 136
+order = 135
 subject = "ع"
 author = "فائز"
 posted = "2006-08-30"
@@ -1232,7 +1223,7 @@ archived = "2006-11-02"
 capture_url = "https://web.archive.org/web/20061102133158/http://www.20at.com/article2.php?sid=103"
 
 [[comments]]
-order = 137
+order = 136
 subject = "انا اكتر واحد بيحبك"
 author = "هيرو"
 posted = "2006-08-30"
@@ -1241,7 +1232,7 @@ archived = "2006-11-02"
 capture_url = "https://web.archive.org/web/20061102133158/http://www.20at.com/article2.php?sid=103"
 
 [[comments]]
-order = 138
+order = 137
 subject = "عمرو حياتي"
 author = "مي (العقبه)"
 posted = "2006-08-31"
@@ -1250,7 +1241,7 @@ archived = "2006-11-02"
 capture_url = "https://web.archive.org/web/20061102133158/http://www.20at.com/article2.php?sid=103"
 
 [[comments]]
-order = 139
+order = 138
 subject = "و مالو"
 author = "انيتا"
 posted = "2006-09-01"
@@ -1259,7 +1250,7 @@ archived = "2006-11-02"
 capture_url = "https://web.archive.org/web/20061102133158/http://www.20at.com/article2.php?sid=103"
 
 [[comments]]
-order = 140
+order = 139
 subject = "انا عمرو دياب"
 author = "انا عمرو دياب"
 posted = "2006-09-06"
@@ -1268,7 +1259,7 @@ archived = "2006-11-02"
 capture_url = "https://web.archive.org/web/20061102133158/http://www.20at.com/article2.php?sid=103"
 
 [[comments]]
-order = 141
+order = 140
 subject = "حبيبى عمرو"
 author = "اسما"
 posted = "2006-09-12"
@@ -1277,7 +1268,7 @@ archived = "2006-11-02"
 capture_url = "https://web.archive.org/web/20061102133158/http://www.20at.com/article2.php?sid=103"
 
 [[comments]]
-order = 142
+order = 141
 subject = "اغانى عمرو دياب"
 author = "محمد بكر"
 posted = "2006-09-15"
@@ -1286,7 +1277,7 @@ archived = "2006-11-02"
 capture_url = "https://web.archive.org/web/20061102133158/http://www.20at.com/article2.php?sid=103"
 
 [[comments]]
-order = 143
+order = 142
 subject = "مجنونة عمرودياب"
 author = "مروة احمد"
 posted = "2006-09-15"
@@ -1295,7 +1286,7 @@ archived = "2006-11-02"
 capture_url = "https://web.archive.org/web/20061102133158/http://www.20at.com/article2.php?sid=103"
 
 [[comments]]
-order = 144
+order = 143
 subject = "عاشقه عمرودياب(نورهان حمدي"
 author = "نورهان حمدي"
 posted = "2006-09-17"
@@ -1304,7 +1295,7 @@ archived = "2006-11-02"
 capture_url = "https://web.archive.org/web/20061102133158/http://www.20at.com/article2.php?sid=103"
 
 [[comments]]
-order = 145
+order = 144
 subject = "عمرو دياب ارقى فنان و الي مو عاجبه يبلط البحر"
 author = "سوسو"
 posted = "2006-09-20"
@@ -1313,7 +1304,7 @@ archived = "2006-11-02"
 capture_url = "https://web.archive.org/web/20061102133158/http://www.20at.com/article2.php?sid=103"
 
 [[comments]]
-order = 146
+order = 145
 subject = "عمرو بالفعل يستحق النجاح"
 author = "احمد السعيد"
 posted = "2006-09-28"
@@ -1322,7 +1313,7 @@ archived = "2006-11-02"
 capture_url = "https://web.archive.org/web/20061102133158/http://www.20at.com/article2.php?sid=103"
 
 [[comments]]
-order = 147
+order = 146
 subject = "كفايه اساءه للغير"
 author = "احمد السعيد"
 posted = "2006-09-28"
@@ -1331,7 +1322,7 @@ archived = "2006-11-02"
 capture_url = "https://web.archive.org/web/20061102133158/http://www.20at.com/article2.php?sid=103"
 
 [[comments]]
-order = 148
+order = 147
 subject = "عمر دياب يكمل كلامة"
 author = "نورا"
 posted = "2006-10-11"
@@ -1340,7 +1331,7 @@ archived = "2006-11-02"
 capture_url = "https://web.archive.org/web/20061102133158/http://www.20at.com/article2.php?sid=103"
 
 [[comments]]
-order = 149
+order = 148
 subject = "عمردياب يكمل كلامة"
 author = "نورا الشعنونة"
 posted = "2006-10-12"
@@ -1349,7 +1340,7 @@ archived = "2006-11-02"
 capture_url = "https://web.archive.org/web/20061102133158/http://www.20at.com/article2.php?sid=103"
 
 [[comments]]
-order = 150
+order = 149
 subject = "خلينا واضحين"
 author = "رشـــــــــــــــ المصرى ــــا"
 posted = "2006-10-12"
@@ -1358,7 +1349,7 @@ archived = "2006-11-02"
 capture_url = "https://web.archive.org/web/20061102133158/http://www.20at.com/article2.php?sid=103"
 
 [[comments]]
-order = 151
+order = 150
 subject = "خلينا نسمع اغاني بس"
 author = "الساحره"
 posted = "2006-10-23"
@@ -1367,7 +1358,7 @@ archived = "2006-11-02"
 capture_url = "https://web.archive.org/web/20061102133158/http://www.20at.com/article2.php?sid=103"
 
 [[comments]]
-order = 152
+order = 151
 subject = "انت حبى الوحيد"
 author = "مرمر"
 posted = "2006-11-01"
@@ -1376,10 +1367,262 @@ archived = "2006-11-02"
 capture_url = "https://web.archive.org/web/20061102133158/http://www.20at.com/article2.php?sid=103"
 
 [[comments]]
-order = 153
+order = 152
 subject = "طب لو مافيش عمرو هيبقى فى مين"
 author = "مارو"
 posted = "2006-11-01"
 text = "طب لو مافيش عمرو هيبقى فى مين ياجامعة والهى انا عمرى ماحبيت الاغانى الا ماسمعت عمرو لانة فعلا يستاهل والهى العظيم بعشقك والا عند اعتراض على ان عمرو وحش يبقة ملهوش لازمة فى الحياة اصلة هيبقى بيفهم اية ودة اميلى للعندة اعتراضKATKOTA_20101"
 archived = "2006-11-02"
 capture_url = "https://web.archive.org/web/20061102133158/http://www.20at.com/article2.php?sid=103"
+
+[[comments]]
+order = 153
+subject = "ضع عنوان التعليق"
+author = "اكتب اسمك هنا"
+posted = "2007-02-26"
+text = "بصراحة انا مدمن من سنين بعمرو دياب , وعشت احلي قصة حب في حياتي علي أغنيات وشرايط عمرو دياب مع اني مش صغير انا متجوز ومخلف عمرو أنا وأغلب صحابي , ومتزوج من حبيتي اللي عشت معاها سنين حب وغرام علي روائع الكينج وكانت أغنية الفرح البداية عارف ليه انا قلبي أختارك , وشهر العسل بتاعنا بيبتدائ مع كل شريط جديد , ودائما بعاكس مراتي في تليفونها باغنية من اغاني عمرو<br />وبالنسبة اللي بيقولوا أن عمرو ما يجيش شيء من أم كلثوم ولا عبد الحليم أرد عليهم وأقول انا عن نفسي شايف ان عمرو كان هو اللي يستحق يبقي العندليب وفعلاً هو عندليب الشباب , كمان أن عمرو عمل الشهرة العريضة ديه كلها ب15 شريط بس وحوالي 4 افلام !!!<br />فما بالكم لو وصلت شرايطة ل100 شريط و30 فيلم كان عمل ايه ؟<br />أكيد كان لحس عقولنا !<br />وأتمني ان عمرو يتجهه لعمل بعض الاغنيات الدينية عشان الشباب المتدينين وكزكاة عن صوتة .<br />ودائماً للأمام يا عندليب الشباب لألف عام قادمة"
+archived = "2010-03-14"
+capture_url = ""
+
+[[comments]]
+order = 154
+subject = "ضع عنوان التعليق"
+author = "اكتب اسمك هنا"
+posted = "2007-03-03"
+text = "انا بصراحه بكرة الناس اللي تنسي فضل الناس عليهم وبعدين ينكروا الفضل ومن الناس دول عمرو وشرين<br />واحسن من الكل الرسول صلي الله عليه وسلم ولا في حد عنده كلام تاني"
+archived = "2010-03-14"
+capture_url = ""
+
+[[comments]]
+order = 155
+subject = "عمور دياب ملك الاغنيه بلا منازع"
+author = "رووووووتي"
+posted = "2007-03-07"
+text = "عمور دياب بلا منازع هو ملك الاغنيه العربيه بلا منازع وانا بمسجلوا على معظم القنوات العربيه تشجيعا له وهو الافضل فقط لا غير"
+archived = "2010-03-14"
+capture_url = ""
+
+[[comments]]
+order = 156
+subject = "ضع عنوان التعليق"
+author = "aiman"
+posted = "2007-03-25"
+text = "عمرو دياب ده بجد الهرم الرابع لمصر.وبجد فخر لينا كلنا ان بلدنا طلعت واحد زى ده بيبقدم احلى وارقى الاغانى والكلمات والالحان والتوزيع..وبجد ماينفعش ان احنا نفكر حتى اننا نقارنو بأى حد تانى عشان مينفعش اصلا..بجد يا جماعه الانسان ده فنااان كبييير قوى وبيحترم جمهوره قوى قوى وعشان كده بيزدادو يوم عن التانى..لانوا بيتعب بجد فالى بيعملوا ده عشان يوصلوا لينا بأحلى شكل ممكن نشوفوا..الاغنيه الى بنسمعها لعمرو فى 4 دقايق دى بيعملها فى 4 شهوووور.."
+archived = "2010-03-14"
+capture_url = ""
+
+[[comments]]
+order = 157
+subject = "عمرو دياب هو الملك"
+author = "احمد انور"
+posted = "2007-03-26"
+text = "مجنون من يعشق الحياة دون عمرو دياب عمرو هو الافضل فى مصر بل فى العالم العربى وعلى الاقل عمرو لم يتهرب من الجيش زى واحد صاحبنا يا عمرو بحبك بحبك بحبك"
+archived = "2010-03-14"
+capture_url = ""
+
+[[comments]]
+order = 158
+subject = "ضع عنوان التعليق"
+author = "اكتب اسمك هنا"
+posted = "2007-04-08"
+text = "تامر حسنى هو الكينج يا كبيسر المعفنين غصب عن عين عمرو او اللى بيحبوا عمرو"
+archived = "2010-03-14"
+capture_url = ""
+
+[[comments]]
+order = 159
+subject = "n3_m_w@hotmil.com"
+author = "نور الدين"
+posted = "2007-05-07"
+text = "عمرو دياب لما بسمعه برتاح نفسيتى بتهدا لما اسمعه و انا تعبانة او مضايقة جدا حدا و مهما اسمعه مزهقش منه ابدا ولا شريط جديد او قديم كله حلو جدا جدااااااااااااااا"
+archived = "2010-03-14"
+capture_url = ""
+
+[[comments]]
+order = 160
+subject = "عمرو دياب رفيق عمرى كله"
+author = "حــنــان"
+posted = "2007-05-07"
+text = "عــــــــــمــــــــــرو ديـــــــــاب ده حبيبى وحبيب مصر كلها بجد واللى يقول غير كده يبقى مابيفهمش بصراحه وبعدين مين من شباب جيلنا مالوش اغنيه من اغانى عــــــــــمــــــــــرو مابيحبهاش ومابتفكروش بذكرى جميله او جرح عاشه او حب عمره ماهاينساه ؟أنا عن نفسى كل أغنيه من اغانى عمرو بتفكرنى بأيام عشتها مش لازم حتى تكون ذكرى حب قديم او كده ممكن تكون ذكرى أيام عاديه جدا بس غاليه عندى اوى عاشها معايا عـــــــمـــــــرو بصوته وأغانيه اللى عمرى ماهنساها _ بجد ربنا مايحرمنا منه يارب خليلنا عمرو دياب طووووووول العمر وماتحرمناش منه لأن ده الغالى . امين يارب العالمين"
+archived = "2010-03-14"
+capture_url = ""
+
+[[comments]]
+order = 161
+subject = "عمرو الهضبة"
+author = "عاشق عمرو دياب"
+posted = "2007-05-10"
+text = "بصراحة أنا مش عارف أقول إية المفروض منعلقش على عمرو دياب لاإنة أمر مسلم بة أنة هضبة الفن فى مصر عمرو حبيب الملايين و كمان الناس إلى بتقول إن تامر أحسن منة دى ناس مش بتفهم ..... على فكرة عمرو أغنى الفنانين العرب.... و كمان مش لازم ننسى إنة حصل على جائزة ميوزيك أورد مرتين"
+archived = "2010-03-14"
+capture_url = ""
+
+[[comments]]
+order = 162
+subject = "النجم عمرو"
+author = "محمد إبراهيم"
+posted = "2007-05-16"
+text = "مين تامر دة علشان يقارنوة بعمرو دياب النجم"
+archived = "2010-03-14"
+capture_url = ""
+
+[[comments]]
+order = 163
+subject = "النجم عمرو"
+author = "منعم"
+posted = "2007-05-16"
+text = "واللة عمرو دياب دة بيفكرني نبجوم الزمن الجميل وكمان الراجل دة مش هيتعوض"
+archived = "2010-03-14"
+capture_url = ""
+
+[[comments]]
+order = 164
+subject = "كروان الشرق الاوسط عمرو دياب"
+author = "وسام يوسف"
+posted = "2007-05-27"
+text = "عمرو دياب افضل مطرب عالمى<br />وكمان اغنيه جميله جدا وكمان رومنسيه موووووووووت<br />وانا بحب الطرب العلمى عمرو دياب وكمان عمرو لن يتهرب من الجيش<br />وربنا لا يحرمنا منه الى الابد وكمان ده موقعه على النت<br />www.amrdiab.com مع تحيات (وسام يوسف)"
+archived = "2010-03-14"
+capture_url = ""
+
+[[comments]]
+order = 165
+subject = "الى حبيب قلبى عمرو دياب الكينج من بيلى"
+author = "محمد عبد الملك بيلى"
+posted = "2007-06-01"
+text = "انابموت فى عمرو دياب وطبعا هو الكينج على اى حد بس ياريت منشتمش على اى حد بردة فى نجوم كويسين ودى كدة كدة ايام وبنعشهاوسمعتو اغنية عمرو الجديدة<br />كان باين من سلامها جية تغير كلامها وقفت ادامى ساكتة معرفش جرلها اية لاقلت ظلمانى ولا قلت هجرحها لقتها وحشانىوخفت اجرحها ويدوب ببص فى عنيها وخلاص بلمس ايديها لقتها جوة قلبى رجعت لمترحها اهداء من بيلى والحارتى والسلامونى"
+archived = "2010-03-14"
+capture_url = ""
+
+[[comments]]
+order = 166
+subject = "عاشق عمرو دياب"
+author = "zaza"
+posted = "2007-06-23"
+text = "انا بموووووووووووت فى عمرو وبحب اغانيه مووووووت بس انا حاسس انه بيتعب عقبال مايتطور اغانيه ودى حاجة فى مصلحته وكمان بيجيب الكلمات الجديدة وبيعمل النيولوك الى يعاصر الشباب فى وقته<br />من الاخر عمرو دياب فنان بلا منازع"
+archived = "2010-03-14"
+capture_url = ""
+
+[[comments]]
+order = 167
+subject = "عمرو ديااااااااااب           الرهييييييييب"
+author = "MISSION_IMPOSSIBLEXXX"
+posted = "2007-07-04"
+text = "عمرو ديااااااااااب ده رهيب محصلش"
+archived = "2010-03-14"
+capture_url = ""
+
+[[comments]]
+order = 168
+subject = "الحب"
+author = "ابراهيم وسارة"
+posted = "2007-07-09"
+text = "بحب موووت"
+archived = "2010-03-14"
+capture_url = ""
+
+[[comments]]
+order = 169
+subject = "متخلفين"
+author = "محمد عادل"
+posted = "2007-10-11"
+text = "لو عمرو دياب يعرف إنك زملكاوى ليبطل غناء"
+archived = "2010-03-14"
+capture_url = ""
+
+[[comments]]
+order = 170
+subject = "عمرو دياب ملك الغناء"
+author = "محمد عادل"
+posted = "2007-10-11"
+text = "ليك مستقبل ياعمرو"
+archived = "2010-03-14"
+capture_url = ""
+
+[[comments]]
+order = 171
+subject = "الاسكندرية"
+author = "عاشق عمرو دياب"
+posted = "2007-11-11"
+text = "عمرو دياب دة ملهوش حل ولا تقولى تامر ولا اى واحد غيرة بصراحة دة الهرم الرابع لمصر وهوة فية نظرى من دمن عجائب الدنيا السبعة دة كينج دة كفاية صوتة ونيو لوك"
+archived = "2010-03-14"
+capture_url = ""
+
+[[comments]]
+order = 172
+subject = "العراق"
+author = "احمد وليد"
+posted = "2008-01-21"
+text = "بــــســــــم اللـــــ÷ الــــرحــــمـــن الـــرحــــيــــم<br />تحيه واحترام الى الاخوه الاعزاء اشكركم على هذا التعليق الجميل وارجو مراسلتي على الاميل ahmeed_almsasks"
+archived = "2010-03-14"
+capture_url = ""
+
+[[comments]]
+order = 173
+subject = "ملك الزمن الجميل"
+author = "samer"
+text = "عمرو دياب دة مش هيحصل تانى دا فلتة من فلاتات الفن ذى عبدالحليم وام كلثوم واحسن كمان هوالملك"
+archived = "2010-03-14"
+capture_url = ""
+
+[[comments]]
+order = 174
+subject = "عمرو  عندليب العصر"
+author = "احمد عسل"
+text = "عمرو طول عمرة بيحترم جمهورة وبيقدم لة احسن الاغانى من حيث الكلمات والالحان والتوزيع وبيعرف امتى يظهر فى الاعلام وحاسب كل شىء صح والتوفيق من عند اللة"
+archived = "2010-03-14"
+capture_url = ""
+
+[[comments]]
+order = 175
+subject = "المقطم"
+author = "الملحن محمد الحريري"
+text = "عمرو باب الاستاذ"
+archived = "2010-03-14"
+capture_url = ""
+
+[[comments]]
+order = 176
+subject = "عمرو دياب اسطووووووووووووووووورة"
+author = "علاء"
+text = "اجمل صوت اعلى احساس هوه حياتى هوه عمرى هوه كل ما ليه يا امبراطور"
+archived = "2010-03-14"
+capture_url = ""
+
+[[comments]]
+order = 177
+subject = "النجم"
+author = "احمد وهبة"
+text = "بصراحة عمرو دياب دة سوبر مان الفن"
+archived = "2010-03-14"
+capture_url = ""
+
+[[comments]]
+order = 178
+subject = "ضع عنوان التعليق"
+author = "اكتب اسمك هنا"
+text = "عمرو دياب يعنى الاحساس عمرو دياب يعنى الفن الجميل عمرو دياب يعنى احلى صوت فى جيله عمرو دياب عمرو دياب عمرو دياب مافيش تعليق ممكن يتكتب عن صوت الرومانسيه والحب عن امبراطور الغرام عن اسطورة العرب فى الغناء"
+archived = "2010-03-14"
+capture_url = ""
+
+[[comments]]
+order = 179
+subject = "ضع عنوان التعليق"
+author = "اكتب اسمك هنا"
+text = "من سمسم اهدي تحياتي لفنان الكبير عمرو دياب"
+archived = "2010-03-14"
+capture_url = ""
+
+[[comments]]
+order = 180
+subject = "بامتخلفين"
+author = "زملكاوي"
+text = "ايه التخلف دا<br />يعني مسحتم كل التعليقات اللي فاتت لـــــــــيه<br />عمودياب حاجة جنننننننننننننننننننننننننننننننننننننننان من غير ازاي وليه"
+archived = "2010-03-14"
+capture_url = ""
+
+[[comments]]
+order = 181
+subject = "عمرو عمك يا تامر"
+author = "حازم"
+text = "والله طول عمره كينج وهيفضل كينج غصب عن تامر واللى خلفوه مين تامر اللى لسه طالع اول امبارح ويقارن نفسه بالاسطورة عمرو دياب حاسب لا الكينج يدوسك برجله يا تامر"
+archived = "2010-03-14"
+capture_url = ""

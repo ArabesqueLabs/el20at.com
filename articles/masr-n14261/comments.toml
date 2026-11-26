@@ -2,6 +2,24 @@
 order = 0
 subject = "ياااه"
 author = "احمد عبد الله"
+posted = "2008-02-24"
+text = "يا ما ......... تحت الكباري فكت بلاوي"
+archived = "2010-03-14"
+capture_url = ""
+
+[[comments]]
+order = 1
+subject = "ياااه"
+author = "احمد عبد الله"
 text = "يا ما ......... تحت الكباري فكت بلاوي"
 archived = "2008-02-28"
 capture_url = "https://web.archive.org/web/20080228085008/http://masr.20at.com:80/newArticle.php?sid=14261"
+
+[[comments]]
+order = 2
+subject = "ضع عنوان التعليق"
+author = "اللى ماتتسماش"
+posted = "2008-04-03"
+text = "آى وونت ببّى"
+archived = "2010-03-14"
+capture_url = ""

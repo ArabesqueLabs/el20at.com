@@ -1,6 +1,6 @@
 [[comments]]
 order = 0
-subject = ""
+subject = "ضع عنوان التعليق"
 author = "اكتب اسمك هنا"
 posted = "1999-11-30"
 text = "رونالدينيو افضل لاعب في العلم على مر السنين"
@@ -9,7 +9,7 @@ capture_url = "https://web.archive.org/web/20090824203439/http://www.20at.com:80
 
 [[comments]]
 order = 1
-subject = ""
+subject = "ضع عنوان التعليق"
 author = "اكتب اسمك هنا"
 posted = "1999-11-30"
 text = "رونالدينيو هو خليفة ماردونا واحسن لاعب على وجه التاريخ"
@@ -18,7 +18,7 @@ capture_url = "https://web.archive.org/web/20090824203439/http://www.20at.com:80
 
 [[comments]]
 order = 2
-subject = ""
+subject = "الشابة"
 author = "سوسو"
 posted = "1999-11-30"
 text = "اناتنموت عليك يا احسن لاعب فالعالم"

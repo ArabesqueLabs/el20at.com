@@ -3,7 +3,7 @@ order = 0
 subject = ""
 author = "nour"
 posted = "2010-01-06"
-text = "styllish moooooooooooooo oooot"
+text = "styllish moooooooooooooooooot"
 archived = "2010-01-07"
 capture_url = "https://web.archive.org/web/20100107091556/http://www.20at.com:80/banat/health-and-beauty/beauty/14774--2010.html"
 
@@ -12,7 +12,7 @@ order = 1
 subject = ""
 author = "emy_egy"
 posted = "2010-01-06"
-text = "ana moshkelty eny 3reda men ta7t awy<br />so not everything can fit me although my wight is somehow ideal<br />but i think i had to loss some in this area …but i don't know how"
+text = "ana moshkelty eny 3reda men ta7t awy :-x :oops: so not everything can fit me although my wight is somehow ideal ;-) but i think i had to loss some in this area ......but i don't know how :sad: :cry:"
 archived = "2010-01-07"
 capture_url = "https://web.archive.org/web/20100107091556/http://www.20at.com:80/banat/health-and-beauty/beauty/14774--2010.html"
 
@@ -30,7 +30,7 @@ order = 3
 subject = ""
 author = "krkr"
 posted = "2010-01-07"
-text = "el labs w7shh awyyyy"
+text = "el labs w7shh awyyyy :eek:"
 archived = "2010-01-12"
 capture_url = "https://web.archive.org/web/20100112161907/http://www.20at.com:80/banat/health-and-beauty/beauty/14774--2010.html"
 
@@ -57,6 +57,15 @@ order = 6
 subject = ""
 author = "yomna-elmahdy@"
 posted = "2010-02-11"
-text = "البس وحش وكمان مش دة لبس البنت المحجبة لازم يكون واسع او عباية"
+text = "البس وحش وكمان مش دة لبس البنت المحجبة لازم يكون واسع او عباية :-?"
 archived = "2010-02-12"
 capture_url = "https://web.archive.org/web/20100212234959/http://www.20at.com:80/banat/health-and-beauty/beauty/14774--2010.html"
+
+[[comments]]
+order = 7
+subject = ""
+author = "سمسمة"
+posted = "2010-02-15"
+text = "شكلهم حلو :-) بس ده مش حجاب خالص :-*"
+archived = "2010-03-14"
+capture_url = ""

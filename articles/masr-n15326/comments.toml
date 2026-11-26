@@ -5,3 +5,12 @@ author = "samir"
 text = "أنا مش فاهم حاجه"
 archived = "2008-04-21"
 capture_url = "https://web.archive.org/web/20080421195100/http://masr.20at.com:80/newArticle.php?sid=15326"
+
+[[comments]]
+order = 1
+subject = "ضع عنوان التعليق"
+author = "samir"
+posted = "2008-04-21"
+text = "أنا مش فاهم حاجه"
+archived = "2010-03-14"
+capture_url = ""

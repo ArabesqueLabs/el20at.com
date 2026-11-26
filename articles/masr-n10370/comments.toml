@@ -2,6 +2,7 @@
 order = 0
 subject = "حلاق بغداد"
 author = "السيد"
+posted = "2007-05-24"
 text = "طيب الحلاق وعرفناة اما الشعر الاسود مين اللى بيصبغ الشعر للرؤساء الشباب فوق التمانين عاما"
 archived = "2007-06-06"
 capture_url = "https://web.archive.org/web/20070606065923/http://masr.20at.com:80/newArticle.php?sid=10370"
@@ -10,6 +11,7 @@ capture_url = "https://web.archive.org/web/20070606065923/http://masr.20at.com:8
 order = 1
 subject = "رحمك الله يا ناصر"
 author = "توتى"
+posted = "2007-06-07"
 text = "والله الواحد بقى يترحم بجد عى عبد الناصر و أيامه و مهما قيل عن التجاوزات و زوار الفجر فهو لعب عيال بجانب مايحدث الان ربى ارم ناصر و ارحمنا مما نحن فيه"
 archived = "2007-07-07"
 capture_url = "https://web.archive.org/web/20070707113758/http://masr.20at.com:80/newArticle.php?sid=10370"
@@ -18,19 +20,30 @@ capture_url = "https://web.archive.org/web/20070707113758/http://masr.20at.com:8
 order = 2
 subject = "مفروس"
 author = "مفروس"
+posted = "2007-06-14"
 text = "عرفنا حلاق الرئيس ... عايزين نعرف حلاق الست"
-archived = "2007-07-07"
-capture_url = "https://web.archive.org/web/20070707113758/http://masr.20at.com:80/newArticle.php?sid=10370"
+archived = "2010-03-14"
+capture_url = ""
 
 [[comments]]
 order = 3
 subject = "يا مروه عبد الفضيل"
+author = "اكتب اسمك هنا"
+posted = "2007-06-19"
 text = "الشطارة مش في حلاق جمال عبد الناصر ولا السادات<br />الشطارة في حلاق حسني مبارك<br />لو تقدري تعرفيهم وتعملي عنه ريبورتاج يبقى موضوع مهم جدا"
 archived = "2007-07-07"
 capture_url = "https://web.archive.org/web/20070707113758/http://masr.20at.com:80/newArticle.php?sid=10370"
 
 [[comments]]
 order = 4
+subject = "مفروس"
+author = "مفروس"
+text = "عرفنا حلاق الرئيس ... عايزين نعرف حلاق الست"
+archived = "2007-07-07"
+capture_url = "https://web.archive.org/web/20070707113758/http://masr.20at.com:80/newArticle.php?sid=10370"
+
+[[comments]]
+order = 5
 subject = "الف مليون رحمه تنزل عليك ياجمال عبد النصر وانور السدات"
 text = "انا مش عاوز اطول بس اقول فى جمله وحده هما كانو ثلاث عبد النصر والله يرحمه والسدات والله يرحمه وصدام وبرده الله يرحمه @@@@ يعنى الرجاله ماته الى كانه فى العرب كلاهم دول وبس والباقى دول شواية ر ا ب ش هههههههههههه صح صح يا رجاله هو الراجل طبعان هيكول فعلان كلامك صح يامان لكن الى يكول غير كدا يكون فعلان ابن ناس من الى وكلين البلاد فى بطنهم وبرده صح صح"
 archived = "2007-09-19"

@@ -3,6 +3,24 @@ order = 0
 subject = ""
 author = "ahmed"
 posted = "2009-11-05"
-text = "عقبال الكلاب الكبيرة"
+text = "عقبال الكلاب الكبيرة :cry: :-*"
 archived = "2009-11-08"
 capture_url = "https://web.archive.org/web/20091108191103/http://www.20at.com:80/20at/health/13922-2009-11-05-07-19-58.html"
+
+[[comments]]
+order = 1
+subject = ""
+author = "مجنون"
+posted = "2009-11-10"
+text = ":P حرررررررررررررررررام اش ذنب الكلاب"
+archived = "2010-03-14"
+capture_url = ""
+
+[[comments]]
+order = 2
+subject = ""
+author = "wesam"
+posted = "2009-12-02"
+text = "قطة ايه اللى عندها 13 سنة اااااااايه اتوبيس معدى المفروض تكون اتقتلت من 12 سنة اصلا بلا بتاع بأه :cry: :P :oops: يلا بلاباى"
+archived = "2010-03-14"
+capture_url = ""

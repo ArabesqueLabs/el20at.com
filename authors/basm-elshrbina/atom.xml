@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ar">
     <title>أرشيف عشرينات - basm-elshrbina</title>
-    <subtitle>أرشيف محتوى بوابة عشرينات (فبراير ٢٠٠٤ – مارس ٢٠١٠): ٩٠١٣ مقالًا استعدناها من أرشيف الإنترنت.</subtitle>
+    <subtitle>أرشيف محتوى بوابة عشرينات (فبراير ٢٠٠٤ – مارس ٢٠١٠): ١٥٦٠٠ مقال استعدناها من أرشيف الإنترنت.</subtitle>
     <link rel="self" type="application/atom+xml" href="https://el20at.com/authors/basm-elshrbina/atom.xml"/>
     <link rel="alternate" type="text/html" href="https://el20at.com"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
@@ -21,7 +21,8 @@
         <link rel="alternate" type="text/html" href="https://el20at.com/articles/20at-politics-9065/"/>
         <id>https://el20at.com/articles/20at-politics-9065/</id>
         
-        <content type="html" xml:base="https://el20at.com/articles/20at-politics-9065/">&lt;p&gt;الهوية: مصري مقيم في السودان&lt;/p&gt;
+        <content type="html" xml:base="https://el20at.com/articles/20at-politics-9065/">&lt;p&gt;يوميات يكتبها شاب مصري يعيش في الخرطوم، وكان شاهداً على أحداث أم درمان&lt;/p&gt;
+&lt;p&gt;الهوية: مصري مقيم في السودان&lt;/p&gt;
 &lt;p&gt;المكان: العاصمة الخرطوم&lt;/p&gt;
 &lt;p&gt;الزمان: السبت العاشر من مايو، الساعة السادسة صباحا..&lt;/p&gt;
 &lt;p&gt;ركبت سيارتي في اتجاهي إلى صالة الجيم Gym لأداء بعض التمارين الرياضية اليومية.. وعلى إذاعة الـbbc اسمع الخبر التالي: &quot;استنفار أمني بين قوات الجيش السوداني لاحتمالية هجوم من متمردي&lt;span class=&quot;ar-dead-link&quot; title=&quot;لم يحفظها الأرشيف&quot;&gt; حركة العدل والمساواة &lt;/span&gt; على العاصمة&quot;.&lt;/p&gt;

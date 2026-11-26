@@ -2,6 +2,7 @@
 order = 0
 subject = "محافظة سوزان"
 author = "خربوط"
+posted = "2008-04-20"
 text = "ما يسموها محافظة ماما سوزان<br />اسم انجليىزى وشيك<br />ماهى بقت عزبة لحاج"
 archived = "2008-04-21"
 capture_url = "https://web.archive.org/web/20080421195111/http://masr.20at.com:80/newArticle.php?sid=15342"
@@ -10,6 +11,7 @@ capture_url = "https://web.archive.org/web/20080421195111/http://masr.20at.com:8
 order = 1
 subject = "نستعطفك نسترحمك انت وعيلتك الواد وامة"
 author = "فؤاد خطاب"
+posted = "2008-04-21"
 text = "نظرا لان النعمة فاقت حدها<br />ولاننا مش قده<br />ولان فعلا انجازاتك<br />فوق طاقتنا نعدها<br />ولاننا غرقنا فى جمايل<br />مستحيل حنردها<br />نستحلفك نسترحمك<br />نستعطفك نستكركمك<br />ترحمنا من طلعة جنابك حبتين<br />عايزين نجرب خلقة تانية ولو يومين"
 archived = "2008-04-21"
 capture_url = "https://web.archive.org/web/20080421195111/http://masr.20at.com:80/newArticle.php?sid=15342"
@@ -18,6 +20,16 @@ capture_url = "https://web.archive.org/web/20080421195111/http://masr.20at.com:8
 order = 2
 subject = "انا حلوانى"
 author = "سكة سفر"
+posted = "2008-04-21"
 text = "طيب انا حلوانى بس المشكلة هنا فين مقر المحافظات الجديدة<br />وكمان الناس الى فى التجمع و بدر ومناطق الشمالية اللى انضمت<br />الى المحافظة لو ليهم مصالح فى المحافظة اكيد هيكون اسوء يوم فى حياتهم<br />لان بين حلوان واى مدينة جديدة سكة سفر(الله يكون فى عونهم)<br />تصحبكم السلامة"
 archived = "2008-04-21"
 capture_url = "https://web.archive.org/web/20080421195111/http://masr.20at.com:80/newArticle.php?sid=15342"
+
+[[comments]]
+order = 3
+subject = "ايه يعنى"
+author = "mohammad"
+posted = "2008-05-07"
+text = "ايه يعنى لما تبقي المافظات 29 يارب تكون 30 المهم كل محافظه توفر الرعايه والخدمات لمواطنيها"
+archived = "2010-03-14"
+capture_url = ""

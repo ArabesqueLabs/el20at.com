@@ -2,6 +2,7 @@
 order = 0
 subject = "زنقة كلمة مغربية ومعناها حارة"
 author = "ريا وسكينة"
+posted = "2008-03-15"
 text = "حارة الستات او زنقة الستات كانت سوق تعج بحريم وستات بحرى والناس الحلوة جيران سيدى المرسى ابوالعباس<br />وكنت تشوف فيها الجمال الاسكندرانى الاصيل بتاع بنات بحرى وكلمة ايوة ومن بحرى وبنحبوة<br />وكانت سوق مزدهرة وشافت ايام عز ايام سوق ليبيا والبضائع المستوردة اللى كانت بتيجى من ليبيا ايام الناصرية<br />انما ايام الفقر الوطنى<br />زى ما انت شايف الحارة خالية من المارة فى الصورة<br />كيلو الزيت ب 12 جنية<br />وشقة السندوتش فول ب 60 قرش<br />اللة يسد نفس اهلة زى ما سد نفس المصريين عن الحياة"
 archived = "2008-03-28"
 capture_url = "https://web.archive.org/web/20080328084753/http://masr.20at.com:80/newArticle.php?sid=14675"
@@ -10,6 +11,7 @@ capture_url = "https://web.archive.org/web/20080328084753/http://masr.20at.com:8
 order = 1
 subject = "ازيك يا رضوه"
 author = "فيفي الدلوعه"
+posted = "2008-03-16"
 text = "خلي بالك اسكندرية مليانا شقق من اللي بالي بالك<br />يا ليت تعمليلنا تحقيق عنها"
 archived = "2008-03-28"
 capture_url = "https://web.archive.org/web/20080328084753/http://masr.20at.com:80/newArticle.php?sid=14675"
@@ -18,14 +20,16 @@ capture_url = "https://web.archive.org/web/20080328084753/http://masr.20at.com:8
 order = 2
 subject = "مالك ومال الستات يا رضوه"
 author = "لولو"
+posted = "2008-03-16"
 text = "ايه يا رضوه مالك ومال الستات<br />ما تسبيهم في حالهم"
 archived = "2008-03-28"
 capture_url = "https://web.archive.org/web/20080328084753/http://masr.20at.com:80/newArticle.php?sid=14675"
 
 [[comments]]
 order = 3
-subject = "وعن الإحراج من أن تشترى سيدة ملابس نسائية خاصة جدا من رجل"
+subject = "وعن الإحراج من أن تشترى سيدة ملابس نسائية خاصة جدا"
 author = "سوسو"
+posted = "2008-03-16"
 text = "ملابس نسائية خاصة جدا ازاي يعني ممكن تفهموهاني لحسن انا لسة صغيره"
 archived = "2008-03-28"
 capture_url = "https://web.archive.org/web/20080328084753/http://masr.20at.com:80/newArticle.php?sid=14675"
@@ -34,6 +38,7 @@ capture_url = "https://web.archive.org/web/20080328084753/http://masr.20at.com:8
 order = 4
 subject = "وتم عمل مظلات للحماية من أشعة الشمس والأمطار"
 author = "اهبل"
+posted = "2008-03-16"
 text = "يعيش الحزب الوطني اللي حامينا من الشمس والمطر"
 archived = "2008-03-28"
 capture_url = "https://web.archive.org/web/20080328084753/http://masr.20at.com:80/newArticle.php?sid=14675"
@@ -42,46 +47,60 @@ capture_url = "https://web.archive.org/web/20080328084753/http://masr.20at.com:8
 order = 5
 subject = "يسر عبد الدايم +رضوه حسن/الإسكندرية"
 author = "فظيع"
+posted = "2008-03-16"
 text = "ممكن اعرف بأه انتو سافرتو اسكندرية مع بعض بصفتكم ايه بالضبط"
 archived = "2008-03-28"
 capture_url = "https://web.archive.org/web/20080328084753/http://masr.20at.com:80/newArticle.php?sid=14675"
 
 [[comments]]
 order = 6
-subject = "مرة واحد مجنون جه اتهجم على المحل بتاعنا ولولا إن كان معايا زميلي معرفش كان حصل ايه\"."
+subject = "مرة واحد مجنون جه اتهجم على المحل بتاعنا ولولا إن"
 author = "فاشل"
+posted = "2008-03-16"
 text = "يعني كان حيحصل ايه يعني<br />حيحصل اللي بيحصل مع كل الستات"
 archived = "2008-03-28"
 capture_url = "https://web.archive.org/web/20080328084753/http://masr.20at.com:80/newArticle.php?sid=14675"
 
 [[comments]]
 order = 7
-subject = "خُيل لنا عند دخول الزنقة أننا سنعاني كثيرا وقد يتم سرقتنا،"
+subject = "خُيل لنا عند دخول الزنقة أننا سنعاني كثيرا وقد يتم"
 author = "مخبر"
+posted = "2008-03-16"
 text = "حيسرقوا منكم ايه يا حصره<br />دا انتو تلاقيكوا سالفين فلوس المواصلات رايح جاي لغاية ما تقبضوا"
 archived = "2008-03-28"
 capture_url = "https://web.archive.org/web/20080328084753/http://masr.20at.com:80/newArticle.php?sid=14675"
 
 [[comments]]
 order = 8
-subject = "وبعد سنوات من وجود المغاربة ، قاموا ببيع محالهم إلى عدد من التجار اليهود الذين استمر وجودهم"
-author = "نظيف"
-text = "التاريخ يعيد نفسه"
-archived = "2008-03-28"
-capture_url = "https://web.archive.org/web/20080328084753/http://masr.20at.com:80/newArticle.php?sid=14675"
-
-[[comments]]
-order = 9
 subject = "بريا وسكينة أشهر ثنائي نسائي إجرامي عرفته مصر"
 author = "جيهان وسوزان"
+posted = "2008-03-16"
 text = "مين قالكوا كده<br />امال احنا الاثنين نروح فين يعني نروح نبيع ترمس بأه"
 archived = "2008-03-28"
 capture_url = "https://web.archive.org/web/20080328084753/http://masr.20at.com:80/newArticle.php?sid=14675"
 
 [[comments]]
-order = 10
-subject = "خليط من البضائع النسائية أو كما يقال من الإبرة للصاروخ"
+order = 9
+subject = "خليط من البضائع النسائية أو كما يقال من الإبرة للص"
 author = "فاهم"
+posted = "2008-03-16"
 text = "طيب الابرة وعرفناها<br />لكن ايه الصاروخ دا يعني عايزين نعرف بالمفتشر وايه علاقته بالستات"
+archived = "2008-03-28"
+capture_url = "https://web.archive.org/web/20080328084753/http://masr.20at.com:80/newArticle.php?sid=14675"
+
+[[comments]]
+order = 10
+subject = "وبعد سنوات من وجود المغاربة ، قاموا ببيع محالهم إل"
+author = "نظيف"
+posted = "2008-03-16"
+text = "التاريخ يعيد نفسه"
+archived = "2010-03-14"
+capture_url = ""
+
+[[comments]]
+order = 11
+subject = "وبعد سنوات من وجود المغاربة ، قاموا ببيع محالهم إلى عدد من التجار اليهود الذين استمر وجودهم"
+author = "نظيف"
+text = "التاريخ يعيد نفسه"
 archived = "2008-03-28"
 capture_url = "https://web.archive.org/web/20080328084753/http://masr.20at.com:80/newArticle.php?sid=14675"

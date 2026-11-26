@@ -9,15 +9,6 @@ capture_url = "https://web.archive.org/web/20061125171949/http://masr.20at.com:8
 
 [[comments]]
 order = 1
-subject = "امك واختك ومراتك وبنتك"
-author = "امك واختك ومراتك وبنتك"
-posted = "2006-11-23"
-text = "الله يخرب بيت امك وابوك عشان ماعرفوش يربوك,عموماسيب اللي عاوز يلبس الحجاب يلبسه وانت حر خلى امك واختك ومراتك وبنتك يمشوا عريانين ملط في الشارع"
-archived = "2006-11-25"
-capture_url = "https://web.archive.org/web/20061125171949/http://masr.20at.com:80/article.php?sid=1197"
-
-[[comments]]
-order = 2
 subject = "لنتناقش بتأدب"
 author = "واحد بيفكر"
 posted = "2006-11-23"
@@ -26,7 +17,7 @@ archived = "2006-11-25"
 capture_url = "https://web.archive.org/web/20061125171949/http://masr.20at.com:80/article.php?sid=1197"
 
 [[comments]]
-order = 3
+order = 2
 subject = "الى ولاد البلد"
 author = "مطلوب فوري"
 posted = "2006-11-23"
@@ -35,16 +26,7 @@ archived = "2006-11-25"
 capture_url = "https://web.archive.org/web/20061125171949/http://masr.20at.com:80/article.php?sid=1197"
 
 [[comments]]
-order = 4
-subject = "الى ولاد البلد (اصحاب البلد)"
-author = "أرسل هذا التعليق بواسطة : مطلوب فوري"
-posted = "2006-11-23"
-text = "جمال البنا دا انا شفت ليه حديث صحفي في موقع (الكلاب متحدون) متاسف اقصد الاقباط متحدون وفضل يشكك في الاسلام ويطعن فيه وكأنه مسيحي واتذكر انه قال ان القرأن ليس معجزه.<br />وعلشان الاقباط بيقولوا انهم هما (((ولاد البلد))) فجايبين هذا التحقيق الفاشل زيهم علشان يعملوا بيه فتنة ويخلوا المعلقين (المسلمين) يشتموا ويسبوا ويلعنوا وهما فرحانين انهم خلوا المسلمين يشتموا ويسبوا ويلعنوا وانا ارد عليهم بآية قرأنية.<br />(ان الذين يحبون ان تشيع الفاحشة في الذين امنو لهم عذاب اليم في الدنيا والاخرة)<br />(ان الذين يحبون ان تشيع الفاحشة في الذين امنو لهم عذاب اليم في الدنيا والاخرة)<br />(ان الذين يحبون ان تشيع الفاحشة في الذين امنو لهم عذاب اليم في الدنيا والاخرة)<br />يا مسلمين ما تسبوش وتشتموا لان فيه ناس وسخة بتتفرج على تعليقاتكم وتضحك عليكم"
-archived = "2006-11-25"
-capture_url = "https://web.archive.org/web/20061125171949/http://masr.20at.com:80/article.php?sid=1197"
-
-[[comments]]
-order = 5
+order = 3
 subject = "بصو في الصورة كويس"
 author = "الصورة دي انا فاكرها كويس دول مسلمات من البوسنه والهرسك وانا فاكر الصورة دي من ايام المجازر اللي حصلت للمسلمين هناك وزي ما انتم شايفين في الصورة صورة نساء حائرات منكسرات والحجاب غير ثابت على رؤوسهن كما ترون والصورة دي متعمده وهي توحي بالحالة التي يمر بها العالم الاسلامي الان في ظل الهيمنة الامريكية."
 posted = "2006-11-23"
@@ -53,7 +35,7 @@ archived = "2006-11-25"
 capture_url = "https://web.archive.org/web/20061125171949/http://masr.20at.com:80/article.php?sid=1197"
 
 [[comments]]
-order = 6
+order = 4
 subject = "إلي جهنم بإذن الله"
 author = "عماد أبو عز"
 posted = "2006-11-23"
@@ -62,7 +44,7 @@ archived = "2006-11-25"
 capture_url = "https://web.archive.org/web/20061125171949/http://masr.20at.com:80/article.php?sid=1197"
 
 [[comments]]
-order = 7
+order = 5
 subject = "إلي جدو البنا"
 author = "عماد أبو عز"
 posted = "2006-11-23"
@@ -71,7 +53,7 @@ archived = "2006-11-25"
 capture_url = "https://web.archive.org/web/20061125171949/http://masr.20at.com:80/article.php?sid=1197"
 
 [[comments]]
-order = 8
+order = 6
 subject = "انسان قذر"
 author = "فارس _fr"
 posted = "2006-11-23"
@@ -80,7 +62,7 @@ archived = "2006-11-25"
 capture_url = "https://web.archive.org/web/20061125171949/http://masr.20at.com:80/article.php?sid=1197"
 
 [[comments]]
-order = 9
+order = 7
 subject = "إيه رأيكم يا سامعين في الشيخ كباب كفته الأمين"
 author = "إبن بهية"
 posted = "2006-11-23"
@@ -89,7 +71,7 @@ archived = "2006-11-25"
 capture_url = "https://web.archive.org/web/20061125171949/http://masr.20at.com:80/article.php?sid=1197"
 
 [[comments]]
-order = 10
+order = 8
 subject = "رد على رقعة/"
 author = "رقعة بتقول"
 posted = "2006-11-23"
@@ -98,7 +80,7 @@ archived = "2006-11-25"
 capture_url = "https://web.archive.org/web/20061125171949/http://masr.20at.com:80/article.php?sid=1197"
 
 [[comments]]
-order = 11
+order = 9
 subject = "من حجاب مصر الى حجاب تونس"
 author = "يا ايها الذين امنوا اصبروا وصابروا وصابروا"
 posted = "2006-11-23"
@@ -107,7 +89,7 @@ archived = "2006-11-25"
 capture_url = "https://web.archive.org/web/20061125171949/http://masr.20at.com:80/article.php?sid=1197"
 
 [[comments]]
-order = 12
+order = 10
 subject = "الى الجاهل الجهيل المجهول"
 author = "انسان"
 posted = "2006-11-23"
@@ -116,7 +98,7 @@ archived = "2006-11-25"
 capture_url = "https://web.archive.org/web/20061125171949/http://masr.20at.com:80/article.php?sid=1197"
 
 [[comments]]
-order = 13
+order = 11
 subject = "هذا هو الرد"
 author = "انسان"
 posted = "2006-11-23"
@@ -125,7 +107,7 @@ archived = "2006-11-25"
 capture_url = "https://web.archive.org/web/20061125171949/http://masr.20at.com:80/article.php?sid=1197"
 
 [[comments]]
-order = 14
+order = 12
 subject = "الهم انتقم من جمال البنا الهم ارنا فيه يوم أسود"
 author = "غاده فتوح"
 posted = "2006-11-23"
@@ -134,7 +116,7 @@ archived = "2006-11-25"
 capture_url = "https://web.archive.org/web/20061125171949/http://masr.20at.com:80/article.php?sid=1197"
 
 [[comments]]
-order = 15
+order = 13
 subject = "مصر العزيزة لي وطن"
 author = "رموززززززززززززززززززززز"
 posted = "2006-11-23"
@@ -143,7 +125,7 @@ archived = "2006-11-25"
 capture_url = "https://web.archive.org/web/20061125171949/http://masr.20at.com:80/article.php?sid=1197"
 
 [[comments]]
-order = 16
+order = 14
 subject = "مصر العزيزة لي وطن"
 author = "رموزززززززززززززززز"
 posted = "2006-11-23"
@@ -152,7 +134,7 @@ archived = "2006-11-25"
 capture_url = "https://web.archive.org/web/20061125171949/http://masr.20at.com:80/article.php?sid=1197"
 
 [[comments]]
-order = 17
+order = 15
 subject = "شتيمه وبس"
 author = "واحد بيفكر"
 posted = "2006-11-23"
@@ -161,7 +143,7 @@ archived = "2006-11-25"
 capture_url = "https://web.archive.org/web/20061125171949/http://masr.20at.com:80/article.php?sid=1197"
 
 [[comments]]
-order = 18
+order = 16
 subject = "الى واحد بيفكر"
 author = "انسان"
 posted = "2006-11-23"
@@ -170,7 +152,7 @@ archived = "2006-11-25"
 capture_url = "https://web.archive.org/web/20061125171949/http://masr.20at.com:80/article.php?sid=1197"
 
 [[comments]]
-order = 19
+order = 17
 subject = "القافلة تسير والكلا..........."
 author = "أنا عربي"
 posted = "2006-11-23"
@@ -179,7 +161,7 @@ archived = "2006-11-25"
 capture_url = "https://web.archive.org/web/20061125171949/http://masr.20at.com:80/article.php?sid=1197"
 
 [[comments]]
-order = 20
+order = 18
 subject = "الحجاب معروف من الدين بالضروره مثل الصلاه"
 author = "ناصر الاسلام"
 posted = "2006-11-23"
@@ -188,7 +170,7 @@ archived = "2006-11-25"
 capture_url = "https://web.archive.org/web/20061125171949/http://masr.20at.com:80/article.php?sid=1197"
 
 [[comments]]
-order = 21
+order = 19
 subject = "اغاية الدين ان تحلقوا شواربكم"
 author = "يا سلام علي المسلمين لاشاوس"
 posted = "2006-11-23"
@@ -197,7 +179,7 @@ archived = "2006-11-25"
 capture_url = "https://web.archive.org/web/20061125171949/http://masr.20at.com:80/article.php?sid=1197"
 
 [[comments]]
-order = 22
+order = 20
 subject = "شكرا ناصر الإسلام"
 author = "واحد بيفكر"
 posted = "2006-11-23"
@@ -206,7 +188,7 @@ archived = "2006-11-25"
 capture_url = "https://web.archive.org/web/20061125171949/http://masr.20at.com:80/article.php?sid=1197"
 
 [[comments]]
-order = 23
+order = 21
 subject = "الموت للسعودية"
 author = "مصرى للابد"
 posted = "2006-11-23"
@@ -215,7 +197,7 @@ archived = "2006-11-25"
 capture_url = "https://web.archive.org/web/20061125171949/http://masr.20at.com:80/article.php?sid=1197"
 
 [[comments]]
-order = 24
+order = 22
 subject = "الى الحيوان اللي فوق"
 author = "عليك لعنة المسيح عليك لعنة المسيح"
 posted = "2006-11-23"
@@ -224,7 +206,7 @@ archived = "2006-11-25"
 capture_url = "https://web.archive.org/web/20061125171949/http://masr.20at.com:80/article.php?sid=1197"
 
 [[comments]]
-order = 25
+order = 23
 subject = "منك لله يا جمال"
 author = "ام محمد"
 posted = "2006-11-23"
@@ -233,7 +215,7 @@ archived = "2006-11-25"
 capture_url = "https://web.archive.org/web/20061125171949/http://masr.20at.com:80/article.php?sid=1197"
 
 [[comments]]
-order = 26
+order = 24
 subject = "طارق الوزير"
 author = "tark alwzer@yahoo.com"
 posted = "2006-11-24"
@@ -242,7 +224,7 @@ archived = "2006-11-25"
 capture_url = "https://web.archive.org/web/20061125171949/http://masr.20at.com:80/article.php?sid=1197"
 
 [[comments]]
-order = 27
+order = 25
 subject = "بالراحة بس..."
 author = "علي"
 posted = "2006-11-24"
@@ -251,7 +233,7 @@ archived = "2006-11-25"
 capture_url = "https://web.archive.org/web/20061125171949/http://masr.20at.com:80/article.php?sid=1197"
 
 [[comments]]
-order = 28
+order = 26
 subject = "هداكم الله"
 author = "محمدأغا"
 posted = "2006-11-24"
@@ -260,16 +242,7 @@ archived = "2006-11-25"
 capture_url = "https://web.archive.org/web/20061125171949/http://masr.20at.com:80/article.php?sid=1197"
 
 [[comments]]
-order = 29
-subject = "زهقتني"
-author = "طهقان"
-posted = "2006-11-24"
-text = "الله يخرب بيت امك وابوك عشان ماعرفوش يربوك,عموماسيب اللي عاوز يلبس الحجاب يلبسه وانت حر خلى امك واختك ومراتك وبنتك يمشوا عريانين ملط في الشارع"
-archived = "2006-11-25"
-capture_url = "https://web.archive.org/web/20061125171949/http://masr.20at.com:80/article.php?sid=1197"
-
-[[comments]]
-order = 30
+order = 27
 subject = "هاد الي فالحين في"
 author = "يعني موضوع انكتب تاني يوم ما شاء الله على التعليقات شو كتيرة... بس باقي المواضيع السياسية الحمد لله ما حدا بدخلها و لا بعلق عليها غير واحد و لا تنين... يعني هاد الموضوع زهقنا من كتر الحكي في و بصراحة مش شايفةانو في لازمة لكل هالحكي .. يعني بجد صرت احس انو فعلا الدين افيون الشعوب... اذا بدك تلهي الناس عن القضايا الكبيرة اشغلهم بالدين مرة قبطي و مسلم و بعدين شيعي و سني و محجبةو سافرة و ملتحي ولا لا و اللحية لازم طويلةو لا قصيرة.. بكفي و شفولكم موضوع اهم تحكو في .... مهو الحجاب منتشر هلا اكتر من اي وقت و الي بدو يتحجب ما حدا مانعو لشو هالضجة الي ما الها معنى... الزلمة عندو وجهة نظر تانية هو حر.. ما تسمعلوش و خلصونا"
 posted = "2006-11-24"
@@ -278,7 +251,7 @@ archived = "2006-11-25"
 capture_url = "https://web.archive.org/web/20061125171949/http://masr.20at.com:80/article.php?sid=1197"
 
 [[comments]]
-order = 31
+order = 28
 subject = "الوزير"
 author = "hghff"
 posted = "2006-11-25"
@@ -287,7 +260,7 @@ archived = "2006-11-25"
 capture_url = "https://web.archive.org/web/20061125171949/http://masr.20at.com:80/article.php?sid=1197"
 
 [[comments]]
-order = 32
+order = 29
 subject = "مرة ثانية الموت للسعودية الوهابية"
 author = "مصرى للابد"
 posted = "2006-11-25"
@@ -296,7 +269,7 @@ archived = "2006-11-25"
 capture_url = "https://web.archive.org/web/20061125171949/http://masr.20at.com:80/article.php?sid=1197"
 
 [[comments]]
-order = 33
+order = 30
 subject = "الرد آية"
 author = "سم سم"
 posted = "2006-11-25"

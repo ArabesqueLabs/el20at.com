@@ -12,7 +12,7 @@ order = 1
 subject = ""
 author = "ام سارة"
 posted = "2010-02-09"
-text = "هذه صورة لباذنجان و ليس طبق فتة الشاورما<br />و مع ذلك ساجرب الطريقة ان شاء الله فهى تبدو لذيذة."
+text = "هذه صورة لباذنجان و ليس طبق فتة الشاورما :lol: و مع ذلك ساجرب الطريقة ان شاء الله فهى تبدو لذيذة."
 archived = "2010-03-13"
 capture_url = "https://web.archive.org/web/20100313173902/http://www.20at.com:80/banat/kitchen/15193-2010-02-03-14-16-59.html"
 
@@ -21,6 +21,15 @@ order = 2
 subject = ""
 author = "eldam3a el7azena"
 posted = "2010-02-18"
-text = "هجربها وعلي ضمانتك لاني بحب الحاجات الغريبه"
+text = "هجربها وعلي ضمانتك لاني بحب الحاجات الغريبه<br />:-* :lol: :-*"
 archived = "2010-03-13"
 capture_url = "https://web.archive.org/web/20100313173902/http://www.20at.com:80/banat/kitchen/15193-2010-02-03-14-16-59.html"
+
+[[comments]]
+order = 3
+subject = ""
+author = "RosHi"
+posted = "2010-02-27"
+text = "gamda gdnnn bgd ,, al tagroba sooooooon :-)"
+archived = "2010-03-14"
+capture_url = ""

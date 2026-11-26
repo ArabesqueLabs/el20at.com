@@ -2,6 +2,15 @@
 order = 0
 subject = "يا فرحتي"
 author = "الدويقة"
+posted = "2008-10-20"
+text = "للمرة الرابعة الأهلي في نهائي أفريقيا"
+archived = "2010-03-14"
+capture_url = ""
+
+[[comments]]
+order = 1
+subject = "يا فرحتي"
+author = "الدويقة"
 text = "للمرة الرابعة الأهلي في نهائي أفريقيا"
 archived = "2008-10-22"
 capture_url = "https://web.archive.org/web/20081022002953/http://masr.20at.com:80/newArticle.php?sid=17953"

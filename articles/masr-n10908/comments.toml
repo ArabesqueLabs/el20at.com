@@ -2,6 +2,7 @@
 order = 0
 subject = "سمعت الموضوع دا قبل كدا"
 author = "barbie girl"
+posted = "2007-07-04"
 text = "انا لسة سامعة حجاية ال دى جى البنت دا من اختى وبرده فضلت مذبهلة شوية كدا<br />بس دا طلع حقيقة اهو"
 archived = "2007-08-19"
 capture_url = "https://web.archive.org/web/20070819202043/http://masr.20at.com:80/newArticle.php?sid=10908"
@@ -10,6 +11,7 @@ capture_url = "https://web.archive.org/web/20070819202043/http://masr.20at.com:8
 order = 1
 subject = "يعنى إيه"
 author = "زنوبه"
+posted = "2007-07-04"
 text = "مش فاهمه !! يعنى بيبقى فيه مزيكا وآغانى ورقص داخل المسجد ! طيب مش ده يبقى حرام!!!"
 archived = "2007-08-19"
 capture_url = "https://web.archive.org/web/20070819202043/http://masr.20at.com:80/newArticle.php?sid=10908"

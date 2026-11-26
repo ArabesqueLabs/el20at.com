@@ -1507,3 +1507,11 @@ author = "احمد"
 text = "تخلف"
 archived = "2007-09-28"
 capture_url = "https://web.archive.org/web/20070928082759/http://www.20at.com/newArticle.php?sid=1689"
+
+[[comments]]
+order = 168
+subject = "لاادري؟؟؟؟"
+author = "احمد"
+text = "تخلف"
+archived = "2010-03-14"
+capture_url = ""

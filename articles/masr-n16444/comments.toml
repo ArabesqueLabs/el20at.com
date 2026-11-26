@@ -1,5 +1,32 @@
 [[comments]]
 order = 0
+subject = "يارب ارحمنا منهم بقا وارنا فيهم يوما اسودا"
+author = "واحد من الناس"
+posted = "2008-06-25"
+text = "تفاهة سطحية انا بصراحة مش عارف اقول اية ومش عارف الناس دية هتقابل ربنا تقول اية حسبنا اللة ونعم الوكيل"
+archived = "2008-06-26"
+capture_url = "https://web.archive.org/web/20080626152652/http://masr.20at.com:80/newArticle.php?sid=16444"
+
+[[comments]]
+order = 1
+subject = "اولمرت يحادث اولمرت"
+author = "ة"
+posted = "2008-06-25"
+text = "اتفو"
+archived = "2010-03-14"
+capture_url = ""
+
+[[comments]]
+order = 2
+subject = "ضع عنوان التعليق"
+author = "emad hamdy"
+posted = "2008-06-25"
+text = "يقال ان الكيلوت بتاعة علية علم اسرائيل"
+archived = "2010-03-14"
+capture_url = ""
+
+[[comments]]
+order = 3
 subject = "اولمرت يحادث اولمرت"
 author = "ة"
 text = "اتفو"
@@ -7,15 +34,7 @@ archived = "2008-06-26"
 capture_url = "https://web.archive.org/web/20080626152652/http://masr.20at.com:80/newArticle.php?sid=16444"
 
 [[comments]]
-order = 1
-subject = "يارب ارحمنا منهم بقا وارنا فيهم يوما اسودا"
-author = "واحد من الناس"
-text = "تفاهة سطحية انا بصراحة مش عارف اقول اية ومش عارف الناس دية هتقابل ربنا تقول اية حسبنا اللة ونعم الوكيل"
-archived = "2008-06-26"
-capture_url = "https://web.archive.org/web/20080626152652/http://masr.20at.com:80/newArticle.php?sid=16444"
-
-[[comments]]
-order = 2
+order = 4
 subject = "ضع عنوان التعليق"
 author = "emad hamdy"
 text = "يقال ان الكيلوت بتاعة علية علم اسرائيل"
@@ -23,17 +42,19 @@ archived = "2008-06-26"
 capture_url = "https://web.archive.org/web/20080626152652/http://masr.20at.com:80/newArticle.php?sid=16444"
 
 [[comments]]
-order = 3
+order = 5
 subject = "بصو في الصورة كويس"
 author = "مش لازم"
+posted = "2008-06-26"
 text = "ايد حسني مبارك ممدوده اكتر<br />لكن ايد اولمرت ممدوده حته صغيره<br />وخلي بالكم الامور دي مهمة جدا بالنسبة لاسرائيل والصورة دي مدبره"
 archived = "2008-06-26"
 capture_url = "https://web.archive.org/web/20080626152652/http://masr.20at.com:80/newArticle.php?sid=16444"
 
 [[comments]]
-order = 4
-subject = "المباحثات تتناول كيفية رفاهية المواطن الاسرائيلى بمدة بالغاز المجانى والبترول واسمنت سيناء وماء النيل"
+order = 6
+subject = "المباحثات تتناول كيفية رفاهية المواطن الاسرائيلى ب"
 author = "ابو خشبة"
+posted = "2008-06-27"
 text = "كما جرى بحث امكانية تجنيد 5 مصريين لكل اسرائيلى يخدموة ويمسحوا خراة ويشتغلوا عبيد عندة فى البيت<br />مباحثات فى اية<br />ماهو بيعمل مباحثات من 27 سنة واية النتيجة - اتحررت القدس<br />لا شىء<br />كلة كلام فى الطراوة<br />وفود جاية ووفود رايحة<br />وبوش فى الشرم<br />وبلير فى الشرم<br />لغاية ما انا خايف لا الشرم يتشرم"
 archived = "2008-07-01"
 capture_url = "https://web.archive.org/web/20080701201045/http://masr.20at.com:80/newArticle.php?sid=16444"

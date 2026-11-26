@@ -53,3 +53,11 @@ subject = "استفسار"
 text = "بالصدفة انا مطلوب مني تقرير عن نفس الموضوع بس انا عاوز أعرف بالنسبة لتحليل النظم الموضوع هذا تابع لأي نموذج في التحليل هل هو تابع( لنموذج الشلال water fall modell) أو( للنموذج التجريبي prototype modell) وسبب استخدام النموذج<br />بكون شكرلك كثير اذا بتجاوبني عليه"
 archived = "2004-10-25"
 capture_url = "https://web.archive.org/web/20041025164143/http://www.20at.com:80/article.php?sid=217"
+
+[[comments]]
+order = 8
+subject = "كلام سليم"
+author = "محمد"
+text = "بصراحة أنا استفدت كتير من الكلام ده<br />مشكورين"
+archived = "2010-03-14"
+capture_url = ""

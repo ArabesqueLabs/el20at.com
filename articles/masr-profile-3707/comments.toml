@@ -27,15 +27,6 @@ capture_url = "https://web.archive.org/web/20060524210655/http://masr.20at.com:8
 
 [[comments]]
 order = 3
-subject = "انا زههههقت منه"
-author = "عبده واللى يعرف يعمله معايا يمله"
-posted = "2006-04-02"
-text = "بصراحه انا زهقت من الراجل ده قوى قوى قوى قوى قوى قوى قوى ههه بس بقى"
-archived = "2006-05-24"
-capture_url = "https://web.archive.org/web/20060524210655/http://masr.20at.com:80/article.php?sid=84&PHPSESSID=fa67b88393d9d5e656ddd51a44f821d0"
-
-[[comments]]
-order = 4
 subject = "قشطه يابا ... دا اسم فيلم و لا منتج زبده !!"
 author = "sweet_princess"
 posted = "2006-04-03"
@@ -44,7 +35,7 @@ archived = "2006-05-24"
 capture_url = "https://web.archive.org/web/20060524210655/http://masr.20at.com:80/article.php?sid=84&PHPSESSID=fa67b88393d9d5e656ddd51a44f821d0"
 
 [[comments]]
-order = 5
+order = 4
 subject = "موضوع ممل"
 author = "ملل"
 posted = "2006-04-03"
@@ -53,7 +44,7 @@ archived = "2006-05-24"
 capture_url = "https://web.archive.org/web/20060524210655/http://masr.20at.com:80/article.php?sid=84&PHPSESSID=fa67b88393d9d5e656ddd51a44f821d0"
 
 [[comments]]
-order = 6
+order = 5
 subject = "جتكم خيبة"
 author = "اقوي من الايام"
 posted = "2006-04-16"
@@ -62,7 +53,7 @@ archived = "2006-05-24"
 capture_url = "https://web.archive.org/web/20060524210655/http://masr.20at.com:80/article.php?sid=84&PHPSESSID=fa67b88393d9d5e656ddd51a44f821d0"
 
 [[comments]]
-order = 7
+order = 6
 subject = "قولوا الحــق"
 author = "واحد"
 posted = "2006-04-18"
@@ -71,7 +62,7 @@ archived = "2006-05-24"
 capture_url = "https://web.archive.org/web/20060524210655/http://masr.20at.com:80/article.php?sid=84&PHPSESSID=fa67b88393d9d5e656ddd51a44f821d0"
 
 [[comments]]
-order = 8
+order = 7
 subject = "مصطفى كامل"
 author = "محمد حمودة"
 posted = "2006-04-24"
@@ -80,7 +71,7 @@ archived = "2006-05-24"
 capture_url = "https://web.archive.org/web/20060524210655/http://masr.20at.com:80/article.php?sid=84&PHPSESSID=fa67b88393d9d5e656ddd51a44f821d0"
 
 [[comments]]
-order = 9
+order = 8
 subject = "يا ابن الحلوة الزاكية"
 author = "ربحي حمودة"
 posted = "2006-04-24"
@@ -89,7 +80,7 @@ archived = "2006-05-24"
 capture_url = "https://web.archive.org/web/20060524210655/http://masr.20at.com:80/article.php?sid=84&PHPSESSID=fa67b88393d9d5e656ddd51a44f821d0"
 
 [[comments]]
-order = 10
+order = 9
 subject = "حقودين"
 author = "e_karawia2"
 posted = "2006-05-07"
@@ -98,7 +89,7 @@ archived = "2006-05-24"
 capture_url = "https://web.archive.org/web/20060524210655/http://masr.20at.com:80/article.php?sid=84&PHPSESSID=fa67b88393d9d5e656ddd51a44f821d0"
 
 [[comments]]
-order = 11
+order = 10
 subject = "امير العذاب"
 author = "محمد"
 posted = "2006-05-26"
@@ -107,7 +98,7 @@ archived = "2006-09-06"
 capture_url = "https://web.archive.org/web/20060906100915/http://masr.20at.com:80/article.php?sid=84&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
 
 [[comments]]
-order = 12
+order = 11
 subject = "امير العذاب"
 author = "محمد"
 posted = "2006-05-26"
@@ -116,7 +107,7 @@ archived = "2006-09-06"
 capture_url = "https://web.archive.org/web/20060906100915/http://masr.20at.com:80/article.php?sid=84&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
 
 [[comments]]
-order = 13
+order = 12
 subject = "حب"
 author = "لطوفة لطفي"
 posted = "2006-05-26"
@@ -125,7 +116,7 @@ archived = "2006-09-06"
 capture_url = "https://web.archive.org/web/20060906100915/http://masr.20at.com:80/article.php?sid=84&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
 
 [[comments]]
-order = 14
+order = 13
 subject = "الفنان فنان طول عمره"
 author = "محمود عزت"
 posted = "2006-05-30"
@@ -134,7 +125,7 @@ archived = "2006-09-06"
 capture_url = "https://web.archive.org/web/20060906100915/http://masr.20at.com:80/article.php?sid=84&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
 
 [[comments]]
-order = 15
+order = 14
 subject = "امير العذاب"
 author = "اسلام فوزي"
 posted = "2006-06-15"
@@ -143,7 +134,7 @@ archived = "2006-09-06"
 capture_url = "https://web.archive.org/web/20060906100915/http://masr.20at.com:80/article.php?sid=84&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
 
 [[comments]]
-order = 16
+order = 15
 subject = "قشطه يا مان"
 author = "محمود عزت"
 posted = "2006-06-16"
@@ -152,7 +143,7 @@ archived = "2006-09-06"
 capture_url = "https://web.archive.org/web/20060906100915/http://masr.20at.com:80/article.php?sid=84&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
 
 [[comments]]
-order = 17
+order = 16
 subject = "الامير الحزين"
 author = "خالد فلسطين"
 posted = "2006-06-26"
@@ -161,7 +152,7 @@ archived = "2006-09-06"
 capture_url = "https://web.archive.org/web/20060906100915/http://masr.20at.com:80/article.php?sid=84&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
 
 [[comments]]
-order = 18
+order = 17
 subject = "مصطفي كامل ملك الاحزان"
 author = "احمد ابراهيم"
 posted = "2006-06-27"
@@ -170,7 +161,7 @@ archived = "2006-09-06"
 capture_url = "https://web.archive.org/web/20060906100915/http://masr.20at.com:80/article.php?sid=84&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
 
 [[comments]]
-order = 19
+order = 18
 subject = "مصطفى كامل"
 author = "mad man"
 posted = "2006-06-30"
@@ -179,7 +170,7 @@ archived = "2006-09-06"
 capture_url = "https://web.archive.org/web/20060906100915/http://masr.20at.com:80/article.php?sid=84&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
 
 [[comments]]
-order = 20
+order = 19
 subject = "ملك الحزن"
 author = "رورو"
 posted = "2006-07-01"
@@ -188,7 +179,7 @@ archived = "2006-09-06"
 capture_url = "https://web.archive.org/web/20060906100915/http://masr.20at.com:80/article.php?sid=84&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
 
 [[comments]]
-order = 21
+order = 20
 subject = "امير الحزن"
 author = "رورو"
 posted = "2006-07-01"
@@ -197,7 +188,7 @@ archived = "2006-09-06"
 capture_url = "https://web.archive.org/web/20060906100915/http://masr.20at.com:80/article.php?sid=84&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
 
 [[comments]]
-order = 22
+order = 21
 subject = "كفايا حقد وكره"
 author = "S.E.M.K عاشقةM.K"
 posted = "2006-07-03"
@@ -206,7 +197,7 @@ archived = "2006-09-06"
 capture_url = "https://web.archive.org/web/20060906100915/http://masr.20at.com:80/article.php?sid=84&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
 
 [[comments]]
-order = 23
+order = 22
 subject = "احلى مطرب فى العالم كله"
 author = "اميره الاحزان"
 posted = "2006-07-08"
@@ -215,7 +206,7 @@ archived = "2006-09-06"
 capture_url = "https://web.archive.org/web/20060906100915/http://masr.20at.com:80/article.php?sid=84&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
 
 [[comments]]
-order = 24
+order = 23
 subject = "هههههههههههههههههه"
 author = "كس ام الي بكره مصطفى كامل"
 posted = "2006-07-09"
@@ -224,7 +215,7 @@ archived = "2006-09-06"
 capture_url = "https://web.archive.org/web/20060906100915/http://masr.20at.com:80/article.php?sid=84&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
 
 [[comments]]
-order = 25
+order = 24
 subject = "أحلى مصطفي"
 author = "فلسطينية"
 posted = "2006-07-11"
@@ -233,7 +224,7 @@ archived = "2006-09-06"
 capture_url = "https://web.archive.org/web/20060906100915/http://masr.20at.com:80/article.php?sid=84&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
 
 [[comments]]
-order = 26
+order = 25
 subject = "سندباد الاحزان"
 author = "وحيد"
 posted = "2006-07-14"
@@ -242,7 +233,7 @@ archived = "2006-09-06"
 capture_url = "https://web.archive.org/web/20060906100915/http://masr.20at.com:80/article.php?sid=84&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
 
 [[comments]]
-order = 27
+order = 26
 subject = "عتاب للمتناكين"
 author = "أمير العذاب"
 posted = "2006-07-18"
@@ -251,7 +242,7 @@ archived = "2006-09-06"
 capture_url = "https://web.archive.org/web/20060906100915/http://masr.20at.com:80/article.php?sid=84&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
 
 [[comments]]
-order = 28
+order = 27
 subject = "امير العذاب"
 author = "lOuRd"
 posted = "2006-07-18"
@@ -260,7 +251,7 @@ archived = "2006-09-06"
 capture_url = "https://web.archive.org/web/20060906100915/http://masr.20at.com:80/article.php?sid=84&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
 
 [[comments]]
-order = 29
+order = 28
 subject = "انا صريح"
 author = "مؤدب"
 posted = "2006-07-21"
@@ -269,7 +260,7 @@ archived = "2006-09-06"
 capture_url = "https://web.archive.org/web/20060906100915/http://masr.20at.com:80/article.php?sid=84&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
 
 [[comments]]
-order = 30
+order = 29
 subject = "ياريت تقولو الحقيقه لو عندكم ضمير"
 author = "العقرب الاحمر"
 posted = "2006-07-24"
@@ -278,7 +269,7 @@ archived = "2006-09-06"
 capture_url = "https://web.archive.org/web/20060906100915/http://masr.20at.com:80/article.php?sid=84&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
 
 [[comments]]
-order = 31
+order = 30
 subject = "امير العذاب"
 author = "محمد مصطفى"
 posted = "2006-07-31"
@@ -287,7 +278,7 @@ archived = "2006-09-06"
 capture_url = "https://web.archive.org/web/20060906100915/http://masr.20at.com:80/article.php?sid=84&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
 
 [[comments]]
-order = 32
+order = 31
 subject = "مصطفى كامل وبس"
 author = "علوووووووووووووووش"
 posted = "2006-08-07"
@@ -296,7 +287,7 @@ archived = "2006-09-06"
 capture_url = "https://web.archive.org/web/20060906100915/http://masr.20at.com:80/article.php?sid=84&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
 
 [[comments]]
-order = 33
+order = 32
 subject = "حبيبي مصطفي كامل"
 author = "ميدو"
 posted = "2006-08-07"
@@ -305,7 +296,7 @@ archived = "2006-09-06"
 capture_url = "https://web.archive.org/web/20060906100915/http://masr.20at.com:80/article.php?sid=84&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
 
 [[comments]]
-order = 34
+order = 33
 subject = "مصطفي كامل فنان بكل الألوان"
 author = "الطائر الحزين"
 posted = "2006-08-11"
@@ -314,7 +305,7 @@ archived = "2006-09-06"
 capture_url = "https://web.archive.org/web/20060906100915/http://masr.20at.com:80/article.php?sid=84&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
 
 [[comments]]
-order = 35
+order = 34
 subject = "انتم بهاييم"
 author = "كيكوو"
 posted = "2006-08-17"
@@ -323,7 +314,7 @@ archived = "2006-09-06"
 capture_url = "https://web.archive.org/web/20060906100915/http://masr.20at.com:80/article.php?sid=84&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
 
 [[comments]]
-order = 36
+order = 35
 subject = "انا مجنونة مصطفى كامل"
 author = "توتا"
 posted = "2006-08-21"
@@ -332,7 +323,7 @@ archived = "2006-09-06"
 capture_url = "https://web.archive.org/web/20060906100915/http://masr.20at.com:80/article.php?sid=84&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
 
 [[comments]]
-order = 37
+order = 36
 subject = "الدائم الحزين"
 author = "مصطفى كامل"
 posted = "2006-08-22"
@@ -341,7 +332,7 @@ archived = "2006-09-06"
 capture_url = "https://web.archive.org/web/20060906100915/http://masr.20at.com:80/article.php?sid=84&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
 
 [[comments]]
-order = 38
+order = 37
 subject = "أمير العذاب"
 author = "أحمد سويلم"
 posted = "2006-08-26"
@@ -350,7 +341,7 @@ archived = "2006-09-06"
 capture_url = "https://web.archive.org/web/20060906100915/http://masr.20at.com:80/article.php?sid=84&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
 
 [[comments]]
-order = 39
+order = 38
 subject = "أمير العذاب"
 author = "أحمد سويلم"
 posted = "2006-08-26"
@@ -359,7 +350,7 @@ archived = "2006-09-06"
 capture_url = "https://web.archive.org/web/20060906100915/http://masr.20at.com:80/article.php?sid=84&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
 
 [[comments]]
-order = 40
+order = 39
 subject = "أمير العذاب"
 author = "أحمد سويلم"
 posted = "2006-08-26"
@@ -368,7 +359,7 @@ archived = "2006-09-06"
 capture_url = "https://web.archive.org/web/20060906100915/http://masr.20at.com:80/article.php?sid=84&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
 
 [[comments]]
-order = 41
+order = 40
 subject = "أمير العذاب"
 author = "أحمد سويلم"
 posted = "2006-08-26"
@@ -377,7 +368,7 @@ archived = "2006-09-06"
 capture_url = "https://web.archive.org/web/20060906100915/http://masr.20at.com:80/article.php?sid=84&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
 
 [[comments]]
-order = 42
+order = 41
 subject = "الحكي على مصطفى كامل"
 author = "اميرة القصر الحزين"
 posted = "2006-08-29"
@@ -386,7 +377,7 @@ archived = "2006-09-06"
 capture_url = "https://web.archive.org/web/20060906100915/http://masr.20at.com:80/article.php?sid=84&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
 
 [[comments]]
-order = 43
+order = 42
 subject = "ملك القلوب"
 author = "بيتـــــــــــــزا"
 posted = "2006-08-30"
@@ -395,7 +386,7 @@ archived = "2006-09-06"
 capture_url = "https://web.archive.org/web/20060906100915/http://masr.20at.com:80/article.php?sid=84&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
 
 [[comments]]
-order = 44
+order = 43
 subject = "love story"
 author = "the love"
 posted = "2006-08-31"
@@ -404,7 +395,7 @@ archived = "2006-09-06"
 capture_url = "https://web.archive.org/web/20060906100915/http://masr.20at.com:80/article.php?sid=84&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
 
 [[comments]]
-order = 45
+order = 44
 subject = "مصطفى كامل"
 author = "معاز"
 posted = "2006-09-11"
@@ -413,7 +404,7 @@ archived = "2006-11-17"
 capture_url = "https://web.archive.org/web/20061117141627/http://masr.20at.com:80/article.php?sid=84&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
 
 [[comments]]
-order = 46
+order = 45
 subject = "مصطفى كامل"
 author = "soha"
 posted = "2006-09-11"
@@ -422,7 +413,7 @@ archived = "2006-11-17"
 capture_url = "https://web.archive.org/web/20061117141627/http://masr.20at.com:80/article.php?sid=84&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
 
 [[comments]]
-order = 47
+order = 46
 subject = "البوم صور"
 author = "على محب"
 posted = "2006-09-13"
@@ -431,7 +422,7 @@ archived = "2006-11-17"
 capture_url = "https://web.archive.org/web/20061117141627/http://masr.20at.com:80/article.php?sid=84&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
 
 [[comments]]
-order = 48
+order = 47
 subject = "البوم صور"
 author = "على محب"
 posted = "2006-09-13"
@@ -440,7 +431,7 @@ archived = "2006-11-17"
 capture_url = "https://web.archive.org/web/20061117141627/http://masr.20at.com:80/article.php?sid=84&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
 
 [[comments]]
-order = 49
+order = 48
 subject = "البوم صور"
 author = "على محب"
 posted = "2006-09-13"
@@ -449,7 +440,7 @@ archived = "2006-11-17"
 capture_url = "https://web.archive.org/web/20061117141627/http://masr.20at.com:80/article.php?sid=84&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
 
 [[comments]]
-order = 50
+order = 49
 subject = "مصطفي كامل"
 author = "وسام المصري"
 posted = "2006-09-16"
@@ -458,7 +449,7 @@ archived = "2006-11-17"
 capture_url = "https://web.archive.org/web/20061117141627/http://masr.20at.com:80/article.php?sid=84&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
 
 [[comments]]
-order = 51
+order = 50
 subject = "حبيب قلبي"
 author = "وسام المصري"
 posted = "2006-09-16"
@@ -467,7 +458,7 @@ archived = "2006-11-17"
 capture_url = "https://web.archive.org/web/20061117141627/http://masr.20at.com:80/article.php?sid=84&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
 
 [[comments]]
-order = 52
+order = 51
 subject = "ايميل مصطفي كامل"
 author = "الطير الحزين الشادي"
 posted = "2006-09-16"
@@ -476,7 +467,7 @@ archived = "2006-11-17"
 capture_url = "https://web.archive.org/web/20061117141627/http://masr.20at.com:80/article.php?sid=84&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
 
 [[comments]]
-order = 53
+order = 52
 subject = "ملك الحزن"
 author = "رورو"
 posted = "2006-09-16"
@@ -485,7 +476,7 @@ archived = "2006-11-17"
 capture_url = "https://web.archive.org/web/20061117141627/http://masr.20at.com:80/article.php?sid=84&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
 
 [[comments]]
-order = 54
+order = 53
 subject = "انا بحترمه كتير لمصطفى كامل"
 author = "شاعر"
 posted = "2006-09-22"
@@ -494,7 +485,7 @@ archived = "2006-11-17"
 capture_url = "https://web.archive.org/web/20061117141627/http://masr.20at.com:80/article.php?sid=84&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
 
 [[comments]]
-order = 55
+order = 54
 subject = "احلي مغني في العالم كله"
 author = "عاشقة مصطفي كامل"
 posted = "2006-09-23"
@@ -503,7 +494,7 @@ archived = "2006-11-17"
 capture_url = "https://web.archive.org/web/20061117141627/http://masr.20at.com:80/article.php?sid=84&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
 
 [[comments]]
-order = 56
+order = 55
 subject = "نجومية النجوم"
 author = "ortega طير الليل الحزين"
 posted = "2006-09-25"
@@ -512,7 +503,7 @@ archived = "2006-11-17"
 capture_url = "https://web.archive.org/web/20061117141627/http://masr.20at.com:80/article.php?sid=84&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
 
 [[comments]]
-order = 57
+order = 56
 subject = "بحبه مووووت"
 author = "محمد متولي"
 posted = "2006-09-29"
@@ -521,7 +512,7 @@ archived = "2006-11-17"
 capture_url = "https://web.archive.org/web/20061117141627/http://masr.20at.com:80/article.php?sid=84&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
 
 [[comments]]
-order = 58
+order = 57
 subject = "لقبه كمان امير العذاب"
 author = "محمود"
 posted = "2006-10-07"
@@ -530,7 +521,7 @@ archived = "2006-11-17"
 capture_url = "https://web.archive.org/web/20061117141627/http://masr.20at.com:80/article.php?sid=84&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
 
 [[comments]]
-order = 59
+order = 58
 subject = "احلى واجمل تحية دائمة الى اسطورة وامير العزاب ............"
 author = "محمود من القدس"
 posted = "2006-10-07"
@@ -539,7 +530,7 @@ archived = "2006-11-17"
 capture_url = "https://web.archive.org/web/20061117141627/http://masr.20at.com:80/article.php?sid=84&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
 
 [[comments]]
-order = 60
+order = 59
 subject = "البوم صور"
 author = "مؤمن احمد"
 posted = "2006-10-08"
@@ -548,7 +539,7 @@ archived = "2006-11-17"
 capture_url = "https://web.archive.org/web/20061117141627/http://masr.20at.com:80/article.php?sid=84&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
 
 [[comments]]
-order = 61
+order = 60
 subject = "اعظم فنان"
 author = "عاشق امير الكلمة"
 posted = "2006-10-09"
@@ -557,7 +548,7 @@ archived = "2006-11-17"
 capture_url = "https://web.archive.org/web/20061117141627/http://masr.20at.com:80/article.php?sid=84&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
 
 [[comments]]
-order = 62
+order = 61
 subject = "صديق الجرح ابو أيهم"
 author = "منذر احمد طشطوش"
 posted = "2006-10-12"
@@ -566,7 +557,7 @@ archived = "2006-11-17"
 capture_url = "https://web.archive.org/web/20061117141627/http://masr.20at.com:80/article.php?sid=84&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
 
 [[comments]]
-order = 63
+order = 62
 subject = "منذر طشطوش"
 author = "منذر احمد طشطوش"
 posted = "2006-10-12"
@@ -575,7 +566,7 @@ archived = "2006-11-17"
 capture_url = "https://web.archive.org/web/20061117141627/http://masr.20at.com:80/article.php?sid=84&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
 
 [[comments]]
-order = 64
+order = 63
 subject = "منذر طشطوش"
 author = "صديق الجرح"
 posted = "2006-10-12"
@@ -584,7 +575,7 @@ archived = "2006-11-17"
 capture_url = "https://web.archive.org/web/20061117141627/http://masr.20at.com:80/article.php?sid=84&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
 
 [[comments]]
-order = 65
+order = 64
 subject = "الله عليك يا كبير"
 author = "الالام"
 posted = "2006-10-14"
@@ -593,7 +584,7 @@ archived = "2006-11-17"
 capture_url = "https://web.archive.org/web/20061117141627/http://masr.20at.com:80/article.php?sid=84&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
 
 [[comments]]
-order = 66
+order = 65
 subject = "كس امكوا كلكم"
 author = "عاشق مصطفى كامل"
 posted = "2006-10-16"
@@ -602,7 +593,7 @@ archived = "2006-11-17"
 capture_url = "https://web.archive.org/web/20061117141627/http://masr.20at.com:80/article.php?sid=84&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
 
 [[comments]]
-order = 67
+order = 66
 subject = "سيد الكل"
 author = "روح قلبي حبيبي"
 posted = "2006-10-17"
@@ -611,7 +602,7 @@ archived = "2006-11-17"
 capture_url = "https://web.archive.org/web/20061117141627/http://masr.20at.com:80/article.php?sid=84&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
 
 [[comments]]
-order = 68
+order = 67
 subject = "موقع نار الجراح"
 author = "محمد المصرى"
 posted = "2006-10-22"
@@ -620,7 +611,7 @@ archived = "2006-11-17"
 capture_url = "https://web.archive.org/web/20061117141627/http://masr.20at.com:80/article.php?sid=84&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
 
 [[comments]]
-order = 69
+order = 68
 subject = "مصطفي كامل"
 author = "مصطفي كامل"
 posted = "2006-10-23"
@@ -629,7 +620,7 @@ archived = "2006-11-17"
 capture_url = "https://web.archive.org/web/20061117141627/http://masr.20at.com:80/article.php?sid=84&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
 
 [[comments]]
-order = 70
+order = 69
 subject = "مصطفى كامل"
 author = "محمد زكي"
 posted = "2006-10-24"
@@ -638,7 +629,7 @@ archived = "2006-11-17"
 capture_url = "https://web.archive.org/web/20061117141627/http://masr.20at.com:80/article.php?sid=84&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
 
 [[comments]]
-order = 71
+order = 70
 subject = "مصطفى كامل"
 author = "محمدزكي"
 posted = "2006-10-24"
@@ -647,7 +638,7 @@ archived = "2006-11-17"
 capture_url = "https://web.archive.org/web/20061117141627/http://masr.20at.com:80/article.php?sid=84&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
 
 [[comments]]
-order = 72
+order = 71
 subject = "مش هو دة مصطفى كامل"
 author = "محمد عبد الحميد"
 posted = "2006-10-25"
@@ -656,7 +647,7 @@ archived = "2006-11-17"
 capture_url = "https://web.archive.org/web/20061117141627/http://masr.20at.com:80/article.php?sid=84&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
 
 [[comments]]
-order = 73
+order = 72
 subject = "اسف جدا"
 author = "محمد جعفر"
 posted = "2006-10-25"
@@ -665,7 +656,7 @@ archived = "2006-11-17"
 capture_url = "https://web.archive.org/web/20061117141627/http://masr.20at.com:80/article.php?sid=84&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
 
 [[comments]]
-order = 74
+order = 73
 subject = "السوبر ستار"
 author = "محمود خليل"
 posted = "2006-11-04"
@@ -674,7 +665,7 @@ archived = "2006-11-17"
 capture_url = "https://web.archive.org/web/20061117141627/http://masr.20at.com:80/article.php?sid=84&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
 
 [[comments]]
-order = 75
+order = 74
 subject = "انتوا مين انتوا ياللى بتتكلموا عن الامير"
 author = "عـــ امير ـــاشـــ العذاب ــــــق"
 posted = "2006-11-04"
@@ -683,7 +674,7 @@ archived = "2006-11-17"
 capture_url = "https://web.archive.org/web/20061117141627/http://masr.20at.com:80/article.php?sid=84&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
 
 [[comments]]
-order = 76
+order = 75
 subject = "عاشقة مصطفي كامل"
 author = "عاشقة مصطفي كامل"
 posted = "2006-11-07"
@@ -692,7 +683,7 @@ archived = "2006-11-17"
 capture_url = "https://web.archive.org/web/20061117141627/http://masr.20at.com:80/article.php?sid=84&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
 
 [[comments]]
-order = 77
+order = 76
 subject = "عندليب الجراح"
 author = "ديسكو"
 posted = "2006-11-08"
@@ -701,7 +692,7 @@ archived = "2006-11-17"
 capture_url = "https://web.archive.org/web/20061117141627/http://masr.20at.com:80/article.php?sid=84&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
 
 [[comments]]
-order = 78
+order = 77
 subject = "والله عيب عليكم"
 author = "شاعرة الاحزان"
 posted = "2006-11-09"
@@ -710,7 +701,7 @@ archived = "2006-11-17"
 capture_url = "https://web.archive.org/web/20061117141627/http://masr.20at.com:80/article.php?sid=84&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
 
 [[comments]]
-order = 79
+order = 78
 subject = "واالله حرام بلاش احراج"
 author = "اسلام فوزي ماضي"
 posted = "2006-11-11"
@@ -719,7 +710,7 @@ archived = "2006-11-17"
 capture_url = "https://web.archive.org/web/20061117141627/http://masr.20at.com:80/article.php?sid=84&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
 
 [[comments]]
-order = 80
+order = 79
 subject = "الاسباني يتحدث"
 author = "اسلام فوزي ماضي"
 posted = "2006-11-11"
@@ -728,7 +719,7 @@ archived = "2006-11-17"
 capture_url = "https://web.archive.org/web/20061117141627/http://masr.20at.com:80/article.php?sid=84&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
 
 [[comments]]
-order = 81
+order = 80
 subject = "الاسباني يتحدث"
 author = "اسلام فوزي ماضي"
 posted = "2006-11-11"
@@ -737,7 +728,7 @@ archived = "2006-11-17"
 capture_url = "https://web.archive.org/web/20061117141627/http://masr.20at.com:80/article.php?sid=84&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
 
 [[comments]]
-order = 82
+order = 81
 subject = "مافيش فايدة"
 author = "شاعرة الاحزان"
 posted = "2006-11-12"
@@ -746,7 +737,7 @@ archived = "2006-11-17"
 capture_url = "https://web.archive.org/web/20061117141627/http://masr.20at.com:80/article.php?sid=84&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
 
 [[comments]]
-order = 83
+order = 82
 subject = "عندليب الجراح"
 author = "ديسكو"
 posted = "2006-11-13"
@@ -755,7 +746,7 @@ archived = "2006-11-17"
 capture_url = "https://web.archive.org/web/20061117141627/http://masr.20at.com:80/article.php?sid=84&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
 
 [[comments]]
-order = 84
+order = 83
 subject = "مصطفى كامل"
 author = "سارة"
 posted = "2006-11-16"
@@ -764,7 +755,7 @@ archived = "2006-11-17"
 capture_url = "https://web.archive.org/web/20061117141627/http://masr.20at.com:80/article.php?sid=84&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
 
 [[comments]]
-order = 85
+order = 84
 subject = "لو تسمحوا يا جماعة"
 author = "التهامى حليم"
 posted = "2006-11-16"
@@ -773,7 +764,7 @@ archived = "2006-11-17"
 capture_url = "https://web.archive.org/web/20061117141627/http://masr.20at.com:80/article.php?sid=84&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
 
 [[comments]]
-order = 86
+order = 85
 subject = "ابن البلد"
 author = "انسان عاشق"
 posted = "2006-11-19"
@@ -782,7 +773,7 @@ archived = "2006-12-15"
 capture_url = "https://web.archive.org/web/20061215040441/http://masr.20at.com:80/article.php?sid=84&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
 
 [[comments]]
-order = 87
+order = 86
 subject = "اخلاص للماضى"
 author = "حليم"
 posted = "2006-11-22"
@@ -791,7 +782,7 @@ archived = "2006-12-15"
 capture_url = "https://web.archive.org/web/20061215040441/http://masr.20at.com:80/article.php?sid=84&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
 
 [[comments]]
-order = 88
+order = 87
 subject = "ابعد بعييييييييييييييييييييييييييد"
 author = "محمد جعفر"
 posted = "2006-11-24"
@@ -800,7 +791,7 @@ archived = "2006-12-15"
 capture_url = "https://web.archive.org/web/20061215040441/http://masr.20at.com:80/article.php?sid=84&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
 
 [[comments]]
-order = 89
+order = 88
 subject = "هى الايام كده ولا مية مليون ندا هيغير فيها حاجة"
 author = "north sinai"
 posted = "2006-11-25"
@@ -809,7 +800,7 @@ archived = "2006-12-15"
 capture_url = "https://web.archive.org/web/20061215040441/http://masr.20at.com:80/article.php?sid=84&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
 
 [[comments]]
-order = 90
+order = 89
 subject = "مفيش فرق"
 author = "مؤمن مجدى"
 posted = "2006-11-25"
@@ -818,7 +809,7 @@ archived = "2006-12-15"
 capture_url = "https://web.archive.org/web/20061215040441/http://masr.20at.com:80/article.php?sid=84&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
 
 [[comments]]
-order = 91
+order = 90
 subject = "شايل حمل الجبال &صابر على كل حال"
 author = "محمد عبد العليم ..شمال سيناء"
 posted = "2006-11-25"
@@ -827,7 +818,7 @@ archived = "2006-12-15"
 capture_url = "https://web.archive.org/web/20061215040441/http://masr.20at.com:80/article.php?sid=84&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
 
 [[comments]]
-order = 92
+order = 91
 subject = "امير العذاب مصطفى كامل"
 author = "مصطفى"
 posted = "2006-11-25"
@@ -836,7 +827,7 @@ archived = "2006-12-15"
 capture_url = "https://web.archive.org/web/20061215040441/http://masr.20at.com:80/article.php?sid=84&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
 
 [[comments]]
-order = 93
+order = 92
 subject = "اجمد شاعر غنائى فى افريقيا"
 author = "وحيد"
 posted = "2006-11-27"
@@ -845,7 +836,7 @@ archived = "2006-12-15"
 capture_url = "https://web.archive.org/web/20061215040441/http://masr.20at.com:80/article.php?sid=84&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
 
 [[comments]]
-order = 94
+order = 93
 subject = "انتو ايه بشر ولا ....."
 author = "ـ أميـــــــــــــــــــر العذاب ـ"
 posted = "2006-11-27"
@@ -854,7 +845,7 @@ archived = "2006-12-15"
 capture_url = "https://web.archive.org/web/20061215040441/http://masr.20at.com:80/article.php?sid=84&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
 
 [[comments]]
-order = 95
+order = 94
 subject = "بلاش حرام عليكم"
 author = "سيد الحرموشى"
 posted = "2006-11-27"
@@ -863,7 +854,7 @@ archived = "2006-12-15"
 capture_url = "https://web.archive.org/web/20061215040441/http://masr.20at.com:80/article.php?sid=84&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
 
 [[comments]]
-order = 96
+order = 95
 subject = "مصطفى كامل انسانة بتحبك"
 author = "فلسطينية وافتخر"
 posted = "2006-11-29"
@@ -872,7 +863,7 @@ archived = "2006-12-15"
 capture_url = "https://web.archive.org/web/20061215040441/http://masr.20at.com:80/article.php?sid=84&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
 
 [[comments]]
-order = 97
+order = 96
 subject = "مصطفى كامل انسانة بتحبك"
 author = "فلسطينية وافتخر"
 posted = "2006-11-29"
@@ -881,7 +872,7 @@ archived = "2006-12-15"
 capture_url = "https://web.archive.org/web/20061215040441/http://masr.20at.com:80/article.php?sid=84&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
 
 [[comments]]
-order = 98
+order = 97
 subject = "عاشقة الاحزان مصطفى كامل بحبك موت"
 author = "فلسطينية وافتخر"
 posted = "2006-11-29"
@@ -890,7 +881,7 @@ archived = "2006-12-15"
 capture_url = "https://web.archive.org/web/20061215040441/http://masr.20at.com:80/article.php?sid=84&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
 
 [[comments]]
-order = 99
+order = 98
 subject = "مصطفى كامل فنان بجد"
 author = "سمر"
 posted = "2006-11-30"
@@ -899,7 +890,7 @@ archived = "2006-12-15"
 capture_url = "https://web.archive.org/web/20061215040441/http://masr.20at.com:80/article.php?sid=84&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
 
 [[comments]]
-order = 100
+order = 99
 subject = "بموت فى حب حمادة هلال"
 author = "سمر ابراهيم حسن"
 posted = "2006-11-30"
@@ -908,7 +899,7 @@ archived = "2006-12-15"
 capture_url = "https://web.archive.org/web/20061215040441/http://masr.20at.com:80/article.php?sid=84&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
 
 [[comments]]
-order = 101
+order = 100
 subject = "الحب مش كذب"
 author = "مايكل"
 posted = "2006-11-30"
@@ -917,7 +908,7 @@ archived = "2006-12-15"
 capture_url = "https://web.archive.org/web/20061215040441/http://masr.20at.com:80/article.php?sid=84&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
 
 [[comments]]
-order = 102
+order = 101
 subject = "عملية تجميل نانسى"
 author = "نورهان"
 posted = "2006-11-30"
@@ -926,7 +917,7 @@ archived = "2006-12-15"
 capture_url = "https://web.archive.org/web/20061215040441/http://masr.20at.com:80/article.php?sid=84&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
 
 [[comments]]
-order = 103
+order = 102
 subject = "الاهلى"
 author = "سمر"
 posted = "2006-12-01"
@@ -935,7 +926,7 @@ archived = "2006-12-15"
 capture_url = "https://web.archive.org/web/20061215040441/http://masr.20at.com:80/article.php?sid=84&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
 
 [[comments]]
-order = 104
+order = 103
 subject = "مصطفى كامل"
 author = "سمر"
 posted = "2006-12-01"
@@ -944,7 +935,7 @@ archived = "2006-12-15"
 capture_url = "https://web.archive.org/web/20061215040441/http://masr.20at.com:80/article.php?sid=84&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
 
 [[comments]]
-order = 105
+order = 104
 subject = "www.sftycom"
 author = "ولاء"
 posted = "2006-12-01"
@@ -953,7 +944,7 @@ archived = "2006-12-15"
 capture_url = "https://web.archive.org/web/20061215040441/http://masr.20at.com:80/article.php?sid=84&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
 
 [[comments]]
-order = 106
+order = 105
 subject = "الاهلى"
 author = "شرين احمد"
 posted = "2006-12-01"
@@ -962,7 +953,7 @@ archived = "2006-12-15"
 capture_url = "https://web.archive.org/web/20061215040441/http://masr.20at.com:80/article.php?sid=84&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
 
 [[comments]]
-order = 107
+order = 106
 subject = "اجمل الفنانين"
 author = "رنين"
 posted = "2006-12-01"
@@ -971,7 +962,7 @@ archived = "2006-12-15"
 capture_url = "https://web.archive.org/web/20061215040441/http://masr.20at.com:80/article.php?sid=84&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
 
 [[comments]]
-order = 108
+order = 107
 subject = "مصطفى كامل"
 author = "مصطفى كامل"
 posted = "2006-12-01"
@@ -980,7 +971,7 @@ archived = "2006-12-15"
 capture_url = "https://web.archive.org/web/20061215040441/http://masr.20at.com:80/article.php?sid=84&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
 
 [[comments]]
-order = 109
+order = 108
 subject = "كخمزنتعنمتنا"
 author = "تنعتالىلابرلابيل"
 posted = "2006-12-01"
@@ -989,7 +980,7 @@ archived = "2006-12-15"
 capture_url = "https://web.archive.org/web/20061215040441/http://masr.20at.com:80/article.php?sid=84&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
 
 [[comments]]
-order = 110
+order = 109
 subject = "العاب"
 author = "محمد"
 posted = "2006-12-01"
@@ -998,7 +989,7 @@ archived = "2006-12-15"
 capture_url = "https://web.archive.org/web/20061215040441/http://masr.20at.com:80/article.php?sid=84&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
 
 [[comments]]
-order = 111
+order = 110
 subject = "شكرا"
 author = "سمر"
 posted = "2006-12-02"
@@ -1007,7 +998,7 @@ archived = "2006-12-15"
 capture_url = "https://web.archive.org/web/20061215040441/http://masr.20at.com:80/article.php?sid=84&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
 
 [[comments]]
-order = 112
+order = 111
 subject = "انتوا ناس ما بتفهمش"
 author = "قلب مصطفى كامل"
 posted = "2006-12-03"
@@ -1016,7 +1007,7 @@ archived = "2006-12-15"
 capture_url = "https://web.archive.org/web/20061215040441/http://masr.20at.com:80/article.php?sid=84&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
 
 [[comments]]
-order = 113
+order = 112
 subject = "عودة الشاعر الاول لسحق كل الشعراء"
 author = "محمد زكي"
 posted = "2006-12-09"
@@ -1025,7 +1016,7 @@ archived = "2006-12-15"
 capture_url = "https://web.archive.org/web/20061215040441/http://masr.20at.com:80/article.php?sid=84&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
 
 [[comments]]
-order = 114
+order = 113
 subject = "عندليب الجراح"
 author = "ديسكو"
 posted = "2006-12-12"
@@ -1034,10 +1025,10 @@ archived = "2006-12-15"
 capture_url = "https://web.archive.org/web/20061215040441/http://masr.20at.com:80/article.php?sid=84&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
 
 [[comments]]
-order = 115
+order = 114
 subject = ""
 author = "El Mariachi"
 posted = "2009-05-26"
-text = "Elly y3rafo ya gama3a yb2a y2olena"
+text = "Elly y3rafo ya gama3a yb2a y2olena :cry:"
 archived = "2010-01-05"
 capture_url = "https://web.archive.org/web/20100105145642/http://20at.com/masr/profile/3707-2009-04-13-11-21-30.html"

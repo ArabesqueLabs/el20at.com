@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ar">
     <title>أرشيف عشرينات - blog-gadaan-welad-elbalad</title>
-    <subtitle>أرشيف محتوى بوابة عشرينات (فبراير ٢٠٠٤ – مارس ٢٠١٠): ٩٠١٣ مقالًا استعدناها من أرشيف الإنترنت.</subtitle>
+    <subtitle>أرشيف محتوى بوابة عشرينات (فبراير ٢٠٠٤ – مارس ٢٠١٠): ١٥٦٠٠ مقال استعدناها من أرشيف الإنترنت.</subtitle>
     <link rel="self" type="application/atom+xml" href="https://el20at.com/authors/blog-gadaan-welad-elbalad/atom.xml"/>
     <link rel="alternate" type="text/html" href="https://el20at.com"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
@@ -27,7 +27,10 @@
         <link rel="alternate" type="text/html" href="https://el20at.com/articles/masr-egyptian-blogs-11534/"/>
         <id>https://el20at.com/articles/masr-egyptian-blogs-11534/</id>
         
-        <content type="html" xml:base="https://el20at.com/articles/masr-egyptian-blogs-11534/">&lt;figure&gt;&lt;img src=&quot;/media/masr.20at.com/currentarticleassets/m.maksod.jpg&quot; alt=&quot;&quot; loading=&quot;lazy&quot;&gt;&lt;/figure&gt;
+        <content type="html" xml:base="https://el20at.com/articles/masr-egyptian-blogs-11534/">&lt;p&gt;صباح الخير يا بلادي&lt;/p&gt;
+&lt;p&gt;يا وطن نادي وبينادي&lt;/p&gt;
+&lt;p&gt;تعالوا ليّ يا ولادي&lt;/p&gt;
+&lt;figure&gt;&lt;img src=&quot;/media/masr.20at.com/currentarticleassets/m.maksod.jpg&quot; alt=&quot;&quot; loading=&quot;lazy&quot;&gt;&lt;/figure&gt;
 &lt;p&gt;صباح الخيريا بلادي&lt;/p&gt;
 &lt;p&gt;يا حضن دافي لولادي&lt;/p&gt;
 &lt;p&gt;يانسمة عليلة في صدري&lt;/p&gt;

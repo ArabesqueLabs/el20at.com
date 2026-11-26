@@ -463,3 +463,11 @@ posted = "2006-11-02"
 text = "يا مايكل عمرو بن العاص لو سفاح لما كنت موجودا انت ولا قباط ولا كانت امريكا بتغط على الخليفة عمر بن الخطاب"
 archived = "2006-11-02"
 capture_url = "https://web.archive.org/web/20061102103444/http://www.20at.com/article2.php?sid=1231"
+
+[[comments]]
+order = 52
+subject = "هذه حقيقة"
+author = "جولى"
+text = "ما قاله البابا هو حقيقة ولكن الحقيقة بتجرح دائما"
+archived = "2010-03-14"
+capture_url = ""

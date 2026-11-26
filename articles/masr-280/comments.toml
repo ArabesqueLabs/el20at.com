@@ -144,15 +144,6 @@ capture_url = "https://web.archive.org/web/20060518233138/http://masr.20at.com:8
 
 [[comments]]
 order = 16
-subject = "امي العزيزة"
-author = "محمود"
-posted = "2006-05-08"
-text = "حقيقي لا اجدي اي كلمة اقدر ان اعبر بها عن عجابي بامنا الحبيبة نهى الزيني سوي ان اقف احتارما و تبجيلا لها - حفظك الله من كل مكروه و جعلك الله مثلا و قدوه لكل امهاتنا المصريين و لكل نساء مصر"
-archived = "2006-05-18"
-capture_url = "https://web.archive.org/web/20060518233138/http://masr.20at.com:80/article.php?sid=280"
-
-[[comments]]
-order = 17
 subject = "Enough is enough"
 author = "أبو نهى"
 posted = "2006-05-08"
@@ -161,7 +152,7 @@ archived = "2006-05-18"
 capture_url = "https://web.archive.org/web/20060518233138/http://masr.20at.com:80/article.php?sid=280"
 
 [[comments]]
-order = 18
+order = 17
 subject = "أتفق وأختلف"
 author = "عبير طلعت"
 posted = "2006-05-08"
@@ -170,7 +161,7 @@ archived = "2006-05-18"
 capture_url = "https://web.archive.org/web/20060518233138/http://masr.20at.com:80/article.php?sid=280"
 
 [[comments]]
-order = 19
+order = 18
 subject = "القدوة"
 author = "مروان"
 posted = "2006-05-08"
@@ -179,7 +170,7 @@ archived = "2006-05-18"
 capture_url = "https://web.archive.org/web/20060518233138/http://masr.20at.com:80/article.php?sid=280"
 
 [[comments]]
-order = 20
+order = 19
 subject = "مقال خرافي"
 author = "د . محمد واصل"
 posted = "2006-05-09"
@@ -188,7 +179,7 @@ archived = "2006-05-18"
 capture_url = "https://web.archive.org/web/20060518233138/http://masr.20at.com:80/article.php?sid=280"
 
 [[comments]]
-order = 21
+order = 20
 subject = "ممكن أشوفكم بكرة تاني ؟؟شكلنا مش حنخلص"
 author = "محمد السيد"
 posted = "2006-05-10"
@@ -197,7 +188,7 @@ archived = "2006-05-18"
 capture_url = "https://web.archive.org/web/20060518233138/http://masr.20at.com:80/article.php?sid=280"
 
 [[comments]]
-order = 22
+order = 21
 subject = "اه نسيت اقولكم أشوفكم فين ؟؟ المكان يعني ؟؟؟ مش قصدي أنهي ليمان.."
 author = "محمد السيد"
 posted = "2006-05-10"
@@ -206,7 +197,7 @@ archived = "2006-05-18"
 capture_url = "https://web.archive.org/web/20060518233138/http://masr.20at.com:80/article.php?sid=280"
 
 [[comments]]
-order = 23
+order = 22
 subject = "ياميت خسارة يامصر"
 author = "د\\ سيد المصرى"
 posted = "2006-05-10"
@@ -215,7 +206,7 @@ archived = "2006-05-18"
 capture_url = "https://web.archive.org/web/20060518233138/http://masr.20at.com:80/article.php?sid=280"
 
 [[comments]]
-order = 24
+order = 23
 subject = "أعطتنا أمل فى بكرة"
 author = "حسين عبد الرحمن"
 posted = "2006-05-11"
@@ -224,7 +215,7 @@ archived = "2006-05-18"
 capture_url = "https://web.archive.org/web/20060518233138/http://masr.20at.com:80/article.php?sid=280"
 
 [[comments]]
-order = 25
+order = 24
 subject = "sami yousaf"
 author = "sabah"
 posted = "2006-05-13"
@@ -233,7 +224,7 @@ archived = "2006-05-18"
 capture_url = "https://web.archive.org/web/20060518233138/http://masr.20at.com:80/article.php?sid=280"
 
 [[comments]]
-order = 26
+order = 25
 subject = "oheboka fi :alah"
 author = "fatima"
 posted = "2006-05-13"
@@ -242,7 +233,7 @@ archived = "2006-05-18"
 capture_url = "https://web.archive.org/web/20060518233138/http://masr.20at.com:80/article.php?sid=280"
 
 [[comments]]
-order = 27
+order = 26
 subject = "بارك الله فيك عدم كتمك لما ستسالين عنه يوم لا مفر من السئال"
 author = "هناء"
 posted = "2006-05-15"
@@ -251,7 +242,7 @@ archived = "2006-05-18"
 capture_url = "https://web.archive.org/web/20060518233138/http://masr.20at.com:80/article.php?sid=280"
 
 [[comments]]
-order = 28
+order = 27
 subject = "دمياط"
 author = "احمد الزينى"
 posted = "2006-07-03"
@@ -260,7 +251,7 @@ archived = "2006-09-04"
 capture_url = "https://web.archive.org/web/20060904121820/http://masr.20at.com:80/article.php?sid=280"
 
 [[comments]]
-order = 29
+order = 28
 subject = "fdjhj"
 author = "fdjhj"
 posted = "2006-12-17"

@@ -69,3 +69,74 @@ author = "بنا يخليك وفرت لينا أفضل أغاني للبوب م�
 text = "أحمد علي باشا"
 archived = "2006-11-02"
 capture_url = "https://web.archive.org/web/20061102142834/http://www.20at.com/article.php?sid=513"
+
+[[comments]]
+order = 10
+subject = "قرية جاميكا"
+author = "الراسطه"
+posted = "2007-02-12"
+text = "انت ماعارفه شى shat foken"
+archived = "2010-03-14"
+capture_url = ""
+
+[[comments]]
+order = 11
+subject = "ضع عنوان التعليق"
+author = "اكتب اسمك هنا"
+posted = "2007-04-19"
+text = "شباب فيكم تقولولي موقع بوب للاغاني بدون تحويل"
+archived = "2010-03-14"
+capture_url = ""
+
+[[comments]]
+order = 12
+subject = "ضع عنوان التعليق"
+author = "اكتب اسمك هنا"
+posted = "2007-06-12"
+text = "الله عليكى يا ياسمين"
+archived = "2010-03-14"
+capture_url = ""
+
+[[comments]]
+order = 13
+subject = "ضع عنوان التعليق"
+author = "اكتب اسمك هنا"
+posted = "2007-12-09"
+text = "جميل جدا جدا"
+archived = "2010-03-14"
+capture_url = ""
+
+[[comments]]
+order = 14
+subject = "ضع عنوان التعليق"
+author = "اكتب اسمك هنا"
+posted = "2008-09-14"
+text = "kana wa mazal bob ramza al7otyati fi 9olobina fa howa laysa morani f 7asb bal howa za3im jami3 almotamaridin fa bob yhibo lah wa kan ya9omo bi a3mal khayrya mota3adida wa 9ama bi ikhmad 3adid mina l7orob fi ifri9ya idan sahib risalat assalam fi hada l3alam<br />peace and love"
+archived = "2010-03-14"
+capture_url = ""
+
+[[comments]]
+order = 15
+subject = "عمركم محا تعرفو"
+author = "fares _marley"
+posted = "2008-10-29"
+text = "عمركم محا تعرفو قصة حياة بوب مارلي الأصلية"
+archived = "2010-03-14"
+capture_url = ""
+
+[[comments]]
+order = 16
+subject = "حمال الاسيه"
+author = "ياسر الشرقاوى"
+posted = "2008-11-04"
+text = "بوب مارلى ده كان بطل من ابطال بين السرايات وعلى فكره ده ابن خالتى"
+archived = "2010-03-14"
+capture_url = ""
+
+[[comments]]
+order = 17
+subject = "النوم"
+author = "عصام"
+text = "المطرب النائم بوب مارلى"
+archived = "2010-03-14"
+capture_url = ""

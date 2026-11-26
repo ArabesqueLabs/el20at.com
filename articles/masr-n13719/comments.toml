@@ -1,6 +1,7 @@
 [[comments]]
 order = 0
 subject = "ثم إلي الوزير المهندس ماجد جورج"
+posted = "2008-01-08"
 text = "طيب ما هو فيه وزير مسيحي اهه اسمه ماجد جورج<br />امال الاقباط قالبين الدنيا ليه وبيقولوا انهم ما بياخدوش مناصب في الدولة"
 archived = "2008-03-08"
 capture_url = "https://web.archive.org/web/20080308110457/http://masr.20at.com:80/newArticle.php?sid=13719"
@@ -8,6 +9,8 @@ capture_url = "https://web.archive.org/web/20080308110457/http://masr.20at.com:8
 [[comments]]
 order = 1
 subject = "الصورة معبرة جدا"
+author = "اكتب اسمك هنا"
+posted = "2008-01-08"
 text = "الصورة تشير الى الحالة التي وصل اليها الانسان المصري"
 archived = "2008-03-08"
 capture_url = "https://web.archive.org/web/20080308110457/http://masr.20at.com:80/newArticle.php?sid=13719"
@@ -15,6 +18,16 @@ capture_url = "https://web.archive.org/web/20080308110457/http://masr.20at.com:8
 [[comments]]
 order = 2
 subject = "كل سنه وانت طيب يا ريس"
+posted = "2008-01-08"
 text = "كل سنه وانت طيب يا ريس<br />كل سنه وانت شبعان واحنا جعانين<br />كل سنه وانت نايم واحنا صاحيين<br />كل سنه وانت متجوز واحنا مش متجوزين<br />كل سنه وانت مبسوط واحنا زعلانين<br />كل سنه وانت مكسي واحنا عريانين<br />كل سنه وانت راكب واحنا ماشيين<br />كل سنه وانت سليم واحنا عيانين"
 archived = "2008-03-08"
 capture_url = "https://web.archive.org/web/20080308110457/http://masr.20at.com:80/newArticle.php?sid=13719"
+
+[[comments]]
+order = 3
+subject = ""
+author = "رورو"
+posted = "2009-07-26"
+text = "انا بقي تلميذة في المدرسة واول كدبة انها مش لغات تاني كدبة ان المخلفات لسه موجودة واحنا بنتعب من الروايح الكريهة والحشرات وبعدين احنا عددنا كبير عاوزين نشوف تقدم"
+archived = "2010-03-14"
+capture_url = ""

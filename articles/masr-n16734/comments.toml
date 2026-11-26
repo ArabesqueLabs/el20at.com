@@ -2,6 +2,7 @@
 order = 0
 subject = "ازيك يا مروا"
 author = "مش لازم"
+posted = "2008-07-13"
 text = "كويس خالص<br />وفيه فيلم جديد طلع اسمه (حسن ومرقص)<br />يا ليت تعمليلنا تحقيق عنه"
 archived = "2008-08-04"
 capture_url = "https://web.archive.org/web/20080804111402/http://masr.20at.com:80/newArticle.php?sid=16734"
@@ -9,7 +10,8 @@ capture_url = "https://web.archive.org/web/20080804111402/http://masr.20at.com:8
 [[comments]]
 order = 1
 subject = "ايوه يا عم ياسر ابو العلا يسهلك ربنا"
-author = "مش شريف الدواخلي ولا البراء اشرف"
+author = "مش شريف الدواخلي ولا البراء اش"
+posted = "2008-07-13"
 text = "إحنا<br />المدير التقني:-<br />ياسر أبو العلا<br />مدير التحرير:-<br />محمد عيد<br />المحررون:-<br />أحمد عبد الفتاح<br />أحمد عبد المنعم<br />أحمد خشبة<br />رانيا<br />محمد فوزي خلف<br />محمد عيد<br />محمد الدواخلي<br />مايا إيفانوفا<br />ياسر أبو العلا<br />ياسر خاطر<br />استضافة الموقع:-<br />تشكر (تحت الكوبري) د.(محمد عبد الحافظ) على استضافته (الغير محدودة) لنا<br />مؤسسو الموقع<br />ياسر أبو العلا – محمد عيد"
 archived = "2008-08-04"
 capture_url = "https://web.archive.org/web/20080804111402/http://masr.20at.com:80/newArticle.php?sid=16734"
@@ -18,6 +20,7 @@ capture_url = "https://web.archive.org/web/20080804111402/http://masr.20at.com:8
 order = 2
 subject = "مش الأهبل ولا العبيط"
 author = "الى الأخ اللي فوقي"
+posted = "2008-07-13"
 text = "مش الأهبل ولا العبيط<br />مش الأهطل ولا الأهبل<br />مش الأرعن ولا المسطول......... ابقى مين؟"
 archived = "2008-08-04"
 capture_url = "https://web.archive.org/web/20080804111402/http://masr.20at.com:80/newArticle.php?sid=16734"
@@ -26,6 +29,7 @@ capture_url = "https://web.archive.org/web/20080804111402/http://masr.20at.com:8
 order = 3
 subject = "ضع عنوان التعليق"
 author = "مدحت"
+posted = "2008-07-13"
 text = "و يا ترى ضربتى الموضوع ده من انهى موقع يا مروه"
 archived = "2008-08-04"
 capture_url = "https://web.archive.org/web/20080804111402/http://masr.20at.com:80/newArticle.php?sid=16734"
@@ -34,6 +38,16 @@ capture_url = "https://web.archive.org/web/20080804111402/http://masr.20at.com:8
 order = 4
 subject = "ضع عنوان التعليق"
 author = "مدحت"
+posted = "2008-07-14"
 text = "وللعلم برضو حوار غاة عبد الرازق مضروووووووووووووووووووووب"
 archived = "2008-08-04"
 capture_url = "https://web.archive.org/web/20080804111402/http://masr.20at.com:80/newArticle.php?sid=16734"
+
+[[comments]]
+order = 5
+subject = "ضع عنوان التعليق"
+author = "معتقدش هاتفرق"
+posted = "2008-09-05"
+text = "أنا فعلا مستغرب من اللى بيحصل هنا دا<br />هو ما مفيش أدمن هنا على التعليقات ولا انتم عملتوها و مش عاملينلها طريقه تتشال بيها ؟<br />انا دوست على أبلغ عن هذا التعليق ولا حياه لمن تنادى<br />ليه كده ؟"
+archived = "2010-03-14"
+capture_url = ""

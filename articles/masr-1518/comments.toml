@@ -126,6 +126,15 @@ capture_url = "https://web.archive.org/web/20070203061616/http://masr.20at.com:8
 
 [[comments]]
 order = 14
+subject = "مسكوهم تاني يا عمنا"
+author = "بلال ابو النجا"
+posted = "2007-01-30"
+text = "وكانت المحكمة قد برَّأت المعتقلين أمس وأمرت بالإفراج عنهم فورًا من سرايا المحكمة، إلا أن ضباط أمن الدولة كان لهم رأيٌ آخر؛ حيث قاموا بترحيل المعتقلين إلى سجن مزرعة طرة،"
+archived = "2010-03-14"
+capture_url = ""
+
+[[comments]]
+order = 15
 subject = "المطلوب"
 author = "الملطوب ثورة وأنقلاب على حكم مبارك بقيادة الإخوان والشعب كله معهم كفاية فساد ده قاتل وزور كل الإنتخابات يعنى وجوده زى عدمه ومالوش أى شعبية ولا شرعية علشان يقعد فى الحكم وببجاحته عايز يورث الحكم للإبنه الدكتاتور والطاغية تحت التليين والتمرين"
 posted = "2007-01-31"
@@ -134,7 +143,7 @@ archived = "2007-02-03"
 capture_url = "https://web.archive.org/web/20070203061616/http://masr.20at.com:80/article.php?sid=1518"
 
 [[comments]]
-order = 15
+order = 16
 subject = "ياريس حرام اللى يحصل دةاحنا بنحبك اة بس كدابين الزفة وملفقى التهم"
 author = "توريث هباش ابوقلاية"
 posted = "2007-01-31"
@@ -143,7 +152,7 @@ archived = "2007-02-03"
 capture_url = "https://web.archive.org/web/20070203061616/http://masr.20at.com:80/article.php?sid=1518"
 
 [[comments]]
-order = 16
+order = 17
 subject = "من الاخر"
 author = "واحد مصرى حزين"
 posted = "2007-01-31"
@@ -152,7 +161,25 @@ archived = "2007-02-03"
 capture_url = "https://web.archive.org/web/20070203061616/http://masr.20at.com:80/article.php?sid=1518"
 
 [[comments]]
-order = 17
+order = 18
+subject = "اللهم فك أس المظلومين"
+author = "أحمد باشا"
+posted = "2007-01-31"
+text = "اللهم انصر كل من يعمل على خدمة هذا الدين وخدمة الوطن<br />لا حول ولاقوة الا بالله الإضطهاد والظلم ده كله عشان ناس بتنادي بتطبيق شرع الله على أكمل وجه"
+archived = "2010-03-14"
+capture_url = ""
+
+[[comments]]
+order = 19
+subject = "منهم لله الظلمه"
+author = "علي"
+posted = "2007-01-31"
+text = "كل اللي أقدر أقوله منهم لله الظلمه ولا حول ولا قوة إلا بالله<br />وإن شاء الله أي واحد بينادي بتطبيق الشريعه منصور بإذن الله"
+archived = "2010-03-14"
+capture_url = ""
+
+[[comments]]
+order = 20
 subject = "من الاخر -كلامك غريب قوى"
 author = "ياسر أبو عمار"
 posted = "2007-02-01"
@@ -161,7 +188,7 @@ archived = "2007-02-03"
 capture_url = "https://web.archive.org/web/20070203061616/http://masr.20at.com:80/article.php?sid=1518"
 
 [[comments]]
-order = 18
+order = 21
 subject = "امرهم شورى"
 author = "فهد الا سلام"
 posted = "2007-02-01"
@@ -170,7 +197,7 @@ archived = "2007-02-03"
 capture_url = "https://web.archive.org/web/20070203061616/http://masr.20at.com:80/article.php?sid=1518"
 
 [[comments]]
-order = 19
+order = 22
 subject = "تعبنا رفض"
 author = "تعبنا من رفض الفساد تعبنا من رفض مبارك عايزين نطهر مصر منه ده فعلاً بقى عامل زى فرعون لما طغى وفعلاً وصل لقمة الدكتاتورية والطغيان وفاكر إنه بالطريقة دى ها يورث الحكم لإبنه المعدوم الكفاءة والسيرة الحسنة إللى كل يوم يكتشفوا فساد جديد ليه ونهب خير مصر"
 posted = "2007-02-01"
@@ -179,7 +206,7 @@ archived = "2007-02-03"
 capture_url = "https://web.archive.org/web/20070203061616/http://masr.20at.com:80/article.php?sid=1518"
 
 [[comments]]
-order = 20
+order = 23
 subject = "عنوان"
 author = "واحد مصرى حزين"
 posted = "2007-02-02"
@@ -188,7 +215,7 @@ archived = "2007-02-03"
 capture_url = "https://web.archive.org/web/20070203061616/http://masr.20at.com:80/article.php?sid=1518"
 
 [[comments]]
-order = 21
+order = 24
 subject = "الاخوان"
 author = "الاخوان يستمدون شعبيتهم من حب الشعب لهم وقناعته بهم وصناديق الإنتخابات تشهد على ذلك ومبارك وإبنه الذين أستنجدوا باليهود بعد أن رأوا أقبال الشعب على ترشيحهم يشهدوا على ذلك وهذا ما جعهلم أكبر مصدر أزعاج لنظام بنى على النهب والتزوير والفساد وضم إليه أصحاب رؤوس الأموال المسروقة والمنهوبه من الفقراء ليحمى نفسه ولكن حب الشعب هو المقياس وليقف الأهبل المدمن فى مناظرة مع الإخوان ليعرف حقيقته وليعرف الشعب أنه مدمن وشاذ وحقير"
 posted = "2007-02-02"
@@ -197,7 +224,7 @@ archived = "2007-02-03"
 capture_url = "https://web.archive.org/web/20070203061616/http://masr.20at.com:80/article.php?sid=1518"
 
 [[comments]]
-order = 22
+order = 25
 subject = "حسبنا الله ونعم الوكيل"
 author = "محمد احمد"
 posted = "2007-02-03"
@@ -206,7 +233,7 @@ archived = "2007-02-10"
 capture_url = "https://web.archive.org/web/20070210222210/http://masr.20at.com:80/article.php?sid=1518"
 
 [[comments]]
-order = 23
+order = 26
 subject = "مع الاعتذار لسعاد حسني"
 author = "دولا مين ودولا مين دولا عساكر مخبرين"
 posted = "2007-02-03"
@@ -215,7 +242,7 @@ archived = "2007-02-10"
 capture_url = "https://web.archive.org/web/20070210222210/http://masr.20at.com:80/article.php?sid=1518"
 
 [[comments]]
-order = 24
+order = 27
 subject = "انا حسني مبارك مين ادي"
 author = "انا حسني مبارك مين يعاديني مين"
 posted = "2007-02-03"
@@ -224,7 +251,7 @@ archived = "2007-02-10"
 capture_url = "https://web.archive.org/web/20070210222210/http://masr.20at.com:80/article.php?sid=1518"
 
 [[comments]]
-order = 25
+order = 28
 subject = "طيب يا حبيبى"
 author = "ولما الامن المركزى"
 posted = "2007-02-03"
@@ -233,7 +260,7 @@ archived = "2007-02-10"
 capture_url = "https://web.archive.org/web/20070210222210/http://masr.20at.com:80/article.php?sid=1518"
 
 [[comments]]
-order = 26
+order = 29
 subject = "زلول"
 author = "عز الاسلام"
 posted = "2007-02-09"
@@ -242,7 +269,7 @@ archived = "2007-02-10"
 capture_url = "https://web.archive.org/web/20070210222210/http://masr.20at.com:80/article.php?sid=1518"
 
 [[comments]]
-order = 27
+order = 30
 subject = "فاعلم انة"
 author = "نور الاسلام"
 posted = "2007-02-09"
@@ -251,7 +278,7 @@ archived = "2007-02-10"
 capture_url = "https://web.archive.org/web/20070210222210/http://masr.20at.com:80/article.php?sid=1518"
 
 [[comments]]
-order = 28
+order = 31
 subject = "صاحب النخوة"
 author = "شمس الاسلام"
 posted = "2007-02-09"
@@ -260,7 +287,7 @@ archived = "2007-02-10"
 capture_url = "https://web.archive.org/web/20070210222210/http://masr.20at.com:80/article.php?sid=1518"
 
 [[comments]]
-order = 29
+order = 32
 subject = "الدين والمنصب"
 author = "عز الاسلام"
 posted = "2007-02-09"
@@ -269,7 +296,7 @@ archived = "2007-02-10"
 capture_url = "https://web.archive.org/web/20070210222210/http://masr.20at.com:80/article.php?sid=1518"
 
 [[comments]]
-order = 30
+order = 33
 subject = "الدين والمنصب"
 author = "الاخلاص والصراحة"
 posted = "2007-02-09"
@@ -278,7 +305,7 @@ archived = "2007-02-10"
 capture_url = "https://web.archive.org/web/20070210222210/http://masr.20at.com:80/article.php?sid=1518"
 
 [[comments]]
-order = 31
+order = 34
 subject = "النصر للنخوه والموت للخنزير"
 author = "عز الاسلام"
 posted = "2007-02-09"

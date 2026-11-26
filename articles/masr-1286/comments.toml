@@ -432,15 +432,6 @@ capture_url = "https://web.archive.org/web/20070115142407/http://masr.20at.com:8
 
 [[comments]]
 order = 48
-subject = "الاسلام هو الحل رجال فى زمن عز فيه الرجال"
-author = "ابو دحية"
-posted = "2007-01-13"
-text = "الله معهم شباب الاسلام امضوا على بركت الله ولا تنظروا خلفكم فالاسلام منتصر باذن الله ولو كره المنافقون لا تلقوا بالا الى ما يقولوا فمن اتبع اليهود والنصارى ماذا ننتظر منه انتم جيل المستقبل والمستقبل للاسلام"
-archived = "2007-01-15"
-capture_url = "https://web.archive.org/web/20070115142407/http://masr.20at.com:80/article.php?sid=1286"
-
-[[comments]]
-order = 49
 subject = "رجال أحرار واثقين بنصر الله \"جماعة الاخوان المسلمين\""
 author = "ابو دحية"
 posted = "2007-01-13"
@@ -449,7 +440,7 @@ archived = "2007-01-15"
 capture_url = "https://web.archive.org/web/20070115142407/http://masr.20at.com:80/article.php?sid=1286"
 
 [[comments]]
-order = 50
+order = 49
 subject = "منارة العلم الإسلامي تعود لرشدها"
 author = "سيف الحق"
 posted = "2007-01-15"

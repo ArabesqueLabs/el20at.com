@@ -3,7 +3,7 @@ order = 0
 subject = ""
 author = "مها.."
 posted = "2010-03-03"
-text = "انا بخلي دايما معايا كلللللللل الاشياء هادي<br />وباخدهم عالجامعة كمان, ماعدا الخيط والابرة والبلاستر<br />بس فكرة حلوة, حبقى اخلي معايا"
+text = "انا بخلي دايما معايا كلللللللل الاشياء هادي<br />وباخدهم عالجامعة كمان, ماعدا الخيط والابرة والبلاستر<br />بس فكرة حلوة, حبقى اخلي معايا :-)"
 archived = "2010-03-05"
 capture_url = "https://web.archive.org/web/20100305041437/http://www.20at.com:80/banat/variety/15577-2010-03-03-15-13-03.html"
 
@@ -12,7 +12,7 @@ order = 1
 subject = ""
 author = "eshraka"
 posted = "2010-03-04"
-text = "و طبعا قبل ما تنزلى اتأكدى ان معاكى فلوس كفاية…و مفتاح الشقة لو ماكانش حد هايفتحلك"
+text = "و طبعا قبل ما تنزلى اتأكدى ان معاكى فلوس كفاية....و مفتاح الشقة لو ماكانش حد هايفتحلك"
 archived = "2010-03-05"
 capture_url = "https://web.archive.org/web/20100305041437/http://www.20at.com:80/banat/variety/15577-2010-03-03-15-13-03.html"
 
@@ -30,7 +30,7 @@ order = 3
 subject = ""
 author = "sonyoreta"
 posted = "2010-03-06"
-text = "2omal feen el makeup ya banat ahm 7aga akeeed"
+text = "2omal feen el makeup ya banat ahm 7aga akeeed :D"
 archived = "2010-03-06"
 capture_url = "https://web.archive.org/web/20100306141839/http://www.20at.com:80/banat/variety/15577-2010-03-03-15-13-03.html"
 
@@ -42,3 +42,39 @@ posted = "2010-03-06"
 text = "الموبايل اهم حاجه يا بنات المو بايل امال ماما تطمن ازاي"
 archived = "2010-03-06"
 capture_url = "https://web.archive.org/web/20100306141839/http://www.20at.com:80/banat/variety/15577-2010-03-03-15-13-03.html"
+
+[[comments]]
+order = 5
+subject = ""
+author = "naddoosha"
+posted = "2010-03-06"
+text = "و طبعا مصحف صغير ده هيكون ان شاء الله حاميكي<br />و لو في وقت فاضي نقرأ فيه<br />يعني وقت المواصلات قبل المحاضرة كده يعني"
+archived = "2010-03-14"
+capture_url = ""
+
+[[comments]]
+order = 6
+subject = ""
+author = "يمنى"
+posted = "2010-03-08"
+text = "شكرا حاجات مهمة بردوا :lol:"
+archived = "2010-03-14"
+capture_url = ""
+
+[[comments]]
+order = 7
+subject = ""
+author = "Oshen91"
+posted = "2010-03-08"
+text = "اوكيشن ياهند<br />شكراً ليكى كتير"
+archived = "2010-03-14"
+capture_url = ""
+
+[[comments]]
+order = 8
+subject = ""
+author = "لوجى"
+posted = "2010-03-09"
+text = "شكرا انا استفدت كتير بس لما بروح الجامعة بيكون فى كتب واقلامة وحاجات كتير بتكون ثقيلة مش عارفة اعمل اية :zzz :zzz :-)"
+archived = "2010-03-14"
+capture_url = ""

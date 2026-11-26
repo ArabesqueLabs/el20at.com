@@ -123,3 +123,21 @@ posted = "2006-06-24"
 text = "انها مضحكه وشكر لكل ما ساهم في تحقيق الموقع<br />بااااااااااااااااااااااي"
 archived = "2006-11-02"
 capture_url = "https://web.archive.org/web/20061102131416/http://www.20at.com/article2.php?sid=704"
+
+[[comments]]
+order = 14
+subject = ""
+author = "شوشو"
+posted = "2009-06-22"
+text = "هذا موضوع رائع بجد<br />فالشتاء فعلا خيالى :oops:"
+archived = "2010-03-14"
+capture_url = ""
+
+[[comments]]
+order = 15
+subject = ""
+author = "مريم"
+posted = "2009-06-22"
+text = "ما اروع هذا الموضوع جعلنى اشعر بحنين<br />الى الماضى :cry:<br />و ليالى الشتاء الدافئة"
+archived = "2010-03-14"
+capture_url = ""

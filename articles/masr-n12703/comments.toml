@@ -2,6 +2,15 @@
 order = 0
 subject = "ALEX"
 author = "MMM"
+posted = "2007-12-10"
+text = "الله ينور يا شعبان"
+archived = "2010-03-14"
+capture_url = ""
+
+[[comments]]
+order = 1
+subject = "ALEX"
+author = "MMM"
 text = "الله ينور يا شعبان"
 archived = "2008-02-03"
 capture_url = "https://web.archive.org/web/20080203055408/http://masr.20at.com:80/newArticle.php?sid=12703"

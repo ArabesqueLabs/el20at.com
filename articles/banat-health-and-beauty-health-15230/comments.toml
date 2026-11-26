@@ -3,6 +3,24 @@ order = 0
 subject = ""
 author = "raghda wafaa"
 posted = "2010-02-14"
-text = "thanx 3la haza el mawdo3 bgad 7alw kater"
+text = "thanx 3la haza el mawdo3 bgad 7alw kater :D"
 archived = "2010-03-13"
 capture_url = "https://web.archive.org/web/20100313173612/http://www.20at.com:80/banat/health-and-beauty/health/15230-2010-02-07-13-45-25.html"
+
+[[comments]]
+order = 1
+subject = ""
+author = "رو"
+posted = "2010-02-26"
+text = ":lol: :lol: thnx aloooooooot for help me"
+archived = "2010-03-14"
+capture_url = ""
+
+[[comments]]
+order = 2
+subject = ""
+author = "Lina_Lili"
+posted = "2010-03-01"
+text = "ana ba3mel keda daayman bas besor3a w mab7sesh befar2 w ra2bty bt2lemny gamed, rabena yesahel w lama a3mel eltamareen deh bera7a ye7sal far2"
+archived = "2010-03-14"
+capture_url = ""

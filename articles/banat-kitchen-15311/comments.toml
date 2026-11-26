@@ -15,3 +15,21 @@ posted = "2010-02-15"
 text = "بس اللي في الصورة كريم كراميل مش تشيز كيك"
 archived = "2010-02-16"
 capture_url = "https://web.archive.org/web/20100216121605/http://www.20at.com:80/banat/kitchen/15311-2010-02-14-11-59-03.html"
+
+[[comments]]
+order = 2
+subject = ""
+author = "doby"
+posted = "2010-02-16"
+text = ":lol: :lol: :lol: :lol: :lol:"
+archived = "2010-03-14"
+capture_url = ""
+
+[[comments]]
+order = 3
+subject = ""
+author = "belaa"
+posted = "2010-03-02"
+text = "2na ba3mel zayaha bel zabt bas 2na kaman bazaynha"
+archived = "2010-03-14"
+capture_url = ""

@@ -2,12 +2,21 @@
 order = 0
 subject = "موضوعين مرة واحدة يا رضوه"
 author = "مش كاتب"
+posted = "2008-04-06"
+text = "موضوعين مرة واحدة<br />ايه النشاط دا كله"
+archived = "2010-03-14"
+capture_url = ""
+
+[[comments]]
+order = 1
+subject = "موضوعين مرة واحدة يا رضوه"
+author = "مش كاتب"
 text = "موضوعين مرة واحدة<br />ايه النشاط دا كله"
 archived = "2008-04-07"
 capture_url = "https://web.archive.org/web/20080407213220/http://masr.20at.com:80/newArticle.php?sid=15050"
 
 [[comments]]
-order = 1
+order = 2
 subject = "ريم من سكان مدينة 6 أكتوبر"
 author = "مش لازم"
 text = "انتي لسه برضه مصره على 6 اكتوبر"
@@ -15,9 +24,19 @@ archived = "2008-04-07"
 capture_url = "https://web.archive.org/web/20080407213220/http://masr.20at.com:80/newArticle.php?sid=15050"
 
 [[comments]]
-order = 2
+order = 3
 subject = "ضع عنوان التعليق"
 author = "سبحان الله"
+posted = "2008-04-07"
 text = "والله فعلا سبحان الله شوفوا النهاردة الجو جميل ازاي و صحو فعلا الجو كان مضرب"
 archived = "2008-04-07"
 capture_url = "https://web.archive.org/web/20080407213220/http://masr.20at.com:80/newArticle.php?sid=15050"
+
+[[comments]]
+order = 4
+subject = "ريم من سكان مدينة 6 أكتوبر"
+author = "مش لازم"
+posted = "2008-04-07"
+text = "انتي لسه برضه مصره على 6 اكتوبر"
+archived = "2010-03-14"
+capture_url = ""

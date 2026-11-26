@@ -2,6 +2,7 @@
 order = 0
 subject = "اول تعليق"
 author = "الهندي"
+posted = "2007-04-26"
 text = "طيب اقول اية لنفسي<br />مش هقول لنفسي هقول<br />لكل ولاد البلد<br />مبروك علي الصميم<br />ويارب المجهود يكلل بالنجاح"
 archived = "2007-04-30"
 capture_url = "https://web.archive.org/web/20070430031730/http://masr.20at.com:80/newArticle.php?sid=9954"
@@ -10,6 +11,7 @@ capture_url = "https://web.archive.org/web/20070430031730/http://masr.20at.com:8
 order = 1
 subject = "يا واصل"
 author = "محمد عبدالعاطي"
+posted = "2007-04-26"
 text = "يا واصل يا هندي ليك اصحاب مخبرين وضابط محترمين اهم<br />الموضوع جميل"
 archived = "2007-04-30"
 capture_url = "https://web.archive.org/web/20070430031730/http://masr.20at.com:80/newArticle.php?sid=9954"
@@ -18,6 +20,7 @@ capture_url = "https://web.archive.org/web/20070430031730/http://masr.20at.com:8
 order = 2
 subject = "الله ينور"
 author = "محمود سعيد"
+posted = "2007-04-26"
 text = "الراجل سبقنى أهو وقال مية مية<br />جايب مخبر وضابط ومواطن<br />بس قفا الضابط ده عاوز يتلدع 60 قفا على غفلة"
 archived = "2007-04-30"
 capture_url = "https://web.archive.org/web/20070430031730/http://masr.20at.com:80/newArticle.php?sid=9954"
@@ -26,6 +29,7 @@ capture_url = "https://web.archive.org/web/20070430031730/http://masr.20at.com:8
 order = 3
 subject = "الي اولاد البلد انتم رجال الغد"
 author = "رامز عباس"
+posted = "2007-04-26"
 text = "اصدقائنا المحترمين اولاد البلد الصحافه الصح كنت منذ فترات اتضايق لغلق التعليقات وها انا اهنئي وبشدة التصميم الجديد الرائع للغايه بجد واتمني عودة زملائنا الفرسان البراء اشرف ودعاء الشامي ورضوي وعمرو واتمني انكم تفرضوا حاجه لوائل عباس الوعي المصري واشكركم لاهتمامكم بنا وبثقافتنا وياريت يكون هناك بند للمقترحات وان نفذت بجهدكم التنويه للقارئي الالكتوني الموقر كصاحب للفكرة وايضا افسحوا المجال لمواهب الشباب الصحفينين بكل الجرائد دول بيكتبوا في بعض الاحيان بابداع اكرمكم الله ولاد البلد انا سعيد بالموضوعات والتصميم وانتم فعلا هتكونوا عايزين ايه اكتر من سعادتنا"
 archived = "2007-04-30"
 capture_url = "https://web.archive.org/web/20070430031730/http://masr.20at.com:80/newArticle.php?sid=9954"
@@ -34,6 +38,7 @@ capture_url = "https://web.archive.org/web/20070430031730/http://masr.20at.com:8
 order = 4
 subject = "ايه ياعم هندى .. ده كلام مدونات مش صحافه !!"
 author = "بيبو"
+posted = "2007-04-26"
 text = "طبعا الموضوع معمول فيه مجهود لا انكر بس ... و عرفنا ان ليك مصادر واصله من المخبرين و ضباط امن الدوله .. ماشى بس انا حسيت انك بتحكى حكايه فى مدونه ... عارف هاتزعل بس عادى يعنى ... انا شايف انك كنت جبت رأى حد نفسى يحلل موضوع الاهانه بالضرب على القفا و دلالته و سبب النشوه التى تعترى المخبر \" السادى \" و هو بيقولك طاطى يااااااض"
 archived = "2007-04-30"
 capture_url = "https://web.archive.org/web/20070430031730/http://masr.20at.com:80/newArticle.php?sid=9954"
@@ -42,6 +47,7 @@ capture_url = "https://web.archive.org/web/20070430031730/http://masr.20at.com:8
 order = 5
 subject = "القفا"
 author = "البلدانى"
+posted = "2007-04-27"
 text = "لية الاهتمام بالقفا مافية حاجات تانية كتير قوى تستحق الاهتمام<br />مثلا المعدة ولية عايزة تاكل هم<br />والرجلين ممكن ينضربوا بالفلقة<br />والايدين ممكن الضرب عليهم ونزع الاظافر<br />والضهر ينضرب بالكرباج<br />وممكن نبعت ناس ياخدوا دورة تدريبية فى القعاد على الخازوق<br />لازم يبقى فية تقدم"
 archived = "2007-04-30"
 capture_url = "https://web.archive.org/web/20070430031730/http://masr.20at.com:80/newArticle.php?sid=9954"
@@ -50,12 +56,31 @@ capture_url = "https://web.archive.org/web/20070430031730/http://masr.20at.com:8
 order = 6
 subject = "ابو يوسف"
 author = "ممكن تورينا الصحافة"
+posted = "2007-04-27"
 text = "يا عم بيبو<br />هو ده اسمك ولا انت خايف تقول اسمك ممكن تورينا انت الشغل الصحافة<br />عمال تدخل في كل موضوع وناقص تتف علي الموقع<br />لو مش عجبك متعلقش<br />بيبو يا حبيبي اسمك يا عيني بيبو يختي كميلة اندغة اندغة"
 archived = "2007-04-30"
 capture_url = "https://web.archive.org/web/20070430031730/http://masr.20at.com:80/newArticle.php?sid=9954"
 
 [[comments]]
 order = 7
+subject = "ياناس ياهوووه ملعون ابوه"
+author = "ديمة"
+posted = "2007-04-27"
+text = "بجد يلعن ويحرق وبيعت لكل واحد منهم اللى يضربهم ببلغة قديمة على قفاهم المصدى<br />وقول لمحمد وغيره ما يزعلش ومايحزنش وقفاه غالى علينا<br />بجد"
+archived = "2007-04-30"
+capture_url = "https://web.archive.org/web/20070430031730/http://masr.20at.com:80/newArticle.php?sid=9954"
+
+[[comments]]
+order = 8
+subject = "مبروك"
+author = "دكتور عادل"
+posted = "2007-04-27"
+text = "مبروك عليكم الموقع والتصميم والى الامام"
+archived = "2010-03-14"
+capture_url = ""
+
+[[comments]]
+order = 9
 subject = "مبروك"
 author = "دكتور عادل"
 text = "مبروك عليكم الموقع والتصميم والى الامام"
@@ -63,17 +88,10 @@ archived = "2007-04-30"
 capture_url = "https://web.archive.org/web/20070430031730/http://masr.20at.com:80/newArticle.php?sid=9954"
 
 [[comments]]
-order = 8
-subject = "ياناس ياهوووه ملعون ابوه"
-author = "ديمة"
-text = "بجد يلعن ويحرق وبيعت لكل واحد منهم اللى يضربهم ببلغة قديمة على قفاهم المصدى<br />وقول لمحمد وغيره ما يزعلش ومايحزنش وقفاه غالى علينا<br />بجد"
-archived = "2007-04-30"
-capture_url = "https://web.archive.org/web/20070430031730/http://masr.20at.com:80/newArticle.php?sid=9954"
-
-[[comments]]
-order = 9
+order = 10
 subject = "القفا بيستحمل كتيييير اوى فى الزمن دة"
 author = "احمد ابوصالح_صحفى معارض"
+posted = "2007-05-08"
 text = "معنديش ابلغ من تعليق محمود عبد العزيز فى فيلم الكيف وهو بيقلوة كلة بيغنى للعيون والشفايف والرموش محدش غنا للافة فرد قال مع انة بيستحمل كتير اوى فى الزمن دة ههههههه"
 archived = "2007-05-27"
 capture_url = "https://web.archive.org/web/20070527000315/http://masr.20at.com:80/newArticle.php?sid=9954"

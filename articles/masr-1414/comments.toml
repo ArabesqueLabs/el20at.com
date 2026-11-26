@@ -126,15 +126,6 @@ capture_url = "https://web.archive.org/web/20070109115754/http://masr.20at.com:8
 
 [[comments]]
 order = 14
-subject = "يا مصري انت ***"
-author = "اهلاوي"
-posted = "2007-01-08"
-text = "اولا تحية تقدير للاعبي النادى الاسماعيلى اللى فعلا ادوا مباراة جامدة جدا استحقوا عليها كل التقدير والاحترام .<br />طبعا يا مصري انت مستنى تعرف انت ليه حمار .<br />هو فيه حاجة اسمها الاهلى القاهرى يا حمار ؟؟؟؟<br />فكر فيها كده وانت هتلاقي نفسك حمار كبيييييييييييير .<br />تحياتى لبرازيل الكرةالمصرية"
-archived = "2007-01-15"
-capture_url = "https://web.archive.org/web/20070115230330/http://masr.20at.com:80/article.php?sid=1414"
-
-[[comments]]
-order = 15
 subject = "هههههههههههههههههه"
 author = "فهد"
 posted = "2007-01-09"
@@ -143,7 +134,7 @@ archived = "2007-01-09"
 capture_url = "https://web.archive.org/web/20070109115754/http://masr.20at.com:80/article.php?sid=1414"
 
 [[comments]]
-order = 16
+order = 15
 subject = "ليفى - من تل ابيب"
 author = "ليفى"
 posted = "2007-01-09"
@@ -152,7 +143,7 @@ archived = "2007-01-09"
 capture_url = "https://web.archive.org/web/20070109115754/http://masr.20at.com:80/article.php?sid=1414"
 
 [[comments]]
-order = 17
+order = 16
 subject = "يا ليفى"
 author = "يا ليفى انتم كويسين قوى فى القمار واخراج الفلوس بالفايظ واساتذة فى البنوك"
 posted = "2007-01-09"
@@ -161,7 +152,7 @@ archived = "2007-01-10"
 capture_url = "https://web.archive.org/web/20070110211636/http://masr.20at.com:80/article.php?sid=1414"
 
 [[comments]]
-order = 18
+order = 17
 subject = "صحافه صفراء و سوداء"
 author = "شوفتم اللى جرا فى الاسماعيليه و لا كان الاسماعيلى خد كاس افريقيا ، ولا الجرايد و الكلام اللى كتباه ، انهيار الاهلى ، الاسماعيلى ذل الاهلى ... وغيره"
 posted = "2007-01-10"
@@ -170,7 +161,7 @@ archived = "2007-01-10"
 capture_url = "https://web.archive.org/web/20070110211636/http://masr.20at.com:80/article.php?sid=1414"
 
 [[comments]]
-order = 19
+order = 18
 subject = "رساله عاجله"
 author = "ابراهيم سعيد"
 posted = "2007-01-10"
@@ -179,7 +170,7 @@ archived = "2007-01-10"
 capture_url = "https://web.archive.org/web/20070110211636/http://masr.20at.com:80/article.php?sid=1414"
 
 [[comments]]
-order = 20
+order = 19
 subject = "لو لم اكن اهلاويا لوددت ان اكون اهلاويا"
 author = "نيفين نيفى نوفا"
 posted = "2007-01-10"
@@ -188,7 +179,7 @@ archived = "2007-01-10"
 capture_url = "https://web.archive.org/web/20070110211636/http://masr.20at.com:80/article.php?sid=1414"
 
 [[comments]]
-order = 21
+order = 20
 subject = "زملكاااااااااااااااااااااااااااوي"
 author = "محمد"
 posted = "2007-01-10"
@@ -197,7 +188,7 @@ archived = "2007-01-10"
 capture_url = "https://web.archive.org/web/20070110211636/http://masr.20at.com:80/article.php?sid=1414"
 
 [[comments]]
-order = 22
+order = 21
 subject = "قذائف لها العجب"
 author = "ميتو"
 posted = "2007-01-11"
@@ -206,7 +197,7 @@ archived = "2007-01-10"
 capture_url = "https://web.archive.org/web/20070110211636/http://masr.20at.com:80/article.php?sid=1414"
 
 [[comments]]
-order = 23
+order = 22
 subject = "دمياط"
 author = "عمر حسن"
 posted = "2007-01-17"
@@ -215,7 +206,7 @@ archived = "2007-01-21"
 capture_url = "https://web.archive.org/web/20070121084543/http://masr.20at.com:80/article.php?sid=1414"
 
 [[comments]]
-order = 24
+order = 23
 subject = "الاهلى حبيب قلبى"
 author = "محمد عرفات"
 posted = "2007-01-17"
@@ -224,7 +215,7 @@ archived = "2007-01-21"
 capture_url = "https://web.archive.org/web/20070121084543/http://masr.20at.com:80/article.php?sid=1414"
 
 [[comments]]
-order = 25
+order = 24
 subject = "مبروك للاسماعيلى"
 author = "ابومصطفى"
 posted = "2007-01-23"

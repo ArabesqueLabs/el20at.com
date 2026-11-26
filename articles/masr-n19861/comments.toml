@@ -1,6 +1,23 @@
 [[comments]]
 order = 0
 subject = "سكة السلامة"
+posted = "2009-02-09"
+text = "اعمل لاخرتك كانك تموت غدا"
+archived = "2010-03-14"
+capture_url = ""
+
+[[comments]]
+order = 1
+subject = "سكة السلامة"
 text = "اعمل لاخرتك كانك تموت غدا"
 archived = "2009-02-13"
 capture_url = "https://web.archive.org/web/20090213170658/http://masr.20at.com:80/newArticle.php?sid=19861"
+
+[[comments]]
+order = 2
+subject = "الف سلامه ونتمنى لك  الشفاء"
+author = "ahmed"
+posted = "2009-03-11"
+text = "الف سلمه عليك ونتمنى لك الشفاء وتعود لحياه افضل مما كانت"
+archived = "2010-03-14"
+capture_url = ""

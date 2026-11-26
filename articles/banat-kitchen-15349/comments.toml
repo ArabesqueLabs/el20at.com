@@ -12,6 +12,15 @@ order = 1
 subject = ""
 author = "doby"
 posted = "2010-02-16"
-text = "ممكن بدل الاجنحه تكون صدور او وراك"
+text = "ممكن بدل الاجنحه تكون صدور او وراك :roll:"
 archived = "2010-02-20"
 capture_url = "https://web.archive.org/web/20100220031757/http://www.20at.com:80/banat/kitchen/15349-2010-02-16-11-48-15.html"
+
+[[comments]]
+order = 2
+subject = ""
+author = "basbosa m"
+posted = "2010-03-02"
+text = "هية صلصة الباربيكيو ممكن القيها جاهزة فى السوبر ماركت ولا مش بتتباع لازم اعملها بنفسي"
+archived = "2010-03-14"
+capture_url = ""

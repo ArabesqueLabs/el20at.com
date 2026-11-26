@@ -1,5 +1,14 @@
 [[comments]]
 order = 0
+subject = "لا ضغوط داخلية ولا خارجية - دى نظام بينهار بسبب ال"
+author = "صاحب توك توك"
+posted = "2009-02-25"
+text = "مفيش اى ضغوط لا داخلية ولا خارجية<br />دى اشبة بثمرة معفنة على غصن شجرة ستسقطها الرياح على الارض مع اول عاصفة"
+archived = "2009-02-26"
+capture_url = "https://web.archive.org/web/20090226203726/http://masr.20at.com:80/newArticle.php?sid=20113"
+
+[[comments]]
+order = 1
 subject = ""
 author = "عادي"
 posted = "2009-02-25"
@@ -8,7 +17,7 @@ archived = "2009-03-06"
 capture_url = "https://web.archive.org/web/20090306173326/http://ana.20at.com:80/20at_training/masr/t7kyk/11263-2009-02-26-05-33-19.html"
 
 [[comments]]
-order = 1
+order = 2
 subject = ""
 author = "لور دكاش"
 posted = "2009-02-25"
@@ -17,15 +26,16 @@ archived = "2009-03-06"
 capture_url = "https://web.archive.org/web/20090306173326/http://ana.20at.com:80/20at_training/masr/t7kyk/11263-2009-02-26-05-33-19.html"
 
 [[comments]]
-order = 2
-subject = "لا ضغوط داخلية ولا خارجية - دى نظام بينهار بسبب الازمات الاقتصادية الرهيبة لانة باع الاصول وعايش على التسول"
-author = "صاحب توك توك"
-text = "مفيش اى ضغوط لا داخلية ولا خارجية<br />دى اشبة بثمرة معفنة على غصن شجرة ستسقطها الرياح على الارض مع اول عاصفة"
-archived = "2009-02-26"
-capture_url = "https://web.archive.org/web/20090226203726/http://masr.20at.com:80/newArticle.php?sid=20113"
+order = 3
+subject = "الوضع الحالي بيفكرني باخر ايام جورباتشوف"
+author = "مش جورباتشوف"
+posted = "2009-02-25"
+text = "فاكرين اخر ايام جورباتشوف"
+archived = "2010-03-14"
+capture_url = ""
 
 [[comments]]
-order = 3
+order = 4
 subject = "الوضع الحالي بيفكرني باخر ايام جورباتشوف"
 author = "مش جورباتشوف"
 text = "فاكرين اخر ايام جورباتشوف"

@@ -144,15 +144,6 @@ capture_url = "https://web.archive.org/web/20070112213344/http://masr.20at.com:8
 
 [[comments]]
 order = 16
-subject = "الى روضه"
-author = "ممكن تترجميلي السطر ده لحسن انا مش فاهم منه حاجه"
-posted = "2007-01-11"
-text = "هو انت تقدر تعاكس يااخ الهندى...زداحنا كنا...ولابلاش انت عارف(هههههه)"
-archived = "2007-01-12"
-capture_url = "https://web.archive.org/web/20070112213344/http://masr.20at.com:80/article.php?sid=1424"
-
-[[comments]]
-order = 17
 subject = "وحشاني يا نوفا"
 author = "ريما"
 posted = "2007-01-11"
@@ -161,7 +152,7 @@ archived = "2007-01-12"
 capture_url = "https://web.archive.org/web/20070112213344/http://masr.20at.com:80/article.php?sid=1424"
 
 [[comments]]
-order = 18
+order = 17
 subject = "روضه عبد الحميد"
 author = "الاخ او الاخت اللى بتقولى بتزودى التعليقات.اولا احتراما منى للى بيعلقوا فى موضوعى لازم ارد على تعليقتهم؛بجانب إن لو انا عايزة ازود التعليقات يبقى بكل بساطة معلقش بأسمى."
 posted = "2007-01-12"
@@ -170,7 +161,7 @@ archived = "2007-01-12"
 capture_url = "https://web.archive.org/web/20070112213344/http://masr.20at.com:80/article.php?sid=1424"
 
 [[comments]]
-order = 19
+order = 18
 subject = "إلي نيفين نيفى نوف"
 author = "محمد السيد"
 posted = "2007-01-12"
@@ -179,7 +170,7 @@ archived = "2007-01-12"
 capture_url = "https://web.archive.org/web/20070112213344/http://masr.20at.com:80/article.php?sid=1424"
 
 [[comments]]
-order = 20
+order = 19
 subject = "الى ريما ومحمد السيد"
 author = "نيفين نيفى نوفا"
 posted = "2007-01-13"
@@ -188,7 +179,7 @@ archived = "2007-01-17"
 capture_url = "https://web.archive.org/web/20070117161419/http://masr.20at.com:80/article.php?sid=1424"
 
 [[comments]]
-order = 21
+order = 20
 subject = "ابو يوسف"
 author = "لماذا التحامل"
 posted = "2007-01-13"
@@ -197,7 +188,7 @@ archived = "2007-01-17"
 capture_url = "https://web.archive.org/web/20070117161419/http://masr.20at.com:80/article.php?sid=1424"
 
 [[comments]]
-order = 22
+order = 21
 subject = "الحمدلله انا فيوزى ضرب من زمان"
 author = "مصرية"
 posted = "2007-01-24"
@@ -206,7 +197,7 @@ archived = "2007-01-27"
 capture_url = "https://web.archive.org/web/20070127215415/http://masr.20at.com:80/article.php?sid=1424"
 
 [[comments]]
-order = 23
+order = 22
 subject = "نسيت اقولكم حاجة"
 author = "مصرية"
 posted = "2007-01-24"
@@ -215,7 +206,7 @@ archived = "2007-01-27"
 capture_url = "https://web.archive.org/web/20070127215415/http://masr.20at.com:80/article.php?sid=1424"
 
 [[comments]]
-order = 24
+order = 23
 subject = "روضه عبد الحميد"
 author = "والله ضحكتينى يامصرية بجد"
 posted = "2007-01-24"

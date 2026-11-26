@@ -2,6 +2,7 @@
 order = 0
 subject = "ابو سمرة السكرة"
 author = "ديمة"
+posted = "2008-05-25"
 text = "هى الدنيا اذواق، بس انا شايفة باسم السمرة وسيم وشبه اسمه اسمر و ضحكته حلوة"
 archived = "2008-06-06"
 capture_url = "https://web.archive.org/web/20080606090711/http://masr.20at.com:80/newArticle.php?sid=15914"
@@ -10,6 +11,7 @@ capture_url = "https://web.archive.org/web/20080606090711/http://masr.20at.com:8
 order = 1
 subject = "خليكو فاكرين"
 author = "مش مهم"
+posted = "2008-06-01"
 text = "باسم سمرة الاسم دا لازم يعلم في السينما المصرية"
 archived = "2008-06-06"
 capture_url = "https://web.archive.org/web/20080606090711/http://masr.20at.com:80/newArticle.php?sid=15914"
@@ -17,14 +19,42 @@ capture_url = "https://web.archive.org/web/20080606090711/http://masr.20at.com:8
 [[comments]]
 order = 2
 subject = "ازيك يا مروه"
+author = "اكتب اسمك هنا"
+posted = "2008-06-04"
 text = "تتجوزي سواق توك توك"
-archived = "2008-06-06"
-capture_url = "https://web.archive.org/web/20080606090711/http://masr.20at.com:80/newArticle.php?sid=15914"
+archived = "2010-03-14"
+capture_url = ""
 
 [[comments]]
 order = 3
 subject = "تعليقى"
 author = "محمد غراب"
+posted = "2008-06-05"
 text = "فى الحقيقة الفنان باسم السمره , فنان محترم و اخلاقه عاليه<br />و ان شاء الله ليه مستقبل مبهر و احب اقوله الى الامام دايماً"
 archived = "2008-06-06"
 capture_url = "https://web.archive.org/web/20080606090711/http://masr.20at.com:80/newArticle.php?sid=15914"
+
+[[comments]]
+order = 4
+subject = "ازيك يا مروه"
+text = "تتجوزي سواق توك توك"
+archived = "2008-06-06"
+capture_url = "https://web.archive.org/web/20080606090711/http://masr.20at.com:80/newArticle.php?sid=15914"
+
+[[comments]]
+order = 5
+subject = "ضع عنوان التعليق"
+author = "اكتب اسمك هنا"
+posted = "2008-06-07"
+text = "تعرفي ايه عن باسم السمرة علشان تعملى معاه حوار فى موقع محترم<br />واضح ان الموقع لم<br />يا افندم ياريت تتعرفى اكتر على بيئة الممثل ده وظروف اكتشافه ودخوله مجال التمثيل ومن اكتشفه<br />حرام عليكم"
+archived = "2010-03-14"
+capture_url = ""
+
+[[comments]]
+order = 6
+subject = "لم لم"
+author = "قشطات"
+posted = "2008-06-08"
+text = "طبعا الموقع لم كفاية انه عنده مزه صاروخ زي ميرو كده قشطةةةةةةةةةةةةةةةةةةةةةةةةةة"
+archived = "2010-03-14"
+capture_url = ""

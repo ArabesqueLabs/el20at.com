@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ar">
     <title>أرشيف عشرينات - aaia-elfaki</title>
-    <subtitle>أرشيف محتوى بوابة عشرينات (فبراير ٢٠٠٤ – مارس ٢٠١٠): ٩٠١٣ مقالًا استعدناها من أرشيف الإنترنت.</subtitle>
+    <subtitle>أرشيف محتوى بوابة عشرينات (فبراير ٢٠٠٤ – مارس ٢٠١٠): ١٥٦٠٠ مقال استعدناها من أرشيف الإنترنت.</subtitle>
     <link rel="self" type="application/atom+xml" href="https://el20at.com/authors/aaia-elfaki/atom.xml"/>
     <link rel="alternate" type="text/html" href="https://el20at.com"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
@@ -27,7 +27,8 @@
         <link rel="alternate" type="text/html" href="https://el20at.com/articles/masr-n10253/"/>
         <id>https://el20at.com/articles/masr-n10253/</id>
         
-        <content type="html" xml:base="https://el20at.com/articles/masr-n10253/">&lt;p&gt;زحمة يا دنيا زحمة..&lt;/p&gt;
+        <content type="html" xml:base="https://el20at.com/articles/masr-n10253/">&lt;p&gt;أصله مولد.. ومش أي مولد .. ده مولد (سيدنا الحسين)&lt;/p&gt;
+&lt;p&gt;زحمة يا دنيا زحمة..&lt;/p&gt;
 &lt;p&gt;ودنيا غير الدنيا..&lt;/p&gt;
 &lt;p&gt;أكل وشرب ونوم وذكر وكمان رقص ومغنى..&lt;/p&gt;
 &lt;p&gt;واحد بيوزع رغيف وجواه حتة لحمة..&lt;/p&gt;

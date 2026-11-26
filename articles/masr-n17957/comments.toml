@@ -2,6 +2,7 @@
 order = 0
 subject = "الأسيوطي"
 author = "الأسيوطي بك"
+posted = "2008-10-20"
 text = "يا مطرقعة يا مروة بصراحة حوار لطيف ودمة خفيف زيك وزي رامز"
 archived = "2008-10-22"
 capture_url = "https://web.archive.org/web/20081022002959/http://masr.20at.com:80/newArticle.php?sid=17957"
@@ -10,30 +11,34 @@ capture_url = "https://web.archive.org/web/20081022002959/http://masr.20at.com:8
 order = 1
 subject = "حوار جامد اخر حاجة"
 author = "دودو"
+posted = "2008-10-20"
 text = "حلو اوي الحوار ده يا ميروووو وطريقة كتابته جميلة ومختلفة ومناسبة مع رامز جلال"
 archived = "2008-10-22"
 capture_url = "https://web.archive.org/web/20081022002959/http://masr.20at.com:80/newArticle.php?sid=17957"
 
 [[comments]]
 order = 2
-subject = "منحرف وشنكوتي"
-author = "مش رضوى حسن ولا مروى صلاح"
-text = "طيب منحرف وعرفناها<br />شنكوتي يعني ايه"
-archived = "2008-10-22"
-capture_url = "https://web.archive.org/web/20081022002959/http://masr.20at.com:80/newArticle.php?sid=17957"
-
-[[comments]]
-order = 3
 subject = "شنكوتي"
 author = "شنكوتى"
+posted = "2008-10-20"
 text = "شن شن شنكوتى اللى بيسهر وياه اصحابة في التليفون ويظبط في حبيبة صاحبة ويغدر بيه ويخون يبئا الواد ده شنكوتىىىىىىى"
 archived = "2008-10-22"
 capture_url = "https://web.archive.org/web/20081022002959/http://masr.20at.com:80/newArticle.php?sid=17957"
 
 [[comments]]
+order = 3
+subject = "منحرف وشنكوتي"
+author = "مش رضوى حسن ولا مروى صلاح"
+posted = "2008-10-20"
+text = "طيب منحرف وعرفناها<br />شنكوتي يعني ايه"
+archived = "2010-03-14"
+capture_url = ""
+
+[[comments]]
 order = 4
 subject = "مفيش داعي"
 author = "مش مهم"
+posted = "2008-10-21"
 text = "هههههههههههههههههههههههههههههه جامدة اخر حاجة يا مروة يا مزة"
 archived = "2008-10-22"
 capture_url = "https://web.archive.org/web/20081022002959/http://masr.20at.com:80/newArticle.php?sid=17957"
@@ -42,6 +47,15 @@ capture_url = "https://web.archive.org/web/20081022002959/http://masr.20at.com:8
 order = 5
 subject = "احمد عز فارس الصناعه"
 author = "احمد عز فارس الصناعه"
+posted = "2008-10-21"
 text = "جروب جديد على الفيس بوك اسمه<br />احمد عز فارس الصناعه<br />www.facebook.com/group.php?gid=28499404177"
+archived = "2008-10-22"
+capture_url = "https://web.archive.org/web/20081022002959/http://masr.20at.com:80/newArticle.php?sid=17957"
+
+[[comments]]
+order = 6
+subject = "منحرف وشنكوتي"
+author = "مش رضوى حسن ولا مروى صلاح"
+text = "طيب منحرف وعرفناها<br />شنكوتي يعني ايه"
 archived = "2008-10-22"
 capture_url = "https://web.archive.org/web/20081022002959/http://masr.20at.com:80/newArticle.php?sid=17957"

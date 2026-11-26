@@ -1,6 +1,7 @@
 [[comments]]
 order = 0
 subject = "التبن والبرسيم"
+posted = "2008-01-02"
 text = "متهيألي قطاع كبير من الشعب المصري حيعملوا زي تيتو ويلجأوا الى التبن والبرسيم"
 archived = "2008-01-04"
 capture_url = "https://web.archive.org/web/20080104034734/http://masr.20at.com:80/newArticle.php?sid=13658"
@@ -9,6 +10,7 @@ capture_url = "https://web.archive.org/web/20080104034734/http://masr.20at.com:8
 order = 1
 subject = "والتبن والبرسيم بتوع تيتو لهم دعم ؟"
 author = "نهرو"
+posted = "2008-01-02"
 text = "والدكتور نظيف عمل حسابة فى وضع رقم للدعم فى التبن والبرسيم - والا دى من غير دعم<br />تيتو طول عمرة بياكل سفلقة على حساب الوطنى - ومن غير ما يشتغل"
 archived = "2008-01-04"
 capture_url = "https://web.archive.org/web/20080104034734/http://masr.20at.com:80/newArticle.php?sid=13658"
@@ -16,6 +18,17 @@ capture_url = "https://web.archive.org/web/20080104034734/http://masr.20at.com:8
 [[comments]]
 order = 2
 subject = "ضع عنوان التعليق"
+author = "اكتب اسمك هنا"
+posted = "2008-01-03"
 text = "يابختك ياتيتو أقلها بتاكل برسيم وتبن وبتنام فى سلام - عقبالنا لما ناكل البرسيم والتبن"
 archived = "2008-01-04"
 capture_url = "https://web.archive.org/web/20080104034734/http://masr.20at.com:80/newArticle.php?sid=13658"
+
+[[comments]]
+order = 3
+subject = "يا بختك يا تيتو"
+author = "واحد"
+posted = "2008-01-04"
+text = "انت يا تيتو اى مواطن مصرى بيحسدك - علشان بتنام فى امان مش زى مصرى معرض للتالى<br />مباحث امن الدولة<br />المباحث الجنائية<br />المخبرين والامناء<br />محكمة الجنايات<br />المحكمة العسكرية<br />الشرطة العسكرية<br />الامن المركزى<br />شرطة المسطحات المائية<br />المدعى الاشتراكى<br />ادارة الكسب غير المشروع<br />مباحث التموين"
+archived = "2010-03-14"
+capture_url = ""

@@ -12,6 +12,24 @@ order = 1
 subject = ""
 author = "البدري"
 posted = "2009-04-21"
-text = "فكرة هايلة …<br />يا رب نشوف الخدمات كلها أون لاين كدة"
+text = "فكرة هايلة ....<br />يا رب نشوف الخدمات كلها أون لاين كدة :roll:"
 archived = "2009-04-23"
 capture_url = "https://web.archive.org/web/20090423062035/http://www.20at.com:80/masr/t7kyk/11810-2009-04-20-12-59-26.html"
+
+[[comments]]
+order = 2
+subject = ""
+author = "محمود دليفري الثورة"
+posted = "2010-02-26"
+text = "ارجو ان تكون مصاريف الشحن حسب المشوار مش ثابتة يا دكتور احمد"
+archived = "2010-03-14"
+capture_url = ""
+
+[[comments]]
+order = 3
+subject = ""
+author = "محمود دليفري الثورة"
+posted = "2010-02-26"
+text = "ارجو ان تكون مصاريف الشحن حسب المكان مش ثابتة يا دكتور احمد"
+archived = "2010-03-14"
+capture_url = ""

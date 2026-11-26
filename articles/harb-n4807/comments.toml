@@ -2,6 +2,7 @@
 order = 0
 subject = "غريبة ياشعبنا"
 author = "ميزززززو"
+posted = "2007-02-03"
 text = "أخاف تصير هذه الحالة ديدن في المجتمع السعودي.<br />هو كل ما يضيع حد ح ندور عليه بالدي ان ايه..<br />غريبة ياشعبنا العربي"
 archived = "2008-05-22"
 capture_url = "https://web.archive.org/web/20080522193513/http://www.harb.20at.com:80/newArticle.php?sid=4807"
@@ -10,6 +11,7 @@ capture_url = "https://web.archive.org/web/20080522193513/http://www.harb.20at.c
 order = 1
 subject = "اسكت ياميززززو"
 author = "ماجــــــــــــــــــد"
+posted = "2007-02-03"
 text = "اسكت ياميززززو وبطل انتقاد على فاضي<br />شكرررررررررررا ياعشرينات على الاهتمام بنا كسعودييييين.<br />يالله ننتظر المزيد"
 archived = "2008-05-22"
 capture_url = "https://web.archive.org/web/20080522193513/http://www.harb.20at.com:80/newArticle.php?sid=4807"
@@ -18,22 +20,25 @@ capture_url = "https://web.archive.org/web/20080522193513/http://www.harb.20at.c
 order = 2
 subject = "يسلموو"
 author = "فاتن"
+posted = "2007-02-04"
 text = "مقال حلوو جدا<br />الف شكر"
-archived = "2008-05-22"
-capture_url = "https://web.archive.org/web/20080522193513/http://www.harb.20at.com:80/newArticle.php?sid=4807"
+archived = "2010-03-14"
+capture_url = ""
 
 [[comments]]
 order = 3
 subject = "ضع عنوان التعليق"
 author = "هايمة"
+posted = "2007-02-07"
 text = "غريبة هم مشايخ الدين ان ايه ماعلقوا؟؟؟"
-archived = "2008-05-22"
-capture_url = "https://web.archive.org/web/20080522193513/http://www.harb.20at.com:80/newArticle.php?sid=4807"
+archived = "2010-03-14"
+capture_url = ""
 
 [[comments]]
 order = 4
-subject = "كده مش كده"
-author = "عبد الله atat_atat40@hotmail.com"
+subject = "كده  مش  كده"
+author = "عبد الله   atat_atat40@hotmail"
+posted = "2007-02-13"
 text = "السلام عليكم من المفروض ان يأتو بشخص وينادي في الشارع ويقول عيل تاه يولاد الحلاال اهههههه وعلي فكره الطريقه دي متجربه في الخليج يس ينده يصوت عالي عشان في واحد واقف بعييييييييد ويارب يسمع"
 archived = "2008-05-22"
 capture_url = "https://web.archive.org/web/20080522193513/http://www.harb.20at.com:80/newArticle.php?sid=4807"
@@ -42,13 +47,74 @@ capture_url = "https://web.archive.org/web/20080522193513/http://www.harb.20at.c
 order = 5
 subject = "طظ"
 author = "abdo_aa8@hotmail.com"
+posted = "2007-02-13"
+text = "السرم عليكم طظ في الخليج"
+archived = "2010-03-14"
+capture_url = ""
+
+[[comments]]
+order = 6
+subject = "ضع عنوان التعليق"
+author = "اكتب اسمك هنا"
+posted = "2007-02-20"
+text = "موضوع حلو"
+archived = "2010-03-14"
+capture_url = ""
+
+[[comments]]
+order = 7
+subject = "http://www.TheGrace.com"
+author = "TheGrace / النعمة"
+posted = "2007-10-12"
+text = "نتمنى لكم الفرح والسلام والمحبة لأن السلام افضل من الحرب والمحبة افضل من الكراهية كما ان النور أفضل من الظلمة<br />سلام لكم في محبة الله.نتأمل زياراتكم الكريمة لموقع النعمة موقع مجلة النعمة يقدم كلمة الله الكتاب المقدس الإنجيل رسالة السيد يسوع المسيح قراءات مختارة مواضيع مصيرية قصص واقعية شهادات شخصية ترانيم ممتازة ردود مؤكدة كتب بنّاءة رسوم تسالي تأملات يوميات"
+archived = "2010-03-14"
+capture_url = ""
+
+[[comments]]
+order = 8
+subject = "يسلموو"
+author = "فاتن"
+text = "مقال حلوو جدا<br />الف شكر"
+archived = "2008-05-22"
+capture_url = "https://web.archive.org/web/20080522193513/http://www.harb.20at.com:80/newArticle.php?sid=4807"
+
+[[comments]]
+order = 9
+subject = "ضع عنوان التعليق"
+author = "هايمة"
+text = "غريبة هم مشايخ الدين ان ايه ماعلقوا؟؟؟"
+archived = "2008-05-22"
+capture_url = "https://web.archive.org/web/20080522193513/http://www.harb.20at.com:80/newArticle.php?sid=4807"
+
+[[comments]]
+order = 10
+subject = "طظ"
+author = "abdo_aa8@hotmail.com"
 text = "السرم عليكم طظ في الخليج"
 archived = "2008-05-22"
 capture_url = "https://web.archive.org/web/20080522193513/http://www.harb.20at.com:80/newArticle.php?sid=4807"
 
 [[comments]]
-order = 6
+order = 11
 subject = "ضع عنوان التعليق"
 text = "موضوع حلو"
 archived = "2008-05-22"
 capture_url = "https://web.archive.org/web/20080522193513/http://www.harb.20at.com:80/newArticle.php?sid=4807"
+
+[[comments]]
+order = 12
+subject = ""
+author = "1765617@live.com"
+posted = "2009-05-12"
+text = "الموضوع لفتني لان انا بعد يتيمة وما عندي اهل وحاليا اعيش في دار ايتام في الامارات وما حد راضي يخبرني شي عن اهلي وحابة اعرف لكن ما اعرف منو بيساعدني ولا اكلم منو ولا كيف ابدا :cry:"
+archived = "2010-03-14"
+capture_url = ""
+
+[[comments]]
+order = 13
+subject = ""
+author = "1765617@live.com"
+posted = "2009-05-12"
+text = "الي يقدر يساعدني فهذا ايميلي 1765617@live.com"
+archived = "2010-03-14"
+capture_url = ""

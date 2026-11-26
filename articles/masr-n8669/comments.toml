@@ -16,46 +16,54 @@ capture_url = "https://web.archive.org/web/20070820100634/http://masr.20at.com:8
 
 [[comments]]
 order = 2
-subject = "المنصورة"
-author = "محمود العسيلي"
-text = "التنسيق علي جداااااااااااااااا"
-archived = "2008-07-22"
-capture_url = "https://web.archive.org/web/20080722190320/http://masr.20at.com:80/newArticle.php?sid=8669"
-
-[[comments]]
-order = 3
 subject = "الفيوم"
 author = "e_mail525@yahoo.com"
+posted = "2007-09-24"
 text = "الله يرحم التنسيق ويتغمده وحسبي الله ونعم الوكيل"
 archived = "2008-07-22"
 capture_url = "https://web.archive.org/web/20080722190320/http://masr.20at.com:80/newArticle.php?sid=8669"
 
 [[comments]]
-order = 4
-subject = "ضع عنوان التعليق"
-text = "منكم لله درجات زفت وتنسيق زبالة"
-archived = "2008-07-22"
-capture_url = "https://web.archive.org/web/20080722190320/http://masr.20at.com:80/newArticle.php?sid=8669"
+order = 3
+subject = "المنصورة"
+author = "محمود العسيلي"
+posted = "2007-09-24"
+text = "التنسيق علي جداااااااااااااااا"
+archived = "2010-03-14"
+capture_url = ""
 
 [[comments]]
-order = 5
+order = 4
 subject = "حراااااااااااااااااااام عليكم"
 author = "على اعاطف الخولى"
+posted = "2008-07-16"
 text = "لية كدة ضيعتوا املنا انا علمى رياضة وجايب 91 ادخل كلية اية منكم لله"
 archived = "2008-07-22"
 capture_url = "https://web.archive.org/web/20080722190320/http://masr.20at.com:80/newArticle.php?sid=8669"
 
 [[comments]]
+order = 5
+subject = "ضع عنوان التعليق"
+author = "اكتب اسمك هنا"
+posted = "2008-07-16"
+text = "منكم لله درجات زفت وتنسيق زبالة"
+archived = "2010-03-14"
+capture_url = ""
+
+[[comments]]
 order = 6
 subject = "ضع عنوان التعليق"
+author = "اكتب اسمك هنا"
+posted = "2008-07-16"
 text = "انتو عالم مفترية انتو ولاد كلاب كلكم"
-archived = "2008-07-22"
-capture_url = "https://web.archive.org/web/20080722190320/http://masr.20at.com:80/newArticle.php?sid=8669"
+archived = "2010-03-14"
+capture_url = ""
 
 [[comments]]
 order = 7
 subject = "منكم لله"
 author = "عبد الرحمن"
+posted = "2008-07-18"
 text = "حسبنا الله ونعم الوكيل ربنا ينتقم منكم ونشوف فيكم يوم اسود يطفى نارنا"
 archived = "2008-07-22"
 capture_url = "https://web.archive.org/web/20080722190320/http://masr.20at.com:80/newArticle.php?sid=8669"
@@ -64,6 +72,7 @@ capture_url = "https://web.archive.org/web/20080722190320/http://masr.20at.com:8
 order = 8
 subject = "اللهم انتقم لنا"
 author = "مريم"
+posted = "2008-07-18"
 text = "وزير التربية والتعليم ضيعنا فى الامتحانات ووزير التعليم العالى ضيعنا فى التنسيق منكم لله ربنا يستجيب دعواتنا عليكم ويخيب املكم ويحطم حياتكم ويشرد ولادكم ويارب نشوف بعينا انتقامه لنا منكم"
 archived = "2008-07-22"
 capture_url = "https://web.archive.org/web/20080722190320/http://masr.20at.com:80/newArticle.php?sid=8669"
@@ -72,20 +81,89 @@ capture_url = "https://web.archive.org/web/20080722190320/http://masr.20at.com:8
 order = 9
 subject = "المحلة"
 author = "محمد"
+posted = "2008-07-19"
 text = "التنسيق منخفض جدا والكليات أقل بكتير من السنين الماضية : الامتحانات تافهة ومتستاهلش كل دة يا ناس<br />طالب ثانوية عامة"
 archived = "2008-07-22"
 capture_url = "https://web.archive.org/web/20080722190320/http://masr.20at.com:80/newArticle.php?sid=8669"
 
 [[comments]]
 order = 10
-subject = "واحد من الناس اللــــــــــــــــــــــــــــــــــى؟"
-author = "@ المـــــــــــــــــــــــــــــــــصرى @"
+subject = "المنصورة"
+author = "محمود العسيلي"
+text = "التنسيق علي جداااااااااااااااا"
+archived = "2008-07-22"
+capture_url = "https://web.archive.org/web/20080722190320/http://masr.20at.com:80/newArticle.php?sid=8669"
+
+[[comments]]
+order = 11
+subject = "ضع عنوان التعليق"
+text = "منكم لله درجات زفت وتنسيق زبالة"
+archived = "2008-07-22"
+capture_url = "https://web.archive.org/web/20080722190320/http://masr.20at.com:80/newArticle.php?sid=8669"
+
+[[comments]]
+order = 12
+subject = "ضع عنوان التعليق"
+text = "انتو عالم مفترية انتو ولاد كلاب كلكم"
+archived = "2008-07-22"
+capture_url = "https://web.archive.org/web/20080722190320/http://masr.20at.com:80/newArticle.php?sid=8669"
+
+[[comments]]
+order = 13
+subject = "واحد من الناس اللـــــــــــــــــــــــــــــــــ"
+author = "@ المـــــــــــــــــــــــــ"
+posted = "2008-07-26"
 text = "انا لله وانا اليه راجعون انتقل الى رحمه الله ضمير وزير التربيه والتعليم والعزاء على مدارس الثانويه العامه وعـــــوضنا علــــــــــيك يـــــــــــــا رب وربنا ينتقم منهم قولو امــــــــــــين!!"
 archived = "2008-07-28"
 capture_url = "https://web.archive.org/web/20080728084954/http://masr.20at.com:80/newArticle.php?sid=8669"
 
 [[comments]]
-order = 11
+order = 14
+subject = "المنصورة"
+author = "محمد فخرى (((karizma))))"
+posted = "2008-07-26"
+text = "موضوع سااااااااااااااااااااااااااااااار جدااااا"
+archived = "2008-07-28"
+capture_url = "https://web.archive.org/web/20080728084954/http://masr.20at.com:80/newArticle.php?sid=8669"
+
+[[comments]]
+order = 15
+subject = "التنسيق فى ضياع"
+author = "أحمد"
+posted = "2008-07-26"
+text = "حرام عليكم أتقوا الله فينا دنتوا ليكم ولاد واحفاد.<br />إن شاء الله هتشوفوا أيام سوده. جزاء عملكم فينا.<br />ضيعتوا مستقبلنا. وأملنا. ربناينتقم منكم"
+archived = "2008-07-28"
+capture_url = "https://web.archive.org/web/20080728084954/http://masr.20at.com:80/newArticle.php?sid=8669"
+
+[[comments]]
+order = 16
+subject = "المنصورة"
+author = "السودااااااانى"
+posted = "2008-07-26"
+text = "لقد اسعدتمونى وشكراااا لكم"
+archived = "2010-03-14"
+capture_url = ""
+
+[[comments]]
+order = 17
+subject = "نتيجة تنسيق المرحلة الا ولى لعام 2008"
+author = "نفين محمد احمد"
+posted = "2008-07-27"
+text = "عايزين نعرف تنسيق المرحلةالاولى وهل تنسيق المرحلة الثانية يبدا من 89وينتهى عند 83"
+archived = "2008-07-28"
+capture_url = "https://web.archive.org/web/20080728084954/http://masr.20at.com:80/newArticle.php?sid=8669"
+
+[[comments]]
+order = 18
+subject = "التنسق"
+author = "نورهان عبد اللطيف ابوزيد"
+posted = "2008-07-27"
+text = "هل كلام نفين صحيح تنسيق المرحلة الثانية علمى هيبدا من 89 وينتهى عند 83<br />يارب الكلام دة يكون صحيح"
+archived = "2008-07-28"
+capture_url = "https://web.archive.org/web/20080728084954/http://masr.20at.com:80/newArticle.php?sid=8669"
+
+[[comments]]
+order = 19
 subject = "اتخوت لا زهقت من الثانويه واللى فيها اوووووووووووووووووووووووف"
 author = "مسطــــــــــــــــــــــــــــــول الثانويه العامه"
 text = "ههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههه اضحكو معايا هههههههههههههههه"
@@ -93,41 +171,9 @@ archived = "2008-07-28"
 capture_url = "https://web.archive.org/web/20080728084954/http://masr.20at.com:80/newArticle.php?sid=8669"
 
 [[comments]]
-order = 12
-subject = "المنصورة"
-author = "محمد فخرى (((karizma))))"
-text = "موضوع سااااااااااااااااااااااااااااااار جدااااا"
-archived = "2008-07-28"
-capture_url = "https://web.archive.org/web/20080728084954/http://masr.20at.com:80/newArticle.php?sid=8669"
-
-[[comments]]
-order = 13
+order = 20
 subject = "المنصورة"
 author = "السودااااااانى"
 text = "لقد اسعدتمونى وشكراااا لكم"
-archived = "2008-07-28"
-capture_url = "https://web.archive.org/web/20080728084954/http://masr.20at.com:80/newArticle.php?sid=8669"
-
-[[comments]]
-order = 14
-subject = "التنسيق فى ضياع"
-author = "أحمد"
-text = "حرام عليكم أتقوا الله فينا دنتوا ليكم ولاد واحفاد.<br />إن شاء الله هتشوفوا أيام سوده. جزاء عملكم فينا.<br />ضيعتوا مستقبلنا. وأملنا. ربناينتقم منكم"
-archived = "2008-07-28"
-capture_url = "https://web.archive.org/web/20080728084954/http://masr.20at.com:80/newArticle.php?sid=8669"
-
-[[comments]]
-order = 15
-subject = "نتيجة تنسيق المرحلة الا ولى لعام 2008"
-author = "نفين محمد احمد"
-text = "عايزين نعرف تنسيق المرحلةالاولى وهل تنسيق المرحلة الثانية يبدا من 89وينتهى عند 83"
-archived = "2008-07-28"
-capture_url = "https://web.archive.org/web/20080728084954/http://masr.20at.com:80/newArticle.php?sid=8669"
-
-[[comments]]
-order = 16
-subject = "التنسق"
-author = "نورهان عبد اللطيف ابوزيد"
-text = "هل كلام نفين صحيح تنسيق المرحلة الثانية علمى هيبدا من 89 وينتهى عند 83<br />يارب الكلام دة يكون صحيح"
 archived = "2008-07-28"
 capture_url = "https://web.archive.org/web/20080728084954/http://masr.20at.com:80/newArticle.php?sid=8669"

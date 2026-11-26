@@ -1,30 +1,43 @@
 [[comments]]
 order = 0
-subject = "هات من الاخر"
-author = "شرارة"
-text = "يبقى هنتهزم 4 الى واحد"
-archived = "2007-11-07"
-capture_url = "https://web.archive.org/web/20071107044707/http://masr.20at.com:80/newArticle.php?sid=12267"
-
-[[comments]]
-order = 1
 subject = "هههههههههه"
 author = "اهلاوي"
+posted = "2007-11-05"
 text = "هههههههههههههههههههههههههههههههههههههههههه"
 archived = "2007-11-07"
 capture_url = "https://web.archive.org/web/20071107044707/http://masr.20at.com:80/newArticle.php?sid=12267"
 
 [[comments]]
-order = 2
+order = 1
 subject = "ضع عنوان التعليق"
+author = "اكتب اسمك هنا"
+posted = "2007-11-05"
 text = "سيكون هذا دفعة كبيرة للأهلى لتحقيق الانتصار العظيم"
 archived = "2007-11-07"
 capture_url = "https://web.archive.org/web/20071107044707/http://masr.20at.com:80/newArticle.php?sid=12267"
 
 [[comments]]
-order = 3
+order = 2
 subject = "خالص التمنيات بفوز الاهلى"
 author = "ياسر معروف حافظ"
+posted = "2007-11-05"
 text = "نتمنى حضور السيد الرئيس ولعله يكون أكبر حافز لفوز الأهلى فوزا تاريخيا وصعوده الى كأس العالم للأنديه باليابان للمره الثالثه على التوالى"
+archived = "2007-11-07"
+capture_url = "https://web.archive.org/web/20071107044707/http://masr.20at.com:80/newArticle.php?sid=12267"
+
+[[comments]]
+order = 3
+subject = "هات من الاخر"
+author = "شرارة"
+posted = "2007-11-05"
+text = "يبقى هنتهزم 4 الى واحد"
+archived = "2010-03-14"
+capture_url = ""
+
+[[comments]]
+order = 4
+subject = "هات من الاخر"
+author = "شرارة"
+text = "يبقى هنتهزم 4 الى واحد"
 archived = "2007-11-07"
 capture_url = "https://web.archive.org/web/20071107044707/http://masr.20at.com:80/newArticle.php?sid=12267"

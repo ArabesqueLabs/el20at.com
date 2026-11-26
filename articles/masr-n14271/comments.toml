@@ -2,6 +2,7 @@
 order = 0
 subject = "موضوع ظريف"
 author = "سيفون باشا"
+posted = "2008-02-20"
 text = "وكمان مشهد لشباب بعد ما خلصو مشاهده فيلم في السيما في فيلم اوقات فراغ كان منظر مقرف<br />بس ليه كل المشاهد دي في الحمام وايه الغرض منها غير انهم يقريفونا وبس"
 archived = "2008-02-28"
 capture_url = "https://web.archive.org/web/20080228085018/http://masr.20at.com:80/newArticle.php?sid=14271"
@@ -10,6 +11,16 @@ capture_url = "https://web.archive.org/web/20080228085018/http://masr.20at.com:8
 order = 1
 subject = "موضوع حلو"
 author = "درش"
+posted = "2008-02-21"
 text = "في فيلم رغبة متوحشة ظهر محمود حميدة يقضي حاجته وسط الخرفان وعندما رأته نادية الجندي نظرت له نظرة جنسية"
 archived = "2008-02-28"
 capture_url = "https://web.archive.org/web/20080228085018/http://masr.20at.com:80/newArticle.php?sid=14271"
+
+[[comments]]
+order = 2
+subject = "ضع عنوان التعليق"
+author = "اللى ماتتسماش"
+posted = "2008-04-03"
+text = "التبول بقى سياسة"
+archived = "2010-03-14"
+capture_url = ""
