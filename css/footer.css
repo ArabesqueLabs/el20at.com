@@ -29,6 +29,10 @@
 .t9f__credit a { font-weight: 700; }
 .t9f__heart { color: #FF6B6B; }
 .t9f__top { opacity: 0.85; }
+.t9f__end { display: flex; align-items: center; gap: 16px; }
+.t9f__repo { display: inline-flex; opacity: 0.85; }
+.t9f__repo:hover, .t9f__repo:focus-visible { opacity: 1; }
+.t9f__repo svg { display: block; }
 .t9f__stripe { display: none; }
 
 @media (max-width: 52rem) {
