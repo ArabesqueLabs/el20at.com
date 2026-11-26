@@ -2,6 +2,33 @@
 order = 0
 subject = "ضع عنوان التعليق"
 author = "popo"
+posted = "2008-11-26"
+text = "الناس خلاص معندهاش دم"
+archived = "2010-03-14"
+capture_url = ""
+
+[[comments]]
+order = 1
+subject = "ضع عنوان التعليق"
+author = "popo"
 text = "الناس خلاص معندهاش دم"
 archived = "2008-12-17"
 capture_url = "https://web.archive.org/web/20081217103045/http://masr.20at.com:80/newArticle.php?sid=18537"
+
+[[comments]]
+order = 2
+subject = "ضع عنوان التعليق"
+author = "اكتب اسمك هنا"
+posted = "2008-12-25"
+text = "إن لم تستحي فافعل ما شئت"
+archived = "2010-03-14"
+capture_url = ""
+
+[[comments]]
+order = 3
+subject = "ضع عنوان التعليق"
+author = "اكتب اسمك هنا"
+posted = "2009-01-04"
+text = "عمل قانون لمنع التبول والتبرز في الاماكن العامة ، واذا كانت القوانين موجودة تتطبق بشكل واسع... وحين تنتشر الكثير من الاخبار عن مخالفات اعطيت للمتبولين والمتبرزين سيخاف الناس (حتى في الليل) من القيام بتلك العملية"
+archived = "2010-03-14"
+capture_url = ""

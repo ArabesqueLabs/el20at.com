@@ -423,15 +423,6 @@ capture_url = "https://web.archive.org/web/20060903023212/http://masr.20at.com:8
 
 [[comments]]
 order = 47
-subject = "احمد بدران"
-author = "احمد بدران"
-posted = "2006-08-12"
-text = "الصحفي وائل البراشي واحد من اصحاب الاقلام المستقلة التي تكشف الحقيقه اوبعض منها من خلال جو صحفي عام مسيطر عليه النفاق والموالسه والتضليل وتغييب الوعي وتحقيق سر الطبخه في الاعلام وهو سر البقاء والالتصاق بكرسي السلطه اى كان الوسيله والطريقه والنتيجه والخروج عن الهدف الاساسي لمهنه الصحافه وهو كشف الحقيقه للمواطن وليس ان تكون مخبرا او مبرراتي لاصحاب الكراسي وهذا لا يعجب المسئؤل لذلك اسهل وسيله عند الجماعه اياهم هو محاربه شرفاء الكلمه وتلفيق التهم لهم واغلاق صحفهم كما حدث مع ابراهيم عيسي والصحفي وائل الابراشي يقدم افضل برنامج في التلفزيون وهذا يقلقهم لان كل هدفهم ان نصبح قطيع صامت خائف كل همه العلاوه يا ريس يجب علي نقابه الصحفيين ان تدافع عن كل الصحفيين الشرفاء و تبتعد عن اسلوب الحسابات الذى يثبت فشله كل يوم والمثل بيقول الي متغطي بالحكومه عريان"
-archived = "2006-09-03"
-capture_url = "https://web.archive.org/web/20060903023212/http://masr.20at.com:80/article.php?sid=500&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
-
-[[comments]]
-order = 48
 subject = "الله ينصر المظلومين"
 author = "امواج الحب"
 posted = "2006-09-19"
@@ -440,7 +431,7 @@ archived = "2006-11-06"
 capture_url = "https://web.archive.org/web/20061106061548/http://masr.20at.com:80/article.php?sid=500"
 
 [[comments]]
-order = 49
+order = 48
 subject = "ما الفائده"
 author = "احمد بدران"
 posted = "2006-09-26"
@@ -449,7 +440,7 @@ archived = "2006-11-06"
 capture_url = "https://web.archive.org/web/20061106061548/http://masr.20at.com:80/article.php?sid=500"
 
 [[comments]]
-order = 50
+order = 49
 subject = "اريد الرد"
 author = "احمد احمد فتحى بدران"
 posted = "2006-09-26"
@@ -458,7 +449,7 @@ archived = "2006-11-06"
 capture_url = "https://web.archive.org/web/20061106061548/http://masr.20at.com:80/article.php?sid=500"
 
 [[comments]]
-order = 51
+order = 50
 subject = "القائمة السوداء"
 author = "رفيدة- رقية المحلاوي"
 posted = "2006-09-28"
@@ -467,7 +458,7 @@ archived = "2006-11-06"
 capture_url = "https://web.archive.org/web/20061106061548/http://masr.20at.com:80/article.php?sid=500"
 
 [[comments]]
-order = 52
+order = 51
 subject = "انه فعلا ابن بلد"
 author = "عبدالحميدمحمدخليل"
 posted = "2006-10-01"
@@ -476,7 +467,7 @@ archived = "2006-11-06"
 capture_url = "https://web.archive.org/web/20061106061548/http://masr.20at.com:80/article.php?sid=500"
 
 [[comments]]
-order = 53
+order = 52
 subject = "الله أكبر"
 author = "shymaa"
 posted = "2006-10-03"
@@ -485,7 +476,7 @@ archived = "2006-11-06"
 capture_url = "https://web.archive.org/web/20061106061548/http://masr.20at.com:80/article.php?sid=500"
 
 [[comments]]
-order = 54
+order = 53
 subject = "القائمة السوداء"
 author = "رفيدة ورقية المحلاوي"
 posted = "2006-10-04"
@@ -494,7 +485,7 @@ archived = "2006-11-06"
 capture_url = "https://web.archive.org/web/20061106061548/http://masr.20at.com:80/article.php?sid=500"
 
 [[comments]]
-order = 55
+order = 54
 subject = "الحقيقة"
 author = "ملكة بلا مملكة"
 posted = "2006-10-20"
@@ -503,7 +494,7 @@ archived = "2006-11-06"
 capture_url = "https://web.archive.org/web/20061106061548/http://masr.20at.com:80/article.php?sid=500"
 
 [[comments]]
-order = 56
+order = 55
 subject = "عزيزي وائل الابراشي ربنا معاك ويعينك"
 author = "رحاب صالح"
 posted = "2006-10-21"
@@ -512,7 +503,7 @@ archived = "2006-11-06"
 capture_url = "https://web.archive.org/web/20061106061548/http://masr.20at.com:80/article.php?sid=500"
 
 [[comments]]
-order = 57
+order = 56
 subject = "تحية مخلصة لكل شريف"
 author = "محمد علاء"
 posted = "2006-10-25"
@@ -521,7 +512,7 @@ archived = "2006-11-06"
 capture_url = "https://web.archive.org/web/20061106061548/http://masr.20at.com:80/article.php?sid=500"
 
 [[comments]]
-order = 58
+order = 57
 subject = "الرجل النزيه"
 author = "البتول"
 posted = "2006-11-04"
@@ -530,7 +521,7 @@ archived = "2006-11-06"
 capture_url = "https://web.archive.org/web/20061106061548/http://masr.20at.com:80/article.php?sid=500"
 
 [[comments]]
-order = 59
+order = 58
 subject = "مالناش غيره"
 author = "مواطنه مصريه"
 posted = "2006-11-16"
@@ -539,7 +530,7 @@ archived = "2006-11-17"
 capture_url = "https://web.archive.org/web/20061117210606/http://masr.20at.com:80/article.php?sid=500&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
 
 [[comments]]
-order = 60
+order = 59
 subject = "respect"
 author = "mohammed"
 posted = "2006-11-18"
@@ -548,7 +539,7 @@ archived = "2006-11-21"
 capture_url = "https://web.archive.org/web/20061121222623/http://masr.20at.com:80/article.php?sid=500"
 
 [[comments]]
-order = 61
+order = 60
 subject = "اللهم اكثر من امثالك يا وائل"
 author = "منال"
 posted = "2006-11-23"
@@ -557,7 +548,7 @@ archived = "2006-12-03"
 capture_url = "https://web.archive.org/web/20061203012317/http://masr.20at.com:80/article.php?sid=500"
 
 [[comments]]
-order = 62
+order = 61
 subject = "سجن الضمائر الحرة"
 author = "احمد سلامة"
 posted = "2006-11-25"
@@ -566,7 +557,7 @@ archived = "2006-12-03"
 capture_url = "https://web.archive.org/web/20061203012317/http://masr.20at.com:80/article.php?sid=500"
 
 [[comments]]
-order = 63
+order = 62
 subject = "فضفضة"
 author = "مصطفى جاهين"
 posted = "2006-11-25"
@@ -575,7 +566,7 @@ archived = "2006-12-03"
 capture_url = "https://web.archive.org/web/20061203012317/http://masr.20at.com:80/article.php?sid=500"
 
 [[comments]]
-order = 64
+order = 63
 subject = "السلام عليكم"
 author = "محمود"
 posted = "2006-11-26"
@@ -584,7 +575,7 @@ archived = "2006-12-03"
 capture_url = "https://web.archive.org/web/20061203012317/http://masr.20at.com:80/article.php?sid=500"
 
 [[comments]]
-order = 65
+order = 64
 subject = "رسالة الى رجل محترم"
 author = "منة الله"
 posted = "2006-11-27"
@@ -593,7 +584,7 @@ archived = "2006-12-03"
 capture_url = "https://web.archive.org/web/20061203012317/http://masr.20at.com:80/article.php?sid=500"
 
 [[comments]]
-order = 66
+order = 65
 subject = "راجل"
 author = "إيناس"
 posted = "2006-11-28"
@@ -602,7 +593,7 @@ archived = "2006-12-03"
 capture_url = "https://web.archive.org/web/20061203012317/http://masr.20at.com:80/article.php?sid=500"
 
 [[comments]]
-order = 67
+order = 66
 subject = "رجل من زمن الشرفاء"
 author = "ايمن"
 posted = "2006-11-30"
@@ -611,7 +602,7 @@ archived = "2006-12-03"
 capture_url = "https://web.archive.org/web/20061203012317/http://masr.20at.com:80/article.php?sid=500"
 
 [[comments]]
-order = 68
+order = 67
 subject = "الثوره الثانيه"
 author = "مواطن بيعشق تراب مصر"
 posted = "2006-11-30"
@@ -620,7 +611,7 @@ archived = "2006-12-03"
 capture_url = "https://web.archive.org/web/20061203012317/http://masr.20at.com:80/article.php?sid=500"
 
 [[comments]]
-order = 69
+order = 68
 subject = "هو بكم قد إنتصر...بفضل الله!!"
 author = "حمدى شجيع"
 posted = "2006-12-02"
@@ -629,7 +620,7 @@ archived = "2006-12-03"
 capture_url = "https://web.archive.org/web/20061203012317/http://masr.20at.com:80/article.php?sid=500"
 
 [[comments]]
-order = 70
+order = 69
 subject = "السعوديه"
 author = "د.محمد"
 posted = "2006-12-03"
@@ -638,7 +629,7 @@ archived = "2006-12-18"
 capture_url = "https://web.archive.org/web/20061218220559/http://masr.20at.com:80/article.php?sid=500&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
 
 [[comments]]
-order = 71
+order = 70
 subject = "لا حول ولا قوة الا بالله"
 author = "محمد البيومى"
 posted = "2006-12-04"
@@ -647,7 +638,7 @@ archived = "2006-12-18"
 capture_url = "https://web.archive.org/web/20061218220559/http://masr.20at.com:80/article.php?sid=500&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
 
 [[comments]]
-order = 72
+order = 71
 subject = "سا عدو اسرة من الانهيار"
 author = "رحاب مظلوم المنسى"
 posted = "2006-12-05"
@@ -656,7 +647,7 @@ archived = "2006-12-18"
 capture_url = "https://web.archive.org/web/20061218220559/http://masr.20at.com:80/article.php?sid=500&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
 
 [[comments]]
-order = 73
+order = 72
 subject = "هى كده"
 author = "ايمان سلامة"
 posted = "2006-12-09"
@@ -665,7 +656,7 @@ archived = "2006-12-18"
 capture_url = "https://web.archive.org/web/20061218220559/http://masr.20at.com:80/article.php?sid=500&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
 
 [[comments]]
-order = 74
+order = 73
 subject = "fdjhj"
 author = "fdjhj"
 posted = "2006-12-17"
@@ -674,7 +665,7 @@ archived = "2006-12-18"
 capture_url = "https://web.archive.org/web/20061218220559/http://masr.20at.com:80/article.php?sid=500&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
 
 [[comments]]
-order = 75
+order = 74
 subject = "الأستاذ الكبير عبد الحكيم الشامى"
 author = "ايهاب باشا"
 posted = "2006-12-18"
@@ -683,7 +674,7 @@ archived = "2006-12-18"
 capture_url = "https://web.archive.org/web/20061218220559/http://masr.20at.com:80/article.php?sid=500&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
 
 [[comments]]
-order = 76
+order = 75
 subject = "ازمة بلد"
 author = "سارة"
 posted = "2007-01-04"
@@ -692,7 +683,7 @@ archived = "2007-01-20"
 capture_url = "https://web.archive.org/web/20070120181831/http://masr.20at.com:80/article.php?sid=500"
 
 [[comments]]
-order = 77
+order = 76
 subject = "لا تستسلم الى الضغوط سير على بركة الله"
 author = "خالد احمد محمود"
 posted = "2007-01-14"

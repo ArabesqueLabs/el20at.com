@@ -1,6 +1,8 @@
 [[comments]]
 order = 0
 subject = "ضع عنوان التعليق"
+author = "اكتب اسمك هنا"
+posted = "2008-07-25"
 text = "tayeb soret logo 20at 3la el mawke3..feen soret elragel ??"
 archived = "2008-07-27"
 capture_url = "https://web.archive.org/web/20080727125018/http://masr.20at.com:80/newArticle.php?sid=16942"
@@ -9,6 +11,7 @@ capture_url = "https://web.archive.org/web/20080727125018/http://masr.20at.com:8
 order = 1
 subject = "أهلا وسهلا"
 author = "محمد حمدى"
+posted = "2008-07-25"
 text = "أحب أرحب بالجميل دائما أحمد المسلمانى .. وهو من الاعلاميين القلائل الى قدروا يعملوا مكانه كبيره فى عقل وقلب المشاهد من خلال التحليل الهادىء اكتر من الفرقعات الغوغائيه التى اصبحت مسيطره على اعلام هذه الفتره . تحياتى"
 archived = "2008-07-27"
 capture_url = "https://web.archive.org/web/20080727125018/http://masr.20at.com:80/newArticle.php?sid=16942"
@@ -17,6 +20,16 @@ capture_url = "https://web.archive.org/web/20080727125018/http://masr.20at.com:8
 order = 2
 subject = "سؤال"
 author = "محمد"
+posted = "2008-07-26"
 text = "مع احترامي الكامل لأحمد المسلماني أو غيره .. ارجو بلاش التضخيم واصباغ الاشخاص بالالقاب عمال على بطال<br />فليس كل من طلع في برنامج على التليفزيون يبقى اعلامي كبير والكاتب الكبير والكاتب الصحفي الكبير ... ارحمونا وياريت نبقى معتدلين في حياتنا وبلاش مبالغات."
 archived = "2008-07-27"
 capture_url = "https://web.archive.org/web/20080727125018/http://masr.20at.com:80/newArticle.php?sid=16942"
+
+[[comments]]
+order = 3
+subject = "كلمة حق"
+author = "هبــــة"
+posted = "2009-02-12"
+text = "الاستاذ أحمد الصحفى المعروف صاحب البرنامج الجرىء الطبعة الأولى يعتبر من الصحفيين القلائل الذين يقولون كلمة حق بدون مجاملة او محاباة .فعندما استمعت له لاول مرة شدنى القاءه وعرضه للقضايا وتحليلها<br />فهو من رجال هذه الامة الذين سيأتى النصر على ايديهم<br />فالله اسأل ان يرزقه الاخلاص فى القول والعمل"
+archived = "2010-03-14"
+capture_url = ""

@@ -2,6 +2,15 @@
 order = 0
 subject = "كتك نيلة"
 author = "أحمد المصري"
+posted = "2008-07-09"
+text = "على رأى مارى منيب \"كتك نيلللة\""
+archived = "2010-03-14"
+capture_url = ""
+
+[[comments]]
+order = 1
+subject = "كتك نيلة"
+author = "أحمد المصري"
 text = "على رأى مارى منيب \\\"كتك نيلللة\\\""
 archived = "2008-07-10"
 capture_url = "https://web.archive.org/web/20080710113034/http://masr.20at.com:80/newArticle.php?sid=16600"

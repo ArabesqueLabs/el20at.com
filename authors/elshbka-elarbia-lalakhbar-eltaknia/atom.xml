@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ar">
+    <title>أرشيف عشرينات - elshbka-elarbia-lalakhbar-eltaknia</title>
+    <subtitle>أرشيف محتوى بوابة عشرينات (فبراير ٢٠٠٤ – مارس ٢٠١٠): ١٥٦٠٠ مقال استعدناها من أرشيف الإنترنت.</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://el20at.com/authors/elshbka-elarbia-lalakhbar-eltaknia/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://el20at.com"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2006-04-15T00:00:00+00:00</updated>
+    <id>https://el20at.com/authors/elshbka-elarbia-lalakhbar-eltaknia/atom.xml</id>
+    <entry xml:lang="ar">
+        <title>إلى مستخدمي ويندوز &quot;98&quot; و &quot;مى&quot; الكرام</title>
+        <published>2006-04-15T00:00:00+00:00</published>
+        <updated>2006-04-15T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            الشبكة العربية للاخبار التقنية
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://el20at.com/articles/20at-latest-news-2017/"/>
+        <id>https://el20at.com/articles/20at-latest-news-2017/</id>
+        
+        <content type="html" xml:base="https://el20at.com/articles/20at-latest-news-2017/">&lt;p&gt;أنه كما جاء على موقع بيتا نيوز الإخباري تحديث أنظمتهم في أسرع وقت ممكن، وذلك لأن مايكروسوفت ستوقف الدعم التقني لهذه الأنظمة في موعد أقصاه 11 يوليو القادم، والذي سيشمل ملفات الحماية والتحديثات الأمنية.&lt;/p&gt;
+&lt;p&gt;إلى مستخدمي الكومبيوتر الكرام وخاصة مستخدمي 98 ومى (Millennium Edition) الكرام أيضا ... أصدرت مايكروسوفت بيان هام....&lt;/p&gt;
+&lt;p&gt;أنه كما جاء على موقع بيتا نيوز الإخباري تحديث أنظمتهم في أسرع وقت ممكن، وذلك لأن مايكروسوفت ستوقف الدعم التقني لهذه الأنظمة في موعد أقصاه 11 يوليو القادم، والذي سيشمل ملفات الحماية والتحديثات الأمنية.&lt;/p&gt;
+&lt;p&gt;وتعتبر هذه ليست المرة الأولى التي تعلن فيها مايكروسوفت هذا الإعلان، فلقد سبق ونشرت أن آخر موعد لدعم هذه الأنظمة هو 30 يونيو 2003 وفي 31 ديسمبر 2003 وفي 16 يناير 2004، إلا أنها فضلت التأجيل حتى 11 يوليو 2006 لتعطي فرصة أخيرة للمستخدمين الذين ما زالوا يستخدمون هذه الأنظمة القديمة.&lt;/p&gt;
+&lt;p&gt;وسوف تستمر الشركة في تقديم موضوعات الدعم لهذه الأنظمة عبر موقعها حتى 11 يوليو 2007، لكنها لن تقوم بإصدار أي تحديثات أمنية .&lt;/p&gt;
+&lt;p&gt;وأرجعت مايكروسوفت هذا القرار إلى ضرورة التغيير إلى الأنظمة الأحدث لأن مثل الأنظمة القديمة تعرض المستخدمين لمخاطر عديدة، ونصحت مايكروسوفت المستخدمين إلى التحديث إلى نظام التشغيل ويندوز إكس بي SP2.&lt;/p&gt;
+</content>
+        
+    </entry>
+</feed>

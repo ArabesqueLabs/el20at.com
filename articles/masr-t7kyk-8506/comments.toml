@@ -1,0 +1,25 @@
+[[comments]]
+order = 0
+subject = "good"
+posted = "2008-03-17"
+text = "fine"
+archived = "2010-03-14"
+capture_url = ""
+
+[[comments]]
+order = 1
+subject = "حاجة تفرح"
+author = "هدى"
+posted = "2008-04-02"
+text = "جميل إن ياسمين في السن الصغيرة دي يكون لها لون خاص بها مبهج ومعبر. يا ترى مصطفى حسين قال إيه؟"
+archived = "2010-03-14"
+capture_url = ""
+
+[[comments]]
+order = 2
+subject = "ضع عنوان التعليق"
+author = "هدى"
+posted = "2008-04-02"
+text = "قرأت رأي مصطفى حسين"
+archived = "2010-03-14"
+capture_url = ""

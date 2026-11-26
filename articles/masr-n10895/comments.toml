@@ -2,6 +2,15 @@
 order = 0
 subject = "ارجو اضافة ايميلي"
 author = "محمد"
+posted = "2007-07-07"
+text = "ارجو اضافة ايميلي sob3hy1950@yahoo.com"
+archived = "2010-03-14"
+capture_url = ""
+
+[[comments]]
+order = 1
+subject = "ارجو اضافة ايميلي"
+author = "محمد"
 text = "ارجو اضافة ايميلي sob3hy1950@yahoo.com"
 archived = "2007-08-18"
 capture_url = "https://web.archive.org/web/20070818212738/http://masr.20at.com:80/newArticle.php?sid=10895"

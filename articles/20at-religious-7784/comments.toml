@@ -1,0 +1,26 @@
+[[comments]]
+order = 0
+subject = "حجة حقيقية"
+author = "اكتب اسمك هنا"
+posted = "2007-12-12"
+text = "يعنى لو رحت احج هناك هتتحسبلى حجة يعنى و لا ايه"
+archived = "2010-03-14"
+capture_url = ""
+
+[[comments]]
+order = 1
+subject = "كيف العبها"
+author = "محمد"
+posted = "2008-10-05"
+text = "كيف العب اللعبه"
+archived = "2010-03-14"
+capture_url = ""
+
+[[comments]]
+order = 2
+subject = "ضع عنوان التعليق"
+author = "اكتب اسمك هنا"
+posted = "2008-12-03"
+text = "كيف العب اللعبه"
+archived = "2010-03-14"
+capture_url = ""

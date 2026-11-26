@@ -1,6 +1,8 @@
 [[comments]]
 order = 0
 subject = "ضع عنوان التعليق"
+author = "اكتب اسمك هنا"
+posted = "2009-02-21"
 text = "بصراحة، موضوع بايخ ومايستاهلش الاهتمام أصلاً .. اياكش يولعوا الاتنين بكبريت واحد .. قادر يا كريم"
 archived = "2009-02-23"
 capture_url = "https://web.archive.org/web/20090223083123/http://masr.20at.com:80/newArticle.php?sid=20060"

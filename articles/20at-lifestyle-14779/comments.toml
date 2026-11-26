@@ -3,6 +3,15 @@ order = 0
 subject = ""
 author = "الماجيك"
 posted = "2010-01-07"
-text = "بجد الموقع ده يستحق كل الشكر"
+text = ";-) بجد الموقع ده يستحق كل الشكر"
 archived = "2010-01-08"
 capture_url = "https://web.archive.org/web/20100108130150/http://www.20at.com:80/20at/lifestyle/14779-2010-01-06-12-28-32.html"
+
+[[comments]]
+order = 1
+subject = ""
+author = "Endless Love"
+posted = "2010-01-16"
+text = "فعلا موقع مفيد جدااااااااا"
+archived = "2010-03-14"
+capture_url = ""

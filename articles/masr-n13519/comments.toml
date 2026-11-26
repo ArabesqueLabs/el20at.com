@@ -1,7 +1,8 @@
 [[comments]]
 order = 0
-subject = "عيد ميلاد جرحي انا ):"
+subject = "عيد ميلاد جرحي انا   ):"
 author = "Cipher"
+posted = "2007-12-25"
 text = "عاوزينها تولع كمان بس عيب أوي انه شتم امير الغناء العربي ده ياما قدم للنادي و بيعمله أغنية اليومين دول زي إيهاب توفيق ماعمل اووو أهلاوي ."
 archived = "2008-01-18"
 capture_url = "https://web.archive.org/web/20080118103801/http://masr.20at.com:80/newArticle.php?sid=13519"
@@ -10,12 +11,21 @@ capture_url = "https://web.archive.org/web/20080118103801/http://masr.20at.com:8
 order = 1
 subject = "حلو قوي"
 author = "الشعنونة"
+posted = "2008-01-03"
+text = "الموضوع حلو ذي عوايدك يارب للامام دائما"
+archived = "2010-03-14"
+capture_url = ""
+
+[[comments]]
+order = 2
+subject = "حلو قوي"
+author = "الشعنونة"
 text = "الموضوع حلو ذي عوايدك يارب للامام دائما"
 archived = "2008-01-18"
 capture_url = "https://web.archive.org/web/20080118103801/http://masr.20at.com:80/newArticle.php?sid=13519"
 
 [[comments]]
-order = 2
+order = 3
 subject = "ااا"
 author = "http://sotmser22.blogspot.com/"
 text = "http://sotmser22.blogspot.com/"

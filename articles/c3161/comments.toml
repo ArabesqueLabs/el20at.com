@@ -9,6 +9,34 @@ capture_url = "https://web.archive.org/web/20070928082703/http://www.20at.com/ne
 [[comments]]
 order = 1
 subject = "ضع عنوان التعليق"
+author = "اكتب اسمك هنا"
 text = "شكرا لك يا هبة واتمنى ان اجد ابداعاتك بهذا المنتدى المتواضع لنرى النور بابداع قلمك الراقي<br />www.asamena.com/vb"
 archived = "2007-09-28"
 capture_url = "https://web.archive.org/web/20070928082703/http://www.20at.com/newArticle.php?sid=3161"
+
+[[comments]]
+order = 2
+subject = "ممتاز"
+author = "lord of romance"
+posted = "2007-10-02"
+text = "هذة القصة كانت من امتع التى قرئتها يوما"
+archived = "2010-03-14"
+capture_url = ""
+
+[[comments]]
+order = 3
+subject = "ضع عنوان التعليق"
+author = "اكتب اسمك هنا"
+posted = "2007-12-28"
+text = "cest un sujet vraiment excelent j'aime ce geni jazaka lahou ya akhi"
+archived = "2010-03-14"
+capture_url = ""
+
+[[comments]]
+order = 4
+subject = "محب برنارد شو"
+author = "adel saso"
+posted = "2008-10-09"
+text = "أنا من أشد المعجبين (ببرنارد شو )حقيقى المقال أكثر من رائع شكرا على المقال الممتع"
+archived = "2010-03-14"
+capture_url = ""

@@ -2,28 +2,49 @@
 order = 0
 subject = "حسني باراك"
 author = "وليد"
+posted = "2008-12-28"
 text = "حسني باراك الصهيوني ووزيره واراجوازاته هم المسئولون عن مجزرة غزه"
 archived = "2009-01-01"
 capture_url = "https://web.archive.org/web/20090101235657/http://masr.20at.com:80/newArticle.php?sid=19009"
 
 [[comments]]
 order = 1
-subject = "دور هزيل ومشبوة - علاج اى جرحى - نقتل القتيل ونمشى فى جنازتة"
+subject = "دور هزيل ومشبوة - علاج اى جرحى - نقتل القتيل ونمشى"
 author = "ايف"
+posted = "2008-12-28"
 text = "اللى اختشوا ماتوا<br />واللى عايزين يعملوا فيلم هندى فى شجاعتهم فى علاج المصابين فشلوا<br />اللى عايز يعالج يروح يعالج داخل مستشفيات غزة"
 archived = "2009-01-01"
 capture_url = "https://web.archive.org/web/20090101235657/http://masr.20at.com:80/newArticle.php?sid=19009"
 
 [[comments]]
 order = 2
-subject = "هو وزير الخارجية مش قال قبل كدة اللى هيعبر الحدود هنكسر رجلة"
+subject = "هو وزير الخارجية مش قال قبل كدة اللى هيعبر الحدود"
 author = "لية"
+posted = "2008-12-28"
 text = "الناس خايفين ييجوا مصابين بجرح يقوم وزير الخارجية يكسر رجليهم - خليهم بعيد مجروحين احس متتكسر رجليهم"
 archived = "2009-01-01"
 capture_url = "https://web.archive.org/web/20090101235657/http://masr.20at.com:80/newArticle.php?sid=19009"
 
 [[comments]]
 order = 3
+subject = "طبعا عند الجرحى سيتعرضون لاستجواب مباحث امن الدولة"
+author = "فلسطينى"
+posted = "2008-12-28"
+text = "ابعدوا عنا خلونا فى حالنا"
+archived = "2010-03-14"
+capture_url = ""
+
+[[comments]]
+order = 4
+subject = "إلى الأخ فلسطيني"
+author = "من السعودية"
+posted = "2008-12-30"
+text = "أي والله ،،،"
+archived = "2010-03-14"
+capture_url = ""
+
+[[comments]]
+order = 5
 subject = "طبعا عند الجرحى سيتعرضون لاستجواب مباحث امن الدولة - العسكرى شاليط مستخبى فين - وفين قيادات حماس واماكن تحركها وبتنام فين"
 author = "فلسطينى"
 text = "ابعدوا عنا خلونا فى حالنا"
@@ -31,7 +52,7 @@ archived = "2009-01-01"
 capture_url = "https://web.archive.org/web/20090101235657/http://masr.20at.com:80/newArticle.php?sid=19009"
 
 [[comments]]
-order = 4
+order = 6
 subject = "إلى الأخ فلسطيني"
 author = "من السعودية"
 text = "أي والله ،،،"

@@ -123,3 +123,11 @@ subject = "غادة"
 text = "ممكن حد يقول لي على موقع أنزل منه كليب لمباراة الذهبية؟؟؟؟؟؟؟"
 archived = "2004-10-22"
 capture_url = "https://web.archive.org/web/20041022142256/http://www.20at.com:80/article.php?sid=571"
+
+[[comments]]
+order = 18
+subject = "داربيضاء"
+author = "حكيم"
+text = "كنحب كرم"
+archived = "2010-03-14"
+capture_url = ""

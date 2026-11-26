@@ -487,14 +487,17 @@ capture_url = "https://web.archive.org/web/20061216072924/http://masr.20at.com:8
 [[comments]]
 order = 54
 subject = "بعد خراب مالطا"
+author = "اكتب اسمك هنا"
+posted = "2008-02-22"
 text = "بعد خراب مالطا عشرينات جاية تعمل تحقيقات صحفية<br />ههههههههههههههههههههههههههههههههه"
 archived = "2008-02-28"
 capture_url = "https://web.archive.org/web/20080228085023/http://masr.20at.com:80/newArticle.php?sid=8291"
 
 [[comments]]
 order = 55
-subject = "مقال في الجول"
+subject = "مقال في  الجول"
 author = "هاني العدوي"
+posted = "2008-02-22"
 text = "بجد أنتم مشكورين على المقال ده بقالي سنين مستحمل ريحة المكان ده لأنه طريق شغلي وبقول مش معقول المسئولين مناخيرهم خشب خصوصا لان في ضباط كتير في هذا المكان و أنا أساسا كنت شاكك في الضباط وكنت مستغرب مرور هذه السنوات من غير ما حد يكتب عنه"
 archived = "2008-02-28"
 capture_url = "https://web.archive.org/web/20080228085023/http://masr.20at.com:80/newArticle.php?sid=8291"

@@ -55,3 +55,12 @@ author = "انا كمان اقدر انضم ازى"
 text = "محمد الحداد"
 archived = "2006-11-02"
 capture_url = "https://web.archive.org/web/20061102143941/http://www.20at.com/article.php?sid=461"
+
+[[comments]]
+order = 8
+subject = "ضع عنوان التعليق"
+author = "اكتب اسمك هنا"
+posted = "2008-07-05"
+text = "بعض الناس فى الوقت الحالى ثعمل بكمبيوتر وده له تاثير على المهنة بشكل عام"
+archived = "2010-03-14"
+capture_url = ""

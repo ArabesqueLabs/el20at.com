@@ -12,3 +12,19 @@ author = "المصرين اسياد الووشو"
 text = "أرسل هذا التعليق بواسطة : bedom15"
 archived = "2008-10-11"
 capture_url = "https://web.archive.org/web/20081011103446/http://doha2006.20at.com:80/article.php?sid=4538"
+
+[[comments]]
+order = 2
+subject = "موضوع مش ظريف"
+author = "مش حلو"
+text = "مش معقولياعرينات ..موضوعاتكم بقت سخيفة جدا وملهاش طعم...انتو فين يا عشرينات؟؟؟"
+archived = "2010-03-14"
+capture_url = ""
+
+[[comments]]
+order = 3
+subject = "هرم مصر للووشو"
+author = "bedom15"
+text = "المصرين اسياد الووشو"
+archived = "2010-03-14"
+capture_url = ""

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ar">
     <title>أرشيف عشرينات - marasli-20at-balbnan</title>
-    <subtitle>أرشيف محتوى بوابة عشرينات (فبراير ٢٠٠٤ – مارس ٢٠١٠): ٩٠١٣ مقالًا استعدناها من أرشيف الإنترنت.</subtitle>
+    <subtitle>أرشيف محتوى بوابة عشرينات (فبراير ٢٠٠٤ – مارس ٢٠١٠): ١٥٦٠٠ مقال استعدناها من أرشيف الإنترنت.</subtitle>
     <link rel="self" type="application/atom+xml" href="https://el20at.com/authors/marasli-20at-balbnan/atom.xml"/>
     <link rel="alternate" type="text/html" href="https://el20at.com"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
@@ -21,7 +21,7 @@
         <link rel="alternate" type="text/html" href="https://el20at.com/articles/20at-politics-3105/"/>
         <id>https://el20at.com/articles/20at-politics-3105/</id>
         
-        <content type="html" xml:base="https://el20at.com/articles/20at-politics-3105/">&lt;figure&gt;&lt;img src=&quot;/media/templates/ja_teline_ii/images/printbutton.png&quot; alt=&quot;&quot; loading=&quot;lazy&quot;&gt;&lt;/figure&gt;
+        <content type="html" xml:base="https://el20at.com/articles/20at-politics-3105/">&lt;p&gt;قناة المستقبل إختارات أن تغطي من داخل المحطة وركزت الصورة على&lt;/p&gt;
 &lt;figure&gt;&lt;img src=&quot;/media/admins.20at.com/aly/mar2.jpg&quot; alt=&quot;&quot; loading=&quot;lazy&quot;&gt;&lt;/figure&gt;
 &lt;p&gt;لم يعد السؤال في لبنان هل نجح الإضراب أم لا، بل أضحى هل سيستمر أم سيتوقف...&lt;/p&gt;
 &lt;p&gt;على طول الأراضي اللبنانية إنتشر مناصرو المعارضة، يقطعون طريقا هنا، ويتجمهرون هناك ليوصلوا صوتهم إلى رئيس الحكومة فؤاد السنيورة..&lt;/p&gt;

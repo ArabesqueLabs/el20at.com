@@ -3,7 +3,7 @@ order = 0
 subject = ""
 author = "كامل ايلس"
 posted = "2009-10-13"
-text = "مقال رائع وجميل جدا وانا افضل متصفح opera"
+text = "مقال رائع وجميل جدا وانا افضل متصفح opera :roll:"
 archived = "2009-10-17"
 capture_url = "https://web.archive.org/web/20091017064630/http://www.20at.com:80/20at/3abkrino/13694-2009-10-13-08-08-59.html"
 
@@ -12,6 +12,15 @@ order = 1
 subject = ""
 author = "جيمي"
 posted = "2009-10-15"
-text = "الفاير فوكس لا يعلي عليه<br />فهو من اكثر المتصفحات راحة وأمان للمستخدم"
+text = "الفاير فوكس لا يعلي عليه<br />فهو من اكثر المتصفحات راحة وأمان للمستخدم :lol:"
 archived = "2009-10-17"
 capture_url = "https://web.archive.org/web/20091017064630/http://www.20at.com:80/20at/3abkrino/13694-2009-10-13-08-08-59.html"
+
+[[comments]]
+order = 2
+subject = ""
+author = "الميرو"
+posted = "2009-11-10"
+text = "منورين ع الموضوع بس كيف نمسح المواقع المخزن ة في الداكرة"
+archived = "2010-03-14"
+capture_url = ""

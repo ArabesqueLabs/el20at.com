@@ -2,6 +2,16 @@
 order = 0
 subject = "عاش يا هواري"
 author = "ايمان"
+posted = "2008-02-26"
 text = "عاش يا هواري بجد انت رائع<br />من موسيقى ياني الرائعة لل ........في الشارع<br />حرام عليك بجد<br />بس برافو يا رجالة عملتوها بجد"
 archived = "2008-04-01"
 capture_url = "https://web.archive.org/web/20080401064856/http://masr.20at.com:80/newArticle.php?sid=14265"
+
+[[comments]]
+order = 1
+subject = "going to see the minister"
+author = "مش اختراع مصري"
+posted = "2008-04-07"
+text = "الإنجليز من زمان بيستخدموا هذه المصطلحات. بيقولوا \\\"i\\'m going to see the minister\\\" لما يعوزوا يدخلوا الحمام"
+archived = "2010-03-14"
+capture_url = ""

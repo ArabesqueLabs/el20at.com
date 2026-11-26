@@ -2,13 +2,15 @@
 order = 0
 subject = "عفريته وبس"
 author = "عفريته"
+posted = "2008-01-07"
 text = "يا محمود يا جامددددددددددددددددد"
-archived = "2008-01-09"
-capture_url = "https://web.archive.org/web/20080109021625/http://masr.20at.com:80/newArticle.php?sid=13731"
+archived = "2010-03-14"
+capture_url = ""
 
 [[comments]]
 order = 1
 subject = "حتى التمثيل كمان بينطوا عليه"
+posted = "2008-01-08"
 text = "واحد خريج زراعة راح يشتغل ممثل<br />طيب وبتوع معهد التمثيل ومعهد الفنون المسرحية يشتغلوا ايه<br />المفروض يطلع قانون يحرم احتراف التمثيل الا لخريجي معهد التمثيل ومعهد الفنون المسرحية"
 archived = "2008-01-09"
 capture_url = "https://web.archive.org/web/20080109021625/http://masr.20at.com:80/newArticle.php?sid=13731"
@@ -17,6 +19,41 @@ capture_url = "https://web.archive.org/web/20080109021625/http://masr.20at.com:8
 order = 2
 subject = "الى عفريته هانم"
 author = "عفريته 2"
+posted = "2008-01-08"
+text = "هو ايه اللى جامد جدا بالظبط"
+archived = "2010-03-14"
+capture_url = ""
+
+[[comments]]
+order = 3
+subject = "عفريته وبس"
+author = "عفريته"
+text = "يا محمود يا جامددددددددددددددددد"
+archived = "2008-01-09"
+capture_url = "https://web.archive.org/web/20080109021625/http://masr.20at.com:80/newArticle.php?sid=13731"
+
+[[comments]]
+order = 4
+subject = "الى عفريته هانم"
+author = "عفريته 2"
 text = "هو ايه اللى جامد جدا بالظبط"
 archived = "2008-01-09"
 capture_url = "https://web.archive.org/web/20080109021625/http://masr.20at.com:80/newArticle.php?sid=13731"
+
+[[comments]]
+order = 5
+subject = "ربنا يوفقق"
+author = "الحلواني"
+posted = "2008-07-18"
+text = "التمثيل مش لازم يكون عن دراسة ومش كل اللي بيمثلو دارسين تمثيل كل اللي عايز اقولة ان محمود عبد العزيز ادي للفن كتتتتتتتتتتتتتتتتتر اوي ربنا يوفقق يا ابن اسكندرية"
+archived = "2010-03-14"
+capture_url = ""
+
+[[comments]]
+order = 6
+subject = ""
+author = "محمد"
+posted = "2009-08-20"
+text = "ليكونن من أمة محمد صلى الله عليه وسلم من يمسخ قردة وخنازير اللهم اجعلهم من يقولون على هذه المحرمات انها حلال ويصنعونها الفاسدين المفسدين"
+archived = "2010-03-14"
+capture_url = ""

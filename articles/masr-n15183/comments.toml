@@ -2,14 +2,16 @@
 order = 0
 subject = "...."
 author = "بسمه"
+posted = "2008-04-14"
 text = "شكرا عشرينات"
-archived = "2008-04-20"
-capture_url = "https://web.archive.org/web/20080420052616/http://masr.20at.com:80/newArticle.php?sid=15183"
+archived = "2010-03-14"
+capture_url = ""
 
 [[comments]]
 order = 1
 subject = "كنت عارفه"
 author = "محمود صبري"
+posted = "2008-04-18"
 text = "علي غرار اغنية شيرين المعروفة (كنت عارفة) اكتب هذا التعليق<br />لكن كنت عارف<br />ان الميعاد سوف يتم مده الي وقت لاحق لهذا لم ابعث بانتاجي من اجل هذه المسابقة حتي انفذ ما قررته بان ابعث في اخر وقت للمسابقة<br />ولي تعليق بسيط علي تعليق الانسة بسمة<br />شكرا ليه بقي؟"
 archived = "2008-04-20"
 capture_url = "https://web.archive.org/web/20080420052616/http://masr.20at.com:80/newArticle.php?sid=15183"
@@ -18,6 +20,33 @@ capture_url = "https://web.archive.org/web/20080420052616/http://masr.20at.com:8
 order = 2
 subject = "انتي فين؟"
 author = "محمود صبري"
+posted = "2008-04-18"
 text = "فين الاسم مصرية؟<br />ده الاسم اللي دخلت بيه انسة مش عارف اسمها<br />بس هي اللي كانت بترد علي كل تعليقاتي علي طول<br />ممكن لو حد يعرف هي مين يوصلها سلامي"
 archived = "2008-04-20"
 capture_url = "https://web.archive.org/web/20080420052616/http://masr.20at.com:80/newArticle.php?sid=15183"
+
+[[comments]]
+order = 3
+subject = "...."
+author = "بسمه"
+text = "شكرا عشرينات"
+archived = "2008-04-20"
+capture_url = "https://web.archive.org/web/20080420052616/http://masr.20at.com:80/newArticle.php?sid=15183"
+
+[[comments]]
+order = 4
+subject = "ياعم محمود"
+author = "الاسم مصريه"
+posted = "2008-04-28"
+text = "ايوه يامحمود<br />وصلنى سلامك وميرسى ليك وعلى فكره<br />بسمه والاسم مصريه ---> الاتنين واحد<br />وبقول شكرا على مد الفتره<br />علشان كنت عايزه ابعت تحقيق غير مقال الرأى اللى مش عاجب عشرينات<br />الا قولى ياحوده هو مفيش غيرنا مشتركين فى المسابقه؟"
+archived = "2010-03-14"
+capture_url = ""
+
+[[comments]]
+order = 5
+subject = "باين كده"
+author = "محمود صبري"
+posted = "2008-05-14"
+text = "ازيك يا بسمة<br />مش عارف والله بس باين كده<br />ممكن تبعتي تاني اميلك"
+archived = "2010-03-14"
+capture_url = ""

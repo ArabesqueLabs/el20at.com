@@ -1,6 +1,14 @@
 [[comments]]
 order = 0
 subject = "يا فرحتي"
+posted = "2008-12-20"
+text = "ارقصي يا تريزا الاهلي كسب"
+archived = "2010-03-14"
+capture_url = ""
+
+[[comments]]
+order = 1
+subject = "يا فرحتي"
 text = "ارقصي يا تريزا الاهلي كسب"
 archived = "2008-12-21"
 capture_url = "https://web.archive.org/web/20081221214808/http://masr.20at.com:80/newArticle.php?sid=18879"

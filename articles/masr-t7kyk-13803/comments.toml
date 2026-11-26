@@ -10,6 +10,15 @@ capture_url = "https://web.archive.org/web/20091026072901/http://www.20at.com:80
 [[comments]]
 order = 1
 subject = ""
+author = "شريف"
+posted = "2009-10-24"
+text = ":lol: :lol: :lol: :lol:"
+archived = "2010-03-14"
+capture_url = ""
+
+[[comments]]
+order = 2
+subject = ""
 author = "امن الدولة"
 posted = "2009-10-25"
 text = "نهاركم اسود<br />انتم عايزين تعطسوا<br />دى قضية امن دولة<br />العطس جريمة تؤدى الى العمل على قلب النظام والانضمام الى جماعة مندسة<br />ممنوع العطس الا فى البيت وفى الحمام"

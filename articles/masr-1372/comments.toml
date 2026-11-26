@@ -9,24 +9,6 @@ capture_url = "https://web.archive.org/web/20070107224903/http://masr.20at.com:8
 
 [[comments]]
 order = 1
-subject = "خلي البراء صاحي"
-author = "طيب الله يبارك لك يا عم براء خلي دماغك برضه صاحي معانا .. الواد اللي اسمه عماد الكبير اعترف بكل حاجة حصلت له في القسم في برنامج القاهرة اليوم ..وقال الشتايم باللفظ ..والغريب ان عمرو اديب موقفوش ..وسابه يقول قدام محاميه كل الالفاظ اللي اتشم بيها فعلا ..وهي شتايم بتبدأ بحروف (خ ...// ع// متــ..) ووصف بالظبط بالظبط فظاعة موضوع المقشة و قال الاوساخ الشواذ الكلاب بتوع الشرطة كانوا بيقولو ا له ايه ساعة ما كانوا بيعتدوا عليه ..."
-posted = "2006-12-28"
-text = "ما تصحى يا عم براء و متاخدش الكلام عن لسان حد.."
-archived = "2007-01-07"
-capture_url = "https://web.archive.org/web/20070107224903/http://masr.20at.com:80/article.php?sid=1372"
-
-[[comments]]
-order = 2
-subject = "خلي البراء صاحي صاحي صاحي"
-author = "طيب الله يبارك لك يا عم براء خلي دماغك برضه صاحي معانا .. الواد اللي اسمه عماد الكبير اعترف بكل حاجة حصلت له في القسم في برنامج القاهرة اليوم ..وقال الشتايم باللفظ ..والغريب ان عمرو اديب موقفوش ..وسابه يقول قدام محاميه كل الالفاظ اللي اتشم بيها فعلا ..وهي شتايم بتبدأ بحروف (خ ...// ع// متــ..) ووصف بالظبط بالظبط فظاعة موضوع المقشة و قال الاوساخ الشواذ الكلاب بتوع الشرطة كانوا بيقولو ا له ايه ساعة ما كانوا بيعتدوا عليه ..."
-posted = "2006-12-28"
-text = "ما تصحى يا عم براء و متاخدش الكلام عن لسان حد.."
-archived = "2007-01-07"
-capture_url = "https://web.archive.org/web/20070107224903/http://masr.20at.com:80/article.php?sid=1372"
-
-[[comments]]
-order = 3
 subject = "امتهان كرامة الانسان"
 author = "لا شىء فى الدنيا يعادل امتهان كرامة انسان"
 posted = "2006-12-28"
@@ -35,7 +17,7 @@ archived = "2007-01-07"
 capture_url = "https://web.archive.org/web/20070107224903/http://masr.20at.com:80/article.php?sid=1372"
 
 [[comments]]
-order = 4
+order = 2
 subject = "عذرا"
 author = "البراء أشرف"
 posted = "2006-12-28"
@@ -44,7 +26,7 @@ archived = "2007-01-07"
 capture_url = "https://web.archive.org/web/20070107224903/http://masr.20at.com:80/article.php?sid=1372"
 
 [[comments]]
-order = 5
+order = 3
 subject = "نصيحة غالية من أهل ثقة"
 author = "إيهاب دسوقى"
 posted = "2006-12-28"
@@ -53,7 +35,7 @@ archived = "2007-01-07"
 capture_url = "https://web.archive.org/web/20070107224903/http://masr.20at.com:80/article.php?sid=1372"
 
 [[comments]]
-order = 6
+order = 4
 subject = "رجالة"
 author = "الشاب ده لم ينكر الواقعة الا لما تعرض لضغوط من قبل الشرطة ..وتهديد بأنهم هيلفقوا له قضية اتجار في المخدرات ..وغيره وغيره...فخاف و سكت ..لكن لما اخوه اتاخد القسم بعدها..خاف وطلع يجري على بيت وزير الداخلية ..ونصحه أحدهم بأنه يصعد شكواه..وبالفعل اتفتح الموضوع تاني..و قال عماد الكبير على كل اللي تعرض له بالتفصيل..بالمناسبة الضابط وامين الشرطة بيتحقق معاهم دلوقت ..وتبين ثبوت واقعة الاعتداء على الشاب ده..."
 posted = "2006-12-29"
@@ -62,7 +44,7 @@ archived = "2007-01-07"
 capture_url = "https://web.archive.org/web/20070107224903/http://masr.20at.com:80/article.php?sid=1372"
 
 [[comments]]
-order = 7
+order = 5
 subject = "بدل من ان الشرطه فى خدمة الشعب الشرطه بتفسد الشعب"
 author = "باسم محمد سالم حسن"
 posted = "2006-12-29"
@@ -71,7 +53,7 @@ archived = "2007-01-07"
 capture_url = "https://web.archive.org/web/20070107224903/http://masr.20at.com:80/article.php?sid=1372"
 
 [[comments]]
-order = 8
+order = 6
 subject = "أول الغيث قطرة"
 author = "بهائى"
 posted = "2007-01-03"
@@ -80,7 +62,7 @@ archived = "2007-01-07"
 capture_url = "https://web.archive.org/web/20070107224903/http://masr.20at.com:80/article.php?sid=1372"
 
 [[comments]]
-order = 9
+order = 7
 subject = "لفت نظر لبراء"
 author = "مصراوي2"
 posted = "2007-01-04"
@@ -89,7 +71,7 @@ archived = "2007-01-07"
 capture_url = "https://web.archive.org/web/20070107224903/http://masr.20at.com:80/article.php?sid=1372"
 
 [[comments]]
-order = 10
+order = 8
 subject = "سؤال"
 author = "واحد بيسأل"
 posted = "2007-01-04"
@@ -98,7 +80,7 @@ archived = "2007-01-07"
 capture_url = "https://web.archive.org/web/20070107224903/http://masr.20at.com:80/article.php?sid=1372"
 
 [[comments]]
-order = 11
+order = 9
 subject = "الشرطه تلفق للشعب"
 author = "عبدالحميدمحمد"
 posted = "2007-01-09"

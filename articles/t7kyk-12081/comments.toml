@@ -21,7 +21,7 @@ order = 2
 subject = ""
 author = "Cipher"
 posted = "2009-05-16"
-text = "Viva Korba wallahy"
+text = "Viva Korba wallahy<br />8)"
 archived = "2009-05-21"
 capture_url = "https://web.archive.org/web/20090521175506/http://www.20at.com:80/t7kyk/12081-2009-05-16-10-17-05.html"
 
@@ -33,3 +33,12 @@ posted = "2009-05-17"
 text = "ana atmana na3mel mahragan el tamatem zay aspanya"
 archived = "2009-05-21"
 capture_url = "https://web.archive.org/web/20090521175506/http://www.20at.com:80/t7kyk/12081-2009-05-16-10-17-05.html"
+
+[[comments]]
+order = 4
+subject = ""
+author = "محمد"
+posted = "2009-08-20"
+text = "لماذا لم نرى أيضا في هذا اليوم ذكر الله سبحانه وتعالى سرا وجهرا"
+archived = "2010-03-14"
+capture_url = ""

@@ -2,6 +2,7 @@
 order = 0
 subject = "جميل يا مصطفى بس لو ركزت على الانتحار اكثر"
 author = "said"
+posted = "2007-11-13"
 text = "تقرير لذيذ جدا يا مصطفى، موفق دوما<br />امنيات بالمزيد من التحف<br />موفق<br />موفق<br />موفق<br />الثلاث كلمات الأخيرة شعر بس بنمط جديد<br />ههههه<br />هههه<br />ههه"
 archived = "2007-11-15"
 capture_url = "https://web.archive.org/web/20071115133930/http://masr.20at.com:80/newArticle.php?sid=12379"
@@ -10,6 +11,7 @@ capture_url = "https://web.archive.org/web/20071115133930/http://masr.20at.com:8
 order = 1
 subject = "مترو الانفاق يا مجمع العشاق"
 author = "اهلاوي دايما"
+posted = "2007-11-13"
 text = "موضوع لذيذ بجد واللقطات تحفة ربنا يوفقك يا بطل"
 archived = "2007-11-15"
 capture_url = "https://web.archive.org/web/20071115133930/http://masr.20at.com:80/newArticle.php?sid=12379"
@@ -18,6 +20,7 @@ capture_url = "https://web.archive.org/web/20071115133930/http://masr.20at.com:8
 order = 2
 subject = "حوار مع سواق المترو"
 author = "لبلب"
+posted = "2007-11-13"
 text = "الموضوع أكثر من رائع وبالذات الفيديو عايزين من ده كتير ياأستاذ مصطفى"
 archived = "2007-11-15"
 capture_url = "https://web.archive.org/web/20071115133930/http://masr.20at.com:80/newArticle.php?sid=12379"
@@ -25,6 +28,8 @@ capture_url = "https://web.archive.org/web/20071115133930/http://masr.20at.com:8
 [[comments]]
 order = 3
 subject = "فكرة في الجول"
+author = "اكتب اسمك هنا"
+posted = "2007-11-13"
 text = "عجبتني الفكرة أوي لانها جديدة إنما صياغة الموضوع بقى مقللكش ..تحفة يابني والله تحياتي لعشرينات ومستنيين المزيد من الأفكار المطرقعة"
 archived = "2007-11-15"
 capture_url = "https://web.archive.org/web/20071115133930/http://masr.20at.com:80/newArticle.php?sid=12379"
@@ -32,6 +37,8 @@ capture_url = "https://web.archive.org/web/20071115133930/http://masr.20at.com:8
 [[comments]]
 order = 4
 subject = "ازاي دخلت الكابينة"
+author = "اكتب اسمك هنا"
+posted = "2007-11-13"
 text = "أنا بجد عايز اسال انت دخلت الكابينة ازاي ؟يعني السواق صاحبك أو قريبك ولا اديتله فلوس عشان<br />يركبك معاه ولا ده شطارة وفهلوة"
 archived = "2007-11-15"
 capture_url = "https://web.archive.org/web/20071115133930/http://masr.20at.com:80/newArticle.php?sid=12379"
@@ -40,6 +47,7 @@ capture_url = "https://web.archive.org/web/20071115133930/http://masr.20at.com:8
 order = 5
 subject = "مكان ما مبارك وقف"
 author = "مصطفى الخطيب"
+posted = "2007-11-15"
 text = "الموضوع جميل ما شاء الله. أنا حبيت افكرك ان مبارك كان واقف مكانك اول ما المترو اشتغل. (:<br />للأمام يا درش"
 archived = "2007-12-23"
 capture_url = "https://web.archive.org/web/20071223175909/http://masr.20at.com:80/newArticle.php?sid=12379"
@@ -48,6 +56,7 @@ capture_url = "https://web.archive.org/web/20071223175909/http://masr.20at.com:8
 order = 6
 subject = "مشبعتش"
 author = "بيبو"
+posted = "2007-11-20"
 text = "حلو الموضوع يا مصطفي<br />فكرته كويسة<br />بس المشكلة ان انا مشبعتش انت كده اثرت فضولي اكثر وحاسس ان انا عايز اقابل الاجل وادردش معاه<br />كان نفسي تركز على انسانيات الموضوع بشكل فيه تفاصيل تخلينا نتخيل اننا راكبين معاكم<br />حتى لو عشرينات تنزل الموضوع على مرتين ثلاثة<br />بس فى النهايو شكرا يا صافي"
 archived = "2007-12-23"
 capture_url = "https://web.archive.org/web/20071223175909/http://masr.20at.com:80/newArticle.php?sid=12379"

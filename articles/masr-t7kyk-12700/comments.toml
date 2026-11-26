@@ -39,7 +39,7 @@ order = 4
 subject = ""
 author = "ايمان"
 posted = "2009-07-20"
-text = "اية السخافة دى…مش نخلى عندنا دم فى اللى بنكتبة"
+text = "اية السخافة دى.....مش نخلى عندنا دم فى اللى بنكتبة"
 archived = "2009-07-21"
 capture_url = "https://web.archive.org/web/20090721184706/http://www.20at.com:80/masr/t7kyk/12700-2009-07-19-12-08-37.html"
 
@@ -69,3 +69,12 @@ posted = "2009-09-11"
 text = "تامر حسني لأن كلاهما صوته معبر لكن بشرط إجادتهم للتجويد ومعرفتهم بقواعد التلاوة."
 archived = "2009-09-20"
 capture_url = "https://web.archive.org/web/20090920181801/http://www.20at.com:80/masr/t7kyk/12700-2009-07-19-12-08-37.html"
+
+[[comments]]
+order = 8
+subject = ""
+author = "انا تامر حسنى"
+posted = "2009-09-11"
+text = ":D :lol: :-) ;-) 8) :-| :-* :oops: :sad: :cry: :o :-? :-x :eek: :P :zzz :roll: :sigh:"
+archived = "2010-03-14"
+capture_url = ""

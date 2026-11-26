@@ -75,6 +75,33 @@ order = 8
 subject = ""
 author = "taboune mok"
 posted = "2009-05-22"
-text = "sir te7wa rak la 3ala9a al 9owad"
+text = "sir te7wa rak la 3ala9a al 9owad :lol:"
 archived = "2009-06-06"
 capture_url = "https://web.archive.org/web/20090606135729/http://www.20at.com:80/nashrat-9/2286.html"
+
+[[comments]]
+order = 9
+subject = ""
+author = "9wada dial zabb"
+posted = "2009-06-11"
+text = ":-* la 3ala9a<br />:P m9alwan hadchi :-x"
+archived = "2010-03-14"
+capture_url = ""
+
+[[comments]]
+order = 10
+subject = ""
+author = "r9och"
+posted = "2009-06-20"
+text = "hhhhhhhhhhhhhhhhhh ollah akh idiw m3ahoum jen l9issm lah mayjibouh"
+archived = "2010-03-14"
+capture_url = ""
+
+[[comments]]
+order = 11
+subject = ""
+author = "r9och"
+posted = "2009-06-20"
+text = "wwwwwwwwwwwwwwwwwwwwwwwwwhyawi ollah matjibou l bak hit ntouma rchacha"
+archived = "2010-03-14"
+capture_url = ""

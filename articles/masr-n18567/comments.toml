@@ -2,22 +2,25 @@
 order = 0
 subject = "مدون مع الفلسطنيين ضد الاسرائيليين"
 author = "سوسو"
+posted = "2008-11-24"
 text = "يبقى لازم قرايب الاسرائيليين يعتقلوة"
-archived = "2008-12-21"
-capture_url = "https://web.archive.org/web/20081221215622/http://masr.20at.com:80/newArticle.php?sid=18567"
+archived = "2010-03-14"
+capture_url = ""
 
 [[comments]]
 order = 1
 subject = "(يستاهل)"
-author = "ممدوح زكى زخارى جرجس_الاسكندرية-مصر"
+author = "ممدوح زكى زخارى جرجس_الاسكندري"
+posted = "2008-11-25"
 text = "هذا نتيجة اللعب (بالنار)<br />الف مليون مرة (يستاهل)<br />اكل العيش مسئولية ملحة<br />و السياسة مسئولية للى يفهم<br />و لا خلط بين اكل العيش و السياسة<br />فهناك فرق شاسع بينهم<br />لكن من لة عقل فليفهم<br />بلاش لعب (بالنار)"
 archived = "2008-12-21"
 capture_url = "https://web.archive.org/web/20081221215622/http://masr.20at.com:80/newArticle.php?sid=18567"
 
 [[comments]]
 order = 2
-subject = "المذكور فى رحلة ترفيهية فى فنادق الخمس نجوم تبع الداخلية"
+subject = "المذكور فى رحلة ترفيهية فى فنادق الخمس نجوم تبع ال"
 author = "س بس"
+posted = "2008-11-25"
 text = "الخدمة 5 نجوم وكل شىء تحت تمرة ابتداء من تليفزيون البلازما وشبكة النت السريع وافطار من هيلتون وغداء من الشيرتون<br />اما الفسح فعلى قمم جبال ابو زعبل اليانعة<br />انتم عاملين هيصة لية<br />الداخلية عايزة تكرمة وتقوم بالواجب - ناس لها بخت"
 archived = "2008-12-21"
 capture_url = "https://web.archive.org/web/20081221215622/http://masr.20at.com:80/newArticle.php?sid=18567"
@@ -26,6 +29,7 @@ capture_url = "https://web.archive.org/web/20081221215622/http://masr.20at.com:8
 order = 3
 subject = "اكل العيش مسئولية ملحة و السياسة مسئولية للى يفهم"
 author = "ممتاز"
+posted = "2008-11-26"
 text = "اكل العيش مسئولية ملحة و السياسة مسئولية للى يفهم<br />في دي عندك حق يا زخاري<br />ممتاز ممتاز ممتاز"
 archived = "2008-12-21"
 capture_url = "https://web.archive.org/web/20081221215622/http://masr.20at.com:80/newArticle.php?sid=18567"
@@ -34,6 +38,7 @@ capture_url = "https://web.archive.org/web/20081221215622/http://masr.20at.com:8
 order = 4
 subject = "ياارب"
 author = "يااارب"
+posted = "2008-11-30"
 text = "السلام عليكم<br />ربنا يفك أسره يارب<br />وينتقم كل ظالم"
 archived = "2008-12-21"
 capture_url = "https://web.archive.org/web/20081221215622/http://masr.20at.com:80/newArticle.php?sid=18567"
@@ -41,7 +46,25 @@ capture_url = "https://web.archive.org/web/20081221215622/http://masr.20at.com:8
 [[comments]]
 order = 5
 subject = "(خلى حماس تنفعك يا محتاس)"
-author = "ممدوح زكى زخارى جرجس_الاسكندرية-مصر"
+author = "ممدوح زكى زخارى جرجس_الاسكندري"
+posted = "2008-12-07"
 text = "ورينا شطارتك يا فالح<br />طيب خلى حماس تنفعك يا محتاس<br />جاتك مليون خيبة و نيلة ياهبل ياعبيط<br />اتلهى و شوفلك شغلة تاكلك عيش يا مغوار !!!<br />هااااااااهاااااااااهااااااااااااااااااااااااااااااهاااهاااااها<br />بلاش لعب مع (الكبار) يا عبيط !!!!!"
 archived = "2008-12-21"
 capture_url = "https://web.archive.org/web/20081221215622/http://masr.20at.com:80/newArticle.php?sid=18567"
+
+[[comments]]
+order = 6
+subject = "مدون مع الفلسطنيين ضد الاسرائيليين"
+author = "سوسو"
+text = "يبقى لازم قرايب الاسرائيليين يعتقلوة"
+archived = "2008-12-21"
+capture_url = "https://web.archive.org/web/20081221215622/http://masr.20at.com:80/newArticle.php?sid=18567"
+
+[[comments]]
+order = 7
+subject = "دة رأى الأغبياء"
+author = "بسلة مصرية مسلمة"
+posted = "2008-12-23"
+text = "يعنى مش كفاية عبىء غبائكم وجهلكم وسلبيتكم على البلد لاء وعلى العالم كله لاء كمان فكرين نفسكم بتفهموا وبتهجموا كمان زخارى بكل ادب وبدون ما اعدى حدود اللياقة احب اقولك اتلهى على عينك الف مرة<br />ربنا يفك اسرك يا محمد"
+archived = "2010-03-14"
+capture_url = ""

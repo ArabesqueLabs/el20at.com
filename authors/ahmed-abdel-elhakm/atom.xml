@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ar">
     <title>أرشيف عشرينات - ahmed-abdel-elhakm</title>
-    <subtitle>أرشيف محتوى بوابة عشرينات (فبراير ٢٠٠٤ – مارس ٢٠١٠): ٩٠١٣ مقالًا استعدناها من أرشيف الإنترنت.</subtitle>
+    <subtitle>أرشيف محتوى بوابة عشرينات (فبراير ٢٠٠٤ – مارس ٢٠١٠): ١٥٦٠٠ مقال استعدناها من أرشيف الإنترنت.</subtitle>
     <link rel="self" type="application/atom+xml" href="https://el20at.com/authors/ahmed-abdel-elhakm/atom.xml"/>
     <link rel="alternate" type="text/html" href="https://el20at.com"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
-    <updated>2008-07-05T00:00:00+00:00</updated>
+    <updated>2008-06-05T00:00:00+00:00</updated>
     <id>https://el20at.com/authors/ahmed-abdel-elhakm/atom.xml</id>
     <entry xml:lang="ar">
         <title>من داخل الميكروباص!</title>
-        <published>2008-07-05T00:00:00+00:00</published>
-        <updated>2008-07-05T00:00:00+00:00</updated>
+        <published>2008-06-05T00:00:00+00:00</published>
+        <updated>2008-06-05T00:00:00+00:00</updated>
         
         <author>
           <name>
@@ -21,11 +21,7 @@
         <link rel="alternate" type="text/html" href="https://el20at.com/articles/masr-n16149/"/>
         <id>https://el20at.com/articles/masr-n16149/</id>
         
-        <content type="html" xml:base="https://el20at.com/articles/masr-n16149/">&lt;p&gt;&lt;a href=&quot;/articles/masr-n16147/&quot;&gt; المنتخب ينهي استعداداته للقاء جيبوتي غداً&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;/articles/masr-n16145/&quot;&gt; النائب العام: يمكن للمساجين اجراء مكالمتين شهرياًً&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;/articles/masr-n16135/&quot;&gt; حزمني يا بابا.. وشوف بدلتي&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;/articles/masr-blog-9258/&quot;&gt; مكتبة الشروق، مدبولي.. وميريت&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;أحمد عبد الحكم – ولاد البلد – عشرينات – 5/7/2008&lt;/p&gt;
+        <content type="html" xml:base="https://el20at.com/articles/masr-n16149/">&lt;p&gt;أنا أغلط زي ما أنا عاوز.. ده أنا أشتريك وأشتري عربيتك دي&lt;/p&gt;
 &lt;p&gt;(من وحي ما يحدث داخل ميكروباصات القاهرة... الميكروباص يغادر المحطة متجها إلى طريقه)&lt;/p&gt;
 &lt;p&gt;السائق: والنبي يا إخوانا الأجرة مع بعض.. والأجرة موحدة يا أخوانا إحنا بالليل&lt;/p&gt;
 &lt;p&gt;(يبدأ الركاب الآن في تجميع الأجرة ويرسلونها واحد تلو الآخر للسائق)&lt;/p&gt;

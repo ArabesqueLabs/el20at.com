@@ -2,14 +2,16 @@
 order = 0
 subject = "ليه حق ؟"
 author = "ملكش دعوه"
+posted = "2007-04-28"
 text = "وانا كمان زى محمود فهل ده حرام انا مقتنع ان الستات والفتيات عموما هم ملوك رؤس المال فى مصر"
 archived = "2007-05-02"
 capture_url = "https://web.archive.org/web/20070502012734/http://masr.20at.com:80/newArticle.php?sid=9968"
 
 [[comments]]
 order = 1
-subject = "محمود مغلطش مهي البنات بتبيع نفسها وبعشرة جنيه"
+subject = "محمود  مغلطش مهي البنات بتبيع نفسها وبعشرة جنيه"
 author = "رامز عباس"
+posted = "2007-04-28"
 text = "محمود مغلطش خالص يعني هيعمل ايه شاب زيه وفي عمره عايز يعف نفسه هو لو صايع مكان راح ماخور مصري للاداب المنافيه بس دة ولد محترم وبعدين نصف ستات مصر من نكدهم بيتطلقوا بسرعه يلا بقا ينحب يا نقبانا من 4 سنين كنت بفكر بكدة بس لقيت حل حلو ان الدوله بتنطيشها رغباتنا وحل مشاكلنا بتودى نفسها في مصيبه وفعلا متروح في مصيبه اصل مصر مش جدعه واسالوا احمد زويل"
 archived = "2007-05-02"
 capture_url = "https://web.archive.org/web/20070502012734/http://masr.20at.com:80/newArticle.php?sid=9968"
@@ -18,6 +20,7 @@ capture_url = "https://web.archive.org/web/20070502012734/http://masr.20at.com:8
 order = 2
 subject = "هم يضحك و هم يبكى"
 author = "نيفين نيفى نوفا"
+posted = "2007-04-29"
 text = "ليست دعابى<br />فعلا<br />انها الواقع الاليم<br />اعزائى<br />استمتعو بالسىء فالاسوأ قادم"
 archived = "2007-05-02"
 capture_url = "https://web.archive.org/web/20070502012734/http://masr.20at.com:80/newArticle.php?sid=9968"
@@ -26,6 +29,7 @@ capture_url = "https://web.archive.org/web/20070502012734/http://masr.20at.com:8
 order = 3
 subject = "مشكلة جامدة"
 author = "حسام المصرى"
+posted = "2007-04-29"
 text = "أنا بجد شايف أنها مصيبة أن البنى أدم يتقدم فى العمر ومايتجوزش تبقى مشكلة وهاجس نفسى تدفع الى الخطيئة وشكراً لحكامنا الأعزاء"
 archived = "2007-05-02"
 capture_url = "https://web.archive.org/web/20070502012734/http://masr.20at.com:80/newArticle.php?sid=9968"

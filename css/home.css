@@ -85,10 +85,8 @@
 .hm-band { display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 16px; padding: 14px 20px; background: #EEF4F8;
   border-block-start: 3px solid var(--al-color-accent); }
 .hm-band__title { margin: 0; color: #004B80; font-size: 1.25em; }
-.hm-band__text, .hm-band__last { margin: 0; color: #444444; font-size: 0.9em; }
+.hm-band__text { margin: 0; color: #444444; font-size: 0.9em; }
 .hm-band__text a { font-weight: 700; }
-.hm-band__last { margin-inline-start: auto; }
-.hm-band__last a { font-weight: 700; }
 
 /* ---- 4. today ---------------------------------------------------------------------------------------- */
 .hm-today { display: grid; grid-template-columns: minmax(0, 3fr) minmax(0, 2fr); gap: 36px; padding-block: 28px 30px;
@@ -207,7 +205,6 @@
   .hm-ways { grid-template-columns: minmax(0, 1fr); }
   .hm-secs { grid-template-columns: minmax(0, 1fr); }
   .hm-cards, .hm-cards--events { grid-template-columns: repeat(2, minmax(0, 1fr)); }
-  .hm-band__last { margin-inline-start: 0; }
 }
 .hm-tm__own { display: grid; grid-template-columns: repeat(auto-fill, minmax(14rem, 1fr)); gap: 16px 24px; }
 .hm-tm__own section { border-block-start: 3px solid var(--c); padding-block-start: 6px; }

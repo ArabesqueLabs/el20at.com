@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ar">
     <title>أرشيف عشرينات - banat</title>
-    <subtitle>أرشيف محتوى بوابة عشرينات (فبراير ٢٠٠٤ – مارس ٢٠١٠): ٩٠١٣ مقالًا استعدناها من أرشيف الإنترنت.</subtitle>
+    <subtitle>أرشيف محتوى بوابة عشرينات (فبراير ٢٠٠٤ – مارس ٢٠١٠): ١٥٦٠٠ مقال استعدناها من أرشيف الإنترنت.</subtitle>
     <link rel="self" type="application/atom+xml" href="https://el20at.com/sections/banat/atom.xml"/>
     <link rel="alternate" type="text/html" href="https://el20at.com"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
@@ -29,6 +29,31 @@
         
     </entry>
     <entry xml:lang="ar">
+        <title>تخلصي من هوس الشراء</title>
+        <published>2010-03-13T00:00:00+00:00</published>
+        <updated>2010-03-13T00:00:00+00:00</updated>
+        
+        <author>
+          <name>Unknown</name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://el20at.com/articles/banat-son3-edik-mtba7-15737/"/>
+        <id>https://el20at.com/articles/banat-son3-edik-mtba7-15737/</id>
+        
+        <content type="html" xml:base="https://el20at.com/articles/banat-son3-edik-mtba7-15737/">&lt;p&gt;هل تعانين من هوس التسوق، وترغبين في التخلص منه؟ ميزانيتك لا تكفي حتى نهاية الشهر؟&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color:#FF0000&quot;&gt;&lt;strong&gt;إليك بعض النصائح لتتخلصي من هوس التسوق:&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;1ـ كوني مبدعة، وابتعدي عن كونك مستهلكة، عن طريق البقاء في المنزل والقيام بأشياء محببة إلى قلبك.&lt;/p&gt;
+&lt;p&gt;2ـ استبدلي ساعتين من الأوقات التي تمضينها أمام التلفزيون بأعمال تطوعية لمرة واحدة في الأسبوع على الأقل.&lt;/p&gt;
+&lt;p&gt;3ـ قومي بزيارة الجيران في حيك بدل ركوب السيارة وزيارة الصديقات في المناطق الأخرى.&lt;/p&gt;
+&lt;p&gt;4ـ اصرفي بعض مدخراتك لقضاء وقت ممتع مع صديقتك المقربة بدل إنفاقها على شراء الملابس.&lt;/p&gt;
+&lt;p&gt;5ـ استمتعي بأمسية تسجلين فيها بعض إنجازاتك خلال الأسبوع على دفتر خاص، مع تزيينه ببعض الصور التي تساعدك على إبراز أفضل أعمالك.&lt;/p&gt;
+&lt;p&gt;6- قدمي لصديقاتك وأفراد العائلة بطاقات أعياد الميلاد والمناسبات من صنع يديك.&lt;/p&gt;
+&lt;p&gt;7- لا تحتفظي بمبالغ كبيرة في حقيبتك عند النزول للتسوق.&lt;/p&gt;
+&lt;p&gt;نقلا عن مجلة المرأة اليوم.&lt;/p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="ar">
         <title>طريقة عمل العجة</title>
         <published>2010-03-11T00:00:00+00:00</published>
         <updated>2010-03-11T00:00:00+00:00</updated>
@@ -40,7 +65,8 @@
         <link rel="alternate" type="text/html" href="https://el20at.com/articles/banat-kitchen-15717/"/>
         <id>https://el20at.com/articles/banat-kitchen-15717/</id>
         
-        <content type="html" xml:base="https://el20at.com/articles/banat-kitchen-15717/">&lt;p&gt;&lt;span style=&quot;color:#FF0000&quot;&gt;&lt;strong&gt;المقادير:&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+        <content type="html" xml:base="https://el20at.com/articles/banat-kitchen-15717/">&lt;p&gt;يقطع البصل رفيع ويشوح فى الزيت حتى يذبل البصل ويصفر لونة ثم يضاف الية البقدونس المقطع ويقلب&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color:#FF0000&quot;&gt;&lt;strong&gt;المقادير:&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;-كيلو بصل.&lt;/p&gt;
 &lt;p&gt;- 7 بيضات.&lt;/p&gt;
 &lt;p&gt;-بقدونس.&lt;/p&gt;
@@ -167,10 +193,33 @@
         <link rel="alternate" type="text/html" href="https://el20at.com/articles/banat-variety-15710/"/>
         <id>https://el20at.com/articles/banat-variety-15710/</id>
         
-        <content type="html" xml:base="https://el20at.com/articles/banat-variety-15710/">&lt;p&gt;شهد الاحتفال بيوم المرأة العالمي إطلاق شبكة اجتماعية أمريكية رسمية مقرها نيويورك خاصة بالمرأة فقط، الهدف منها هو تشجيع ومساعدة النساء على المشاركة بقوة أكبر وبشكل متكرر في وسائل الإعلام الاجتماعية.&lt;/p&gt;
+        <content type="html" xml:base="https://el20at.com/articles/banat-variety-15710/">&lt;p&gt;إطلاق شبكة اجتماعية أمريكية رسمية مقرها نيويورك خاصة بالمرأة&lt;/p&gt;
+&lt;p&gt;شهد الاحتفال بيوم المرأة العالمي إطلاق شبكة اجتماعية أمريكية رسمية مقرها نيويورك خاصة بالمرأة فقط، الهدف منها هو تشجيع ومساعدة النساء على المشاركة بقوة أكبر وبشكل متكرر في وسائل الإعلام الاجتماعية.&lt;/p&gt;
 &lt;p&gt;فبعد التعرف على الدور الهام الذي تؤديه المرأة في وسائل الإعلام الاجتماعية، وضعت هذه المجموعة لتوفر للمرأة صوتا في جميع مجالات وسائل الإعلام الاجتماعية.&lt;/p&gt;
 &lt;p&gt;وتهدف أيضا هذه الشبكات الاجتماعية الإعلامية إلى خلق مكان للإناث للاتصال والمشاركة، وتدعيم كل منهما الآخر، من أجل بناء المجتمع.&lt;/p&gt;
 &lt;p&gt;وقالت كاتريونا بولارد، مؤسس مشارك في الشبكة، &quot;إن وسائل الإعلام الاجتماعية أقيمت خصيصا للمرأة فهي مربية في البيت، ومتصلة بما حولها، فالمرأة تريد دائما التعاون والدعم والثقة، ومن خلال هذه الشبكة خلقت لدينا مكانا آمنا للنساء لاكتساب الخبرة والثقة لطرح الأسئلة والتعلم والتحدي لتنمية أنفسهم وطموحهم&quot;.&lt;/p&gt;
+&lt;p&gt;نقلا عن اليوم السابع.&lt;/p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="ar">
+        <title>تخلصي من &quot;الكرش&quot;</title>
+        <published>2010-03-10T00:00:00+00:00</published>
+        <updated>2010-03-10T00:00:00+00:00</updated>
+        
+        <author>
+          <name>Unknown</name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://el20at.com/articles/banat-health-15686/"/>
+        <id>https://el20at.com/articles/banat-health-15686/</id>
+        
+        <content type="html" xml:base="https://el20at.com/articles/banat-health-15686/">&lt;p&gt;ولعملية إنقاص الوزن لابد من تغيير وتحسين السلوك الغذائى وزيادة النشاط الحركى&lt;/p&gt;
+&lt;p&gt;يقول الدكتور مصطفى سارى، استشارى السمنة والتغذية، &quot;إن الأعشاب والأدوية لا تؤدى إلى نتيجة فى عملية إنقاص الوزن، ولعملية إنقاص الوزن لابد من تغيير وتحسين السلوك الغذائى وزيادة النشاط الحركى&quot;.&lt;/p&gt;
+&lt;p&gt;وبالنسبة لموضوع &quot;الكرش&quot; أو البطن فهو جزء من الجسم فعندما نقوم بإنقاص الوزن نقوم بإنقاص الوزن من أعلى إلى أسفل بتنظيم الأكل ببرنامج خاص للرجيم وعمل التمرينات الرياضية أو المشى، لأن هذه المنطقة تتطلب:&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color:#FF0000&quot;&gt;&lt;strong&gt;أولا:&lt;/strong&gt;&lt;/span&gt; لأصحاب البطن الكبيرة لابد أن تقومي بشفط بطنكِ طوال الوقت حتى وقت الجلوس.&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color:#FF0000&quot;&gt;&lt;strong&gt;ثانيا:&lt;/strong&gt;&lt;/span&gt; تجنبي وجود غازات داخل المعدة وعند الشعور بالغازات لابد أن يتم تناول الينسون أوالكمون.&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color:#FF0000&quot;&gt;&lt;strong&gt;ثالثا:&lt;/strong&gt;&lt;/span&gt; تجنبي النوم على البطن واحرصي على الجلوس بطريقة صحيحة وممارسة القليل من الرياضة يوميا، وتناولي أكبر قدر ممكن من الماء طوال اليوم.&lt;/p&gt;
 &lt;p&gt;نقلا عن اليوم السابع.&lt;/p&gt;
 </content>
         
@@ -187,7 +236,8 @@
         <link rel="alternate" type="text/html" href="https://el20at.com/articles/banat-kitchen-15693/"/>
         <id>https://el20at.com/articles/banat-kitchen-15693/</id>
         
-        <content type="html" xml:base="https://el20at.com/articles/banat-kitchen-15693/">&lt;p&gt;&lt;span style=&quot;color:#FF0000&quot;&gt;&lt;strong&gt;المقادير:&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+        <content type="html" xml:base="https://el20at.com/articles/banat-kitchen-15693/">&lt;p&gt;يقدم ألأرز في طاجن ويوضع اللحم والمكسرات على الوجه&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color:#FF0000&quot;&gt;&lt;strong&gt;المقادير:&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;كوب أرز.&lt;/p&gt;
 &lt;p&gt;1/4 كيلو بسلة.&lt;/p&gt;
 &lt;p&gt;جزر أصفر مكعبات.&lt;/p&gt;
@@ -222,7 +272,8 @@
         <link rel="alternate" type="text/html" href="https://el20at.com/articles/banat-variety-15691/"/>
         <id>https://el20at.com/articles/banat-variety-15691/</id>
         
-        <content type="html" xml:base="https://el20at.com/articles/banat-variety-15691/">&lt;p&gt;نجاح بنت أختي، زواج صديقتي، ترقية زوجي.. مناسبات عديدة والمشكلة واحدة، ماذا تكون الهدية؟، وهل ما أختاره سيكون مناسبا لهم ويحظى على إعجابهم؟&lt;/p&gt;
+        <content type="html" xml:base="https://el20at.com/articles/banat-variety-15691/">&lt;p&gt;ماذا تكون الهدية؟، وهل ما أختاره سيكون مناسبا لهم ويحظى على إعجابهم؟&lt;/p&gt;
+&lt;p&gt;نجاح بنت أختي، زواج صديقتي، ترقية زوجي.. مناسبات عديدة والمشكلة واحدة، ماذا تكون الهدية؟، وهل ما أختاره سيكون مناسبا لهم ويحظى على إعجابهم؟&lt;/p&gt;
 &lt;p&gt;&lt;span style=&quot;color:#FF0000&quot;&gt;&lt;strong&gt;لا داع للحيرة، إجابة تلك الأسئلة تجدينها فيما يلي:&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;• إذا كانت الهدية لزوجك أو خطيبك، يفضل تقديم إطار صور، أو مجموعة من الشموع، أو طبق كريستال، أو دعوة للعشاء لفردين في أحد المطاعم، أو المنزل... «أي شيء يخص الاثنين لا أحدهما دون الآخر».&lt;/p&gt;
 &lt;p&gt;• للبنات الصغيرات، يمكنكِ تقديم مجموعة من إكسسوارات الشعر، أو دبابيس الملابس ذات الأشكال الكرتونية.&lt;/p&gt;
@@ -247,7 +298,8 @@
         <link rel="alternate" type="text/html" href="https://el20at.com/articles/banat-how-to-15667/"/>
         <id>https://el20at.com/articles/banat-how-to-15667/</id>
         
-        <content type="html" xml:base="https://el20at.com/articles/banat-how-to-15667/">&lt;p&gt;يمكن أن يشكل شراء منتجات ومستحضرات التجميل عبئاً ماليا، إليكِ هذه الخطوات الاقتصادية البسيطة للحصول على ما تريدين وبتكلفة معقولة.&lt;/p&gt;
+        <content type="html" xml:base="https://el20at.com/articles/banat-how-to-15667/">&lt;p&gt;إليكِ هذه الخطوات الاقتصادية البسيطة للحصول على ما تريدين وبتكلفة معقولة&lt;/p&gt;
+&lt;p&gt;يمكن أن يشكل شراء منتجات ومستحضرات التجميل عبئاً ماليا، إليكِ هذه الخطوات الاقتصادية البسيطة للحصول على ما تريدين وبتكلفة معقولة.&lt;/p&gt;
 &lt;p&gt;&lt;span style=&quot;color:#FF0000&quot;&gt;&lt;strong&gt;اشتري من المواقع الإلكترونية:&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;الشراء من المواقع الإلكترونية يوفر المال، لأن معظم هذه المواقع تعرض البضائع بأسعار مخفضة، لكن يجب أن تتأكدي من سلامة المنتج، فالشبكة العنكبوتية فيها من يبيع الغث والسمين.&lt;/p&gt;
 &lt;p&gt;&lt;span style=&quot;color:#FF0000&quot;&gt;&lt;strong&gt;لا تدعي العلامة التجارية تقيدك:&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
@@ -273,7 +325,8 @@
         <link rel="alternate" type="text/html" href="https://el20at.com/articles/banat-kitchen-15668/"/>
         <id>https://el20at.com/articles/banat-kitchen-15668/</id>
         
-        <content type="html" xml:base="https://el20at.com/articles/banat-kitchen-15668/">&lt;p&gt;&lt;span style=&quot;color:#FF0000&quot;&gt;&lt;strong&gt;المقادير:&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+        <content type="html" xml:base="https://el20at.com/articles/banat-kitchen-15668/">&lt;p&gt;يُوزع جزء من خليط اللحم، ثم يتم عمل طبقة أخرى من 5 ورقات جلاش،&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color:#FF0000&quot;&gt;&lt;strong&gt;المقادير:&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;3 ملعقة كبيرة زيت زيتون.&lt;/p&gt;
 &lt;p&gt;1 بصل، مفروم ناعم.&lt;/p&gt;
 &lt;p&gt;1 كيلو لحم بقري مفروم.&lt;/p&gt;
@@ -374,7 +427,8 @@
         <link rel="alternate" type="text/html" href="https://el20at.com/articles/banat-how-to-15647/"/>
         <id>https://el20at.com/articles/banat-how-to-15647/</id>
         
-        <content type="html" xml:base="https://el20at.com/articles/banat-how-to-15647/">&lt;p&gt;اختيار الملابس الأنيقة ليس بالأمر الهين، فهي تحتاج إلى جولات عديدة تتطلب مجهود، وذكاء لانتقاء الملابس التي تناسب مظهرك لتضفي عليه الأناقة والجمال..&lt;/p&gt;
+        <content type="html" xml:base="https://el20at.com/articles/banat-how-to-15647/">&lt;p&gt;عند شراء قطعة ملابس يمكنك فحصها جيدًا لتجدي ورقة إرشادات بها علامات ورموز&lt;/p&gt;
+&lt;p&gt;اختيار الملابس الأنيقة ليس بالأمر الهين، فهي تحتاج إلى جولات عديدة تتطلب مجهود، وذكاء لانتقاء الملابس التي تناسب مظهرك لتضفي عليه الأناقة والجمال..&lt;/p&gt;
 &lt;p&gt;عند شراء قطعة ملابس يمكنك فحصها جيدًا لتجدي ورقة إرشادات بها علامات ورموز تساعدك في مهمة الحفاظ عليها، ولكن يجهل الكثيرون منا أن لكل قطعة إرشادات، وقواعد خاصة بها، يجب قراءتها قبل البدء بالتعامل مع الملابس من خلال غسلها أو كيها، وفي تلك الورقة التي تظل ملتصقة بقطعة الملابس طوال الوقت، رموز وعلامات خاصة بها تتطلب إتباعها بشكل صحيح للحفاظ على جودة المنتج الذي تحتفظين به ومنها ما يلي:&lt;/p&gt;
 &lt;p&gt;&lt;span style=&quot;color:#FF0000&quot;&gt;&lt;strong&gt;كي الملابس:&lt;/strong&gt;&lt;/span&gt; علامة المكواة من أكثر العلامات تداولاً بورقة الإرشادات.. في بعض الأقمشة الرقيقة نجد عليها علامة &lt;span style=&quot;color:#3366FF&quot;&gt;&lt;strong&gt;x&lt;/strong&gt;&lt;/span&gt; وهي تعني عدم استخدام المكواة على الإطلاق، وأحيانًا نجد عليها نقطة واحدة وتعني حرارة بسيطة للأقمشة الضعيفة مثل الحرائر، أو نقطتين وهي حرارة متوسطة للحرير والأصواف، وأخيرًا ثلاث نقاط وتعني حرارة عالية للأقطان والكتان.&lt;/p&gt;
 &lt;p&gt;&lt;span style=&quot;color:#FF0000&quot;&gt;&lt;strong&gt;طريقة الغسيل:&lt;/strong&gt;&lt;/span&gt; إذا وجدتي صورة إناء الغسيل وبداخله درجة حرارة معينة فتعني أن القطعة يمكن غسلها يدويًا أو أوتوماتيكيًا بدرجة الحرارة المرفقة.&lt;/p&gt;
@@ -411,7 +465,8 @@
         <link rel="alternate" type="text/html" href="https://el20at.com/articles/banat-kitchen-15652/"/>
         <id>https://el20at.com/articles/banat-kitchen-15652/</id>
         
-        <content type="html" xml:base="https://el20at.com/articles/banat-kitchen-15652/">&lt;p&gt;&lt;span style=&quot;color:#FF0000&quot;&gt;&lt;strong&gt;المقادير:&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+        <content type="html" xml:base="https://el20at.com/articles/banat-kitchen-15652/">&lt;p&gt;ضعي قليل من البقدونس المفروم على الطبق وقدميها ساخنة&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color:#FF0000&quot;&gt;&lt;strong&gt;المقادير:&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;علبة مشروم مقطع أو كوب مشروم طازج.&lt;/p&gt;
 &lt;p&gt;بصله صغيرة مبشورة.&lt;/p&gt;
 &lt;p&gt;3 ملاعق كبيره دقيق.&lt;/p&gt;
@@ -523,7 +578,8 @@
         <link rel="alternate" type="text/html" href="https://el20at.com/articles/banat-kitchen-15623/"/>
         <id>https://el20at.com/articles/banat-kitchen-15623/</id>
         
-        <content type="html" xml:base="https://el20at.com/articles/banat-kitchen-15623/">&lt;p&gt;&lt;span style=&quot;color:#FF0000&quot;&gt;&lt;strong&gt;المقادير:&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+        <content type="html" xml:base="https://el20at.com/articles/banat-kitchen-15623/">&lt;p&gt;توضع القطعة الأخيرة فوقها وتغطى بالكريم شانتية ثم يرش&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color:#FF0000&quot;&gt;&lt;strong&gt;المقادير:&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;3 رقائق من الميل فاى.&lt;/p&gt;
 &lt;p&gt;كريم شانتيه.&lt;/p&gt;
 &lt;p&gt;كمبوت خوخ.&lt;/p&gt;
@@ -620,7 +676,8 @@
         <link rel="alternate" type="text/html" href="https://el20at.com/articles/banat-kitchen-15587/"/>
         <id>https://el20at.com/articles/banat-kitchen-15587/</id>
         
-        <content type="html" xml:base="https://el20at.com/articles/banat-kitchen-15587/">&lt;p&gt;&lt;span style=&quot;color:#FF0000&quot;&gt;&lt;strong&gt;المقادير:&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+        <content type="html" xml:base="https://el20at.com/articles/banat-kitchen-15587/">&lt;p&gt;يُتبل الجمبري بملعقة كبيرة من التوابل والشبت والملح مع الدعك الخفيف، ثم يُغطى&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color:#FF0000&quot;&gt;&lt;strong&gt;المقادير:&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;1/2 1 كوب أرز باسمتي.&lt;/p&gt;
 &lt;p&gt;1/2 كيلو جمبري (روبيان) ُمقشر.&lt;/p&gt;
 &lt;p&gt;2 ملعقة كبيرة بهارات مطحونة (قرفة، حبهان، كركم، شطة ناعمة).&lt;/p&gt;
@@ -662,7 +719,8 @@
         <link rel="alternate" type="text/html" href="https://el20at.com/articles/banat-self-development-15595/"/>
         <id>https://el20at.com/articles/banat-self-development-15595/</id>
         
-        <content type="html" xml:base="https://el20at.com/articles/banat-self-development-15595/">&lt;p&gt;هل تعاني من أن خطيبك قليل الاتصال بك، ويفضل التواصل معك بالـ SMS أو عن طريق الفيس بوك والإيميل..&lt;/p&gt;
+        <content type="html" xml:base="https://el20at.com/articles/banat-self-development-15595/">&lt;p&gt;ففي بداية أي علاقة قد يصاب الشاب بالارتباك والخجل أو عدم الثقة في مشاعرك تجاهه، أو الجهل بشكل التواصل المناسب بينكما،&lt;/p&gt;
+&lt;p&gt;هل تعاني من أن خطيبك قليل الاتصال بك، ويفضل التواصل معك بالـ SMS أو عن طريق الفيس بوك والإيميل..&lt;/p&gt;
 &lt;p&gt;ففي بداية أي علاقة قد يصاب الشاب بالارتباك والخجل أو عدم الثقة في مشاعرك تجاهه، أو الجهل بشكل التواصل المناسب بينكما، ولكي تتخلصي من هذه الأسباب وتجعليه يتصل بك، اتبعي تلك الخطوات:&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;span style=&quot;color:#FF0000&quot;&gt;1- كوني صريحة:&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;الرجال لا ينتبهون للتفاصيل مثل النساء، لذا يجب عليكِ أن تخبرين خطيبك ما تحتاجين منه بشكل واضح ومباشر، فلا تجعليه يستنتج الشكل المناسب للاتصال بك، لكن كوني محددة في كلامك معه مثل: الشكل المناسب للاتصال سواء كان عن طريق التليفون المحمول أو الأرضي أو عن طريق الإنترنت، والوقت المناسب لهذا الاتصال حتى لا يتعارض مع مذاكرتك أو عملك ولا يسبب ضيق لأهلك بالمنزل.&lt;/p&gt;
@@ -714,7 +772,8 @@
         <link rel="alternate" type="text/html" href="https://el20at.com/articles/banat-kitchen-15567/"/>
         <id>https://el20at.com/articles/banat-kitchen-15567/</id>
         
-        <content type="html" xml:base="https://el20at.com/articles/banat-kitchen-15567/">&lt;p&gt;&lt;span style=&quot;color:#FF0000&quot;&gt;&lt;strong&gt;المقادير:&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+        <content type="html" xml:base="https://el20at.com/articles/banat-kitchen-15567/">&lt;p&gt;تخلط البطاطس بالدقيق والبيكنج بودر والكركم والفلفل الأحمر&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color:#FF0000&quot;&gt;&lt;strong&gt;المقادير:&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;4 حبات بطاطس.&lt;/p&gt;
 &lt;p&gt;كوب دقيق.&lt;/p&gt;
 &lt;p&gt;ملعقتين كبيرتين بيكينج بودر.&lt;/p&gt;
@@ -778,7 +837,8 @@
         <link rel="alternate" type="text/html" href="https://el20at.com/articles/banat-health-and-beauty-health-15548/"/>
         <id>https://el20at.com/articles/banat-health-and-beauty-health-15548/</id>
         
-        <content type="html" xml:base="https://el20at.com/articles/banat-health-and-beauty-health-15548/">&lt;p&gt;من المهم جدا أن تختاري طعاما صحيا عندما نخرجين من البيت، ولكن الأهم من ذلك عند اختيار حياة صحية أن تأكليي أطعمة مغذية في البيت أيضا.&lt;/p&gt;
+        <content type="html" xml:base="https://el20at.com/articles/banat-health-and-beauty-health-15548/">&lt;p&gt;عند اختيار حياة صحية عليكِ أن تأكلي أطعمة مغذية في البيت أيضا&lt;/p&gt;
+&lt;p&gt;من المهم جدا أن تختاري طعاما صحيا عندما نخرجين من البيت، ولكن الأهم من ذلك عند اختيار حياة صحية أن تأكليي أطعمة مغذية في البيت أيضا.&lt;/p&gt;
 &lt;p&gt;إذا كنت تبحثين عن طرق للحفاظ على رشاقتك، ووزنك المثالي وتحسين مستوى صحتك، الحمية هي المفتاح الرئيسي لتطبيق هذه الأهداف.&lt;/p&gt;
 &lt;p&gt;وإليك 7 نصائح لحمية صحية ومغذية في البيت:&lt;/p&gt;
 &lt;p&gt;&lt;span style=&quot;color:#FF0000&quot;&gt;&lt;strong&gt;1. تناولي المزيد من الفواكه:&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
@@ -834,53 +894,6 @@
 &lt;p&gt;19- (منفخة) وهي الفتاة التي تبدو طوال الوقت وكأنها لسة راجعة من تمرين الملاكمة.&lt;/p&gt;
 &lt;p&gt;20- (الداهية) وهي الهجمة عندما تتحول إلي بروطة.&lt;/p&gt;
 &lt;p&gt;نقلا عن جريدة الدستور&lt;/p&gt;
-</content>
-        
-    </entry>
-    <entry xml:lang="ar">
-        <title>زواج القاصرات يؤدي إلى الجنون</title>
-        <published>2010-03-02T00:00:00+00:00</published>
-        <updated>2010-03-02T00:00:00+00:00</updated>
-        
-        <author>
-          <name>Unknown</name>
-        </author>
-        
-        <link rel="alternate" type="text/html" href="https://el20at.com/articles/banat-variety-15559/"/>
-        <id>https://el20at.com/articles/banat-variety-15559/</id>
-        
-        <content type="html" xml:base="https://el20at.com/articles/banat-variety-15559/">&lt;p&gt;لم تكن سماح ابنة الـ19 من عمرها وهي تحكي قصتها لـ&quot;العربية.نت&quot; كحال صديقتها مها التي تجلس بجوارها. فسماح التي عصفت بها السنون وقسا عليها أهلها والأيام معاً، كانت غاية في التوتر والانفعال وهي تقول &quot;يريدون أن يزوجوني رجلاً بعمر الـ70 عاماً&quot;. وتوجه إصبع الاتهام نحو والدها وإخوانها اللذين أجبروها على الزواج الثاني من رجل تجاوز الـ60 عاماً، بعد طلاقها من زوجها الأول.&lt;/p&gt;
-&lt;p&gt;وتعاني الفتيات الفلسطينيات من الزواج الإجباري الذي تفرضه عليهن أسرهن لأسباب عدة. أهمها حسب الباحث الاجتماعي محمد العقاد، الفقر الذي يعاني منه ربّ الأسرة.&lt;/p&gt;
-&lt;p&gt;وقال الباحث الاجتماعي: &quot;يضطر ربّ الأسرة للموافقة على زواج ابنته التي لا تتجاوز الـ17 من عمرها، فوراً. ويعتقد بذلك أن دوره انتهى بمجرد ذهابها إلى بيت زوجها، لكنه لا يدرك أن الزواج المبكر من شأنه أن ينتهي بالطلاق، ما يزيد من ثقل الأب في التعامل مع ابنته المطلقة ومع المجتمع كذلك الأمر&quot;.&lt;/p&gt;
-&lt;p&gt;كواحدة من بين مئات الفتيات اللاتي تزوجن في عمر مبكر، تقول سماح التي تزوجت في الـ17: &quot;تزوجت شاباً كغيري من الفتيات، لكنني لم أتوفق في الحياة معه، ولم يمر سنة واحدة من عمر زواجنا، حتى عدت إلى بيت أهلي مطلقة. ولأن الوضع المادي الصعب جداً الذي يعيشه والدي كونه لا يعمل، وافقت على الزواج من رجل تجاوز الـ60 عاماً، لكنه ما لبت أن توفي بعد أشهر من زواجنا، ثم عدت أدراجي إلى بيت أهلي&quot;.&lt;/p&gt;
-&lt;p&gt;وتضيف سماح &quot;اضطررت لأن أمثل دور المجنونة والمعقدة نفسياً، كي أتخلص من إلحاح والدي وإخواني على الزواج من رجل تجاوز الـ70 ربيعاً. وحتى اللحظة يعتقد أهلي بأنني فعلاً مجنونة، وأنا اُفضل ذلك على الزواج من عجوز. لقد جرّبت الزواج مرتين، لكنهما لم يكللا بالنجاح، ولن يكون بمقدوري أن أتزوج للمرة الثالثة وأنا أدرك أن الرجل السبعيني سيموت حتماً في أي لحظة&quot;.&lt;/p&gt;
-&lt;p&gt;ويرى الباحث الاجتماعي العقاد أن لجوء الفتاة لتمثيل دور المختلة عقلياً للهرب من الزواج، بسبب خوفها من فشله للمرة الثالثة على التوالي. وقال &quot;هي تعاقب روحها عندما تدعي الجنون لأشهر. لكن السبب الرئيسي يعود لأهلها الذين يتعاملون بردة فعل المجتمع مع الفتاة المطلقة&quot;.&lt;/p&gt;
-&lt;p&gt;وأظهرت دراسة حديثة أن ما نسبته 37% من عقود الزواج في قطاع غزة كان سن الزواج فيها أقل من 17 عاماً. واعتبرت أن أهم الأسباب لتلك الظاهرة &quot;هو التسرب من المدارس والأوضاع الاقتصادية السيئة، ما كرّس مفهوم تخفيض تكاليف الزواج إلى الحد الأدنى&quot;.&lt;/p&gt;
-&lt;p&gt;وحذَّر الأكاديمي أسامة فرينة من برنامج غزة للصحة النفسية من مخاطر الزواج المبكر. وقال فرينة لـ&quot;العربية.نت&quot;: &quot;14% من حالات الزواج في قطاع غزة للفئة العمرية 14ـ17 سنة انتهت إلى الطلاق، فضلاً عن أن أكثر من 40% من النساء المتزوجات في سن مبكرة، يعانين من مشكلات صحية مختلفة وآثار نفسية واجتماعية، وهو ما ينعكس سلباً على الأطفال الذين يمثلون الضحية الأولى لهذا الزواج&quot;.&lt;/p&gt;
-&lt;p&gt;وأرجع فرينة أسباب الزواج المبكر في الأراضي الفلسطينية لسياسية واجتماعية واقتصادية. وقال &quot;ميل الكثير من الفقراء وذوي الدخل المتدني لتزويج بناتهم في سن مبكرة، للتخفيف من المصاريف وتكاليف التعليم وضغط المعيشة، فضلاً عن أن معظم الأسر تعتقد أن الزواج المبكر للفتاة ضمان وصيانة لشرف العائلة&quot;. وطالب الوزارات المعنية والمؤسسات الأهلية ووسائل الإعلام بضرورة القيام &quot;بحملات توعية وتثقيف للأهالي حول مخاطر الزواج المبكر&quot;.&lt;/p&gt;
-</content>
-        
-    </entry>
-    <entry xml:lang="ar">
-        <title>نصائح تهمك لاختيار عطرك..</title>
-        <published>2010-03-01T00:00:00+00:00</published>
-        <updated>2010-03-01T00:00:00+00:00</updated>
-        
-        <author>
-          <name>Unknown</name>
-        </author>
-        
-        <link rel="alternate" type="text/html" href="https://el20at.com/articles/banat-how-to-15530/"/>
-        <id>https://el20at.com/articles/banat-how-to-15530/</id>
-        
-        <content type="html" xml:base="https://el20at.com/articles/banat-how-to-15530/">&lt;p&gt;التسوق من أجل شراء العطور يتطلب صبرا وحنكة، وكلما كنت أقل تسرعاً، زاد احتمال اقتناء العطر المناسبلكِ.&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;color:#3366FF&quot;&gt;&lt;strong&gt;وإذا لم يكن لديكِ فكرة واضحة عن العطور فعليكِ إتباع ما يلي:&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;• رشي العطر أولاً على ورقة التنشيف الخاصة بالاختبار، انتظري دقيقة حتى يجف الكحول قبل أن تشميها.&lt;/p&gt;
-&lt;p&gt;• بعد عدة دقائق واصلي شمها لتعرفي كيف استقرت رائحة العطر، ويجب الانتباه إلى أن رائحة العطرتختلف على الجسم ومن شخص لأخر.&lt;/p&gt;
-&lt;p&gt;• شمي رائحة حبات القهوة بعد كل مرة من شم العطور، حيث أن هذه الطريقة ستساعدكِ على تنقية حاسة الشم وإبقائها في وضع أفضل.&lt;/p&gt;
-&lt;p&gt;• قلصي عدد العطور التي تعجبك إلى أربعة عطور.&lt;/p&gt;
-&lt;p&gt;• جربي كل أثنين منها على كل ذراع من ذراعيك: رشي نقاطاً من أول عطر على معصمك من الداخل عند منطقة النبض ونقاطاً من الآخر على الذراع من الخارج.&lt;/p&gt;
-&lt;p&gt;• يحتاج العطر لعدة ساعات ليستقر على جلدك، أما إذا لم يكن لديكِ الوقت الكافي، فقومي بفحصه بعد مرور 30 دقيقة على الأقل قبل إتخاذ القرار بشراء العطر.&lt;/p&gt;
 </content>
         
     </entry>

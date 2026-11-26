@@ -3,7 +3,7 @@ order = 0
 subject = ""
 author = "dona dodo"
 posted = "2010-01-04"
-text = "gmda awe"
+text = "gmda awe :-)"
 archived = "2010-01-05"
 capture_url = "https://web.archive.org/web/20100105165347/http://www.20at.com:80/banat/how-to/14742-2010-01-04-12-28-25.html"
 
@@ -60,3 +60,12 @@ posted = "2010-01-08"
 text = "حلوة اوي وميرسي كتير<br />انا عايزة اعمل نيو ستايل في اوضتي هيا دهانها موف فاتح وفي حائط منها موف غامق"
 archived = "2010-02-12"
 capture_url = "https://web.archive.org/web/20100212074524/http://www.20at.com:80/banat/how-to/14742-2010-01-04-12-28-25.html"
+
+[[comments]]
+order = 7
+subject = ""
+author = "nona.doda23"
+posted = "2010-02-27"
+text = "الموضوع حلو اوى شكرا كتير<br />ياريت تعملوا موضوع عن احدث الواة غرف النوم :roll:"
+archived = "2010-03-14"
+capture_url = ""

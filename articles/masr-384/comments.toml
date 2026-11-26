@@ -441,15 +441,6 @@ capture_url = "https://web.archive.org/web/20060818075113/http://masr.20at.com:8
 
 [[comments]]
 order = 49
-subject = "الحرامى حسنى مبارك"
-author = "محمد سعيد اللافى"
-posted = "2006-07-11"
-text = "انا الحاج / محمد سعيد اللافى المقيم بالاسكندريه ابيس الثانيه العريشه ورقم تليفونى 035190694 عاوز اقول كلمه للمعرص الرئيس مبارك عميل الامريكان الحرامى الجاسوس حرام عليك كفايه فاض بينا خلاص اتقى الله فينا"
-archived = "2006-08-18"
-capture_url = "https://web.archive.org/web/20060818075113/http://masr.20at.com:80/article.php?sid=384"
-
-[[comments]]
-order = 50
 subject = "عميل الامريكان محمد حسنى مبارك"
 author = "محمد سعيد اللافى"
 posted = "2006-07-11"
@@ -458,16 +449,7 @@ archived = "2006-08-18"
 capture_url = "https://web.archive.org/web/20060818075113/http://masr.20at.com:80/article.php?sid=384"
 
 [[comments]]
-order = 51
-subject = "المعرص الكبير حسنى مبارك"
-author = "محمد سعيد اللافى"
-posted = "2006-07-11"
-text = "انا الحاج / محمد سعيد اللافى المقيم بالاسكندريه ابيس الثانيه العريشه ورقم تليفونى 035190694 عاوز اقول كلمه للمعرص الرئيس مبارك عميل الامريكان الحرامى الجاسوس حرام عليك كفايه فاض بينا خلاص اتقى الله"
-archived = "2006-08-18"
-capture_url = "https://web.archive.org/web/20060818075113/http://masr.20at.com:80/article.php?sid=384"
-
-[[comments]]
-order = 52
+order = 50
 subject = "مبارك المتناك"
 author = "السيد رجب"
 posted = "2006-07-17"
@@ -476,7 +458,7 @@ archived = "2006-08-18"
 capture_url = "https://web.archive.org/web/20060818075113/http://masr.20at.com:80/article.php?sid=384"
 
 [[comments]]
-order = 53
+order = 51
 subject = "مبارك الخول"
 author = "السيد رجب"
 posted = "2006-07-17"
@@ -485,7 +467,7 @@ archived = "2006-08-18"
 capture_url = "https://web.archive.org/web/20060818075113/http://masr.20at.com:80/article.php?sid=384"
 
 [[comments]]
-order = 54
+order = 52
 subject = "wonderful story"
 author = "aya"
 posted = "2006-07-25"
@@ -494,7 +476,7 @@ archived = "2006-08-18"
 capture_url = "https://web.archive.org/web/20060818075113/http://masr.20at.com:80/article.php?sid=384"
 
 [[comments]]
-order = 55
+order = 53
 subject = "و الله طقع"
 author = "عنجد مقال بجنن"
 posted = "2006-09-02"
@@ -503,7 +485,7 @@ archived = "2006-09-08"
 capture_url = "https://web.archive.org/web/20060908172150/http://masr.20at.com:80/article.php?sid=384&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
 
 [[comments]]
-order = 56
+order = 54
 subject = "يا جامد يا شيتوس يا جامد"
 author = "shadinice"
 posted = "2006-10-19"
@@ -512,7 +494,7 @@ archived = "2006-11-17"
 capture_url = "https://web.archive.org/web/20061117143409/http://masr.20at.com:80/article.php?sid=384&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
 
 [[comments]]
-order = 57
+order = 55
 subject = "البطل المصري"
 author = "brightgirle"
 posted = "2006-11-04"
@@ -521,7 +503,7 @@ archived = "2006-11-17"
 capture_url = "https://web.archive.org/web/20061117143409/http://masr.20at.com:80/article.php?sid=384&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
 
 [[comments]]
-order = 58
+order = 56
 subject = "معجب"
 author = "محمد"
 posted = "2006-11-08"
@@ -530,7 +512,7 @@ archived = "2006-11-17"
 capture_url = "https://web.archive.org/web/20061117143409/http://masr.20at.com:80/article.php?sid=384&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
 
 [[comments]]
-order = 59
+order = 57
 subject = "مفيش فيدة"
 author = "مصطفى"
 posted = "2006-11-11"
@@ -539,7 +521,7 @@ archived = "2006-11-17"
 capture_url = "https://web.archive.org/web/20061117143409/http://masr.20at.com:80/article.php?sid=384&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
 
 [[comments]]
-order = 60
+order = 58
 subject = "مبارك"
 author = "وطني"
 posted = "2006-11-11"
@@ -548,7 +530,7 @@ archived = "2006-11-17"
 capture_url = "https://web.archive.org/web/20061117143409/http://masr.20at.com:80/article.php?sid=384&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
 
 [[comments]]
-order = 61
+order = 59
 subject = "مبارك الحرامي وثروتة"
 author = "المخبر"
 posted = "2006-11-11"
@@ -557,7 +539,7 @@ archived = "2006-11-17"
 capture_url = "https://web.archive.org/web/20061117143409/http://masr.20at.com:80/article.php?sid=384&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
 
 [[comments]]
-order = 62
+order = 60
 subject = "والله زمان"
 author = "سيدو"
 posted = "2006-11-19"
@@ -566,7 +548,7 @@ archived = "2006-12-16"
 capture_url = "https://web.archive.org/web/20061216073003/http://masr.20at.com:80/article.php?sid=384&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
 
 [[comments]]
-order = 63
+order = 61
 subject = "والله عيب"
 author = "سيدو"
 posted = "2006-11-19"
@@ -575,7 +557,7 @@ archived = "2006-12-16"
 capture_url = "https://web.archive.org/web/20061216073003/http://masr.20at.com:80/article.php?sid=384&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
 
 [[comments]]
-order = 64
+order = 62
 subject = "من تدخل فيما لا....."
 author = "سيد افتدي"
 posted = "2006-11-19"
@@ -584,7 +566,7 @@ archived = "2006-12-16"
 capture_url = "https://web.archive.org/web/20061216073003/http://masr.20at.com:80/article.php?sid=384&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
 
 [[comments]]
-order = 65
+order = 63
 subject = "وينك يا زعيم"
 author = "وسيفة"
 posted = "2006-11-19"
@@ -593,7 +575,7 @@ archived = "2006-12-16"
 capture_url = "https://web.archive.org/web/20061216073003/http://masr.20at.com:80/article.php?sid=384&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
 
 [[comments]]
-order = 66
+order = 64
 subject = "محدش بيرد ليه"
 author = "غيمة"
 posted = "2006-11-20"
@@ -602,10 +584,19 @@ archived = "2006-12-16"
 capture_url = "https://web.archive.org/web/20061216073003/http://masr.20at.com:80/article.php?sid=384&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
 
 [[comments]]
-order = 67
+order = 65
 subject = "عطر الذكريات"
 author = "مصطفى محمود"
 posted = "2006-11-27"
 text = "اقول لك ايه بس بجد واحنا فى الغربة بنكون منتظرين نسمة تعدى من مصر ولما اقول مصر اعنى حرفيا مصر الانسان مش الهرم ولا ابوالهول ولا حتى البحر المالح(على اساس انى اسكندرانى)بجد الله عليك رائع رجعتنالايام جميلة وبجد شممت عطر تلك الايام وتوظيفك للاحداث الجاريه جميل وياريت المزيد وجل تحياتى لاهل مصر الطيبين الطيبين وبس"
 archived = "2006-12-16"
 capture_url = "https://web.archive.org/web/20061216073003/http://masr.20at.com:80/article.php?sid=384&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
+
+[[comments]]
+order = 66
+subject = "جميلة"
+author = "أحمد"
+posted = "2008-04-23"
+text = "هههههههههههههههه جميلة جدا بجد فنان اللي كتبها"
+archived = "2010-03-14"
+capture_url = ""

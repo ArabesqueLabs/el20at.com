@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ar">
+    <title>أرشيف عشرينات - elwatn-elsaodia-batsrf</title>
+    <subtitle>أرشيف محتوى بوابة عشرينات (فبراير ٢٠٠٤ – مارس ٢٠١٠): ١٥٦٠٠ مقال استعدناها من أرشيف الإنترنت.</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://el20at.com/authors/elwatn-elsaodia-batsrf/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://el20at.com"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2007-01-09T00:00:00+00:00</updated>
+    <id>https://el20at.com/authors/elwatn-elsaodia-batsrf/atom.xml</id>
+    <entry xml:lang="ar">
+        <title>فى السعودية الميكرفون يقول صداام</title>
+        <published>2007-01-09T00:00:00+00:00</published>
+        <updated>2007-01-09T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            الوطن السعودية بتصرف
+          </name>
+        </author>
+        
+        <author>
+          <name>
+            نشرة تسعة
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://el20at.com/articles/20at-latest-news-3023/"/>
+        <id>https://el20at.com/articles/20at-latest-news-3023/</id>
+        
+        <content type="html" xml:base="https://el20at.com/articles/20at-latest-news-3023/">&lt;p&gt;ألقت يوم أمس جهات أمنية في منطقة نجران بالمملكة السعودية القبض على رجل غير سعودي مقيم للعمل ، والسبب أنه في ختام صلاة المغرب قام بأخذ &quot;مايكرفون&quot; أحد المساجد عنوة ليطلق عبر صيحات تحيي الرئيس العراقي الراحل صدام حسين.&lt;/p&gt;
+&lt;p&gt;لم يقل غير&quot;يعيش صدام، يحيا صدام حسين&quot; ورغم أن الرجل رحل لكن كان الأمر كاف ليثير قلق الجهات الأمنية واستفزاز مشاعر المصلين والمسئولين عن المساجد، فقام من كانوا حاضرين في صحن المسجد بسحب &quot;المايكرفون&quot; من المقيم والاتصال بالجهات الأمنية المختصة التي ما تزال تتحفظ عليه حتى أمس.&lt;/p&gt;
+&lt;p&gt;وتقول صحيفة الوطن السعودية أ،ها اتصلت بالناطق الأمني بشرطة منطقة نجران الملازم أول محمد الزهراني فأكد أن هذه الواقعة ليست جنائية، وأن جهة أمنية مختصة تتحفظ على المقيم، وهي المسئولة عن كشف تفاصيل الموضوع.&lt;/p&gt;
+</content>
+        
+    </entry>
+</feed>

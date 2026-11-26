@@ -2,6 +2,15 @@
 order = 0
 subject = "الفن والسياسة شيء واحد"
 author = "مش رضوى حسن ولا مرة صلاح"
+posted = "2008-07-02"
+text = "كلاهما رقص<br />فالفنان رقاص<br />والسياسي رقاص"
+archived = "2010-03-14"
+capture_url = ""
+
+[[comments]]
+order = 1
+subject = "الفن والسياسة شيء واحد"
+author = "مش رضوى حسن ولا مرة صلاح"
 text = "كلاهما رقص<br />فالفنان رقاص<br />والسياسي رقاص"
 archived = "2008-07-05"
 capture_url = "https://web.archive.org/web/20080705212719/http://masr.20at.com:80/newArticle.php?sid=16577"

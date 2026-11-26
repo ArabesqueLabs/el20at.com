@@ -2,6 +2,7 @@
 order = 0
 subject = "عيد"
 author = "سعود"
+posted = "2007-12-20"
 text = "يا رب تعيد العيد على امة الاسلام ومصر بخير وسلام<br />كل عام وانتم بخير<br />وعيد سعيد"
 archived = "2007-12-22"
 capture_url = "https://web.archive.org/web/20071222124951/http://masr.20at.com:80/newArticle.php?sid=13471"
@@ -10,6 +11,7 @@ capture_url = "https://web.archive.org/web/20071222124951/http://masr.20at.com:8
 order = 1
 subject = "احب اهني اسرة البرنامج بالعيد"
 author = "عبود المصري"
+posted = "2007-12-21"
 text = "عيد كبير ... خرفان كتير... وهابى نيو يير ... وحاجات حلوة وطراطير.... وجاتوه وفطير ...... والاهلى خطير ..... والريس لسه قدامه كتير"
 archived = "2007-12-22"
 capture_url = "https://web.archive.org/web/20071222124951/http://masr.20at.com:80/newArticle.php?sid=13471"
@@ -18,6 +20,7 @@ capture_url = "https://web.archive.org/web/20071222124951/http://masr.20at.com:8
 order = 2
 subject = "لا تنسوا معتقلينا فى الواحات وابو زعبل"
 author = "بسنت"
+posted = "2007-12-22"
 text = "اللهم فك اسر الشرفاء المعتقلين فى ابو غريب العادلى وزبانيتة<br />لا تنسوا المعتقلين وسجناء الرأى واحرار امتنا"
 archived = "2007-12-22"
 capture_url = "https://web.archive.org/web/20071222124951/http://masr.20at.com:80/newArticle.php?sid=13471"
@@ -25,7 +28,8 @@ capture_url = "https://web.archive.org/web/20071222124951/http://masr.20at.com:8
 [[comments]]
 order = 3
 subject = "محمد نواف الحمدالله ..."
-author = "عيد وحب ..."
+author = "عيد وحب  ..."
+posted = "2007-12-27"
 text = "كما قال سفير الأغنية العربية \" كاظم الساهر \" في مطلع من أغنية \" عيد وحب \" : فقال :<br />عيد وحب هذي الليله الناس معيدين .. لو وياي الليله العيد بعيدين .. اسمع لغة الحبايب أشكال ألوان .. همس وضحك ودلال دلع الخلان .. والورده البيضا بإيدي صارت رمان .. احمرت من دمي الفاير يانور العين .. وعيد حب هذي الليله .."
 archived = "2008-02-22"
 capture_url = "https://web.archive.org/web/20080222003733/http://masr.20at.com:80/newArticle.php?sid=13471"

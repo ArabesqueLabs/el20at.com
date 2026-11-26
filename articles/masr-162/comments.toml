@@ -27,15 +27,6 @@ capture_url = "https://web.archive.org/web/20060925023447/http://masr.20at.com:8
 
 [[comments]]
 order = 3
-subject = "حرام"
-author = "كاريكا"
-posted = "2006-06-15"
-text = "قتلو الطفل ودبحو\" الشيخ\" دول ريحين علي شرم \"الشيخ\"."
-archived = "2006-09-25"
-capture_url = "https://web.archive.org/web/20060925023447/http://masr.20at.com:80/article.php?sid=162&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
-
-[[comments]]
-order = 4
 subject = "شرم الشيخ"
 author = "على احمد"
 posted = "2006-07-01"
@@ -44,7 +35,7 @@ archived = "2006-09-25"
 capture_url = "https://web.archive.org/web/20060925023447/http://masr.20at.com:80/article.php?sid=162&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
 
 [[comments]]
-order = 5
+order = 4
 subject = "ةرىت"
 author = "امجد عمر"
 posted = "2006-07-05"
@@ -53,7 +44,7 @@ archived = "2006-09-25"
 capture_url = "https://web.archive.org/web/20060925023447/http://masr.20at.com:80/article.php?sid=162&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
 
 [[comments]]
-order = 6
+order = 5
 subject = "شرم"
 author = "شا"
 posted = "2006-11-24"

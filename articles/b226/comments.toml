@@ -6,3 +6,30 @@ posted = "2006-01-08"
 text = "عقبالنا يا رب لما نعمل خدماتنا بايدينا و ما نحتاجش للناس دي ،"
 archived = "2006-11-02"
 capture_url = "https://web.archive.org/web/20061102142640/http://www.20at.com/article2.php?sid=226"
+
+[[comments]]
+order = 1
+subject = "الهرم كفر الجبل شارع نصر النصيف"
+author = "مجدى عطيه ابراهيم"
+posted = "2008-01-14"
+text = "انا اخوكم مجدى عاطل ياريت تلاقولى شغلانا"
+archived = "2010-03-14"
+capture_url = ""
+
+[[comments]]
+order = 2
+subject = "انا من مصر"
+author = "انا اسمى مجدى عطيه ابراهيم"
+posted = "2008-01-14"
+text = "انا بحب مصر علشان مصر دى امى ولا يمكن ازعله هو فى حد يقدر يزعل امه"
+archived = "2010-03-14"
+capture_url = ""
+
+[[comments]]
+order = 3
+subject = ""
+author = "موده"
+posted = "2009-04-18"
+text = "انانزلت البرنامج ده على موبايلى بس نزل بالفرنساوى ايه الحل وازاى استخدمه :sad:"
+archived = "2010-03-14"
+capture_url = ""

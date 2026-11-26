@@ -3,6 +3,33 @@ order = 0
 subject = ""
 author = "عشريناتى قديم"
 posted = "2009-04-16"
-text = "هى العروسه فيه ؟"
+text = "هى العروسه فيه ؟ :lol: :lol: :lol:"
 archived = "2009-04-19"
 capture_url = "https://web.archive.org/web/20090419200546/http://www.20at.com:80/nashrat-9/11750-2009-04-12-15-07-02.html"
+
+[[comments]]
+order = 1
+subject = ""
+author = "I$L@M"
+posted = "2009-04-16"
+text = ":cry: :cry: :cry: :cry:"
+archived = "2010-03-14"
+capture_url = ""
+
+[[comments]]
+order = 2
+subject = ""
+author = "I$L@M"
+posted = "2009-04-19"
+text = ":oops: :oops: :oops:"
+archived = "2010-03-14"
+capture_url = ""
+
+[[comments]]
+order = 3
+subject = ""
+author = "M"
+posted = "2009-05-18"
+text = ":o :o :o :o"
+archived = "2010-03-14"
+capture_url = ""

@@ -85,14 +85,7 @@
     if (bar) { bar.click(); box.scrollIntoView({ block: "center" }); }
   }
 
-  // ---- where you left off; a random article ------------------------------------------------------------
-  const last = document.querySelector("[data-last-read]");
-  if (last) {
-    try {
-      const it = JSON.parse(localStorage.getItem("t9-last") || "null");
-      if (it && it.t && it.u) { const a = last.querySelector("a"); a.textContent = it.t; a.href = it.u; last.hidden = false; }
-    } catch { /* storage unavailable: nothing to show */ }
-  }
+  // ---- a random article ----------------------------------------------------------------------------------
   document.querySelectorAll(".hm [data-random]").forEach((a) => a.addEventListener("click", async (ev) => {
     ev.preventDefault();
     const rows = await loadArticles(a.dataset.src);

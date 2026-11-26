@@ -198,15 +198,6 @@ capture_url = "https://web.archive.org/web/20070202025156/http://masr.20at.com:8
 
 [[comments]]
 order = 22
-subject = "congratlation"
-author = "ahmad ezz"
-posted = "2007-01-30"
-text = "بارك الله لكما وبارك عليكماوجمع بينكما فى خير \"اللهم امين"
-archived = "2007-02-02"
-capture_url = "https://web.archive.org/web/20070202025156/http://masr.20at.com:80/article.php?sid=1515"
-
-[[comments]]
-order = 23
 subject = "دفاع عن الدواخلى"
 author = "أحمد بكير"
 posted = "2007-01-30"
@@ -215,7 +206,7 @@ archived = "2007-02-02"
 capture_url = "https://web.archive.org/web/20070202025156/http://masr.20at.com:80/article.php?sid=1515"
 
 [[comments]]
-order = 24
+order = 23
 subject = "الف مبروك"
 author = "فهد الا سلام"
 posted = "2007-01-31"
@@ -224,7 +215,7 @@ archived = "2007-02-02"
 capture_url = "https://web.archive.org/web/20070202025156/http://masr.20at.com:80/article.php?sid=1515"
 
 [[comments]]
-order = 25
+order = 24
 subject = "ابيات شعرية لواحد مش حيتجوز ابدا"
 author = "وزارات ورا وزارت هتعيش على حلمنا"
 posted = "2007-01-31"
@@ -233,7 +224,7 @@ archived = "2007-02-02"
 capture_url = "https://web.archive.org/web/20070202025156/http://masr.20at.com:80/article.php?sid=1515"
 
 [[comments]]
-order = 26
+order = 25
 subject = "السادة النقاد"
 author = "ahmoss"
 posted = "2007-01-31"
@@ -242,7 +233,7 @@ archived = "2007-02-02"
 capture_url = "https://web.archive.org/web/20070202025156/http://masr.20at.com:80/article.php?sid=1515"
 
 [[comments]]
-order = 27
+order = 26
 subject = "حلوين"
 author = "محب"
 posted = "2007-01-31"
@@ -251,7 +242,7 @@ archived = "2007-02-02"
 capture_url = "https://web.archive.org/web/20070202025156/http://masr.20at.com:80/article.php?sid=1515"
 
 [[comments]]
-order = 28
+order = 27
 subject = "موضوع تحفة"
 author = "moodysalihamidzic"
 posted = "2007-02-02"

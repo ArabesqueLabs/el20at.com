@@ -69,3 +69,12 @@ posted = "2006-07-01"
 text = "بصراحة الموضوع هايل انا بهنيك علي افكارك الحلو لا ستغلال الوقت في المصلحة العامة"
 archived = "2006-11-02"
 capture_url = "https://web.archive.org/web/20061102134656/http://www.20at.com/article2.php?sid=754"
+
+[[comments]]
+order = 8
+subject = "طرابلس-ليبيا"
+author = "اروى"
+posted = "2008-01-18"
+text = "شكرا على مساعدتي في اكتشاف شخصيتي"
+archived = "2010-03-14"
+capture_url = ""

@@ -12,12 +12,21 @@ order = 1
 subject = ""
 author = "marmoooora"
 posted = "2009-05-22"
-text = "ربنا يحفظك يارب وتكونى زخرا لمصر انتى وكل العرب المغتربين ودايما رافعين راسنا بره وعرفت ان الدكتور احمد زويل كمان بقى مستشار لاوباما<br />لعله خيييييييييييييي ير"
+text = "ربنا يحفظك يارب وتكونى زخرا لمصر انتى وكل العرب المغتربين ودايما رافعين راسنا بره وعرفت ان الدكتور احمد زويل كمان بقى مستشار لاوباما<br />لعله خييييييييييييييير"
 archived = "2009-06-05"
 capture_url = "https://web.archive.org/web/20090605093402/http://www.20at.com:80/ebn-balad/11846-2009-04-22-16-49-39.html"
 
 [[comments]]
 order = 2
+subject = ""
+author = "marmoooora"
+posted = "2009-05-22"
+text = ":-) :roll: :-) :roll: :-) :roll:"
+archived = "2010-03-14"
+capture_url = ""
+
+[[comments]]
+order = 3
 subject = ""
 author = "احمد"
 posted = "2009-09-21"

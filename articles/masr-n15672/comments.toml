@@ -1,5 +1,41 @@
 [[comments]]
 order = 0
+subject = "اية"
+author = "مصرى"
+posted = "2008-05-08"
+text = "ان الذين كفروا ينفقون اموالهم ليصدوا عن سبيل الله فسينفقونها ثم تكون عليهم حسرة ثم يغلبون والذين كفروا الى جهنم يحشرون"
+archived = "2008-05-09"
+capture_url = "https://web.archive.org/web/20080509000053/http://masr.20at.com:80/newArticle.php?sid=15672"
+
+[[comments]]
+order = 1
+subject = "تأتيهم مليارات الدولارات من اقباط المهجر وتدعهم ال"
+author = "بيرقص"
+posted = "2008-05-08"
+text = "ومالة خليهم يتكيفوا واكنها بلد ابوهم<br />ما بروحوا فى ستين داهية عند اقاربهم الرومان فى امريكا واستراليا<br />احنا مستحملينهم ازاى<br />دى حاجة قرف وريحة زفرة وزناخة خنازير"
+archived = "2008-05-09"
+capture_url = "https://web.archive.org/web/20080509000053/http://masr.20at.com:80/newArticle.php?sid=15672"
+
+[[comments]]
+order = 2
+subject = "احنا ملناش حد لية"
+author = "واحد حران اوى"
+posted = "2008-05-08"
+text = "هما ليهم اللى بيسال فيهم واحنا ننسلخ من الحر<br />عشان احنا يتامى من القيادات"
+archived = "2008-05-09"
+capture_url = "https://web.archive.org/web/20080509000053/http://masr.20at.com:80/newArticle.php?sid=15672"
+
+[[comments]]
+order = 3
+subject = "توبوا لله يا نصارى فلن ينفعكم رهبانكم يوم الدين"
+author = "ذابح الخروف"
+posted = "2008-05-08"
+text = "نار جهنم أشد حرا لو كانوا يفقهون"
+archived = "2010-03-14"
+capture_url = ""
+
+[[comments]]
+order = 4
 subject = "توبوا لله يا نصارى فلن ينفعكم رهبانكم يوم الدين"
 author = "ذابح الخروف"
 text = "نار جهنم أشد حرا لو كانوا يفقهون"
@@ -7,25 +43,10 @@ archived = "2008-05-09"
 capture_url = "https://web.archive.org/web/20080509000053/http://masr.20at.com:80/newArticle.php?sid=15672"
 
 [[comments]]
-order = 1
-subject = "اية"
-author = "مصرى"
-text = "ان الذين كفروا ينفقون اموالهم ليصدوا عن سبيل الله فسينفقونها ثم تكون عليهم حسرة ثم يغلبون والذين كفروا الى جهنم يحشرون"
-archived = "2008-05-09"
-capture_url = "https://web.archive.org/web/20080509000053/http://masr.20at.com:80/newArticle.php?sid=15672"
-
-[[comments]]
-order = 2
-subject = "تأتيهم مليارات الدولارات من اقباط المهجر وتدعهم السيدة التى من اصول مسيحية يهودية"
-author = "بيرقص"
-text = "ومالة خليهم يتكيفوا واكنها بلد ابوهم<br />ما بروحوا فى ستين داهية عند اقاربهم الرومان فى امريكا واستراليا<br />احنا مستحملينهم ازاى<br />دى حاجة قرف وريحة زفرة وزناخة خنازير"
-archived = "2008-05-09"
-capture_url = "https://web.archive.org/web/20080509000053/http://masr.20at.com:80/newArticle.php?sid=15672"
-
-[[comments]]
-order = 3
-subject = "احنا ملناش حد لية"
-author = "واحد حران اوى"
-text = "هما ليهم اللى بيسال فيهم واحنا ننسلخ من الحر<br />عشان احنا يتامى من القيادات"
-archived = "2008-05-09"
-capture_url = "https://web.archive.org/web/20080509000053/http://masr.20at.com:80/newArticle.php?sid=15672"
+order = 5
+subject = "الي الحيوان اللي بيقول خليهم يروحو في ستين داهية"
+author = "مواطن مصر"
+posted = "2008-05-12"
+text = "لو كنت بتعرف تقرا كنت عرفت ان اصل المصرين هم اقباط ومسيحين وانتم جيتو واحتاليتونا ولولا الغرب يا ذكي ماكنتش هاتلاقي كمبيوتر ولا نت تكتب عليه فلم لسانك واعرف مين اللي ادالك الحرية وبعد كدا ابقي اتكلم"
+archived = "2010-03-14"
+capture_url = ""

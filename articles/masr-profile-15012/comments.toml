@@ -93,7 +93,7 @@ order = 10
 subject = ""
 author = "وحشتنا يا طحاوي"
 posted = "2010-01-26"
-text = "انا اكلت لحم حمير<br />http://www.20at.com/masr/hot-topics/8780.html<br />ـــــــــــــــ ـــــــــــــــ ـــــــــــــــ ـ<br />ابو محسن"
+text = "انا اكلت لحم حمير<br />http://www.20at.com/masr/hot-topics/8780.html<br />ــــــــــــــــــــــــــــــــــــــــــــــ<br />ابو محسن"
 archived = "2010-01-27"
 capture_url = "https://web.archive.org/web/20100127205733/http://www.20at.com:80/masr/profile/15012-2010-01-21-19-40-37.html"
 
@@ -105,3 +105,12 @@ posted = "2010-02-16"
 text = "بجد مقال تحفة ، إن شاء الله ربنا هيوفقك في امتحان الإعادة يا دبلوماسي المستقبل"
 archived = "2010-02-28"
 capture_url = "https://web.archive.org/web/20100228161710/http://www.20at.com:80/masr/profile/15012-2010-01-21-19-40-37.html"
+
+[[comments]]
+order = 12
+subject = ""
+author = "fady"
+posted = "2010-03-08"
+text = "على فكرة ياجماعة احب اوضح حاجة:<br />1-الوظيفة ملحق دبلوماسى لحد متكون سفير مش ادارى زى الاخ اللى قال كده.<br />2-مفيش واسطة فى الخارجية وده اكيد."
+archived = "2010-03-14"
+capture_url = ""

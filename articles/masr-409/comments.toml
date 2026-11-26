@@ -324,15 +324,6 @@ capture_url = "https://web.archive.org/web/20060615132722/http://masr.20at.com:8
 
 [[comments]]
 order = 36
-subject = "المعرصين الخولات العرب"
-author = "مصطفى البرنس"
-posted = "2006-06-14"
-text = "كس أمك ياشيخ صالح يامعرص يابن المتناكة أمك مرة زانية جابتك من زنإة الأتوبيسات وإحنا لوجدعان مكنش حد إشترك مع المعرص دة وهو كان خصر ملايين إنما تعمل إيه الناس مش قادرة فى طيزهم بيضة عايزين يتفرجوا على كس أم كاس العالم وإيه يعنى لو متفرجوش هيتبعبصوا وللا هيتناكوا فى طيزهم"
-archived = "2006-06-15"
-capture_url = "https://web.archive.org/web/20060615132722/http://masr.20at.com:80/article.php?sid=409"
-
-[[comments]]
-order = 37
 subject = "ظلم"
 author = "حمودي"
 posted = "2006-06-16"
@@ -341,7 +332,7 @@ archived = "2006-06-17"
 capture_url = "https://web.archive.org/web/20060617173932/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 38
+order = 37
 subject = "The new SRG keys"
 author = "البحريني"
 posted = "2006-06-16"
@@ -350,7 +341,7 @@ archived = "2006-06-17"
 capture_url = "https://web.archive.org/web/20060617173932/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 39
+order = 38
 subject = "فائدة الأحتكار"
 author = "عبدالله المقرشي"
 posted = "2006-06-16"
@@ -359,7 +350,7 @@ archived = "2006-06-17"
 capture_url = "https://web.archive.org/web/20060617173932/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 40
+order = 39
 subject = "كأس العالم"
 author = "الشامي"
 posted = "2006-06-16"
@@ -368,7 +359,7 @@ archived = "2006-06-17"
 capture_url = "https://web.archive.org/web/20060617173932/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 41
+order = 40
 subject = "صالح طالح"
 author = "المقارشة"
 posted = "2006-06-17"
@@ -377,7 +368,7 @@ archived = "2006-06-17"
 capture_url = "https://web.archive.org/web/20060617173932/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 42
+order = 41
 subject = "هؤلاء أصحاب صناعة الإسلام الأمريكي"
 author = "كلمة حق"
 posted = "2006-06-17"
@@ -386,7 +377,7 @@ archived = "2006-06-17"
 capture_url = "https://web.archive.org/web/20060617173932/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 43
+order = 42
 subject = "NEW مفتاح القنوات السويسرية"
 author = "السعودي"
 posted = "2006-06-17"
@@ -395,7 +386,7 @@ archived = "2006-06-17"
 capture_url = "https://web.archive.org/web/20060617173932/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 44
+order = 43
 subject = "الشفرة الجديدة"
 author = "مصري"
 posted = "2006-06-17"
@@ -404,7 +395,7 @@ archived = "2006-06-17"
 capture_url = "https://web.archive.org/web/20060617173932/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 45
+order = 44
 subject = "مشكور"
 author = "مصري"
 posted = "2006-06-17"
@@ -413,7 +404,7 @@ archived = "2006-06-17"
 capture_url = "https://web.archive.org/web/20060617173932/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 46
+order = 45
 subject = "المفتاح القادم للقنوات السويسريه"
 author = "البحريني"
 posted = "2006-06-17"
@@ -422,7 +413,7 @@ archived = "2006-06-17"
 capture_url = "https://web.archive.org/web/20060617173932/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 47
+order = 46
 subject = "يعطيك العافيه يا بحريني"
 author = "السعودي"
 posted = "2006-06-18"
@@ -431,7 +422,7 @@ archived = "2006-06-18"
 capture_url = "https://web.archive.org/web/20060618144219/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 48
+order = 47
 subject = "ِكرا جدزيلا"
 author = "الحلبي"
 posted = "2006-06-18"
@@ -440,7 +431,7 @@ archived = "2006-06-18"
 capture_url = "https://web.archive.org/web/20060618144219/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 49
+order = 48
 subject = "تسلم على الكووود"
 author = "الاماراتي"
 posted = "2006-06-18"
@@ -449,7 +440,7 @@ archived = "2006-06-19"
 capture_url = "https://web.archive.org/web/20060619140323/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 50
+order = 49
 subject = "موراضي يشتغل كود الاوربي"
 author = "ابووتين"
 posted = "2006-06-18"
@@ -458,7 +449,7 @@ archived = "2006-06-19"
 capture_url = "https://web.archive.org/web/20060619140323/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 51
+order = 50
 subject = "رياضة"
 author = "ايمن"
 posted = "2006-06-18"
@@ -467,7 +458,7 @@ archived = "2006-06-19"
 capture_url = "https://web.archive.org/web/20060619140323/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 52
+order = 51
 subject = "بقرة كبيرة فيها جبن كبير"
 author = "ايمن"
 posted = "2006-06-18"
@@ -476,7 +467,7 @@ archived = "2006-06-19"
 capture_url = "https://web.archive.org/web/20060619140323/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 53
+order = 52
 subject = "مشكورين علي مجهوداتكم"
 author = "همكو"
 posted = "2006-06-18"
@@ -485,7 +476,7 @@ archived = "2006-06-19"
 capture_url = "https://web.archive.org/web/20060619140323/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 54
+order = 53
 subject = "الرياضة"
 author = "عماد"
 posted = "2006-06-18"
@@ -494,7 +485,7 @@ archived = "2006-06-19"
 capture_url = "https://web.archive.org/web/20060619140323/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 55
+order = 54
 subject = "الرياضة أخلاق"
 author = "عماد"
 posted = "2006-06-18"
@@ -503,7 +494,7 @@ archived = "2006-06-19"
 capture_url = "https://web.archive.org/web/20060619140323/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 56
+order = 55
 subject = "شفرة يوم 19/6/2006"
 author = "هامكو"
 posted = "2006-06-18"
@@ -512,7 +503,7 @@ archived = "2006-06-19"
 capture_url = "https://web.archive.org/web/20060619140323/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 57
+order = 56
 subject = "فين"
 author = "fan"
 posted = "2006-06-19"
@@ -521,7 +512,7 @@ archived = "2006-06-19"
 capture_url = "https://web.archive.org/web/20060619140323/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 58
+order = 57
 subject = "برافوا عليكم ياشباب"
 author = "الألماس"
 posted = "2006-06-19"
@@ -530,7 +521,7 @@ archived = "2006-06-21"
 capture_url = "https://web.archive.org/web/20060621141435/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 59
+order = 58
 subject = "للضروره"
 author = "ميلاد"
 posted = "2006-06-19"
@@ -539,7 +530,7 @@ archived = "2006-06-21"
 capture_url = "https://web.archive.org/web/20060621141435/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 60
+order = 59
 subject = "امبابة"
 author = "احمد محمد جمال"
 posted = "2006-06-19"
@@ -548,7 +539,7 @@ archived = "2006-06-21"
 capture_url = "https://web.archive.org/web/20060621141435/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 61
+order = 60
 subject = "اتكلم للضرورة"
 author = "المصرى"
 posted = "2006-06-19"
@@ -557,7 +548,7 @@ archived = "2006-06-21"
 capture_url = "https://web.archive.org/web/20060621141435/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 62
+order = 61
 subject = "القناه"
 author = "v009400 09A634 e3 31co f9 B9 EF"
 posted = "2006-06-19"
@@ -566,7 +557,7 @@ archived = "2006-06-21"
 capture_url = "https://web.archive.org/web/20060621141435/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 63
+order = 62
 subject = "جربته"
 author = "جربت هاد التشفير لل sf1 لكن ما اجت القناه شو الحل عندكم ؟؟؟؟"
 posted = "2006-06-19"
@@ -575,7 +566,7 @@ archived = "2006-06-21"
 capture_url = "https://web.archive.org/web/20060621141435/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 64
+order = 63
 subject = "شفرة قنوات كاس العالم"
 author = "محمود"
 posted = "2006-06-19"
@@ -584,7 +575,7 @@ archived = "2006-06-21"
 capture_url = "https://web.archive.org/web/20060621141435/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 65
+order = 64
 subject = "شاهد كاس العالم رغم انف الشيخ صالح"
 author = "redaking"
 posted = "2006-06-19"
@@ -593,7 +584,7 @@ archived = "2006-06-21"
 capture_url = "https://web.archive.org/web/20060621141435/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 66
+order = 65
 subject = "لا حول الله"
 author = "نصرالدين"
 posted = "2006-06-19"
@@ -602,7 +593,7 @@ archived = "2006-06-21"
 capture_url = "https://web.archive.org/web/20060621141435/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 67
+order = 66
 subject = "تردد يوم 20/6/2005"
 author = "just4u"
 posted = "2006-06-20"
@@ -611,7 +602,7 @@ archived = "2006-06-21"
 capture_url = "https://web.archive.org/web/20060621141435/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 68
+order = 67
 subject = "هندي مشهور"
 author = "مكي عبد المحسن خالد هندي"
 posted = "2006-06-20"
@@ -620,7 +611,7 @@ archived = "2006-06-21"
 capture_url = "https://web.archive.org/web/20060621141435/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 69
+order = 68
 subject = "تثغعخمè("
 author = "غعنهèمعهنغف"
 posted = "2006-06-20"
@@ -629,7 +620,7 @@ archived = "2006-06-21"
 capture_url = "https://web.archive.org/web/20060621141435/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 70
+order = 69
 subject = "بانتيسيل عميل الصهيونية"
 author = "ابو السامر"
 posted = "2006-06-20"
@@ -638,7 +629,7 @@ archived = "2006-06-21"
 capture_url = "https://web.archive.org/web/20060621141435/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 71
+order = 70
 subject = "ممكن"
 author = "ممكن انزل كل التشفيرات مرة واحدة على الرسيفر؟؟؟؟؟"
 posted = "2006-06-20"
@@ -647,7 +638,7 @@ archived = "2006-06-21"
 capture_url = "https://web.archive.org/web/20060621141435/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 72
+order = 71
 subject = "الشفرة"
 author = "asad"
 posted = "2006-06-20"
@@ -656,7 +647,7 @@ archived = "2006-06-21"
 capture_url = "https://web.archive.org/web/20060621141435/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 73
+order = 72
 subject = "يجب الحرص"
 author = "محمود مصطفى"
 posted = "2006-06-21"
@@ -665,7 +656,7 @@ archived = "2006-06-21"
 capture_url = "https://web.archive.org/web/20060621141435/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 74
+order = 73
 subject = "الغطرسة السعودية مرة أخرى...."
 author = "بسطار أردني على رأس السعودي"
 posted = "2006-06-21"
@@ -674,7 +665,7 @@ archived = "2006-06-21"
 capture_url = "https://web.archive.org/web/20060621141435/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 75
+order = 74
 subject = "لا تغالط نفسك وتحرقها"
 author = "ابووتين"
 posted = "2006-06-21"
@@ -683,7 +674,7 @@ archived = "2006-06-22"
 capture_url = "https://web.archive.org/web/20060622150957/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 76
+order = 75
 subject = "تحية للكاتب (( بسـطار ))"
 author = "صالح السعدي"
 posted = "2006-06-22"
@@ -692,7 +683,7 @@ archived = "2006-06-22"
 capture_url = "https://web.archive.org/web/20060622150957/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 77
+order = 76
 subject = "آخر شفرة للقنوات السويسرية"
 author = "صالح السعدي"
 posted = "2006-06-22"
@@ -701,7 +692,7 @@ archived = "2006-06-22"
 capture_url = "https://web.archive.org/web/20060622150957/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 78
+order = 77
 subject = "بليز"
 author = "روك"
 posted = "2006-06-22"
@@ -710,7 +701,7 @@ archived = "2006-06-22"
 capture_url = "https://web.archive.org/web/20060622150957/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 79
+order = 78
 subject = "شفرة لليوم"
 author = "ريكو"
 posted = "2006-06-22"
@@ -719,7 +710,7 @@ archived = "2006-06-23"
 capture_url = "https://web.archive.org/web/20060623144519/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 80
+order = 79
 subject = "تسكر الشفره القديمة"
 author = "مساعده...........أحد يعطينا شفره تاريخ 22 باسرع وقت ممكن....ولو شي مو قع"
 posted = "2006-06-22"
@@ -728,7 +719,7 @@ archived = "2006-06-23"
 capture_url = "https://web.archive.org/web/20060623144519/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 81
+order = 80
 subject = "تسكر الشفره القديمة"
 author = "الاماراتي"
 posted = "2006-06-22"
@@ -737,16 +728,7 @@ archived = "2006-06-23"
 capture_url = "https://web.archive.org/web/20060623144519/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 82
-subject = "كاس العالم"
-author = "ابو الحكم"
-posted = "2006-06-22"
-text = "مساعده...........أحد يعطينا شفره تاريخ 22 باسرع وقت ممكن....ولو شي مو قع<br />يتجدد بشكل يومي يكون أحســــــن<br />وشكررااا,,,,,,,,,"
-archived = "2006-06-23"
-capture_url = "https://web.archive.org/web/20060623144519/http://masr.20at.com:80/article.php?sid=409"
-
-[[comments]]
-order = 83
+order = 81
 subject = "يمن"
 author = "يمن"
 posted = "2006-06-22"
@@ -755,7 +737,7 @@ archived = "2006-06-23"
 capture_url = "https://web.archive.org/web/20060623144519/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 84
+order = 82
 subject = "شكر"
 author = "زيزو العجيب"
 posted = "2006-06-22"
@@ -764,7 +746,7 @@ archived = "2006-06-23"
 capture_url = "https://web.archive.org/web/20060623144519/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 85
+order = 83
 subject = "يسلمووو"
 author = "الاماراتي"
 posted = "2006-06-22"
@@ -773,7 +755,7 @@ archived = "2006-06-23"
 capture_url = "https://web.archive.org/web/20060623144519/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 86
+order = 84
 subject = "مساعدة لوسمحتم"
 author = "caramela"
 posted = "2006-06-22"
@@ -782,7 +764,7 @@ archived = "2006-06-23"
 capture_url = "https://web.archive.org/web/20060623144519/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 87
+order = 85
 subject = "شفره"
 author = "كلاسيكي"
 posted = "2006-06-22"
@@ -791,7 +773,7 @@ archived = "2006-06-23"
 capture_url = "https://web.archive.org/web/20060623144519/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 88
+order = 86
 subject = "الرياضة أخلاق"
 author = "عماد"
 posted = "2006-06-23"
@@ -800,7 +782,7 @@ archived = "2006-06-23"
 capture_url = "https://web.archive.org/web/20060623144519/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 89
+order = 87
 subject = "كابتنى"
 author = "كيوي"
 posted = "2006-06-23"
@@ -809,7 +791,7 @@ archived = "2006-06-23"
 capture_url = "https://web.archive.org/web/20060623144519/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 90
+order = 88
 subject = "وين النشامه"
 author = "أحمــد"
 posted = "2006-06-23"
@@ -818,7 +800,7 @@ archived = "2006-06-23"
 capture_url = "https://web.archive.org/web/20060623144519/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 91
+order = 89
 subject = "شفرة SRG"
 author = "asad"
 posted = "2006-06-23"
@@ -827,7 +809,7 @@ archived = "2006-06-24"
 capture_url = "https://web.archive.org/web/20060624161717/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 92
+order = 90
 subject = "شفرة SLO"
 author = "ASAD"
 posted = "2006-06-23"
@@ -836,7 +818,7 @@ archived = "2006-06-24"
 capture_url = "https://web.archive.org/web/20060624161717/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 93
+order = 91
 subject = "لية الانانية"
 author = "احمد"
 posted = "2006-06-23"
@@ -845,7 +827,7 @@ archived = "2006-06-24"
 capture_url = "https://web.archive.org/web/20060624161717/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 94
+order = 92
 subject = "موقع تحميل الشفرات"
 author = "bakabeek"
 posted = "2006-06-24"
@@ -854,7 +836,7 @@ archived = "2006-06-24"
 capture_url = "https://web.archive.org/web/20060624161717/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 95
+order = 93
 subject = "موقع تحميل الشفرات"
 author = "bakabeek المصرى"
 posted = "2006-06-24"
@@ -863,7 +845,7 @@ archived = "2006-06-24"
 capture_url = "https://web.archive.org/web/20060624161717/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 96
+order = 94
 subject = "شفرة اليوم"
 author = "ابو فاضل"
 posted = "2006-06-24"
@@ -872,7 +854,7 @@ archived = "2006-06-24"
 capture_url = "https://web.archive.org/web/20060624161717/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 97
+order = 95
 subject = "والله مشكورين على الشفرات"
 author = "الحلبي(بلاد الشام)"
 posted = "2006-06-24"
@@ -881,7 +863,7 @@ archived = "2006-06-25"
 capture_url = "https://web.archive.org/web/20060625170821/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 98
+order = 96
 subject = "شفرة الباقه السويسريه"
 author = "مواطن عربى"
 posted = "2006-06-24"
@@ -890,7 +872,7 @@ archived = "2006-06-25"
 capture_url = "https://web.archive.org/web/20060625170821/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 99
+order = 97
 subject = "مواطن عربى"
 author = "BOBO"
 posted = "2006-06-24"
@@ -899,7 +881,7 @@ archived = "2006-06-25"
 capture_url = "https://web.archive.org/web/20060625170821/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 100
+order = 98
 subject = "مرو خالد وفيفي عبده"
 author = "ابن الأردن البار"
 posted = "2006-06-24"
@@ -908,7 +890,7 @@ archived = "2006-06-25"
 capture_url = "https://web.archive.org/web/20060625170821/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 101
+order = 99
 subject = "آخر شفرة"
 author = "أحمد المصرى"
 posted = "2006-06-25"
@@ -917,7 +899,7 @@ archived = "2006-06-25"
 capture_url = "https://web.archive.org/web/20060625170821/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 102
+order = 100
 subject = "الحلبي"
 author = "محمد"
 posted = "2006-06-25"
@@ -926,7 +908,7 @@ archived = "2006-06-25"
 capture_url = "https://web.archive.org/web/20060625170821/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 103
+order = 101
 subject = "الحلبي"
 author = "محمد"
 posted = "2006-06-25"
@@ -935,7 +917,7 @@ archived = "2006-06-25"
 capture_url = "https://web.archive.org/web/20060625170821/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 104
+order = 102
 subject = "smart"
 author = "BOBO"
 posted = "2006-06-25"
@@ -944,7 +926,7 @@ archived = "2006-06-26"
 capture_url = "https://web.archive.org/web/20060626151205/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 105
+order = 103
 subject = "قال art قال"
 author = "ٍسودانى"
 posted = "2006-06-25"
@@ -953,7 +935,7 @@ archived = "2006-06-26"
 capture_url = "https://web.archive.org/web/20060626151205/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 106
+order = 104
 subject = "smart"
 author = "BOBO"
 posted = "2006-06-26"
@@ -962,7 +944,7 @@ archived = "2006-06-27"
 capture_url = "https://web.archive.org/web/20060627152831/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 107
+order = 105
 subject = "نسأل الله الهداية للجميع"
 author = "مسلم"
 posted = "2006-06-27"
@@ -971,7 +953,7 @@ archived = "2006-06-27"
 capture_url = "https://web.archive.org/web/20060627152831/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 108
+order = 106
 subject = "فلسطين"
 author = "براء الصاحب"
 posted = "2006-06-27"
@@ -980,7 +962,7 @@ archived = "2006-06-27"
 capture_url = "https://web.archive.org/web/20060627152831/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 109
+order = 107
 subject = "الشفرة"
 author = "أبو أشرف"
 posted = "2006-06-27"
@@ -989,7 +971,7 @@ archived = "2006-06-27"
 capture_url = "https://web.archive.org/web/20060627152831/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 110
+order = 108
 subject = "هاى شباب"
 author = "ابو عمر"
 posted = "2006-06-27"
@@ -998,7 +980,7 @@ archived = "2006-06-27"
 capture_url = "https://web.archive.org/web/20060627152831/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 111
+order = 109
 subject = "ارجوكم ياشباب"
 author = "ابو عمر"
 posted = "2006-06-27"
@@ -1007,7 +989,7 @@ archived = "2006-06-27"
 capture_url = "https://web.archive.org/web/20060627152831/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 112
+order = 110
 subject = "شفرة السويسرية لليوم :"
 author = "حموووود"
 posted = "2006-06-27"
@@ -1016,7 +998,7 @@ archived = "2006-06-27"
 capture_url = "https://web.archive.org/web/20060627152831/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 113
+order = 111
 subject = "شفرات الأيام الجاية"
 author = "حمووود"
 posted = "2006-06-27"
@@ -1025,7 +1007,7 @@ archived = "2006-06-27"
 capture_url = "https://web.archive.org/web/20060627152831/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 114
+order = 112
 subject = "شكرا"
 author = "حمادة @حمودي"
 posted = "2006-06-27"
@@ -1034,7 +1016,7 @@ archived = "2006-06-27"
 capture_url = "https://web.archive.org/web/20060627152831/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 115
+order = 113
 subject = "والله انتو كده"
 author = "فنكوش"
 posted = "2006-06-27"
@@ -1043,7 +1025,7 @@ archived = "2006-06-27"
 capture_url = "https://web.archive.org/web/20060627152831/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 116
+order = 114
 subject = "وفرتوا علينا كتير"
 author = "وليد النجار"
 posted = "2006-06-27"
@@ -1052,7 +1034,7 @@ archived = "2006-06-27"
 capture_url = "https://web.archive.org/web/20060627152831/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 117
+order = 115
 subject = "فزعة لعيون ابو اشرف"
 author = "صالح السعدي"
 posted = "2006-06-27"
@@ -1061,7 +1043,7 @@ archived = "2006-06-27"
 capture_url = "https://web.archive.org/web/20060627152831/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 118
+order = 116
 subject = "شكر وتقدير"
 author = "ابوبدر"
 posted = "2006-06-27"
@@ -1070,7 +1052,7 @@ archived = "2006-06-28"
 capture_url = "https://web.archive.org/web/20060628200052/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 119
+order = 117
 subject = "مش مش"
 author = "خوخ"
 posted = "2006-06-27"
@@ -1079,7 +1061,7 @@ archived = "2006-06-28"
 capture_url = "https://web.archive.org/web/20060628200052/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 120
+order = 118
 subject = "مايخصك"
 author = "صخرة العرب"
 posted = "2006-06-27"
@@ -1088,7 +1070,7 @@ archived = "2006-06-28"
 capture_url = "https://web.archive.org/web/20060628200052/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 121
+order = 119
 subject = "ما هي كودات يوم الجمعه؟"
 author = "SHIKO"
 posted = "2006-06-28"
@@ -1097,7 +1079,7 @@ archived = "2006-06-28"
 capture_url = "https://web.archive.org/web/20060628200052/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 122
+order = 120
 subject = "احلى شباب مع احلى بطولة"
 author = "كمبوش"
 posted = "2006-06-28"
@@ -1106,7 +1088,7 @@ archived = "2006-06-28"
 capture_url = "https://web.archive.org/web/20060628200052/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 123
+order = 121
 subject = "الشفرات الجاية"
 author = "حمووود"
 posted = "2006-06-28"
@@ -1115,7 +1097,7 @@ archived = "2006-06-28"
 capture_url = "https://web.archive.org/web/20060628200052/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 124
+order = 122
 subject = "المباراة النهائيه"
 author = "أبو ديدو"
 posted = "2006-06-28"
@@ -1124,7 +1106,7 @@ archived = "2006-06-28"
 capture_url = "https://web.archive.org/web/20060628200052/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 125
+order = 123
 subject = "موقع فك الشفرة"
 author = "اشرف الحجاوي"
 posted = "2006-06-28"
@@ -1133,7 +1115,7 @@ archived = "2006-06-28"
 capture_url = "https://web.archive.org/web/20060628200052/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 126
+order = 124
 subject = "Bravooooo"
 author = "مودي"
 posted = "2006-06-28"
@@ -1142,7 +1124,7 @@ archived = "2006-06-28"
 capture_url = "https://web.archive.org/web/20060628200052/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 127
+order = 125
 subject = "smart"
 author = "BOBO"
 posted = "2006-06-28"
@@ -1151,7 +1133,7 @@ archived = "2006-06-28"
 capture_url = "https://web.archive.org/web/20060628200052/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 128
+order = 126
 subject = "ميمي ومحمد عبدالله"
 author = "كيوي"
 posted = "2006-06-29"
@@ -1160,7 +1142,7 @@ archived = "2006-07-05"
 capture_url = "https://web.archive.org/web/20060705112645/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 129
+order = 127
 subject = "جهاز Power Sky"
 author = "just4u محمد شبانه"
 posted = "2006-06-29"
@@ -1169,7 +1151,7 @@ archived = "2006-07-05"
 capture_url = "https://web.archive.org/web/20060705112645/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 130
+order = 128
 subject = "spice platinum"
 author = "sexy woman"
 posted = "2006-06-30"
@@ -1178,7 +1160,7 @@ archived = "2006-07-05"
 capture_url = "https://web.archive.org/web/20060705112645/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 131
+order = 129
 subject = "شفرات؟؟"
 author = "sky walker"
 posted = "2006-06-30"
@@ -1187,7 +1169,7 @@ archived = "2006-07-05"
 capture_url = "https://web.archive.org/web/20060705112645/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 132
+order = 130
 subject = "SMART"
 author = "BOBO"
 posted = "2006-06-30"
@@ -1196,7 +1178,7 @@ archived = "2006-07-05"
 capture_url = "https://web.archive.org/web/20060705112645/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 133
+order = 131
 subject = "شفرة جديدة"
 author = "ادعولنا"
 posted = "2006-06-30"
@@ -1205,7 +1187,7 @@ archived = "2006-07-05"
 capture_url = "https://web.archive.org/web/20060705112645/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 134
+order = 132
 subject = "ما هي كودات يوم الجمعه؟"
 author = "SHIKO"
 posted = "2006-06-30"
@@ -1214,7 +1196,7 @@ archived = "2006-07-05"
 capture_url = "https://web.archive.org/web/20060705112645/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 135
+order = 133
 subject = "شكر وتقدير"
 author = "عبدالله العيسى"
 posted = "2006-06-30"
@@ -1223,7 +1205,7 @@ archived = "2006-07-05"
 capture_url = "https://web.archive.org/web/20060705112645/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 136
+order = 134
 subject = "شفره اليوم يا شباب و خلي الشيخ صالح يلبسسسسسسسسسسسسسسس"
 author = "محمد المصري"
 posted = "2006-06-30"
@@ -1232,7 +1214,7 @@ archived = "2006-07-05"
 capture_url = "https://web.archive.org/web/20060705112645/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 137
+order = 135
 subject = "SMART"
 author = "BOBO"
 posted = "2006-06-30"
@@ -1241,7 +1223,7 @@ archived = "2006-07-05"
 capture_url = "https://web.archive.org/web/20060705112645/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 138
+order = 136
 subject = "شفرة الجمعه 30 \\\\ 6 \\\\ 2006"
 author = "محمد باشا عطيه"
 posted = "2006-06-30"
@@ -1250,7 +1232,7 @@ archived = "2006-07-05"
 capture_url = "https://web.archive.org/web/20060705112645/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 139
+order = 137
 subject = "مالت"
 author = "sky walker"
 posted = "2006-06-30"
@@ -1259,7 +1241,7 @@ archived = "2006-07-05"
 capture_url = "https://web.archive.org/web/20060705112645/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 140
+order = 138
 subject = "أحسن موقع عربي"
 author = "المحقق كونان"
 posted = "2006-06-30"
@@ -1268,7 +1250,7 @@ archived = "2006-07-05"
 capture_url = "https://web.archive.org/web/20060705112645/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 141
+order = 139
 subject = "شفرة اليوم"
 author = "almsttla"
 posted = "2006-06-30"
@@ -1277,7 +1259,7 @@ archived = "2006-07-05"
 capture_url = "https://web.archive.org/web/20060705112645/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 142
+order = 140
 subject = "يا سلام عليكم يا احلى موقع"
 author = "احمد عطيه _الناصره _فلسطين"
 posted = "2006-06-30"
@@ -1286,7 +1268,7 @@ archived = "2006-07-05"
 capture_url = "https://web.archive.org/web/20060705112645/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 143
+order = 141
 subject = "spice platinum"
 author = "sexy woman"
 posted = "2006-06-30"
@@ -1295,7 +1277,7 @@ archived = "2006-07-05"
 capture_url = "https://web.archive.org/web/20060705112645/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 144
+order = 142
 subject = "الووووو ساعدوني بليييييز"
 author = "وداد"
 posted = "2006-06-30"
@@ -1304,7 +1286,7 @@ archived = "2006-07-05"
 capture_url = "https://web.archive.org/web/20060705112645/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 145
+order = 143
 subject = "وييييينك ياسكسي ومن"
 author = "صخرة العرب"
 posted = "2006-06-30"
@@ -1313,7 +1295,7 @@ archived = "2006-07-05"
 capture_url = "https://web.archive.org/web/20060705112645/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 146
+order = 144
 subject = "شكر وتقدير"
 author = "ابوبدر"
 posted = "2006-06-30"
@@ -1322,7 +1304,7 @@ archived = "2006-07-05"
 capture_url = "https://web.archive.org/web/20060705112645/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 147
+order = 145
 subject = "التحكيم"
 author = "زهير"
 posted = "2006-06-30"
@@ -1331,7 +1313,7 @@ archived = "2006-07-05"
 capture_url = "https://web.archive.org/web/20060705112645/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 148
+order = 146
 subject = "thanks all"
 author = "Miss Del Piero"
 posted = "2006-07-01"
@@ -1340,7 +1322,7 @@ archived = "2006-07-05"
 capture_url = "https://web.archive.org/web/20060705112645/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 149
+order = 147
 subject = "Hal el masryeen 7rameyya??"
 author = "EL SHEKH SALE7 BY2OL 3ALEENA 7RAMY"
 posted = "2006-07-01"
@@ -1349,7 +1331,7 @@ archived = "2006-07-05"
 capture_url = "https://web.archive.org/web/20060705112645/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 150
+order = 148
 subject = "مباريات اليوم"
 author = "حمادة"
 posted = "2006-07-01"
@@ -1358,7 +1340,7 @@ archived = "2006-07-05"
 capture_url = "https://web.archive.org/web/20060705112645/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 151
+order = 149
 subject = "الله يحرق البعيد"
 author = "bakabeek المصرى"
 posted = "2006-07-01"
@@ -1367,7 +1349,7 @@ archived = "2006-07-05"
 capture_url = "https://web.archive.org/web/20060705112645/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 152
+order = 150
 subject = "شكر واجب"
 author = "ثروت"
 posted = "2006-07-01"
@@ -1376,7 +1358,7 @@ archived = "2006-07-05"
 capture_url = "https://web.archive.org/web/20060705112645/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 153
+order = 151
 subject = "شكرا للجميع"
 author = "ابو حميد"
 posted = "2006-07-01"
@@ -1385,7 +1367,7 @@ archived = "2006-07-05"
 capture_url = "https://web.archive.org/web/20060705112645/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 154
+order = 152
 subject = "الرقم الجديد"
 author = "احمد عبد الهادي"
 posted = "2006-07-01"
@@ -1394,7 +1376,7 @@ archived = "2006-07-05"
 capture_url = "https://web.archive.org/web/20060705112645/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 155
+order = 153
 subject = "طلب خاص"
 author = "بنت أبوها"
 posted = "2006-07-01"
@@ -1403,7 +1385,7 @@ archived = "2006-07-05"
 capture_url = "https://web.archive.org/web/20060705112645/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 156
+order = 154
 subject = "أشكركم جميعاً"
 author = "أبو علي"
 posted = "2006-07-01"
@@ -1412,7 +1394,7 @@ archived = "2006-07-05"
 capture_url = "https://web.archive.org/web/20060705112645/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 157
+order = 155
 subject = "Miss Del Piero"
 author = "Miss Del Piero"
 posted = "2006-07-01"
@@ -1421,7 +1403,7 @@ archived = "2006-07-05"
 capture_url = "https://web.archive.org/web/20060705112645/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 158
+order = 156
 subject = "كمال"
 author = "كيكو"
 posted = "2006-07-01"
@@ -1430,7 +1412,7 @@ archived = "2006-07-05"
 capture_url = "https://web.archive.org/web/20060705112645/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 159
+order = 157
 subject = "بنت أبوها"
 author = "عبدالطيف"
 posted = "2006-07-01"
@@ -1439,7 +1421,7 @@ archived = "2006-07-05"
 capture_url = "https://web.archive.org/web/20060705112645/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 160
+order = 158
 subject = "شكرا"
 author = "حسام الدين"
 posted = "2006-07-01"
@@ -1448,7 +1430,7 @@ archived = "2006-07-05"
 capture_url = "https://web.archive.org/web/20060705112645/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 161
+order = 159
 subject = "شاهر للأكترونيات"
 author = "شاهر بريخان"
 posted = "2006-07-01"
@@ -1457,7 +1439,7 @@ archived = "2006-07-05"
 capture_url = "https://web.archive.org/web/20060705112645/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 162
+order = 160
 subject = "شكر وتقدير"
 author = "ابوبدر"
 posted = "2006-07-01"
@@ -1466,7 +1448,7 @@ archived = "2006-07-05"
 capture_url = "https://web.archive.org/web/20060705112645/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 163
+order = 161
 subject = "إلشّفره"
 author = "كــــلآُسيكــيْ"
 posted = "2006-07-01"
@@ -1475,7 +1457,7 @@ archived = "2006-07-05"
 capture_url = "https://web.archive.org/web/20060705112645/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 164
+order = 162
 subject = "سبيس بلاتينيوم"
 author = "بنت أبوها"
 posted = "2006-07-01"
@@ -1484,7 +1466,7 @@ archived = "2006-07-05"
 capture_url = "https://web.archive.org/web/20060705112645/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 165
+order = 163
 subject = "شكر واجب"
 author = "ثروت"
 posted = "2006-07-01"
@@ -1493,7 +1475,7 @@ archived = "2006-07-05"
 capture_url = "https://web.archive.org/web/20060705112645/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 166
+order = 164
 subject = "spice platinum"
 author = "sexy woman"
 posted = "2006-07-01"
@@ -1502,7 +1484,7 @@ archived = "2006-07-05"
 capture_url = "https://web.archive.org/web/20060705112645/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 167
+order = 165
 subject = "الكود الجـــديد"
 author = "الامـــلراتــــي"
 posted = "2006-07-01"
@@ -1511,7 +1493,7 @@ archived = "2006-07-05"
 capture_url = "https://web.archive.org/web/20060705112645/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 168
+order = 166
 subject = "الى سكسي"
 author = "الامراتي"
 posted = "2006-07-01"
@@ -1520,7 +1502,7 @@ archived = "2006-07-05"
 capture_url = "https://web.archive.org/web/20060705112645/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 169
+order = 167
 subject = "شفرة كأس العالم"
 author = "العاشق"
 posted = "2006-07-02"
@@ -1529,7 +1511,7 @@ archived = "2006-07-05"
 capture_url = "https://web.archive.org/web/20060705112645/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 170
+order = 168
 subject = "المواقع"
 author = "خفرع"
 posted = "2006-07-02"
@@ -1538,7 +1520,7 @@ archived = "2006-07-05"
 capture_url = "https://web.archive.org/web/20060705112645/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 171
+order = 169
 subject = "كاس العالم"
 author = "KOKE"
 posted = "2006-07-02"
@@ -1547,7 +1529,7 @@ archived = "2006-07-05"
 capture_url = "https://web.archive.org/web/20060705112645/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 172
+order = 170
 subject = "يا جماعة"
 author = "sky walker"
 posted = "2006-07-02"
@@ -1556,7 +1538,7 @@ archived = "2006-07-05"
 capture_url = "https://web.archive.org/web/20060705112645/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 173
+order = 171
 subject = "زيدان رقص البرازيل"
 author = "زيدان"
 posted = "2006-07-02"
@@ -1565,7 +1547,7 @@ archived = "2006-07-05"
 capture_url = "https://web.archive.org/web/20060705112645/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 174
+order = 172
 subject = "thanks"
 author = "yaser"
 posted = "2006-07-02"
@@ -1574,7 +1556,7 @@ archived = "2006-07-05"
 capture_url = "https://web.archive.org/web/20060705112645/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 175
+order = 173
 subject = "فرنسا"
 author = "حمادة"
 posted = "2006-07-02"
@@ -1583,7 +1565,7 @@ archived = "2006-07-05"
 capture_url = "https://web.archive.org/web/20060705112645/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 176
+order = 174
 subject = "كيف ندخل الشفرة"
 author = "عبدالله"
 posted = "2006-07-02"
@@ -1592,7 +1574,7 @@ archived = "2006-07-05"
 capture_url = "https://web.archive.org/web/20060705112645/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 177
+order = 175
 subject = "موقع للشفارات"
 author = "كيوي"
 posted = "2006-07-02"
@@ -1601,7 +1583,7 @@ archived = "2006-07-05"
 capture_url = "https://web.archive.org/web/20060705112645/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 178
+order = 176
 subject = "ما هي كودات يوم الثلاثاء؟"
 author = "ثائر"
 posted = "2006-07-02"
@@ -1610,7 +1592,7 @@ archived = "2006-07-05"
 capture_url = "https://web.archive.org/web/20060705112645/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 179
+order = 177
 subject = "الشفره التاليه"
 author = "محمد باشا عطيه"
 posted = "2006-07-02"
@@ -1619,7 +1601,7 @@ archived = "2006-07-05"
 capture_url = "https://web.archive.org/web/20060705112645/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 180
+order = 178
 subject = "وينك ياسكسي"
 author = "صخرة العرب"
 posted = "2006-07-02"
@@ -1628,7 +1610,7 @@ archived = "2006-07-05"
 capture_url = "https://web.archive.org/web/20060705112645/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 181
+order = 179
 subject = "الشيخ صالح"
 author = "SPAM"
 posted = "2006-07-03"
@@ -1637,7 +1619,7 @@ archived = "2006-07-05"
 capture_url = "https://web.archive.org/web/20060705112645/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 182
+order = 180
 subject = "اجهزوا يا شباب"
 author = "فهمي طاهر"
 posted = "2006-07-03"
@@ -1646,7 +1628,7 @@ archived = "2006-07-05"
 capture_url = "https://web.archive.org/web/20060705112645/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 183
+order = 181
 subject = "spice platinum"
 author = "sexy woman"
 posted = "2006-07-03"
@@ -1655,7 +1637,7 @@ archived = "2006-07-05"
 capture_url = "https://web.archive.org/web/20060705112645/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 184
+order = 182
 subject = "s"
 author = "والله ناحسه كتيران صخرة العرب هدا عمبيكون صادق بكلامه لكن اسرع اسرع بلله عليك ني كتير مشتاقه لهاولالك مني شو لبدي عمبعيوني عم مستني"
 posted = "2006-07-03"
@@ -1664,7 +1646,7 @@ archived = "2006-07-05"
 capture_url = "https://web.archive.org/web/20060705112645/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 185
+order = 183
 subject = "الشفرة ياشباب"
 author = "خفرع"
 posted = "2006-07-04"
@@ -1673,7 +1655,7 @@ archived = "2006-07-05"
 capture_url = "https://web.archive.org/web/20060705112645/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 186
+order = 184
 subject = "تردد"
 author = "koko"
 posted = "2006-07-04"
@@ -1682,7 +1664,7 @@ archived = "2006-07-05"
 capture_url = "https://web.archive.org/web/20060705112645/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 187
+order = 185
 subject = "الله يحرق البعيد"
 author = "bakabeek المصرى"
 posted = "2006-07-04"
@@ -1691,7 +1673,7 @@ archived = "2006-07-05"
 capture_url = "https://web.archive.org/web/20060705112645/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 188
+order = 186
 subject = "شفرة كاس العالم"
 author = "koke"
 posted = "2006-07-04"
@@ -1700,7 +1682,7 @@ archived = "2006-07-05"
 capture_url = "https://web.archive.org/web/20060705112645/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 189
+order = 187
 subject = "شفرة كاس العالم"
 author = "KOKE"
 posted = "2006-07-04"
@@ -1709,7 +1691,7 @@ archived = "2006-07-05"
 capture_url = "https://web.archive.org/web/20060705112645/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 190
+order = 188
 subject = "شفرة كأس العالم"
 author = "الموالي"
 posted = "2006-07-04"
@@ -1718,7 +1700,7 @@ archived = "2006-07-05"
 capture_url = "https://web.archive.org/web/20060705112645/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 191
+order = 189
 subject = "شفرة كأس العالم"
 author = "الموالي"
 posted = "2006-07-04"
@@ -1727,7 +1709,7 @@ archived = "2006-07-05"
 capture_url = "https://web.archive.org/web/20060705112645/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 192
+order = 190
 subject = "كاس العالم"
 author = "عبدالرسول محمود سلميمان"
 posted = "2006-07-04"
@@ -1736,7 +1718,7 @@ archived = "2006-07-05"
 capture_url = "https://web.archive.org/web/20060705112645/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 193
+order = 191
 subject = "الطمع"
 author = "فقير الحظ"
 posted = "2006-07-04"
@@ -1745,7 +1727,7 @@ archived = "2006-07-05"
 capture_url = "https://web.archive.org/web/20060705112645/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 194
+order = 192
 subject = "الجزيرة رياضة"
 author = "مودي"
 posted = "2006-07-04"
@@ -1754,7 +1736,7 @@ archived = "2006-07-05"
 capture_url = "https://web.archive.org/web/20060705112645/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 195
+order = 193
 subject = "شفرة كاس العالم"
 author = "KOKE"
 posted = "2006-07-04"
@@ -1763,7 +1745,7 @@ archived = "2006-07-05"
 capture_url = "https://web.archive.org/web/20060705112645/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 196
+order = 194
 subject = "شفرة كاس العام"
 author = "KOKO"
 posted = "2006-07-04"
@@ -1772,7 +1754,7 @@ archived = "2006-07-05"
 capture_url = "https://web.archive.org/web/20060705112645/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 197
+order = 195
 subject = "اريد شفرة M6 و TF1"
 author = "طالبة العون"
 posted = "2006-07-04"
@@ -1781,7 +1763,7 @@ archived = "2006-07-05"
 capture_url = "https://web.archive.org/web/20060705112645/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 198
+order = 196
 subject = "اذا ممكن دلوقتي"
 author = "طالبة العون"
 posted = "2006-07-04"
@@ -1790,7 +1772,7 @@ archived = "2006-07-05"
 capture_url = "https://web.archive.org/web/20060705112645/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 199
+order = 197
 subject = "كاس العالم"
 author = "خليفة"
 posted = "2006-07-04"
@@ -1799,7 +1781,7 @@ archived = "2006-07-05"
 capture_url = "https://web.archive.org/web/20060705112645/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 200
+order = 198
 subject = "الشفرة الجديدة"
 author = "محمد مجدى"
 posted = "2006-07-04"
@@ -1808,7 +1790,7 @@ archived = "2006-07-05"
 capture_url = "https://web.archive.org/web/20060705112645/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 201
+order = 199
 subject = "SRG"
 author = "IRAQI"
 posted = "2006-07-04"
@@ -1817,7 +1799,7 @@ archived = "2006-07-05"
 capture_url = "https://web.archive.org/web/20060705112645/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 202
+order = 200
 subject = "في أحد ينزغب"
 author = "الزاغب"
 posted = "2006-07-04"
@@ -1826,7 +1808,7 @@ archived = "2006-07-05"
 capture_url = "https://web.archive.org/web/20060705112645/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 203
+order = 201
 subject = "شفرة اليوم"
 author = "فهمي"
 posted = "2006-07-04"
@@ -1835,7 +1817,7 @@ archived = "2006-07-05"
 capture_url = "https://web.archive.org/web/20060705112645/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 204
+order = 202
 subject = "المبارة منقولة على قناة عين"
 author = "ab0faisal"
 posted = "2006-07-04"
@@ -1844,7 +1826,7 @@ archived = "2006-07-05"
 capture_url = "https://web.archive.org/web/20060705112645/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 205
+order = 203
 subject = "هاااااام"
 author = "فهمي"
 posted = "2006-07-04"
@@ -1853,7 +1835,7 @@ archived = "2006-07-05"
 capture_url = "https://web.archive.org/web/20060705112645/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 206
+order = 204
 subject = "شاهر للأكترونيات"
 author = "شاهر ابوعمر"
 posted = "2006-07-04"
@@ -1862,7 +1844,7 @@ archived = "2006-07-05"
 capture_url = "https://web.archive.org/web/20060705112645/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 207
+order = 205
 subject = "spice platinum"
 author = "sexy woman"
 posted = "2006-07-04"
@@ -1871,7 +1853,7 @@ archived = "2006-07-05"
 capture_url = "https://web.archive.org/web/20060705112645/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 208
+order = 206
 subject = "spice platinum"
 author = "sexy woman"
 posted = "2006-07-04"
@@ -1880,7 +1862,7 @@ archived = "2006-07-05"
 capture_url = "https://web.archive.org/web/20060705112645/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 209
+order = 207
 subject = "وينك يا sexy woman"
 author = "صخرة العرب"
 posted = "2006-07-05"
@@ -1889,7 +1871,7 @@ archived = "2006-07-05"
 capture_url = "https://web.archive.org/web/20060705112645/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 210
+order = 208
 subject = "كود القنوات السويسرية"
 author = "Hamza"
 posted = "2006-07-05"
@@ -1898,7 +1880,7 @@ archived = "2006-07-05"
 capture_url = "https://web.archive.org/web/20060705112645/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 211
+order = 209
 subject = "الرجاء الرد بسرعة"
 author = "علاء"
 posted = "2006-07-05"
@@ -1907,7 +1889,7 @@ archived = "2006-07-06"
 capture_url = "https://web.archive.org/web/20060706063856/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 212
+order = 210
 subject = "القنوات السويسرية حاجةملخة"
 author = "اسعفونا بشفرة اليوم 5/7/2006 خلونا نشوف الديوك والبرتغال كملو جميلكم الله يوفقكم"
 posted = "2006-07-05"
@@ -1916,7 +1898,7 @@ archived = "2006-07-06"
 capture_url = "https://web.archive.org/web/20060706063856/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 213
+order = 211
 subject = "شفره السوسريه"
 author = "احمد"
 posted = "2006-07-05"
@@ -1925,7 +1907,7 @@ archived = "2006-07-06"
 capture_url = "https://web.archive.org/web/20060706063856/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 214
+order = 212
 subject = "SRG 05/07/2006"
 author = "امينة و الحب"
 posted = "2006-07-05"
@@ -1934,7 +1916,7 @@ archived = "2006-07-06"
 capture_url = "https://web.archive.org/web/20060706063856/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 215
+order = 213
 subject = "فرنسا"
 author = "حمادة"
 posted = "2006-07-05"
@@ -1943,7 +1925,7 @@ archived = "2006-07-06"
 capture_url = "https://web.archive.org/web/20060706063856/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 216
+order = 214
 subject = "الشفرة الجديدة"
 author = "ةةة"
 posted = "2006-07-05"
@@ -1952,7 +1934,7 @@ archived = "2006-07-06"
 capture_url = "https://web.archive.org/web/20060706063856/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 217
+order = 215
 subject = "فرة اليوم"
 author = "ضصيصي"
 posted = "2006-07-05"
@@ -1961,7 +1943,7 @@ archived = "2006-07-06"
 capture_url = "https://web.archive.org/web/20060706063856/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 218
+order = 216
 subject = "فين الشفرة"
 author = "ييؤيؤي"
 posted = "2006-07-05"
@@ -1970,7 +1952,7 @@ archived = "2006-07-06"
 capture_url = "https://web.archive.org/web/20060706063856/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 219
+order = 217
 subject = "الشفرة"
 author = "بؤصثبثصب"
 posted = "2006-07-05"
@@ -1979,7 +1961,7 @@ archived = "2006-07-06"
 capture_url = "https://web.archive.org/web/20060706063856/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 220
+order = 218
 subject = "Latest"
 author = "V 009400 0E 40F3E6AC6B1B6ABE"
 posted = "2006-07-05"
@@ -1988,7 +1970,7 @@ archived = "2006-07-06"
 capture_url = "https://web.archive.org/web/20060706063856/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 221
+order = 219
 subject = "Latest@Correction"
 author = "V 009400 0D 58E20B94DAF66341"
 posted = "2006-07-05"
@@ -1997,7 +1979,7 @@ archived = "2006-07-06"
 capture_url = "https://web.archive.org/web/20060706063856/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 222
+order = 220
 subject = "طلب مساعده"
 author = "روميو"
 posted = "2006-07-05"
@@ -2006,7 +1988,7 @@ archived = "2006-07-06"
 capture_url = "https://web.archive.org/web/20060706063856/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 223
+order = 221
 subject = "الرياضة اخلاق"
 author = "عماد"
 posted = "2006-07-06"
@@ -2015,7 +1997,7 @@ archived = "2006-08-30"
 capture_url = "https://web.archive.org/web/20060830142211/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 224
+order = 222
 subject = "شيفرات أخرى"
 author = "ما عندكم شيفرات أخرى غير السويسرية"
 posted = "2006-07-06"
@@ -2024,7 +2006,7 @@ archived = "2006-08-30"
 capture_url = "https://web.archive.org/web/20060830142211/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 225
+order = 223
 subject = "شفرات"
 author = "حركات"
 posted = "2006-07-06"
@@ -2033,7 +2015,7 @@ archived = "2006-08-30"
 capture_url = "https://web.archive.org/web/20060830142211/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 226
+order = 224
 subject = "spiceplatinum"
 author = "alilou"
 posted = "2006-07-08"
@@ -2042,7 +2024,7 @@ archived = "2006-08-30"
 capture_url = "https://web.archive.org/web/20060830142211/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 227
+order = 225
 subject = "وش فك شفرة fs2"
 author = "بورزقنا"
 posted = "2006-07-08"
@@ -2051,7 +2033,7 @@ archived = "2006-08-30"
 capture_url = "https://web.archive.org/web/20060830142211/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 228
+order = 226
 subject = "شفرة اليوم.. enjoy"
 author = "IRAQI"
 posted = "2006-07-08"
@@ -2060,7 +2042,7 @@ archived = "2006-08-30"
 capture_url = "https://web.archive.org/web/20060830142211/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 229
+order = 227
 subject = "شفرة اليوم"
 author = "فادى"
 posted = "2006-07-09"
@@ -2069,7 +2051,7 @@ archived = "2006-08-30"
 capture_url = "https://web.archive.org/web/20060830142211/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 230
+order = 228
 subject = "الزير"
 author = "الحساوي"
 posted = "2006-07-09"
@@ -2078,7 +2060,7 @@ archived = "2006-08-30"
 capture_url = "https://web.archive.org/web/20060830142211/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 231
+order = 229
 subject = "شكر واجب"
 author = "ثروت"
 posted = "2006-07-09"
@@ -2087,7 +2069,7 @@ archived = "2006-08-30"
 capture_url = "https://web.archive.org/web/20060830142211/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 232
+order = 230
 subject = "شكر واجب"
 author = "ثروت"
 posted = "2006-07-09"
@@ -2096,7 +2078,7 @@ archived = "2006-08-30"
 capture_url = "https://web.archive.org/web/20060830142211/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 233
+order = 231
 subject = "محمد حسين"
 author = "محمد حسين"
 posted = "2006-07-09"
@@ -2105,7 +2087,7 @@ archived = "2006-08-30"
 capture_url = "https://web.archive.org/web/20060830142211/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 234
+order = 232
 subject = "هلا"
 author = "نهرالحزن"
 posted = "2006-07-09"
@@ -2114,7 +2096,7 @@ archived = "2006-08-30"
 capture_url = "https://web.archive.org/web/20060830142211/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 235
+order = 233
 subject = "الانذار"
 author = "kekowawa"
 posted = "2006-07-09"
@@ -2123,7 +2105,7 @@ archived = "2006-08-30"
 capture_url = "https://web.archive.org/web/20060830142211/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 236
+order = 234
 subject = "شكر واجب"
 author = "ثروت"
 posted = "2006-07-09"
@@ -2132,7 +2114,7 @@ archived = "2006-08-30"
 capture_url = "https://web.archive.org/web/20060830142211/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 237
+order = 235
 subject = "code"
 author = "mesh mhm"
 posted = "2006-07-09"
@@ -2141,7 +2123,7 @@ archived = "2006-08-30"
 capture_url = "https://web.archive.org/web/20060830142211/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 238
+order = 236
 subject = "MiSs Del Piero"
 author = "Miss Del Piero"
 posted = "2006-07-09"
@@ -2150,7 +2132,7 @@ archived = "2006-08-30"
 capture_url = "https://web.archive.org/web/20060830142211/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 239
+order = 237
 subject = "شفرة اليوم للسويسرية sf1المبارة النهائية لكأس العالم"
 author = "بورزقنا"
 posted = "2006-07-09"
@@ -2159,7 +2141,7 @@ archived = "2006-08-30"
 capture_url = "https://web.archive.org/web/20060830142211/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 240
+order = 238
 subject = "طلب"
 author = "النجار"
 posted = "2006-07-09"
@@ -2168,7 +2150,7 @@ archived = "2006-08-30"
 capture_url = "https://web.archive.org/web/20060830142211/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 241
+order = 239
 subject = "سبيس بلاتينيوم"
 author = "نونا"
 posted = "2006-07-09"
@@ -2177,7 +2159,7 @@ archived = "2006-08-30"
 capture_url = "https://web.archive.org/web/20060830142211/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 242
+order = 240
 subject = "مشاكل"
 author = "حركات"
 posted = "2006-07-10"
@@ -2186,7 +2168,7 @@ archived = "2006-08-30"
 capture_url = "https://web.archive.org/web/20060830142211/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 243
+order = 241
 subject = "محتاج لشفره"
 author = "المستشار"
 posted = "2006-07-10"
@@ -2195,7 +2177,7 @@ archived = "2006-08-30"
 capture_url = "https://web.archive.org/web/20060830142211/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 244
+order = 242
 subject = "Spice Platinum"
 author = "الجـريـح"
 posted = "2006-07-11"
@@ -2204,7 +2186,7 @@ archived = "2006-08-30"
 capture_url = "https://web.archive.org/web/20060830142211/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 245
+order = 243
 subject = "spice platinum"
 author = "sexy woman"
 posted = "2006-07-12"
@@ -2213,7 +2195,7 @@ archived = "2006-08-30"
 capture_url = "https://web.archive.org/web/20060830142211/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 246
+order = 244
 subject = "الحل عندي"
 author = "123"
 posted = "2006-07-12"
@@ -2222,7 +2204,7 @@ archived = "2006-08-30"
 capture_url = "https://web.archive.org/web/20060830142211/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 247
+order = 245
 subject = "احــا يا عم وربنا حرام"
 author = "المزجانجى"
 posted = "2006-07-12"
@@ -2231,7 +2213,7 @@ archived = "2006-08-30"
 capture_url = "https://web.archive.org/web/20060830142211/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 248
+order = 246
 subject = "spice code pleas"
 author = "popo"
 posted = "2006-07-12"
@@ -2240,7 +2222,7 @@ archived = "2006-08-30"
 capture_url = "https://web.archive.org/web/20060830142211/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 249
+order = 247
 subject = "سبيس"
 author = "pop"
 posted = "2006-07-12"
@@ -2249,7 +2231,7 @@ archived = "2006-08-30"
 capture_url = "https://web.archive.org/web/20060830142211/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 250
+order = 248
 subject = "النجار"
 author = "THE KING OF FIGHTER"
 posted = "2006-07-13"
@@ -2258,7 +2240,7 @@ archived = "2006-08-30"
 capture_url = "https://web.archive.org/web/20060830142211/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 251
+order = 249
 subject = "كود السويسريه ليوم 14/7/2006"
 author = "محمد ابراهيم"
 posted = "2006-07-15"
@@ -2267,7 +2249,7 @@ archived = "2006-08-30"
 capture_url = "https://web.archive.org/web/20060830142211/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 252
+order = 250
 subject = "كود السويسر يه 14/7/2006"
 author = "ابو هاني"
 posted = "2006-07-15"
@@ -2276,7 +2258,7 @@ archived = "2006-08-30"
 capture_url = "https://web.archive.org/web/20060830142211/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 253
+order = 251
 subject = "هدو اعصابكم"
 author = "واحد سكران"
 posted = "2006-07-15"
@@ -2285,7 +2267,7 @@ archived = "2006-08-30"
 capture_url = "https://web.archive.org/web/20060830142211/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 254
+order = 252
 subject = "الشيخ فاسد ناقص"
 author = "حسام"
 posted = "2006-07-17"
@@ -2294,7 +2276,7 @@ archived = "2006-08-30"
 capture_url = "https://web.archive.org/web/20060830142211/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 255
+order = 253
 subject = "فاسد ناقص"
 author = "سلطان"
 posted = "2006-07-17"
@@ -2303,7 +2285,7 @@ archived = "2006-08-30"
 capture_url = "https://web.archive.org/web/20060830142211/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 256
+order = 254
 subject = "رد سريع"
 author = "احمد"
 posted = "2006-07-17"
@@ -2312,7 +2294,7 @@ archived = "2006-08-30"
 capture_url = "https://web.archive.org/web/20060830142211/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 257
+order = 255
 subject = "الشعب السعودي ..شغب القرود والدواب"
 author = "الحقيقية مؤلمة ولكنها رائعة"
 posted = "2006-07-18"
@@ -2321,7 +2303,7 @@ archived = "2006-08-30"
 capture_url = "https://web.archive.org/web/20060830142211/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 258
+order = 256
 subject = "م"
 author = "هيثم"
 posted = "2006-07-18"
@@ -2330,7 +2312,7 @@ archived = "2006-08-30"
 capture_url = "https://web.archive.org/web/20060830142211/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 259
+order = 257
 subject = "بليييييييييييييز"
 author = "نوف الكويتية"
 posted = "2006-07-21"
@@ -2339,7 +2321,7 @@ archived = "2006-08-30"
 capture_url = "https://web.archive.org/web/20060830142211/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 260
+order = 258
 subject = "غدا"
 author = "ح"
 posted = "2006-07-22"
@@ -2348,7 +2330,7 @@ archived = "2006-08-30"
 capture_url = "https://web.archive.org/web/20060830142211/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 261
+order = 259
 subject = "واااااااااااااو"
 author = "نوسه الحلوه"
 posted = "2006-07-23"
@@ -2357,7 +2339,7 @@ archived = "2006-08-30"
 capture_url = "https://web.archive.org/web/20060830142211/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 262
+order = 260
 subject = "spice platinum"
 author = "sexy woman"
 posted = "2006-07-23"
@@ -2366,7 +2348,7 @@ archived = "2006-08-30"
 capture_url = "https://web.archive.org/web/20060830142211/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 263
+order = 261
 subject = "شكرا أخ m"
 author = "الثلجة الساخنة"
 posted = "2006-07-24"
@@ -2375,7 +2357,7 @@ archived = "2006-08-30"
 capture_url = "https://web.archive.org/web/20060830142211/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 264
+order = 262
 subject = "شكرا أخ ح"
 author = "أنا بانتظار الشفرة"
 posted = "2006-07-24"
@@ -2384,7 +2366,7 @@ archived = "2006-08-30"
 capture_url = "https://web.archive.org/web/20060830142211/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 265
+order = 263
 subject = "رونالدينيوا"
 author = "usama"
 posted = "2006-07-24"
@@ -2393,7 +2375,7 @@ archived = "2006-08-30"
 capture_url = "https://web.archive.org/web/20060830142211/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 266
+order = 264
 subject = "وين الشيفرة ياأخ ح"
 author = "ياريت ترسل الشيفرة للكل على هذا الموقع"
 posted = "2006-07-24"
@@ -2402,7 +2384,7 @@ archived = "2006-08-30"
 capture_url = "https://web.archive.org/web/20060830142211/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 267
+order = 265
 subject = "كذب بكذب"
 author = "little sexy woman"
 posted = "2006-07-24"
@@ -2411,7 +2393,7 @@ archived = "2006-08-30"
 capture_url = "https://web.archive.org/web/20060830142211/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 268
+order = 266
 subject = "عيب عليك"
 author = "خفرع"
 posted = "2006-07-25"
@@ -2420,7 +2402,7 @@ archived = "2006-08-30"
 capture_url = "https://web.archive.org/web/20060830142211/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 269
+order = 267
 subject = "تفوه عى الشعب السعودي الزفت..مش مكفيهم الشرمطة العالمية بدهم يحرمونا م"
 author = "داعس في طيز عبدالله بن عبدالعزيز"
 posted = "2006-07-25"
@@ -2429,7 +2411,7 @@ archived = "2006-08-30"
 capture_url = "https://web.archive.org/web/20060830142211/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 270
+order = 268
 subject = "لعنة الله عليك يا عبدالله بن عبدالعزيز"
 author = "مغتصب آل سعود"
 posted = "2006-07-26"
@@ -2438,7 +2420,7 @@ archived = "2006-08-30"
 capture_url = "https://web.archive.org/web/20060830142211/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 271
+order = 269
 subject = "عيب يا جماعة"
 author = "MAMNONEIM"
 posted = "2006-07-26"
@@ -2447,7 +2429,7 @@ archived = "2006-08-30"
 capture_url = "https://web.archive.org/web/20060830142211/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 272
+order = 270
 subject = "love"
 author = "martin"
 posted = "2006-07-27"
@@ -2456,7 +2438,7 @@ archived = "2006-08-30"
 capture_url = "https://web.archive.org/web/20060830142211/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 273
+order = 271
 subject = "شيفرة السبايس"
 author = "لمن يريد شيفرة قناة السبايس بلاتينوم"
 posted = "2006-07-28"
@@ -2465,7 +2447,7 @@ archived = "2006-08-30"
 capture_url = "https://web.archive.org/web/20060830142211/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 274
+order = 272
 subject = "شيفرة السبايس"
 author = "عذرا يبدو أن الشيفرة التي معي لم تعد"
 posted = "2006-07-29"
@@ -2474,7 +2456,7 @@ archived = "2006-08-30"
 capture_url = "https://web.archive.org/web/20060830142211/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 275
+order = 273
 subject = "keeeeef"
 author = "3mmar"
 posted = "2006-08-01"
@@ -2483,7 +2465,7 @@ archived = "2006-08-30"
 capture_url = "https://web.archive.org/web/20060830142211/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 276
+order = 274
 subject = "سبايس والملتي"
 author = "عمار"
 posted = "2006-08-01"
@@ -2492,7 +2474,7 @@ archived = "2006-08-30"
 capture_url = "https://web.archive.org/web/20060830142211/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 277
+order = 275
 subject = "please"
 author = "نصر"
 posted = "2006-08-02"
@@ -2501,7 +2483,7 @@ archived = "2006-08-30"
 capture_url = "https://web.archive.org/web/20060830142211/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 278
+order = 276
 subject = "abbou amina"
 author = "amina"
 posted = "2006-08-03"
@@ -2510,7 +2492,7 @@ archived = "2006-08-30"
 capture_url = "https://web.archive.org/web/20060830142211/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 279
+order = 277
 subject = "كس خواتكم"
 author = "زب كبير"
 posted = "2006-08-03"
@@ -2519,7 +2501,7 @@ archived = "2006-08-30"
 capture_url = "https://web.archive.org/web/20060830142211/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 280
+order = 278
 subject = "spice platinum"
 author = "ممحون"
 posted = "2006-08-05"
@@ -2528,7 +2510,7 @@ archived = "2006-08-30"
 capture_url = "https://web.archive.org/web/20060830142211/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 281
+order = 279
 subject = "spice platinum"
 author = "ممحون"
 posted = "2006-08-05"
@@ -2537,7 +2519,7 @@ archived = "2006-08-30"
 capture_url = "https://web.archive.org/web/20060830142211/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 282
+order = 280
 subject = "طلب"
 author = "حريف"
 posted = "2006-08-06"
@@ -2546,7 +2528,7 @@ archived = "2006-08-30"
 capture_url = "https://web.archive.org/web/20060830142211/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 283
+order = 281
 subject = "سبيس بلاتنيوم"
 author = "احمد"
 posted = "2006-08-08"
@@ -2555,7 +2537,7 @@ archived = "2006-08-30"
 capture_url = "https://web.archive.org/web/20060830142211/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 284
+order = 282
 subject = "شفرة Private Spice"
 author = "القلب الحزين"
 posted = "2006-08-09"
@@ -2564,7 +2546,7 @@ archived = "2006-08-30"
 capture_url = "https://web.archive.org/web/20060830142211/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 285
+order = 283
 subject = "الجميل"
 author = "الحب"
 posted = "2006-08-09"
@@ -2573,7 +2555,7 @@ archived = "2006-08-30"
 capture_url = "https://web.archive.org/web/20060830142211/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 286
+order = 284
 subject = "suliman"
 author = "suliman"
 posted = "2006-08-09"
@@ -2582,7 +2564,7 @@ archived = "2006-08-30"
 capture_url = "https://web.archive.org/web/20060830142211/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 287
+order = 285
 subject = "الدم"
 author = "tps فياكسس"
 posted = "2006-08-11"
@@ -2591,7 +2573,7 @@ archived = "2006-08-30"
 capture_url = "https://web.archive.org/web/20060830142211/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 288
+order = 286
 subject = "r 10"
 author = "usama"
 posted = "2006-08-23"
@@ -2600,7 +2582,7 @@ archived = "2006-08-30"
 capture_url = "https://web.archive.org/web/20060830142211/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 289
+order = 287
 subject = "سويسريات"
 author = "ب"
 posted = "2006-08-24"
@@ -2609,7 +2591,7 @@ archived = "2006-08-30"
 capture_url = "https://web.archive.org/web/20060830142211/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 290
+order = 288
 subject = "شكرا على التعليقات"
 author = "عادل"
 posted = "2006-08-24"
@@ -2618,7 +2600,7 @@ archived = "2006-08-30"
 capture_url = "https://web.archive.org/web/20060830142211/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 291
+order = 289
 subject = "تشفير"
 author = "naso"
 posted = "2006-08-27"
@@ -2627,7 +2609,7 @@ archived = "2006-08-30"
 capture_url = "https://web.archive.org/web/20060830142211/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 292
+order = 290
 subject = "أنبسط"
 author = "أبو سداح"
 posted = "2006-08-30"
@@ -2636,7 +2618,7 @@ archived = "2006-08-30"
 capture_url = "https://web.archive.org/web/20060830142211/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 293
+order = 291
 subject = "اريد شفرة spice"
 author = "عاشق النيل"
 posted = "2006-09-02"
@@ -2645,7 +2627,7 @@ archived = "2006-09-03"
 capture_url = "https://web.archive.org/web/20060903063238/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 294
+order = 292
 subject = "تفاهة الشباب العربي"
 author = "فلسطين"
 posted = "2006-09-02"
@@ -2654,7 +2636,7 @@ archived = "2006-09-03"
 capture_url = "https://web.archive.org/web/20060903063238/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 295
+order = 293
 subject = "شاهر للأكترونيات"
 author = "شاهر بريخان"
 posted = "2006-09-04"
@@ -2663,7 +2645,7 @@ archived = "2006-09-06"
 capture_url = "https://web.archive.org/web/20060906210556/http://masr.20at.com:80/article.php?sid=409&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
 
 [[comments]]
-order = 296
+order = 294
 subject = "خذوها مني"
 author = "صخرة العرب"
 posted = "2006-09-04"
@@ -2672,7 +2654,7 @@ archived = "2006-09-06"
 capture_url = "https://web.archive.org/web/20060906210556/http://masr.20at.com:80/article.php?sid=409&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
 
 [[comments]]
-order = 297
+order = 295
 subject = "بليييييييييييييييييييييييييز"
 author = "عبادي"
 posted = "2006-09-05"
@@ -2681,7 +2663,7 @@ archived = "2006-09-06"
 capture_url = "https://web.archive.org/web/20060906210556/http://masr.20at.com:80/article.php?sid=409&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
 
 [[comments]]
-order = 298
+order = 296
 subject = "مساعدة لوسمحتو"
 author = "الرياضة أخلاق"
 posted = "2006-09-08"
@@ -2690,7 +2672,7 @@ archived = "2006-11-17"
 capture_url = "https://web.archive.org/web/20061117141116/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 299
+order = 297
 subject = "0501424140"
 author = "azooz"
 posted = "2006-09-08"
@@ -2699,7 +2681,7 @@ archived = "2006-11-17"
 capture_url = "https://web.archive.org/web/20061117141116/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 300
+order = 298
 subject = "ahmed"
 author = "احمد"
 posted = "2006-09-10"
@@ -2708,7 +2690,7 @@ archived = "2006-11-17"
 capture_url = "https://web.archive.org/web/20061117141116/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 301
+order = 299
 subject = "viaccess 10/09/2006 آخر الكودات لشهر سبتمبر 2006200"
 author = "www.satkey.ch"
 posted = "2006-09-10"
@@ -2717,7 +2699,7 @@ archived = "2006-11-17"
 capture_url = "https://web.archive.org/web/20061117141116/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 302
+order = 300
 subject = "الحمد"
 author = "هلىلف"
 posted = "2006-09-11"
@@ -2726,7 +2708,7 @@ archived = "2006-11-17"
 capture_url = "https://web.archive.org/web/20061117141116/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 303
+order = 301
 subject = "رمضان ياناس ياناس رمضان"
 author = "ممكن تردد قناة القلوب النظيفه"
 posted = "2006-09-12"
@@ -2735,7 +2717,7 @@ archived = "2006-11-17"
 capture_url = "https://web.archive.org/web/20061117141116/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 304
+order = 302
 subject = "جيد جيدا"
 author = "azize"
 posted = "2006-09-20"
@@ -2744,7 +2726,7 @@ archived = "2006-11-17"
 capture_url = "https://web.archive.org/web/20061117141116/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 305
+order = 303
 subject = "بلييييييييز"
 author = "الرياضة أخلاق"
 posted = "2006-09-22"
@@ -2753,7 +2735,7 @@ archived = "2006-11-17"
 capture_url = "https://web.archive.org/web/20061117141116/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 306
+order = 304
 subject = "قنوات art"
 author = "ahmed"
 posted = "2006-09-27"
@@ -2762,7 +2744,7 @@ archived = "2006-11-17"
 capture_url = "https://web.archive.org/web/20061117141116/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 307
+order = 305
 subject = "شاهر"
 author = "ابو عمر"
 posted = "2006-09-27"
@@ -2771,7 +2753,7 @@ archived = "2006-11-17"
 capture_url = "https://web.archive.org/web/20061117141116/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 308
+order = 306
 subject = "يا ياناس شوية تفكير وبلاش عنتريات"
 author = "عبدلله"
 posted = "2006-10-26"
@@ -2780,7 +2762,7 @@ archived = "2006-11-17"
 capture_url = "https://web.archive.org/web/20061117141116/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 309
+order = 307
 subject = "OHHHHHHHHHHHH"
 author = "Modi"
 posted = "2006-10-26"
@@ -2789,7 +2771,7 @@ archived = "2006-11-17"
 capture_url = "https://web.archive.org/web/20061117141116/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 310
+order = 308
 subject = "زفتيشن"
 author = "زباله"
 posted = "2006-11-02"
@@ -2798,7 +2780,7 @@ archived = "2006-11-17"
 capture_url = "https://web.archive.org/web/20061117141116/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 311
+order = 309
 subject = "مؤيد مسعود"
 author = "فرح"
 posted = "2006-11-05"
@@ -2807,7 +2789,7 @@ archived = "2006-11-17"
 capture_url = "https://web.archive.org/web/20061117141116/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 312
+order = 310
 subject = "hadrami88@hotmail.com"
 author = "Arsenal"
 posted = "2006-11-06"
@@ -2816,7 +2798,7 @@ archived = "2006-11-17"
 capture_url = "https://web.archive.org/web/20061117141116/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 313
+order = 311
 subject = "لا لادخال شفراة القنوات المخلة بالحياء"
 author = "x-man"
 posted = "2006-11-06"
@@ -2825,7 +2807,7 @@ archived = "2006-11-17"
 capture_url = "https://web.archive.org/web/20061117141116/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 314
+order = 312
 subject = "seesee"
 author = "seesee"
 posted = "2006-11-15"
@@ -2834,7 +2816,7 @@ archived = "2006-11-17"
 capture_url = "https://web.archive.org/web/20061117141116/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 315
+order = 313
 subject = "x-man"
 author = "king"
 posted = "2006-11-22"
@@ -2843,7 +2825,7 @@ archived = "2006-12-06"
 capture_url = "https://web.archive.org/web/20061206223952/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 316
+order = 314
 subject = "عاوز قنوات سكس شغالة 24 ساعة"
 author = "ميييدو"
 posted = "2006-11-23"
@@ -2852,7 +2834,7 @@ archived = "2006-12-06"
 capture_url = "https://web.archive.org/web/20061206223952/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 317
+order = 315
 subject = "key"
 author = "yacine"
 posted = "2006-11-25"
@@ -2861,7 +2843,7 @@ archived = "2006-12-06"
 capture_url = "https://web.archive.org/web/20061206223952/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 318
+order = 316
 subject = "العراق - دهوك"
 author = "سليمان"
 posted = "2006-11-27"
@@ -2870,7 +2852,7 @@ archived = "2006-12-06"
 capture_url = "https://web.archive.org/web/20061206223952/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 319
+order = 317
 subject = "مساعده"
 author = "يحيى سويلم"
 posted = "2006-12-04"
@@ -2879,7 +2861,7 @@ archived = "2006-12-06"
 capture_url = "https://web.archive.org/web/20061206223952/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 320
+order = 318
 subject = "شفرة القنوات السويسرية"
 author = "شلولح"
 posted = "2006-12-05"
@@ -2888,7 +2870,7 @@ archived = "2006-12-06"
 capture_url = "https://web.archive.org/web/20061206223952/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 321
+order = 319
 subject = "شوفوا إيش تسوي القحبة"
 author = "كس وردي"
 posted = "2006-12-08"
@@ -2897,7 +2879,7 @@ archived = "2006-12-16"
 capture_url = "https://web.archive.org/web/20061216143942/http://masr.20at.com:80/article.php?sid=409&PHPSESSID=b21753af24e3fec8c8003677058e91e3"
 
 [[comments]]
-order = 322
+order = 320
 subject = "حلو"
 author = "محمود"
 posted = "2007-01-03"
@@ -2906,7 +2888,7 @@ archived = "2007-01-03"
 capture_url = "https://web.archive.org/web/20070103135533/http://masr.20at.com:80/article.php?sid=409"
 
 [[comments]]
-order = 323
+order = 321
 subject = "ibhsrdl jnkv"
 author = "kvbaxy vygfzpctr"
 posted = "2007-01-28"

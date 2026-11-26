@@ -3,7 +3,7 @@ order = 0
 subject = ""
 author = "ساندى56"
 posted = "2010-01-13"
-text = "دا خراب بيوت مستعجل يعنى اشترى كانز ليا وللموبايل بتاعى"
+text = "دا خراب بيوت مستعجل يعنى اشترى كانز ليا وللموبايل بتاعى :eek:"
 archived = "2010-01-14"
 capture_url = "https://web.archive.org/web/20100114043754/http://20at.com/20at/latest-news/14840-2010-01-12-13-43-30.html"
 
@@ -15,3 +15,12 @@ posted = "2010-01-13"
 text = "الصداقة جميلة"
 archived = "2010-01-14"
 capture_url = "https://web.archive.org/web/20100114043754/http://20at.com/20at/latest-news/14840-2010-01-12-13-43-30.html"
+
+[[comments]]
+order = 2
+subject = ""
+author = "Simo"
+posted = "2010-01-14"
+text = "هههههههههه ده على كده الموبايل عايزله ميزنيه لوحده"
+archived = "2010-03-14"
+capture_url = ""

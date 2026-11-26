@@ -1,0 +1,17 @@
+[[comments]]
+order = 0
+subject = "لا يعمل"
+author = "قارئة"
+posted = "2008-07-30"
+text = "الرابط لا يعمل"
+archived = "2010-03-14"
+capture_url = ""
+
+[[comments]]
+order = 1
+subject = "يعمل الآن"
+author = "قارئ"
+posted = "2008-07-31"
+text = "الرابط يعمل الآن"
+archived = "2010-03-14"
+capture_url = ""

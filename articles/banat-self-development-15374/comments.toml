@@ -3,7 +3,7 @@ order = 0
 subject = ""
 author = "el king"
 posted = "2010-02-17"
-text = "shokrn 3la elklam elgamed"
+text = "shokrn 3la elklam elgamed<br />:sigh:"
 archived = "2010-02-20"
 capture_url = "https://web.archive.org/web/20100220115132/http://www.20at.com:80/banat/self-development/15374-2010-02-17-15-27-08.html"
 
@@ -57,7 +57,7 @@ order = 6
 subject = ""
 author = "zai"
 posted = "2010-02-20"
-text = "السلام عليكم يعطيك الصحة علي هذه النصاءح"
+text = ":lol: :lol: السلام عليكم يعطيك الصحة علي هذه النصاءح"
 archived = "2010-02-20"
 capture_url = "https://web.archive.org/web/20100220115132/http://www.20at.com:80/banat/self-development/15374-2010-02-17-15-27-08.html"
 
@@ -66,6 +66,141 @@ order = 7
 subject = ""
 author = "Ranya Mohammed"
 posted = "2010-02-20"
-text = "أحيكي على نصائحك العملية"
+text = "أحيكي على نصائحك العملية :-)"
 archived = "2010-02-20"
 capture_url = "https://web.archive.org/web/20100220144059/http://www.20at.com:80/banat/self-development/15374-2010-02-17-15-27-08.html"
+
+[[comments]]
+order = 8
+subject = ""
+author = "florenda"
+posted = "2010-02-22"
+text = "شكرا على موضوعك افادك الله :lol:"
+archived = "2010-03-14"
+capture_url = ""
+
+[[comments]]
+order = 9
+subject = ""
+author = "mora el amora"
+posted = "2010-02-22"
+text = ":-) bgd 7aga 7alwa awy kalam gamel gdn"
+archived = "2010-03-14"
+capture_url = ""
+
+[[comments]]
+order = 10
+subject = ""
+author = "solafa"
+posted = "2010-02-26"
+text = "[quote name=\"داليا124\"]ربنا يجازيكى كل خير ياريت لو كل بنات المسلمين يهتمون بالحفاظ على صورتهم ويظهرون احترامهم[/quote]"
+archived = "2010-03-14"
+capture_url = ""
+
+[[comments]]
+order = 11
+subject = ""
+author = "solafa"
+posted = "2010-02-26"
+text = "موضوع بجد جميل ان استفدت منه وهطبقه ان شاء الله شكرا وجزاكم الله كل الخير"
+archived = "2010-03-14"
+capture_url = ""
+
+[[comments]]
+order = 12
+subject = ""
+author = "Hadir Mohamed"
+posted = "2010-02-26"
+text = ";-) بجد كلام جامد جدا عايزين نصايح وكلام اكتر"
+archived = "2010-03-14"
+capture_url = ""
+
+[[comments]]
+order = 13
+subject = ""
+author = "سمراء النيل"
+posted = "2010-02-28"
+text = "ميرسى على الكلام الحلو والجميل ده وبجد هعمل بيه"
+archived = "2010-03-14"
+capture_url = ""
+
+[[comments]]
+order = 14
+subject = ""
+author = "كاميليا"
+posted = "2010-03-02"
+text = "موضوع جميل جدا<br />شكرا كتييير :lol:"
+archived = "2010-03-14"
+capture_url = ""
+
+[[comments]]
+order = 15
+subject = ""
+author = "زهرة الثلج"
+posted = "2010-03-03"
+text = "جزاكم الله خيرا وازكركم بقول النبي ص :الله في عون العبد مادام العبد في عون اخيه:"
+archived = "2010-03-14"
+capture_url = ""
+
+[[comments]]
+order = 16
+subject = ""
+author = "dodo modo"
+posted = "2010-03-04"
+text = "بجد موضوع مهم جدا لكل بنت ياريت كلهم يهتمو بيه"
+archived = "2010-03-14"
+capture_url = ""
+
+[[comments]]
+order = 17
+subject = ""
+author = "hano hano"
+posted = "2010-03-04"
+text = "جميل جدا :lol:"
+archived = "2010-03-14"
+capture_url = ""
+
+[[comments]]
+order = 18
+subject = ""
+author = "حبيبه الرحمن"
+posted = "2010-03-05"
+text = "الموضوع اكثر من راااااااااااائع جزاك الله خيرا :D"
+archived = "2010-03-14"
+capture_url = ""
+
+[[comments]]
+order = 19
+subject = ""
+author = "samar2010"
+posted = "2010-03-07"
+text = "اشكرك على هذا الكلام ربنا يبارك فيكى ان شاء الله هطبقه ويارب انتظم :-) :-) :-)"
+archived = "2010-03-14"
+capture_url = ""
+
+[[comments]]
+order = 20
+subject = ""
+author = "الحب سعاده الحياه"
+posted = "2010-03-07"
+text = "كلام جميل جدا وايضا تجنبي الاساءه الي الشخص الذي تتعاملي معه لان هذا يقلل من شانك امام الاخرين"
+archived = "2010-03-14"
+capture_url = ""
+
+[[comments]]
+order = 21
+subject = ""
+author = "salsabeal"
+posted = "2010-03-08"
+text = "والله صح :o"
+archived = "2010-03-14"
+capture_url = ""
+
+[[comments]]
+order = 22
+subject = ""
+author = "yasminmohammed"
+posted = "2010-03-08"
+text = "الكلام ده كله صح بس صعب يتنفذ:-x"
+archived = "2010-03-14"
+capture_url = ""
