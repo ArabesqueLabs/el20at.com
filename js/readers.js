@@ -52,10 +52,10 @@
     }
     const shown = found.slice(0, MAX_NAMES);
     status.textContent = found.length === 1 ? "" :
-      `${ar(found.length)} اسمًا${found.length > MAX_NAMES ? `، أول ${ar(MAX_NAMES)} منها` : ""}`;
+      `${arCount(found.length, "name")}${found.length > MAX_NAMES ? `، أول ${ar(MAX_NAMES)} منها` : ""}`;
     out.innerHTML = shown.map((r, i) =>
       `<details class="ar-readers__one"${i === 0 && (exact.length || found.length === 1) ? " open" : ""}>` +
-      `<summary><bdi class="ar-readers__name">${esc(r.name)}</bdi> <span class="ar-search__count">${ar(r.n)} تعليقًا</span></summary>` +
+      `<summary><bdi class="ar-readers__name">${esc(r.name)}</bdi> <span class="ar-search__count">${arCount(r.n, "comment")}</span></summary>` +
       comments(r) + "</details>").join("");
   };
 

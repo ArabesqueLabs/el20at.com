@@ -87,9 +87,10 @@
                 align-items: start; max-inline-size: none; }
   .ar-article > * { grid-column: 1; }
   /* the side boxes beside everything from the title down: a tall area of empty implicit rows, so they can
-     stay in view (scrolling inside when taller than the window) */
-  .ar-article > .ar-side { grid-column: 2; grid-row: 1 / span 40; position: sticky; top: 84px;
-                           max-block-size: calc(100vh - 100px); overflow-y: auto; margin: 0; }
+     stay in view. No height limit and no scrollbar of their own: when they are taller than the text the
+     article grows to hold them; when taller than the window, js/header.js lowers `top` (below 0) so they
+     scroll with the page until their end shows, then stay. */
+  .ar-article > .ar-side { grid-column: 2; grid-row: 1 / span 40; position: sticky; top: 84px; margin: 0; }
   .ar-side .ar-provenance { margin: 0; font-size: 14px; }
   .ar-side .ar-provenance .al-notice__title { font-size: 15px; }
   .ar-side .ar-related { margin: 0 0 var(--al-space-4); }

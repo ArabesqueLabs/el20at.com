@@ -251,7 +251,7 @@
       var b = el("button", "hv-button-outline", "البحث في نصوص المقالات أيضًا");
       b.type = "button"; b.addEventListener("click", go);
       box.appendChild(b);
-      box.appendChild(el("p", "ar-search__note", "يُحمَّل نص " + arNum(meta.articles) + " مقالًا (نحو " + arNum(meta.text_mb) + " ميغابايت) مرة واحدة في هذه الزيارة."));
+      box.appendChild(el("p", "ar-search__note", "يُحمَّل نص " + arCount(meta.articles, "article") + " (نحو " + arNum(meta.text_mb) + " ميغابايت) مرة واحدة في هذه الزيارة."));
     }).catch(function () {});
   }
   function loadText(each) {
