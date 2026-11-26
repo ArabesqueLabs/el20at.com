@@ -1,7 +1,22 @@
 // 20at archive, the header (templates/partials/header.html):
 //  - the menus are <details>: opening one closes the others; Esc or a click outside closes them;
 //  - on phones, ☰ opens the content row (.t9-types) as a drawer (without this script it simply shows);
-//  - 🎲 and "مقال عشوائي": a random article from data/articles.json (without the script: the archive page).
+//  - 🎲 and "مقال عشوائي": a random article from data/articles.json (without the script: the archive page);
+//  - an article's side boxes (css/type.css .ar-side) taller than the window: their sticky `top` is lowered so
+//    their end can be reached (without the script they stick under the header, the end showing at the article's end).
+(function () {
+  "use strict";
+  var side = document.querySelector(".ar-article > .ar-side");
+  if (!side) return;
+  function fit() {
+    side.style.top = "";
+    var top = parseFloat(getComputedStyle(side).top) || 0;
+    side.style.top = Math.min(top, window.innerHeight - side.offsetHeight - 16) + "px";
+  }
+  fit();
+  window.addEventListener("resize", fit);
+  window.addEventListener("load", fit);
+})();
 (function () {
   "use strict";
   var head = document.querySelector("[data-t9h]");

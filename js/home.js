@@ -36,7 +36,7 @@
     const bars = tl.querySelectorAll(".hm-tl__bar[data-month]");
     const show = (bar) => {
       const x = Math.min(88, Math.max(12, parseFloat(bar.dataset.x)));
-      tip.innerHTML = `<strong>${esc(bar.dataset.label)}</strong><span>${bar.dataset.total} مقالًا · ${bar.dataset.said} تعليقًا</span><em>الضغط يعرض مقالاته</em>`;
+      tip.innerHTML = `<strong>${esc(bar.dataset.label)}</strong><span>${arCount(+bar.dataset.total, "article")} · ${arCount(+bar.dataset.said, "comment")}</span><em>الضغط يعرض مقالاته</em>`;
       tip.style.insetInlineStart = x + "%";
       tip.style.bottom = (parseInt(bar.dataset.h, 10) + 10) + "px";
       tip.hidden = false;
@@ -68,10 +68,10 @@
         rows.sort((a, b) => (b.c || 0) - (a.c || 0) || a.d.localeCompare(b.d));
         const items = rows.slice(0, SHOW).map((a) =>
           `<li><span class="hv-tl-month__day">${ar(+a.d.slice(3))}</span><a href="${esc(a.u)}">${esc(a.t)}</a>` +
-          (a.c ? `<span class="hv-tl-month__n">${ar(a.c)} تعليقًا</span>` : "") + "</li>").join("");
+          (a.c ? `<span class="hv-tl-month__n">${arCount(a.c, "comment")}</span>` : "") + "</li>").join("");
         box.id = "hm-month";
         box.innerHTML = `<div class="hv-tl-month__head"><h2 class="hv-tl-month__title">${esc(bar.dataset.label)}</h2>` +
-          `<span class="hv-tl-month__nums">${bar.dataset.total} مقالًا، ${bar.dataset.said} تعليقًا من القرّاء${rows.length > SHOW ? "، الأكثر نقاشًا أولًا" : ""}</span>` +
+          `<span class="hv-tl-month__nums">${arCount(+bar.dataset.total, "article")}، ${arCount(+bar.dataset.said, "comment")} من القرّاء${rows.length > SHOW ? "، الأكثر نقاشًا أولًا" : ""}</span>` +
           `<button type="button" class="hv-tl-month__close">إغلاق</button></div>` +
           (items ? `<ol class="hv-tl-month__list">${items}</ol>` : "") +
           `<a class="hv-tl-month__more" href="${esc(box.dataset.archive)}#zt-year-${y}">كل مقالات ${ar(y)} في الأرشيف ←</a>`;
@@ -94,10 +94,11 @@
 
   // ---- the pick of the day ---------------------------------------------------------------------------------
   const pickBox = document.querySelector("[data-pick-day]");
-  const picksEl = pickBox && pickBox.querySelector("[data-picks]");
-  const picks = picksEl && json(picksEl);
-  if (picks && picks.length) {
+  // the page shows the build day's pick; the whole list (data/picks.json) gives today's
+  const showPick = (picks) => {
+    if (!Array.isArray(picks) || !picks.length) return;
     const p = picks[dayIndex % picks.length];
+    if (pickBox.querySelector('[data-f="title"]').getAttribute("href") === p.u) return;
     const f = (k) => pickBox.querySelector(`[data-f="${k}"]`);
     f("img").src = p.img;
     const sec = f("sec");
@@ -110,11 +111,12 @@
     f("quotebox").hidden = !p.quote;
     f("quote").textContent = `«${p.quote}»`;
     f("talk").href = p.u + "#s-comments-title";
-    f("talk").innerHTML = `النقاش كاملًا: <bdi>${num(p.n)}</bdi> تعليقًا ←`;
+    f("talk").innerHTML = `النقاش كاملًا: <bdi>${arCount(p.n, "comment")}</bdi> ←`;
     f("tmlabel").textContent = "يوم " + p.date;
     // the site's front page in the time machine on that day (the nearest saved day: /tm/<site>/ picks it)
     f("tm").href = "/tm/" + (p.site || "20at") + "/?d=" + String(p.ymd || "").replace(/-/g, "");
-  }
+  };
+  if (pickBox && pickBox.dataset.src) fetch(pickBox.dataset.src).then((r) => (r.ok ? r.json() : null)).then(showPick).catch(() => {});
 
   // ---- on this day -----------------------------------------------------------------------------------------
   const otd = document.querySelector("[data-otd]");
@@ -135,7 +137,7 @@
       const shown = all ? rows : rows.slice(0, FIRST);
       list.innerHTML = shown.length ? shown.map((a) =>
         `<li><span class="hm-otd__year">${ar(a.y)}</span><span><a class="hm-otd__title" href="${esc(a.u)}">${esc(a.t)}</a>` +
-        `<span class="hm-otd__meta">${secTag(a.s)} ${[a.a ? esc(a.a) : "", a.c ? ar(a.c) + " تعليقًا" : ""].filter(Boolean).join(" · ")}</span></span></li>`).join("")
+        `<span class="hm-otd__meta">${secTag(a.s)} ${[a.a ? esc(a.a) : "", a.c ? arCount(a.c, "comment") : ""].filter(Boolean).join(" · ")}</span></span></li>`).join("")
         : `<li>لم نستعد مقالات نُشرت في هذا اليوم.</li>`;
       more.hidden = all || rows.length <= FIRST;
       more.textContent = `كل مقالات ${ar(d)} ${MONTHS[m - 1]} (${ar(rows.length)})`;
@@ -167,7 +169,7 @@
       page = Math.min(page, pages - 1);
       const byComments = sortSel.value === "comments";
       list.innerHTML = found.length ? found.slice(page * PER, page * PER + PER).map((r) =>
-        `<li><a href="${esc(r[1])}">${esc(r[0])}</a><span>${byComments ? num(r[3]) + " تعليقًا" : num(r[2]) + " مقالًا"}</span></li>`).join("")
+        `<li><a href="${esc(r[1])}">${esc(r[0])}</a><span>${byComments ? arCount(r[3], "comment") : arCount(r[2], "article")}</span></li>`).join("")
         : `<li class="hm-empty">لا اسم يطابق البحث.</li>`;
       pageLabel.textContent = found.length ? `صفحة ${ar(page + 1)} من ${ar(pages)}` : "";
       prev.disabled = page === 0; next.disabled = page >= pages - 1;
@@ -181,7 +183,7 @@
       // the writer of the day: one of the sixty most prolific, the same for everyone that day
       const w = data.slice(0, 60).sort((a, b) => b[2] - a[2])[dayIndex % Math.min(60, data.length)];
       day.innerHTML = `<span>اختيار اليوم من الكُتَّاب:</span> <a href="${esc(w[1])}"><strong>${esc(w[0])}</strong></a> · ` +
-        `${num(w[2])} مقالًا، و${num(w[3])} تعليقًا من القرّاء` +
+        `${arCount(w[2], "article")}، و${arCount(w[3], "comment")} من القرّاء` +
         (w[6] ? ` · الأكثر نقاشًا: <a href="${esc(w[6])}">${esc(w[5])}</a>` : "");
       day.hidden = false;
     }).catch(() => {});
@@ -218,7 +220,7 @@
         li.querySelector("[data-opt]").hidden = false;
         li.querySelector("[data-res]").hidden = true;
       });
-      hint.textContent = `هل يمكنك تخمين كيف صوّت ${hint.dataset.total} قارئًا وقارئة؟`;
+      hint.textContent = `هل يمكنك تخمين كيف صوّت ${arCount(+hint.dataset.total, "reader")}؟`;
       cur = i;
     };
     polls.forEach((p) => {

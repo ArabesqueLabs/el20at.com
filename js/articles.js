@@ -67,9 +67,9 @@
     ? `<li class="lib-card">${r.p ? `<a class="lib-card__img" href="${esc(r.u)}"><img src="${esc(r.p)}" alt="" loading="lazy"></a>` : ""}
         <div class="lib-card__body">${tag(r.s)}<a class="lib-card__title" href="${esc(r.u)}">${esc(r.t)}</a>
         ${r.e ? `<p class="lib-card__ex">${esc(r.e)}</p>` : ""}
-        <p class="lib-card__meta">${[r.a ? esc(r.a) : "", date(r), r.c ? ar(r.c) + " تعليقًا" : ""].filter(Boolean).join(" · ")}</p></div></li>`
+        <p class="lib-card__meta">${[r.a ? esc(r.a) : "", date(r), r.c ? arCount(r.c, "comment") : ""].filter(Boolean).join(" · ")}</p></div></li>`
     : `<li><span class="pg-list__date">${date(r)}</span><a class="pg-list__title" href="${esc(r.u)}">${esc(r.t)}</a>${tag(r.s)}
-        <span class="pg-list__by">${esc(r.a || "")}</span><span class="pg-list__n">${r.c ? ar(r.c) + " تعليقًا" : ""}</span></li>`;
+        <span class="pg-list__by">${esc(r.a || "")}</span><span class="pg-list__n">${r.c ? arCount(r.c, "comment") : ""}</span></li>`;
 
   const chips = () => {
     const c = [];
@@ -102,7 +102,7 @@
     const slice = found.slice((state.page - 1) * PER, state.page * PER);
     list.className = state.view === "cards" ? "lib-cards" : "pg-list lib-list";
     list.innerHTML = slice.map(rowHtml).join("") || `<li class="pg-empty">لا مقالات تطابق هذا الاختيار.</li>`;
-    countEl.textContent = found.length === rows.length ? `${num(rows.length)} مقالًا` : `${num(found.length)} من ${num(rows.length)} مقالًا`;
+    countEl.textContent = found.length === rows.length ? arCount(rows.length, "article") : `${num(found.length)} من ${arCount(rows.length, "article")}`;
     pagerEl.hidden = pages < 2;
     pagerEl.querySelector("[data-page]").textContent = `صفحة ${ar(state.page)} من ${ar(pages)}`;
     pagerEl.querySelector("[data-prev]").disabled = state.page <= 1;
@@ -154,7 +154,7 @@
     MONTHS.forEach((m, i) => f("m").add(new Option(m, i + 1)));
     const writers = [...new Set(rows.map((r) => r.a).filter(Boolean))].sort((a, b) => a.localeCompare(b, "ar"));
     $("#lib-writers").innerHTML = writers.map((w) => `<option value="${esc(w)}"></option>`).join("");
-    $("[data-lib-total]").textContent = `${num(rows.length)} مقالًا`;
+    $("[data-lib-total]").textContent = arCount(rows.length, "article");
     toForm();
     $("[data-lib-fallback]").hidden = true;
     $("[data-lib-ui]").hidden = false;

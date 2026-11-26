@@ -56,7 +56,7 @@
         }
         ol.append(r.li);
       }
-      if (count) count.textContent = (year || q ? `${num(found.length)} من ${num(rows.length)}` : `${num(rows.length)} مقالًا`);
+      if (count) count.textContent = (year || q ? `${num(found.length)} من ${num(rows.length)}` : arCount(rows.length, "article"));
       yearButtons.forEach((b) => b.classList.toggle("is-on", b.dataset.year === year && year !== ""));
       press(chips, chips.find((c) => c.dataset.year === year));
     };
@@ -101,7 +101,7 @@
       ol.replaceChildren(...found.slice(from, to).map((r) => { r.meta.hidden = byC; r.metaC.hidden = !byC; return r.li; }));
       if (!found.length) { const li = document.createElement("li"); li.className = "pg-empty"; li.textContent = "لا اسم يطابق البحث."; ol.append(li); }
       heading.textContent = letter ? `حرف ${letter}` : "كل الكُتَّاب";
-      count.textContent = `${num(found.length)} اسمًا`;
+      count.textContent = arCount(found.length, "name");
     };
     search.addEventListener("input", () => { pg.reset(); render(); });
     sortSel.addEventListener("change", () => { pg.reset(); render(); });
@@ -135,7 +135,7 @@
       for (const c of cells) {
         const n = by[c.dataset.month] || 0;
         c.className = `pg-cal__cell pg-cal__cell--${shade(n)}`; c.textContent = n ? ar(n) : "";
-        c.setAttribute("aria-label", `${c.dataset.label}: ${ar(n)} مقالًا`);
+        c.setAttribute("aria-label", `${c.dataset.label}: ${arCount(n, "article")}`);
       }
       arch.querySelectorAll("[data-total]").forEach((t) => { t.innerHTML = `<bdi>${num(years[t.dataset.total] || 0)}</bdi>`; });
       if (cur) open(cur);
@@ -149,13 +149,13 @@
       const mm = String(m).padStart(2, "0");
       const sel = fs.filter((a) => a.y === y && (isYear || a.d.startsWith(mm + "-")));
       period.querySelector("[data-p-title]").textContent = isYear ? `سنة ${ar(y)}` : `${MONTHS[m - 1]} ${ar(y)}`;
-      period.querySelector("[data-p-count]").textContent = `${num(sel.length)} مقالًا استعدناه`;
+      period.querySelector("[data-p-count]").textContent = arCount(sel.length, "article_restored");
       const show = () => {
         const sorted = sel.slice().sort(sortSel.value === "day" ? (a, b) => a.d.localeCompare(b.d) : (a, b) => (b.c || 0) - (a.c || 0) || a.d.localeCompare(b.d));
         const LIMIT = isYear ? 40 : 30;
         list.innerHTML = sorted.slice(0, all ? sorted.length : LIMIT).map((a) =>
           `<li><span class="pg-plist__day">${isYear ? MONTHS[+a.d.slice(0, 2) - 1].slice(0, 3) + " " : ""}${ar(+a.d.slice(3))}</span><a href="${esc(a.u)}">${esc(a.t)}</a>` +
-          `<span class="pg-plist__n">${a.c ? ar(a.c) + " تعليقًا" : ""}</span></li>`).join("") || "<li>لم نستعد مقالات من هذه الفترة.</li>";
+          `<span class="pg-plist__n">${a.c ? arCount(a.c, "comment") : ""}</span></li>`).join("") || "<li>لم نستعد مقالات من هذه الفترة.</li>";
         more.hidden = all || sorted.length <= LIMIT;
         more.textContent = `عرض كل المقالات (${num(sorted.length)})`;
       };
